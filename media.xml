@@ -1,4 +1,4 @@
-<resultats date_heure_generation="2009-11-03T14:13:33">
+<resultats date_heure_generation="2009-11-03T14:15:13">
 	<resultats_postes>
 		<poste id="1,00">
 			<type>MC</type>
@@ -3753,30 +3753,30 @@
 			<arrondissement id="19">Villeray–Saint-Michel–Parc-Extension</arrondissement>
 			<district id="0"></district>
 			<nb_electeurs_inscrits>87788</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>30838</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>1426</nb_bulletins_rejetes>
-			<taux_participation>35.13</taux_participation>
-			<nb_bureaux_depouilles>311</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>30894</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>1431</nb_bulletins_rejetes>
+			<taux_participation>35.19</taux_participation>
+			<nb_bureaux_depouilles>312</nb_bureaux_depouilles>
 			<nb_bureaux_total>346</nb_bureaux_total>
 			<candidat id="353">
 				<prenom>Anie</prenom>			
 				<nom>SAMSON</nom>
 				<parti id="3">Équipe Harel - Vision Montréal</parti>
-				<nb_voix_obtenues>11671</nb_voix_obtenues>
-				<nb_voix_majorite>2224</nb_voix_majorite>
+				<nb_voix_obtenues>11686</nb_voix_obtenues>
+				<nb_voix_majorite>2213</nb_voix_majorite>
 			</candidat>
 			<candidat id="381">
 				<prenom>Marcel</prenom>			
 				<nom>TREMBLAY</nom>
 				<parti id="5">Équipe Tremblay - Union Montréal</parti>
-				<nb_voix_obtenues>9447</nb_voix_obtenues>
+				<nb_voix_obtenues>9473</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="371">
 				<prenom>Nicolas</prenom>			
 				<nom>THIBODEAU</nom>
 				<parti id="9">Projet Montréal</parti>
-				<nb_voix_obtenues>7028</nb_voix_obtenues>
+				<nb_voix_obtenues>7035</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="75">
@@ -3790,7 +3790,7 @@
 				<prenom>Beverly</prenom>			
 				<nom>BERNARDO</nom>
 				<parti id="-1">Indépendant</parti>
-				<nb_voix_obtenues>623</nb_voix_obtenues>
+				<nb_voix_obtenues>626</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -3973,7 +3973,7 @@
 	<resultats_maire>
 		<sommaire>
 			<nb_electeurs_inscrits>1100206</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>432281</nb_total_voix_recueillies>
+			<nb_total_voix_recueillies>432261</nb_total_voix_recueillies>
 			<nb_bulletins_rejetes>15186</nb_bulletins_rejetes>
 			<taux_participation>39.29</taux_participation>
 			<nb_bureaux_depouilles>4478</nb_bureaux_depouilles>
@@ -3996,7 +3996,7 @@
 				<prenom>Richard</prenom>			
 				<nom>BERGERON</nom>
 				<parti id="9">Projet Montréal</parti>
-				<nb_voix_obtenues>106776</nb_voix_obtenues>
+				<nb_voix_obtenues>106756</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
  			<candidat id="293">
@@ -4575,7 +4575,7 @@
 					<prenom>Richard</prenom>
 					<nom>BERGERON</nom>
 					<parti id="9">Projet Montréal</parti>
-					<nb_voix_obtenues>4150</nb_voix_obtenues>
+					<nb_voix_obtenues>4130</nb_voix_obtenues>
 				</candidat>
 				<candidat id="293"> 
 					<prenom>Louise</prenom>
