@@ -1,4 +1,4 @@
-<resultats date_heure_generation="2009-11-02T18:53:34">
+<resultats date_heure_generation="2009-11-02T18:55:15">
 	<resultats_postes>
 		<poste id="1,00">
 			<type>MC</type>
@@ -1644,44 +1644,44 @@
 			<arrondissement id="8">Montréal-Nord</arrondissement>
 			<district id="82">Ovide-Clermont</district>
 			<nb_electeurs_inscrits>25291</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>7318</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>476</nb_bulletins_rejetes>
-			<taux_participation>28.94</taux_participation>
-			<nb_bureaux_depouilles>98</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>8146</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>516</nb_bulletins_rejetes>
+			<taux_participation>32.21</taux_participation>
+			<nb_bureaux_depouilles>111</nb_bureaux_depouilles>
 			<nb_bureaux_total>112</nb_bureaux_total>
 			<candidat id="331">
 				<prenom>Monica</prenom>			
 				<nom>RICOURT</nom>
 				<parti id="5">Équipe Tremblay - Union Montréal</parti>
-				<nb_voix_obtenues>2924</nb_voix_obtenues>
-				<nb_voix_majorite>1120</nb_voix_majorite>
+				<nb_voix_obtenues>3290</nb_voix_obtenues>
+				<nb_voix_majorite>1276</nb_voix_majorite>
 			</candidat>
 			<candidat id="332">
 				<prenom>Guerline</prenom>			
 				<nom>RIGAUD</nom>
 				<parti id="3">Équipe Harel - Vision Montréal</parti>
-				<nb_voix_obtenues>1804</nb_voix_obtenues>
+				<nb_voix_obtenues>2014</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="44">
 				<prenom>Nicolas</prenom>			
 				<nom>BERGERON</nom>
 				<parti id="9">Projet Montréal</parti>
-				<nb_voix_obtenues>1058</nb_voix_obtenues>
+				<nb_voix_obtenues>1137</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="68">
 				<prenom>Lynn</prenom>			
 				<nom>BOULERICE</nom>
 				<parti id="10">Renouveau municipal de Montréal</parti>
-				<nb_voix_obtenues>865</nb_voix_obtenues>
+				<nb_voix_obtenues>986</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="47">
 				<prenom>Henri-Paul</prenom>			
 				<nom>BERNIER </nom>
 				<parti id="-1">Indépendant</parti>
-				<nb_voix_obtenues>191</nb_voix_obtenues>
+				<nb_voix_obtenues>203</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -3379,7 +3379,7 @@
 			<nb_bureaux_total>110</nb_bureaux_total>
 			<candidat id="266">
 				<prenom>Ginette</prenom>			
-				<nom>MAROTTTE</nom>
+				<nom>MAROTTE</nom>
 				<parti id="5">Équipe Tremblay - Union Montréal</parti>
 				<nb_voix_obtenues>3430</nb_voix_obtenues>
 				<nb_voix_majorite>141</nb_voix_majorite>
@@ -4803,4 +4803,4 @@
 			</arrondissement>
 		</arrondissements>
 	</resultats_maire>
-</resultats
+</resultats>
