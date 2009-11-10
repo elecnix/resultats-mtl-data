@@ -1,4 +1,4 @@
-<resultats date_heure_generation="2009-11-03T16:21:53">
+<resultats date_heure_generation="2009-11-03T16:23:33">
 	<resultats_postes>
 		<poste id="1,00">
 			<type>MC</type>
@@ -1072,9 +1072,9 @@
 			<arrondissement id="5">LaSalle</arrondissement>
 			<district id="52">Cecil-P.-Newman</district>
 			<nb_electeurs_inscrits>26280</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>9328</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>536</nb_bulletins_rejetes>
-			<taux_participation>35.49</taux_participation>
+			<nb_total_voix_recueillies>9333</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>541</nb_bulletins_rejetes>
+			<taux_participation>35.51</taux_participation>
 			<nb_bureaux_depouilles>114</nb_bureaux_depouilles>
 			<nb_bureaux_total>114</nb_bureaux_total>
 			<candidat id="382">
@@ -2235,17 +2235,17 @@
 			<arrondissement id="11">Plateau-Mont-Royal</arrondissement>
 			<district id="113">Jeanne-Mance</district>
 			<nb_electeurs_inscrits>21235</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>8920</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>713</nb_bulletins_rejetes>
-			<taux_participation>42.01</taux_participation>
+			<nb_total_voix_recueillies>8706</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>499</nb_bulletins_rejetes>
+			<taux_participation>41.00</taux_participation>
 			<nb_bureaux_depouilles>94</nb_bureaux_depouilles>
 			<nb_bureaux_total>94</nb_bureaux_total>
 			<candidat id="8">
 				<prenom>Richard</prenom>			
 				<nom>BERGERON</nom>
 				<parti id="9">Projet Montréal</parti>
-				<nb_voix_obtenues>3266</nb_voix_obtenues>
-				<nb_voix_majorite>855</nb_voix_majorite>
+				<nb_voix_obtenues>3211</nb_voix_obtenues>
+				<nb_voix_majorite>800</nb_voix_majorite>
 			</candidat>
 			<candidat id="340">
 				<prenom>Nathalie</prenom>			
@@ -2272,7 +2272,7 @@
 				<prenom>Marc-André</prenom>			
 				<nom>BAHL</nom>
 				<parti id="4">Équipe Louise O'Sullivan - Parti Montréal - Ville-Marie</parti>
-				<nb_voix_obtenues>175</nb_voix_obtenues>
+				<nb_voix_obtenues>230</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -3973,7 +3973,7 @@
 	<resultats_maire>
 		<sommaire>
 			<nb_electeurs_inscrits>1100206</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>434294</nb_total_voix_recueillies>
+			<nb_total_voix_recueillies>434293</nb_total_voix_recueillies>
 			<nb_bulletins_rejetes>14807</nb_bulletins_rejetes>
 			<taux_participation>39.47</taux_participation>
 			<nb_bureaux_depouilles>4516</nb_bureaux_depouilles>
@@ -3983,13 +3983,13 @@
 				<nom>TREMBLAY</nom>
 				<parti id="5">Équipe Tremblay - Union Montréal</parti>
 				<nb_voix_obtenues>158996</nb_voix_obtenues>
-				<nb_voix_majorite>21703</nb_voix_majorite>
+				<nb_voix_majorite>21704</nb_voix_majorite>
 			</candidat>
  			<candidat id="199">
 				<prenom>Louise</prenom>			
 				<nom>HAREL</nom>
 				<parti id="3">Équipe Harel - Vision Montréal</parti>
-				<nb_voix_obtenues>137293</nb_voix_obtenues>
+				<nb_voix_obtenues>137292</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
  			<candidat id="43">
@@ -4282,7 +4282,7 @@
 					<prenom>Louise</prenom>
 					<nom>HAREL</nom>
 					<parti id="3">Équipe Harel - Vision Montréal</parti>
-					<nb_voix_obtenues>18932</nb_voix_obtenues>
+					<nb_voix_obtenues>18931</nb_voix_obtenues>
 				</candidat>
 				<candidat id="43"> 
 					<prenom>Richard</prenom>
