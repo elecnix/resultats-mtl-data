@@ -1,4 +1,4 @@
-<resultats date_heure_generation="2009-11-01T22:52:47">
+<resultats date_heure_generation="2009-11-01T22:54:27">
 	<resultats_postes>
 		<poste id="1,00">
 			<type>MC</type>
@@ -3973,51 +3973,51 @@
 	<resultats_maire>
 		<sommaire>
 			<nb_electeurs_inscrits>1100206</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>260959</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>9712</nb_bulletins_rejetes>
-			<taux_participation>23.72</taux_participation>
-			<nb_bureaux_depouilles>2722</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>261388</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>9723</nb_bulletins_rejetes>
+			<taux_participation>23.76</taux_participation>
+			<nb_bureaux_depouilles>2726</nb_bureaux_depouilles>
 			<nb_bureaux_total>4517</nb_bureaux_total>
  			<candidat id="376">
 				<prenom>Gérald</prenom>			
 				<nom>TREMBLAY</nom>
 				<parti id="5">Équipe Tremblay - Union Montréal</parti>
-				<nb_voix_obtenues>92905</nb_voix_obtenues>
-				<nb_voix_majorite>9218</nb_voix_majorite>
+				<nb_voix_obtenues>93137</nb_voix_obtenues>
+				<nb_voix_majorite>9398</nb_voix_majorite>
 			</candidat>
  			<candidat id="199">
 				<prenom>Louise</prenom>			
 				<nom>HAREL</nom>
 				<parti id="3">Équipe Harel - Vision Montréal</parti>
-				<nb_voix_obtenues>83687</nb_voix_obtenues>
+				<nb_voix_obtenues>83739</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
  			<candidat id="43">
 				<prenom>Richard</prenom>			
 				<nom>BERGERON</nom>
 				<parti id="9">Projet Montréal</parti>
-				<nb_voix_obtenues>64669</nb_voix_obtenues>
+				<nb_voix_obtenues>64781</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
  			<candidat id="293">
 				<prenom>Louise</prenom>			
 				<nom>O'SULLIVAN</nom>
 				<parti id="4">Équipe Louise O'Sullivan - Parti Montréal - Ville-Marie</parti>
-				<nb_voix_obtenues>5109</nb_voix_obtenues>
+				<nb_voix_obtenues>5126</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
  			<candidat id="31">
 				<prenom>Michel</prenom>			
 				<nom>BÉDARD</nom>
 				<parti id="2">Équipe Bédard - Fierté Montréal / Team Bédard - Montreal Pride Party</parti>
-				<nb_voix_obtenues>3252</nb_voix_obtenues>
+				<nb_voix_obtenues>3256</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
  			<candidat id="314">
 				<prenom>Michel</prenom>			
 				<nom>PRAIRIE</nom>
 				<parti id="-1">Indépendant</parti>
-				<nb_voix_obtenues>1625</nb_voix_obtenues>
+				<nb_voix_obtenues>1626</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</sommaire>
@@ -4106,43 +4106,43 @@
 			</arrondissement>
 			<arrondissement id="3">
 				<nom>Côte-des-Neiges–Notre-Dame-de-Grâce</nom>
-				<nb_bureaux_depouilles>205</nb_bureaux_depouilles>
+				<nb_bureaux_depouilles>208</nb_bureaux_depouilles>
 				<nb_bureaux_total>369</nb_bureaux_total>
 				<candidat id="376"> 
 					<prenom>Gérald</prenom>
 					<nom>TREMBLAY</nom>
 					<parti id="5">Équipe Tremblay - Union Montréal</parti>
-					<nb_voix_obtenues>8929</nb_voix_obtenues>
+					<nb_voix_obtenues>9139</nb_voix_obtenues>
 				</candidat>
 				<candidat id="199"> 
 					<prenom>Louise</prenom>
 					<nom>HAREL</nom>
 					<parti id="3">Équipe Harel - Vision Montréal</parti>
-					<nb_voix_obtenues>3467</nb_voix_obtenues>
+					<nb_voix_obtenues>3485</nb_voix_obtenues>
 				</candidat>
 				<candidat id="43"> 
 					<prenom>Richard</prenom>
 					<nom>BERGERON</nom>
 					<parti id="9">Projet Montréal</parti>
-					<nb_voix_obtenues>5020</nb_voix_obtenues>
+					<nb_voix_obtenues>5087</nb_voix_obtenues>
 				</candidat>
 				<candidat id="293"> 
 					<prenom>Louise</prenom>
 					<nom>O'SULLIVAN</nom>
 					<parti id="4">Équipe Louise O'Sullivan - Parti Montréal - Ville-Marie</parti>
-					<nb_voix_obtenues>796</nb_voix_obtenues>
+					<nb_voix_obtenues>812</nb_voix_obtenues>
 				</candidat>
 				<candidat id="31"> 
 					<prenom>Michel</prenom>
 					<nom>BÉDARD</nom>
 					<parti id="2">Équipe Bédard - Fierté Montréal / Team Bédard - Montreal Pride Party</parti>
-					<nb_voix_obtenues>264</nb_voix_obtenues>
+					<nb_voix_obtenues>268</nb_voix_obtenues>
 				</candidat>
 				<candidat id="314"> 
 					<prenom>Michel</prenom>
 					<nom>PRAIRIE</nom>
 					<parti id="0">Indépendant</parti>
-					<nb_voix_obtenues>118</nb_voix_obtenues>
+					<nb_voix_obtenues>119</nb_voix_obtenues>
 				</candidat>
 			</arrondissement>
 			<arrondissement id="4">
@@ -4434,31 +4434,31 @@
 			</arrondissement>
 			<arrondissement id="11">
 				<nom>Plateau-Mont-Royal</nom>
-				<nb_bureaux_depouilles>192</nb_bureaux_depouilles>
+				<nb_bureaux_depouilles>193</nb_bureaux_depouilles>
 				<nb_bureaux_total>294</nb_bureaux_total>
 				<candidat id="376"> 
 					<prenom>Gérald</prenom>
 					<nom>TREMBLAY</nom>
 					<parti id="5">Équipe Tremblay - Union Montréal</parti>
-					<nb_voix_obtenues>3444</nb_voix_obtenues>
+					<nb_voix_obtenues>3466</nb_voix_obtenues>
 				</candidat>
 				<candidat id="199"> 
 					<prenom>Louise</prenom>
 					<nom>HAREL</nom>
 					<parti id="3">Équipe Harel - Vision Montréal</parti>
-					<nb_voix_obtenues>7010</nb_voix_obtenues>
+					<nb_voix_obtenues>7044</nb_voix_obtenues>
 				</candidat>
 				<candidat id="43"> 
 					<prenom>Richard</prenom>
 					<nom>BERGERON</nom>
 					<parti id="9">Projet Montréal</parti>
-					<nb_voix_obtenues>7428</nb_voix_obtenues>
+					<nb_voix_obtenues>7473</nb_voix_obtenues>
 				</candidat>
 				<candidat id="293"> 
 					<prenom>Louise</prenom>
 					<nom>O'SULLIVAN</nom>
 					<parti id="4">Équipe Louise O'Sullivan - Parti Montréal - Ville-Marie</parti>
-					<nb_voix_obtenues>253</nb_voix_obtenues>
+					<nb_voix_obtenues>254</nb_voix_obtenues>
 				</candidat>
 				<candidat id="31"> 
 					<prenom>Michel</prenom>
