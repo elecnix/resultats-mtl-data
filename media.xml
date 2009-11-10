@@ -1,4 +1,4 @@
-<resultats date_heure_generation="2009-11-02T00:02:49">
+<resultats date_heure_generation="2009-11-02T00:04:29">
 	<resultats_postes>
 		<poste id="1,00">
 			<type>MC</type>
@@ -39,44 +39,44 @@
 			<arrondissement id="1">Ahuntsic-Cartierville</arrondissement>
 			<district id="11">Sault-au-Récollet</district>
 			<nb_electeurs_inscrits>20545</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>1848</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>71</nb_bulletins_rejetes>
-			<taux_participation>8.99</taux_participation>
-			<nb_bureaux_depouilles>16</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>2631</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>91</nb_bulletins_rejetes>
+			<taux_participation>12.81</taux_participation>
+			<nb_bureaux_depouilles>22</nb_bureaux_depouilles>
 			<nb_bureaux_total>79</nb_bureaux_total>
-			<candidat id="78">
-				<prenom>Étienne</prenom>			
-				<nom>BRUNET</nom>
-				<parti id="3">Équipe Harel - Vision Montréal</parti>
-				<nb_voix_obtenues>644</nb_voix_obtenues>
-				<nb_voix_majorite>15</nb_voix_majorite>
-			</candidat>
 			<candidat id="133">
 				<prenom>Jean-François</prenom>			
 				<nom>DESGROSEILLIERS</nom>
 				<parti id="9">Projet Montréal</parti>
-				<nb_voix_obtenues>629</nb_voix_obtenues>
+				<nb_voix_obtenues>917</nb_voix_obtenues>
+				<nb_voix_majorite>12</nb_voix_majorite>
+			</candidat>
+			<candidat id="78">
+				<prenom>Étienne</prenom>			
+				<nom>BRUNET</nom>
+				<parti id="3">Équipe Harel - Vision Montréal</parti>
+				<nb_voix_obtenues>905</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="158">
 				<prenom>Léonardo</prenom>			
 				<nom>FIORE</nom>
 				<parti id="5">Équipe Tremblay - Union Montréal</parti>
-				<nb_voix_obtenues>362</nb_voix_obtenues>
+				<nb_voix_obtenues>502</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="182">
 				<prenom>Giovanna</prenom>			
 				<nom>GIANCASPRO</nom>
 				<parti id="-1">Indépendant</parti>
-				<nb_voix_obtenues>108</nb_voix_obtenues>
+				<nb_voix_obtenues>162</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="310">
 				<prenom>Achille</prenom>			
 				<nom>POLCARO</nom>
 				<parti id="4">Équipe Louise O'Sullivan - Parti Montréal - Ville-Marie</parti>
-				<nb_voix_obtenues>34</nb_voix_obtenues>
+				<nb_voix_obtenues>54</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -119,30 +119,30 @@
 			<arrondissement id="1">Ahuntsic-Cartierville</arrondissement>
 			<district id="13">Ahuntsic</district>
 			<nb_electeurs_inscrits>21037</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>264</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>23</nb_bulletins_rejetes>
-			<taux_participation>1.25</taux_participation>
-			<nb_bureaux_depouilles>3</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>2994</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>102</nb_bulletins_rejetes>
+			<taux_participation>14.23</taux_participation>
+			<nb_bureaux_depouilles>21</nb_bureaux_depouilles>
 			<nb_bureaux_total>81</nb_bureaux_total>
-			<candidat id="243">
-				<prenom>Diane</prenom>			
-				<nom>LEMIEUX</nom>
-				<parti id="5">Équipe Tremblay - Union Montréal</parti>
-				<nb_voix_obtenues>131</nb_voix_obtenues>
-				<nb_voix_majorite>71</nb_voix_majorite>
+			<candidat id="373">
+				<prenom>Émilie</prenom>			
+				<nom>THUILLIER</nom>
+				<parti id="9">Projet Montréal</parti>
+				<nb_voix_obtenues>977</nb_voix_obtenues>
+				<nb_voix_majorite>18</nb_voix_majorite>
 			</candidat>
 			<candidat id="231">
 				<prenom>Frédéric</prenom>			
 				<nom>LAPOINTE</nom>
 				<parti id="3">Équipe Harel - Vision Montréal</parti>
-				<nb_voix_obtenues>60</nb_voix_obtenues>
+				<nb_voix_obtenues>959</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
-			<candidat id="373">
-				<prenom>Émilie</prenom>			
-				<nom>THUILLIER</nom>
-				<parti id="9">Projet Montréal</parti>
-				<nb_voix_obtenues>50</nb_voix_obtenues>
+			<candidat id="243">
+				<prenom>Diane</prenom>			
+				<nom>LEMIEUX</nom>
+				<parti id="5">Équipe Tremblay - Union Montréal</parti>
+				<nb_voix_obtenues>956</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -451,37 +451,37 @@
 			<arrondissement id="3">Côte-des-Neiges–Notre-Dame-de-Grâce</arrondissement>
 			<district id="32">Côte-des-Neiges</district>
 			<nb_electeurs_inscrits>16773</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>2923</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>94</nb_bulletins_rejetes>
-			<taux_participation>17.43</taux_participation>
-			<nb_bureaux_depouilles>31</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>3018</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>101</nb_bulletins_rejetes>
+			<taux_participation>17.99</taux_participation>
+			<nb_bureaux_depouilles>32</nb_bureaux_depouilles>
 			<nb_bureaux_total>66</nb_bureaux_total>
 			<candidat id="10">
 				<prenom>Gérald</prenom>			
 				<nom>TREMBLAY</nom>
 				<parti id="5">Équipe Tremblay - Union Montréal</parti>
-				<nb_voix_obtenues>1250</nb_voix_obtenues>
-				<nb_voix_majorite>353</nb_voix_majorite>
+				<nb_voix_obtenues>1296</nb_voix_obtenues>
+				<nb_voix_majorite>374</nb_voix_majorite>
 			</candidat>
 			<candidat id="311">
 				<prenom>Magda</prenom>			
 				<nom>POPEANU</nom>
 				<parti id="9">Projet Montréal</parti>
-				<nb_voix_obtenues>897</nb_voix_obtenues>
+				<nb_voix_obtenues>922</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="350">
 				<prenom>Amelia</prenom>			
 				<nom>SALEHABADI</nom>
 				<parti id="3">Équipe Harel - Vision Montréal</parti>
-				<nb_voix_obtenues>606</nb_voix_obtenues>
+				<nb_voix_obtenues>619</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="15">
 				<prenom>Ziyad</prenom>			
 				<nom>ALMBASHER</nom>
 				<parti id="4">Équipe Louise O'Sullivan - Parti Montréal - Ville-Marie</parti>
-				<nb_voix_obtenues>76</nb_voix_obtenues>
+				<nb_voix_obtenues>80</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -1305,30 +1305,30 @@
 			<arrondissement id="7">Mercier–Hochelaga-Maisonneuve</arrondissement>
 			<district id="0"></district>
 			<nb_electeurs_inscrits>96244</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>28405</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>903</nb_bulletins_rejetes>
-			<taux_participation>29.51</taux_participation>
-			<nb_bureaux_depouilles>269</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>28504</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>908</nb_bulletins_rejetes>
+			<taux_participation>29.62</taux_participation>
+			<nb_bureaux_depouilles>270</nb_bureaux_depouilles>
 			<nb_bureaux_total>370</nb_bureaux_total>
 			<candidat id="275">
 				<prenom>Réal</prenom>			
 				<nom>MÉNARD</nom>
 				<parti id="3">Équipe Harel - Vision Montréal</parti>
-				<nb_voix_obtenues>14333</nb_voix_obtenues>
-				<nb_voix_majorite>7326</nb_voix_majorite>
+				<nb_voix_obtenues>14400</nb_voix_obtenues>
+				<nb_voix_majorite>7374</nb_voix_majorite>
 			</candidat>
 			<candidat id="162">
 				<prenom>Ann Julie</prenom>			
 				<nom>FORTIER</nom>
 				<parti id="9">Projet Montréal</parti>
-				<nb_voix_obtenues>7007</nb_voix_obtenues>
+				<nb_voix_obtenues>7026</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="362">
 				<prenom>Claire</prenom>			
 				<nom>ST-ARNAUD</nom>
 				<parti id="5">Équipe Tremblay - Union Montréal</parti>
-				<nb_voix_obtenues>6162</nb_voix_obtenues>
+				<nb_voix_obtenues>6170</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -1371,30 +1371,30 @@
 			<arrondissement id="7">Mercier–Hochelaga-Maisonneuve</arrondissement>
 			<district id="72">Maisonneuve—Longue-Pointe</district>
 			<nb_electeurs_inscrits>24752</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>6624</nb_total_voix_recueillies>
+			<nb_total_voix_recueillies>6716</nb_total_voix_recueillies>
 			<nb_bulletins_rejetes>207</nb_bulletins_rejetes>
-			<taux_participation>26.76</taux_participation>
-			<nb_bureaux_depouilles>64</nb_bureaux_depouilles>
+			<taux_participation>27.13</taux_participation>
+			<nb_bureaux_depouilles>65</nb_bureaux_depouilles>
 			<nb_bureaux_total>97</nb_bureaux_total>
 			<candidat id="9">
 				<prenom>Louise</prenom>			
 				<nom>HAREL</nom>
 				<parti id="3">Équipe Harel - Vision Montréal</parti>
-				<nb_voix_obtenues>3402</nb_voix_obtenues>
-				<nb_voix_majorite>1734</nb_voix_majorite>
+				<nb_voix_obtenues>3470</nb_voix_obtenues>
+				<nb_voix_majorite>1787</nb_voix_majorite>
 			</candidat>
 			<candidat id="32">
 				<prenom>Carl</prenom>			
 				<nom>BÉGIN</nom>
 				<parti id="9">Projet Montréal</parti>
-				<nb_voix_obtenues>1668</nb_voix_obtenues>
+				<nb_voix_obtenues>1683</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="185">
 				<prenom>Christian</prenom>			
 				<nom>GIGUÈRE</nom>
 				<parti id="5">Équipe Tremblay - Union Montréal</parti>
-				<nb_voix_obtenues>1347</nb_voix_obtenues>
+				<nb_voix_obtenues>1356</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -1484,37 +1484,37 @@
 			<arrondissement id="8">Montréal-Nord</arrondissement>
 			<district id="0"></district>
 			<nb_electeurs_inscrits>53098</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>13644</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>803</nb_bulletins_rejetes>
-			<taux_participation>25.70</taux_participation>
-			<nb_bureaux_depouilles>177</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>13738</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>811</nb_bulletins_rejetes>
+			<taux_participation>25.87</taux_participation>
+			<nb_bureaux_depouilles>179</nb_bureaux_depouilles>
 			<nb_bureaux_total>232</nb_bureaux_total>
 			<candidat id="124">
 				<prenom>Gilles</prenom>			
 				<nom>DEGUIRE</nom>
 				<parti id="5">Équipe Tremblay - Union Montréal</parti>
-				<nb_voix_obtenues>5095</nb_voix_obtenues>
-				<nb_voix_majorite>1714</nb_voix_majorite>
+				<nb_voix_obtenues>5124</nb_voix_obtenues>
+				<nb_voix_majorite>1710</nb_voix_majorite>
 			</candidat>
 			<candidat id="325">
 				<prenom>Daniel</prenom>			
 				<nom>RENAUD</nom>
 				<parti id="3">Équipe Harel - Vision Montréal</parti>
-				<nb_voix_obtenues>3381</nb_voix_obtenues>
+				<nb_voix_obtenues>3414</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="14">
 				<prenom>Michelle</prenom>			
 				<nom>ALLAIRE</nom>
 				<parti id="10">Renouveau municipal de Montréal</parti>
-				<nb_voix_obtenues>2477</nb_voix_obtenues>
+				<nb_voix_obtenues>2482</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="59">
 				<prenom>Ronald</prenom>			
 				<nom>BOISROND</nom>
 				<parti id="9">Projet Montréal</parti>
-				<nb_voix_obtenues>1888</nb_voix_obtenues>
+				<nb_voix_obtenues>1907</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -1983,30 +1983,30 @@
 			<arrondissement id="10">Pierrefonds-Roxboro</arrondissement>
 			<district id="102">Ouest</district>
 			<nb_electeurs_inscrits>21327</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>677</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>16</nb_bulletins_rejetes>
-			<taux_participation>3.17</taux_participation>
-			<nb_bureaux_depouilles>8</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>1789</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>37</nb_bulletins_rejetes>
+			<taux_participation>8.39</taux_participation>
+			<nb_bureaux_depouilles>24</nb_bureaux_depouilles>
 			<nb_bureaux_total>90</nb_bureaux_total>
 			<candidat id="394">
 				<prenom>Bertrand A.</prenom>			
 				<nom>WARD</nom>
 				<parti id="5">Équipe Tremblay - Union Montréal</parti>
-				<nb_voix_obtenues>397</nb_voix_obtenues>
-				<nb_voix_majorite>196</nb_voix_majorite>
+				<nb_voix_obtenues>1011</nb_voix_obtenues>
+				<nb_voix_majorite>478</nb_voix_majorite>
 			</candidat>
 			<candidat id="271">
 				<prenom>Eric</prenom>			
 				<nom>McCARTY</nom>
 				<parti id="9">Projet Montréal</parti>
-				<nb_voix_obtenues>201</nb_voix_obtenues>
+				<nb_voix_obtenues>533</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="262">
 				<prenom>Olivier</prenom>			
 				<nom>MANCEAU</nom>
 				<parti id="3">Équipe Harel - Vision Montréal</parti>
-				<nb_voix_obtenues>63</nb_voix_obtenues>
+				<nb_voix_obtenues>208</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -2162,37 +2162,37 @@
 			<arrondissement id="11">Plateau-Mont-Royal</arrondissement>
 			<district id="112">DeLorimier</district>
 			<nb_electeurs_inscrits>23602</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>750</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>28</nb_bulletins_rejetes>
-			<taux_participation>3.18</taux_participation>
-			<nb_bureaux_depouilles>7</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>1462</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>46</nb_bulletins_rejetes>
+			<taux_participation>6.19</taux_participation>
+			<nb_bureaux_depouilles>14</nb_bureaux_depouilles>
 			<nb_bureaux_total>105</nb_bureaux_total>
 			<candidat id="147">
 				<prenom>Josée</prenom>			
 				<nom>DUPLESSIS</nom>
 				<parti id="9">Projet Montréal</parti>
-				<nb_voix_obtenues>352</nb_voix_obtenues>
-				<nb_voix_majorite>99</nb_voix_majorite>
+				<nb_voix_obtenues>670</nb_voix_obtenues>
+				<nb_voix_majorite>191</nb_voix_majorite>
 			</candidat>
 			<candidat id="200">
 				<prenom>Martine</prenom>			
 				<nom>HÉBERT </nom>
 				<parti id="3">Équipe Harel - Vision Montréal</parti>
-				<nb_voix_obtenues>253</nb_voix_obtenues>
+				<nb_voix_obtenues>479</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="321">
 				<prenom>Constance</prenom>			
 				<nom>RAMACIERI</nom>
 				<parti id="5">Équipe Tremblay - Union Montréal</parti>
-				<nb_voix_obtenues>102</nb_voix_obtenues>
+				<nb_voix_obtenues>218</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="49">
 				<prenom>Antoine</prenom>			
 				<nom>BILODEAU</nom>
 				<parti id="4">Équipe Louise O'Sullivan - Parti Montréal - Ville-Marie</parti>
-				<nb_voix_obtenues>15</nb_voix_obtenues>
+				<nb_voix_obtenues>49</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -2838,37 +2838,37 @@
 			<arrondissement id="14">Saint-Laurent</arrondissement>
 			<district id="142">Norman-McLaren</district>
 			<nb_electeurs_inscrits>27717</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>2369</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>117</nb_bulletins_rejetes>
-			<taux_participation>8.55</taux_participation>
-			<nb_bureaux_depouilles>26</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>3818</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>157</nb_bulletins_rejetes>
+			<taux_participation>13.77</taux_participation>
+			<nb_bureaux_depouilles>42</nb_bureaux_depouilles>
 			<nb_bureaux_total>114</nb_bureaux_total>
 			<candidat id="351">
 				<prenom>Aref</prenom>			
 				<nom>SALEM</nom>
 				<parti id="5">Équipe Tremblay - Union Montréal</parti>
-				<nb_voix_obtenues>1140</nb_voix_obtenues>
-				<nb_voix_majorite>626</nb_voix_majorite>
+				<nb_voix_obtenues>2103</nb_voix_obtenues>
+				<nb_voix_majorite>1359</nb_voix_majorite>
 			</candidat>
 			<candidat id="13">
 				<prenom>Joan</prenom>			
 				<nom>ADAMS</nom>
 				<parti id="3">Équipe Harel - Vision Montréal</parti>
-				<nb_voix_obtenues>514</nb_voix_obtenues>
+				<nb_voix_obtenues>744</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="42">
 				<prenom>Mohammed</prenom>			
 				<nom>BENZARIA</nom>
 				<parti id="9">Projet Montréal</parti>
-				<nb_voix_obtenues>420</nb_voix_obtenues>
+				<nb_voix_obtenues>592</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="12">
 				<prenom>Alain</prenom>			
 				<nom>ACKAD</nom>
 				<parti id="4">Équipe Louise O'Sullivan - Parti Montréal - Ville-Marie</parti>
-				<nb_voix_obtenues>178</nb_voix_obtenues>
+				<nb_voix_obtenues>222</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -2911,44 +2911,44 @@
 			<arrondissement id="15">Saint-Léonard</arrondissement>
 			<district id="0"></district>
 			<nb_electeurs_inscrits>48325</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>7796</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>348</nb_bulletins_rejetes>
-			<taux_participation>16.13</taux_participation>
-			<nb_bureaux_depouilles>86</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>7897</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>353</nb_bulletins_rejetes>
+			<taux_participation>16.34</taux_participation>
+			<nb_bureaux_depouilles>87</nb_bureaux_depouilles>
 			<nb_bureaux_total>200</nb_bureaux_total>
 			<candidat id="51">
 				<prenom>Michel</prenom>			
 				<nom>BISSONNET</nom>
 				<parti id="5">Équipe Tremblay - Union Montréal</parti>
-				<nb_voix_obtenues>5064</nb_voix_obtenues>
-				<nb_voix_majorite>4162</nb_voix_majorite>
+				<nb_voix_obtenues>5131</nb_voix_obtenues>
+				<nb_voix_majorite>4219</nb_voix_majorite>
 			</candidat>
 			<candidat id="84">
 				<prenom>Vittorio</prenom>			
 				<nom>CAPPARELLI</nom>
 				<parti id="3">Équipe Harel - Vision Montréal</parti>
-				<nb_voix_obtenues>902</nb_voix_obtenues>
+				<nb_voix_obtenues>912</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="23">
 				<prenom>Italo</prenom>			
 				<nom>BARONE</nom>
 				<parti id="1">Action civique Montréal</parti>
-				<nb_voix_obtenues>820</nb_voix_obtenues>
+				<nb_voix_obtenues>829</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="265">
 				<prenom>Nicolas</prenom>			
 				<nom>MARCHILDON</nom>
 				<parti id="9">Projet Montréal</parti>
-				<nb_voix_obtenues>560</nb_voix_obtenues>
+				<nb_voix_obtenues>569</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="260">
 				<prenom>David</prenom>			
 				<nom>MALLOZZI</nom>
 				<parti id="-1">Indépendant</parti>
-				<nb_voix_obtenues>102</nb_voix_obtenues>
+				<nb_voix_obtenues>103</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -3038,37 +3038,37 @@
 			<arrondissement id="15">Saint-Léonard</arrondissement>
 			<district id="152">Saint-Léonard-Ouest</district>
 			<nb_electeurs_inscrits>27166</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>1098</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>54</nb_bulletins_rejetes>
+			<taux_participation>4.04</taux_participation>
+			<nb_bureaux_depouilles>10</nb_bureaux_depouilles>
 			<nb_bureaux_total>111</nb_bureaux_total>
+			<candidat id="306">
+				<prenom>Dominic</prenom>			
+				<nom>PERRI</nom>
+				<parti id="5">Équipe Tremblay - Union Montréal</parti>
+				<nb_voix_obtenues>732</nb_voix_obtenues>
+				<nb_voix_majorite>577</nb_voix_majorite>
+			</candidat>
 			<candidat id="67">
 				<prenom>Najat</prenom>			
 				<nom>BOUGHABA</nom>
 				<parti id="3">Équipe Harel - Vision Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
+				<nb_voix_obtenues>155</nb_voix_obtenues>
+				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="120">
 				<prenom>Rocco</prenom>			
 				<nom>DE ROBERTIS</nom>
 				<parti id="1">Action civique Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>104</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="152">
 				<prenom>Souad</prenom>			
 				<nom>EL HAOUS</nom>
 				<parti id="9">Projet Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite></nb_voix_majorite>
-			</candidat>
-			<candidat id="306">
-				<prenom>Dominic</prenom>			
-				<nom>PERRI</nom>
-				<parti id="5">Équipe Tremblay - Union Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>53</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -3800,37 +3800,37 @@
 			<arrondissement id="19">Villeray–Saint-Michel–Parc-Extension</arrondissement>
 			<district id="191">Saint-Michel</district>
 			<nb_electeurs_inscrits>21770</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>178</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>13</nb_bulletins_rejetes>
-			<taux_participation>0.82</taux_participation>
-			<nb_bureaux_depouilles>2</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>2175</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>124</nb_bulletins_rejetes>
+			<taux_participation>9.99</taux_participation>
+			<nb_bureaux_depouilles>24</nb_bureaux_depouilles>
 			<nb_bureaux_total>85</nb_bureaux_total>
 			<candidat id="40">
 				<prenom>Frantz</prenom>			
 				<nom>BENJAMIN</nom>
 				<parti id="5">Équipe Tremblay - Union Montréal</parti>
-				<nb_voix_obtenues>65</nb_voix_obtenues>
-				<nb_voix_majorite>11</nb_voix_majorite>
+				<nb_voix_obtenues>923</nb_voix_obtenues>
+				<nb_voix_majorite>211</nb_voix_majorite>
 			</candidat>
 			<candidat id="268">
 				<prenom>Soraya</prenom>			
 				<nom>MARTINEZ</nom>
 				<parti id="3">Équipe Harel - Vision Montréal</parti>
-				<nb_voix_obtenues>54</nb_voix_obtenues>
-				<nb_voix_majorite></nb_voix_majorite>
-			</candidat>
-			<candidat id="289">
-				<prenom>Valentino</prenom>			
-				<nom>NELSON</nom>
-				<parti id="4">Équipe Louise O'Sullivan - Parti Montréal - Ville-Marie</parti>
-				<nb_voix_obtenues>32</nb_voix_obtenues>
+				<nb_voix_obtenues>712</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="282">
 				<prenom>Jack Thierry</prenom>			
 				<nom>MORENCY</nom>
 				<parti id="9">Projet Montréal</parti>
-				<nb_voix_obtenues>14</nb_voix_obtenues>
+				<nb_voix_obtenues>269</nb_voix_obtenues>
+				<nb_voix_majorite></nb_voix_majorite>
+			</candidat>
+			<candidat id="289">
+				<prenom>Valentino</prenom>			
+				<nom>NELSON</nom>
+				<parti id="4">Équipe Louise O'Sullivan - Parti Montréal - Ville-Marie</parti>
+				<nb_voix_obtenues>147</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -3840,37 +3840,37 @@
 			<arrondissement id="19">Villeray–Saint-Michel–Parc-Extension</arrondissement>
 			<district id="192">François-Perrault</district>
 			<nb_electeurs_inscrits>22228</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>3529</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>167</nb_bulletins_rejetes>
-			<taux_participation>15.88</taux_participation>
-			<nb_bureaux_depouilles>36</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>5190</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>254</nb_bulletins_rejetes>
+			<taux_participation>23.35</taux_participation>
+			<nb_bureaux_depouilles>51</nb_bureaux_depouilles>
 			<nb_bureaux_total>86</nb_bureaux_total>
 			<candidat id="389">
 				<prenom>Frank</prenom>			
 				<nom>VENNERI</nom>
 				<parti id="5">Équipe Tremblay - Union Montréal</parti>
-				<nb_voix_obtenues>1161</nb_voix_obtenues>
-				<nb_voix_majorite>116</nb_voix_majorite>
-			</candidat>
-			<candidat id="28">
-				<prenom>Marie-Josée</prenom>			
-				<nom>BEAUCHAMP</nom>
-				<parti id="9">Projet Montréal</parti>
-				<nb_voix_obtenues>1045</nb_voix_obtenues>
-				<nb_voix_majorite></nb_voix_majorite>
+				<nb_voix_obtenues>1715</nb_voix_obtenues>
+				<nb_voix_majorite>126</nb_voix_majorite>
 			</candidat>
 			<candidat id="126">
 				<prenom>Harry</prenom>			
 				<nom>DELVA</nom>
 				<parti id="3">Équipe Harel - Vision Montréal</parti>
-				<nb_voix_obtenues>1036</nb_voix_obtenues>
+				<nb_voix_obtenues>1589</nb_voix_obtenues>
+				<nb_voix_majorite></nb_voix_majorite>
+			</candidat>
+			<candidat id="28">
+				<prenom>Marie-Josée</prenom>			
+				<nom>BEAUCHAMP</nom>
+				<parti id="9">Projet Montréal</parti>
+				<nb_voix_obtenues>1453</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="57">
 				<prenom>Guillaume</prenom>			
 				<nom>BLOUIN-BEAUDOIN</nom>
 				<parti id="-1">Indépendant</parti>
-				<nb_voix_obtenues>120</nb_voix_obtenues>
+				<nb_voix_obtenues>179</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -3880,37 +3880,37 @@
 			<arrondissement id="19">Villeray–Saint-Michel–Parc-Extension</arrondissement>
 			<district id="193">Villeray</district>
 			<nb_electeurs_inscrits>23877</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>3743</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>97</nb_bulletins_rejetes>
-			<taux_participation>15.68</taux_participation>
-			<nb_bureaux_depouilles>31</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>4966</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>139</nb_bulletins_rejetes>
+			<taux_participation>20.80</taux_participation>
+			<nb_bureaux_depouilles>40</nb_bureaux_depouilles>
 			<nb_bureaux_total>95</nb_bureaux_total>
 			<candidat id="240">
 				<prenom>Elsie</prenom>			
 				<nom>LEFEBVRE</nom>
 				<parti id="3">Équipe Harel - Vision Montréal</parti>
-				<nb_voix_obtenues>1995</nb_voix_obtenues>
-				<nb_voix_majorite>1052</nb_voix_majorite>
+				<nb_voix_obtenues>2663</nb_voix_obtenues>
+				<nb_voix_majorite>1389</nb_voix_majorite>
 			</candidat>
 			<candidat id="115">
 				<prenom>Éric</prenom>			
 				<nom>DAOUST</nom>
 				<parti id="9">Projet Montréal</parti>
-				<nb_voix_obtenues>943</nb_voix_obtenues>
+				<nb_voix_obtenues>1274</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="223">
 				<prenom>Sylvain</prenom>			
 				<nom>LACHANCE</nom>
 				<parti id="5">Équipe Tremblay - Union Montréal</parti>
-				<nb_voix_obtenues>640</nb_voix_obtenues>
+				<nb_voix_obtenues>800</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="104">
 				<prenom>Luis</prenom>			
 				<nom>CORCUERA</nom>
 				<parti id="6">Ethnic Party of Montréal/Parti ethnique de Montréal</parti>
-				<nb_voix_obtenues>68</nb_voix_obtenues>
+				<nb_voix_obtenues>90</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -3920,51 +3920,51 @@
 			<arrondissement id="19">Villeray–Saint-Michel–Parc-Extension</arrondissement>
 			<district id="194">Parc-Extension</district>
 			<nb_electeurs_inscrits>19913</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>1815</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>54</nb_bulletins_rejetes>
-			<taux_participation>9.11</taux_participation>
-			<nb_bureaux_depouilles>17</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>2682</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>91</nb_bulletins_rejetes>
+			<taux_participation>13.47</taux_participation>
+			<nb_bureaux_depouilles>27</nb_bureaux_depouilles>
 			<nb_bureaux_total>80</nb_bureaux_total>
 			<candidat id="130">
 				<prenom>Mary</prenom>			
 				<nom>DEROS</nom>
 				<parti id="5">Équipe Tremblay - Union Montréal</parti>
-				<nb_voix_obtenues>630</nb_voix_obtenues>
-				<nb_voix_majorite>69</nb_voix_majorite>
+				<nb_voix_obtenues>1114</nb_voix_obtenues>
+				<nb_voix_majorite>419</nb_voix_majorite>
 			</candidat>
 			<candidat id="400">
 				<prenom>Costa</prenom>			
 				<nom>ZAFIROPOULOS</nom>
 				<parti id="3">Équipe Harel - Vision Montréal</parti>
-				<nb_voix_obtenues>561</nb_voix_obtenues>
+				<nb_voix_obtenues>695</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="215">
 				<prenom>Bernarda</prenom>			
 				<nom>KLATT</nom>
 				<parti id="9">Projet Montréal</parti>
-				<nb_voix_obtenues>464</nb_voix_obtenues>
+				<nb_voix_obtenues>512</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="244">
 				<prenom>George</prenom>			
 				<nom>LEMONTZOGLOU</nom>
 				<parti id="6">Ethnic Party of Montréal/Parti ethnique de Montréal</parti>
-				<nb_voix_obtenues>47</nb_voix_obtenues>
-				<nb_voix_majorite></nb_voix_majorite>
-			</candidat>
-			<candidat id="206">
-				<prenom>Sorin Vasile</prenom>			
-				<nom>IFTODE</nom>
-				<parti id="4">Équipe Louise O'Sullivan - Parti Montréal - Ville-Marie</parti>
-				<nb_voix_obtenues>41</nb_voix_obtenues>
+				<nb_voix_obtenues>168</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="214">
 				<prenom>Moshfiqur Rahman</prenom>			
 				<nom>KHAN</nom>
 				<parti id="-1">Indépendant</parti>
-				<nb_voix_obtenues>18</nb_voix_obtenues>
+				<nb_voix_obtenues>52</nb_voix_obtenues>
+				<nb_voix_majorite></nb_voix_majorite>
+			</candidat>
+			<candidat id="206">
+				<prenom>Sorin Vasile</prenom>			
+				<nom>IFTODE</nom>
+				<parti id="4">Équipe Louise O'Sullivan - Parti Montréal - Ville-Marie</parti>
+				<nb_voix_obtenues>50</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -3973,51 +3973,51 @@
 	<resultats_maire>
 		<sommaire>
 			<nb_electeurs_inscrits>1100206</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>350281</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>12635</nb_bulletins_rejetes>
-			<taux_participation>31.84</taux_participation>
-			<nb_bureaux_depouilles>3625</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>352331</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>12732</nb_bulletins_rejetes>
+			<taux_participation>32.02</taux_participation>
+			<nb_bureaux_depouilles>3649</nb_bureaux_depouilles>
 			<nb_bureaux_total>4517</nb_bureaux_total>
  			<candidat id="376">
 				<prenom>Gérald</prenom>			
 				<nom>TREMBLAY</nom>
 				<parti id="5">Équipe Tremblay - Union Montréal</parti>
-				<nb_voix_obtenues>125326</nb_voix_obtenues>
-				<nb_voix_majorite>13139</nb_voix_majorite>
+				<nb_voix_obtenues>126043</nb_voix_obtenues>
+				<nb_voix_majorite>13114</nb_voix_majorite>
 			</candidat>
  			<candidat id="199">
 				<prenom>Louise</prenom>			
 				<nom>HAREL</nom>
 				<parti id="3">Équipe Harel - Vision Montréal</parti>
-				<nb_voix_obtenues>112187</nb_voix_obtenues>
+				<nb_voix_obtenues>112929</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
  			<candidat id="43">
 				<prenom>Richard</prenom>			
 				<nom>BERGERON</nom>
 				<parti id="9">Projet Montréal</parti>
-				<nb_voix_obtenues>86826</nb_voix_obtenues>
+				<nb_voix_obtenues>87254</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
  			<candidat id="293">
 				<prenom>Louise</prenom>			
 				<nom>O'SULLIVAN</nom>
 				<parti id="4">Équipe Louise O'Sullivan - Parti Montréal - Ville-Marie</parti>
-				<nb_voix_obtenues>6716</nb_voix_obtenues>
+				<nb_voix_obtenues>6737</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
  			<candidat id="31">
 				<prenom>Michel</prenom>			
 				<nom>BÉDARD</nom>
 				<parti id="2">Équipe Bédard - Fierté Montréal / Team Bédard - Montreal Pride Party</parti>
-				<nb_voix_obtenues>4394</nb_voix_obtenues>
+				<nb_voix_obtenues>4424</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
  			<candidat id="314">
 				<prenom>Michel</prenom>			
 				<nom>PRAIRIE</nom>
 				<parti id="-1">Indépendant</parti>
-				<nb_voix_obtenues>2197</nb_voix_obtenues>
+				<nb_voix_obtenues>2212</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</sommaire>
@@ -4270,84 +4270,84 @@
 			</arrondissement>
 			<arrondissement id="7">
 				<nom>Mercier–Hochelaga-Maisonneuve</nom>
-				<nb_bureaux_depouilles>301</nb_bureaux_depouilles>
+				<nb_bureaux_depouilles>310</nb_bureaux_depouilles>
 				<nb_bureaux_total>370</nb_bureaux_total>
 				<candidat id="376"> 
 					<prenom>Gérald</prenom>
 					<nom>TREMBLAY</nom>
 					<parti id="5">Équipe Tremblay - Union Montréal</parti>
-					<nb_voix_obtenues>7205</nb_voix_obtenues>
+					<nb_voix_obtenues>7363</nb_voix_obtenues>
 				</candidat>
 				<candidat id="199"> 
 					<prenom>Louise</prenom>
 					<nom>HAREL</nom>
 					<parti id="3">Équipe Harel - Vision Montréal</parti>
-					<nb_voix_obtenues>15352</nb_voix_obtenues>
+					<nb_voix_obtenues>15805</nb_voix_obtenues>
 				</candidat>
 				<candidat id="43"> 
 					<prenom>Richard</prenom>
 					<nom>BERGERON</nom>
 					<parti id="9">Projet Montréal</parti>
-					<nb_voix_obtenues>8056</nb_voix_obtenues>
+					<nb_voix_obtenues>8270</nb_voix_obtenues>
 				</candidat>
 				<candidat id="293"> 
 					<prenom>Louise</prenom>
 					<nom>O'SULLIVAN</nom>
 					<parti id="4">Équipe Louise O'Sullivan - Parti Montréal - Ville-Marie</parti>
-					<nb_voix_obtenues>245</nb_voix_obtenues>
+					<nb_voix_obtenues>252</nb_voix_obtenues>
 				</candidat>
 				<candidat id="31"> 
 					<prenom>Michel</prenom>
 					<nom>BÉDARD</nom>
 					<parti id="2">Équipe Bédard - Fierté Montréal / Team Bédard - Montreal Pride Party</parti>
-					<nb_voix_obtenues>306</nb_voix_obtenues>
+					<nb_voix_obtenues>310</nb_voix_obtenues>
 				</candidat>
 				<candidat id="314"> 
 					<prenom>Michel</prenom>
 					<nom>PRAIRIE</nom>
 					<parti id="0">Indépendant</parti>
-					<nb_voix_obtenues>105</nb_voix_obtenues>
+					<nb_voix_obtenues>106</nb_voix_obtenues>
 				</candidat>
 			</arrondissement>
 			<arrondissement id="8">
 				<nom>Montréal-Nord</nom>
-				<nb_bureaux_depouilles>205</nb_bureaux_depouilles>
+				<nb_bureaux_depouilles>208</nb_bureaux_depouilles>
 				<nb_bureaux_total>232</nb_bureaux_total>
 				<candidat id="376"> 
 					<prenom>Gérald</prenom>
 					<nom>TREMBLAY</nom>
 					<parti id="5">Équipe Tremblay - Union Montréal</parti>
-					<nb_voix_obtenues>6351</nb_voix_obtenues>
+					<nb_voix_obtenues>6425</nb_voix_obtenues>
 				</candidat>
 				<candidat id="199"> 
 					<prenom>Louise</prenom>
 					<nom>HAREL</nom>
 					<parti id="3">Équipe Harel - Vision Montréal</parti>
-					<nb_voix_obtenues>4872</nb_voix_obtenues>
+					<nb_voix_obtenues>4925</nb_voix_obtenues>
 				</candidat>
 				<candidat id="43"> 
 					<prenom>Richard</prenom>
 					<nom>BERGERON</nom>
 					<parti id="9">Projet Montréal</parti>
-					<nb_voix_obtenues>2813</nb_voix_obtenues>
+					<nb_voix_obtenues>2862</nb_voix_obtenues>
 				</candidat>
 				<candidat id="293"> 
 					<prenom>Louise</prenom>
 					<nom>O'SULLIVAN</nom>
 					<parti id="4">Équipe Louise O'Sullivan - Parti Montréal - Ville-Marie</parti>
-					<nb_voix_obtenues>212</nb_voix_obtenues>
+					<nb_voix_obtenues>214</nb_voix_obtenues>
 				</candidat>
 				<candidat id="31"> 
 					<prenom>Michel</prenom>
 					<nom>BÉDARD</nom>
 					<parti id="2">Équipe Bédard - Fierté Montréal / Team Bédard - Montreal Pride Party</parti>
-					<nb_voix_obtenues>371</nb_voix_obtenues>
+					<nb_voix_obtenues>376</nb_voix_obtenues>
 				</candidat>
 				<candidat id="314"> 
 					<prenom>Michel</prenom>
 					<nom>PRAIRIE</nom>
 					<parti id="0">Indépendant</parti>
-					<nb_voix_obtenues>157</nb_voix_obtenues>
+					<nb_voix_obtenues>160</nb_voix_obtenues>
 				</candidat>
 			</arrondissement>
 			<arrondissement id="9">
@@ -4434,25 +4434,25 @@
 			</arrondissement>
 			<arrondissement id="11">
 				<nom>Plateau-Mont-Royal</nom>
-				<nb_bureaux_depouilles>266</nb_bureaux_depouilles>
+				<nb_bureaux_depouilles>267</nb_bureaux_depouilles>
 				<nb_bureaux_total>294</nb_bureaux_total>
 				<candidat id="376"> 
 					<prenom>Gérald</prenom>
 					<nom>TREMBLAY</nom>
 					<parti id="5">Équipe Tremblay - Union Montréal</parti>
-					<nb_voix_obtenues>4994</nb_voix_obtenues>
+					<nb_voix_obtenues>5037</nb_voix_obtenues>
 				</candidat>
 				<candidat id="199"> 
 					<prenom>Louise</prenom>
 					<nom>HAREL</nom>
 					<parti id="3">Équipe Harel - Vision Montréal</parti>
-					<nb_voix_obtenues>9672</nb_voix_obtenues>
+					<nb_voix_obtenues>9704</nb_voix_obtenues>
 				</candidat>
 				<candidat id="43"> 
 					<prenom>Richard</prenom>
 					<nom>BERGERON</nom>
 					<parti id="9">Projet Montréal</parti>
-					<nb_voix_obtenues>10478</nb_voix_obtenues>
+					<nb_voix_obtenues>10508</nb_voix_obtenues>
 				</candidat>
 				<candidat id="293"> 
 					<prenom>Louise</prenom>
@@ -4470,7 +4470,7 @@
 					<prenom>Michel</prenom>
 					<nom>PRAIRIE</nom>
 					<parti id="0">Indépendant</parti>
-					<nb_voix_obtenues>90</nb_voix_obtenues>
+					<nb_voix_obtenues>91</nb_voix_obtenues>
 				</candidat>
 			</arrondissement>
 			<arrondissement id="12">
@@ -4516,25 +4516,25 @@
 			</arrondissement>
 			<arrondissement id="13">
 				<nom>Rosemont–La Petite-Patrie</nom>
-				<nb_bureaux_depouilles>304</nb_bureaux_depouilles>
+				<nb_bureaux_depouilles>305</nb_bureaux_depouilles>
 				<nb_bureaux_total>381</nb_bureaux_total>
 				<candidat id="376"> 
 					<prenom>Gérald</prenom>
 					<nom>TREMBLAY</nom>
 					<parti id="5">Équipe Tremblay - Union Montréal</parti>
-					<nb_voix_obtenues>7783</nb_voix_obtenues>
+					<nb_voix_obtenues>7833</nb_voix_obtenues>
 				</candidat>
 				<candidat id="199"> 
 					<prenom>Louise</prenom>
 					<nom>HAREL</nom>
 					<parti id="3">Équipe Harel - Vision Montréal</parti>
-					<nb_voix_obtenues>14629</nb_voix_obtenues>
+					<nb_voix_obtenues>14684</nb_voix_obtenues>
 				</candidat>
 				<candidat id="43"> 
 					<prenom>Richard</prenom>
 					<nom>BERGERON</nom>
 					<parti id="9">Projet Montréal</parti>
-					<nb_voix_obtenues>11298</nb_voix_obtenues>
+					<nb_voix_obtenues>11332</nb_voix_obtenues>
 				</candidat>
 				<candidat id="293"> 
 					<prenom>Louise</prenom>
@@ -4557,72 +4557,72 @@
 			</arrondissement>
 			<arrondissement id="14">
 				<nom>Saint-Laurent</nom>
-				<nb_bureaux_depouilles>174</nb_bureaux_depouilles>
+				<nb_bureaux_depouilles>178</nb_bureaux_depouilles>
 				<nb_bureaux_total>234</nb_bureaux_total>
 				<candidat id="376"> 
 					<prenom>Gérald</prenom>
 					<nom>TREMBLAY</nom>
 					<parti id="5">Équipe Tremblay - Union Montréal</parti>
-					<nb_voix_obtenues>8425</nb_voix_obtenues>
+					<nb_voix_obtenues>8546</nb_voix_obtenues>
 				</candidat>
 				<candidat id="199"> 
 					<prenom>Louise</prenom>
 					<nom>HAREL</nom>
 					<parti id="3">Équipe Harel - Vision Montréal</parti>
-					<nb_voix_obtenues>2405</nb_voix_obtenues>
+					<nb_voix_obtenues>2454</nb_voix_obtenues>
 				</candidat>
 				<candidat id="43"> 
 					<prenom>Richard</prenom>
 					<nom>BERGERON</nom>
 					<parti id="9">Projet Montréal</parti>
-					<nb_voix_obtenues>2423</nb_voix_obtenues>
+					<nb_voix_obtenues>2472</nb_voix_obtenues>
 				</candidat>
 				<candidat id="293"> 
 					<prenom>Louise</prenom>
 					<nom>O'SULLIVAN</nom>
 					<parti id="4">Équipe Louise O'Sullivan - Parti Montréal - Ville-Marie</parti>
-					<nb_voix_obtenues>330</nb_voix_obtenues>
+					<nb_voix_obtenues>337</nb_voix_obtenues>
 				</candidat>
 				<candidat id="31"> 
 					<prenom>Michel</prenom>
 					<nom>BÉDARD</nom>
 					<parti id="2">Équipe Bédard - Fierté Montréal / Team Bédard - Montreal Pride Party</parti>
-					<nb_voix_obtenues>186</nb_voix_obtenues>
+					<nb_voix_obtenues>191</nb_voix_obtenues>
 				</candidat>
 				<candidat id="314"> 
 					<prenom>Michel</prenom>
 					<nom>PRAIRIE</nom>
 					<parti id="0">Indépendant</parti>
-					<nb_voix_obtenues>74</nb_voix_obtenues>
+					<nb_voix_obtenues>77</nb_voix_obtenues>
 				</candidat>
 			</arrondissement>
 			<arrondissement id="15">
 				<nom>Saint-Léonard</nom>
-				<nb_bureaux_depouilles>143</nb_bureaux_depouilles>
+				<nb_bureaux_depouilles>144</nb_bureaux_depouilles>
 				<nb_bureaux_total>200</nb_bureaux_total>
 				<candidat id="376"> 
 					<prenom>Gérald</prenom>
 					<nom>TREMBLAY</nom>
 					<parti id="5">Équipe Tremblay - Union Montréal</parti>
-					<nb_voix_obtenues>7837</nb_voix_obtenues>
+					<nb_voix_obtenues>7918</nb_voix_obtenues>
 				</candidat>
 				<candidat id="199"> 
 					<prenom>Louise</prenom>
 					<nom>HAREL</nom>
 					<parti id="3">Équipe Harel - Vision Montréal</parti>
-					<nb_voix_obtenues>2199</nb_voix_obtenues>
+					<nb_voix_obtenues>2215</nb_voix_obtenues>
 				</candidat>
 				<candidat id="43"> 
 					<prenom>Richard</prenom>
 					<nom>BERGERON</nom>
 					<parti id="9">Projet Montréal</parti>
-					<nb_voix_obtenues>1710</nb_voix_obtenues>
+					<nb_voix_obtenues>1725</nb_voix_obtenues>
 				</candidat>
 				<candidat id="293"> 
 					<prenom>Louise</prenom>
 					<nom>O'SULLIVAN</nom>
 					<parti id="4">Équipe Louise O'Sullivan - Parti Montréal - Ville-Marie</parti>
-					<nb_voix_obtenues>203</nb_voix_obtenues>
+					<nb_voix_obtenues>204</nb_voix_obtenues>
 				</candidat>
 				<candidat id="31"> 
 					<prenom>Michel</prenom>
@@ -4634,7 +4634,7 @@
 					<prenom>Michel</prenom>
 					<nom>PRAIRIE</nom>
 					<parti id="0">Indépendant</parti>
-					<nb_voix_obtenues>180</nb_voix_obtenues>
+					<nb_voix_obtenues>181</nb_voix_obtenues>
 				</candidat>
 			</arrondissement>
 			<arrondissement id="16">
@@ -4762,43 +4762,43 @@
 			</arrondissement>
 			<arrondissement id="19">
 				<nom>Villeray–Saint-Michel–Parc-Extension</nom>
-				<nb_bureaux_depouilles>269</nb_bureaux_depouilles>
+				<nb_bureaux_depouilles>274</nb_bureaux_depouilles>
 				<nb_bureaux_total>346</nb_bureaux_total>
 				<candidat id="376"> 
 					<prenom>Gérald</prenom>
 					<nom>TREMBLAY</nom>
 					<parti id="5">Équipe Tremblay - Union Montréal</parti>
-					<nb_voix_obtenues>8826</nb_voix_obtenues>
+					<nb_voix_obtenues>9016</nb_voix_obtenues>
 				</candidat>
 				<candidat id="199"> 
 					<prenom>Louise</prenom>
 					<nom>HAREL</nom>
 					<parti id="3">Équipe Harel - Vision Montréal</parti>
-					<nb_voix_obtenues>9246</nb_voix_obtenues>
+					<nb_voix_obtenues>9330</nb_voix_obtenues>
 				</candidat>
 				<candidat id="43"> 
 					<prenom>Richard</prenom>
 					<nom>BERGERON</nom>
 					<parti id="9">Projet Montréal</parti>
-					<nb_voix_obtenues>6889</nb_voix_obtenues>
+					<nb_voix_obtenues>6926</nb_voix_obtenues>
 				</candidat>
 				<candidat id="293"> 
 					<prenom>Louise</prenom>
 					<nom>O'SULLIVAN</nom>
 					<parti id="4">Équipe Louise O'Sullivan - Parti Montréal - Ville-Marie</parti>
-					<nb_voix_obtenues>406</nb_voix_obtenues>
+					<nb_voix_obtenues>410</nb_voix_obtenues>
 				</candidat>
 				<candidat id="31"> 
 					<prenom>Michel</prenom>
 					<nom>BÉDARD</nom>
 					<parti id="2">Équipe Bédard - Fierté Montréal / Team Bédard - Montreal Pride Party</parti>
-					<nb_voix_obtenues>447</nb_voix_obtenues>
+					<nb_voix_obtenues>463</nb_voix_obtenues>
 				</candidat>
 				<candidat id="314"> 
 					<prenom>Michel</prenom>
 					<nom>PRAIRIE</nom>
 					<parti id="0">Indépendant</parti>
-					<nb_voix_obtenues>203</nb_voix_obtenues>
+					<nb_voix_obtenues>209</nb_voix_obtenues>
 				</candidat>
 			</arrondissement>
 		</arrondissements>
