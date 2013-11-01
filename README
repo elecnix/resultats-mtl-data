@@ -1,0 +1,9 @@
+Each time the XML file for the Montreal 2013 elections was fetched, a commit was created.
+
+This repo is 100 times smaller than all versions of the XML files, and 10 times smaller than
+a ZIP file. To obtain versions in separate files, try this:
+
+# for commit in `git log |grep commit|cut -f 2 -d ' '` ; do git checkout $commit && cp media.xml `git show |grep Import|cut -d ' ' -f 6` ; done
+
+See also http://github.com/elecnix/resultats-mtl for the Rails app that imported and
+presents these results.
