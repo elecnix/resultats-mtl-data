@@ -1,4 +1,4 @@
-<resultats date_heure_generation="2013-11-02T10:30:37">
+<resultats date_heure_generation="2013-11-02T10:32:38">
 	<resultats_postes>
 		<poste id="1,00">
 			<type>MC</type>
@@ -2653,37 +2653,37 @@
 			<arrondissement id="11">Plateau-Mont-Royal</arrondissement>
 			<district id="113">Jeanne-Mance</district>
 			<nb_electeurs_inscrits>20584</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>204</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>3</nb_bulletins_rejetes>
+			<taux_participation>0.99</taux_participation>
+			<nb_bureaux_depouilles>3</nb_bureaux_depouilles>
 			<nb_bureaux_total>83</nb_bureaux_total>
-			<candidat id="295">
-				<prenom>Manon</prenom>			
-				<nom>BISAILLON</nom>
-				<parti id="11">Intégrité Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
 			<candidat id="296">
 				<prenom>Christine</prenom>			
 				<nom>GOSSELIN</nom>
 				<parti id="13">Projet Montréal - Équipe Bergeron</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite></nb_voix_majorite>
+				<nb_voix_obtenues>78</nb_voix_obtenues>
+				<nb_voix_majorite>9</nb_voix_majorite>
 			</candidat>
 			<candidat id="297">
 				<prenom>André</prenom>			
 				<nom>PICARD</nom>
 				<parti id="1">Coalition Montréal - Marcel Côté</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>69</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="298">
 				<prenom>Antonio</prenom>			
 				<nom>RODRIGUES</nom>
 				<parti id="7">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>42</nb_voix_obtenues>
+				<nb_voix_majorite></nb_voix_majorite>
+			</candidat>
+			<candidat id="295">
+				<prenom>Manon</prenom>			
+				<nom>BISAILLON</nom>
+				<parti id="11">Intégrité Montréal</parti>
+				<nb_voix_obtenues>12</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
