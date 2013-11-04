@@ -1,4 +1,4 @@
-<resultats date_heure_generation="2013-11-04T16:30:08">
+<resultats date_heure_generation="2013-11-04T16:32:10">
 	<resultats_postes>
 		<poste id="1,00">
 			<type>MC</type>
@@ -3166,37 +3166,37 @@
 			<arrondissement id="14">Saint-Laurent</arrondissement>
 			<district id="0"></district>
 			<nb_electeurs_inscrits>58554</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>21005</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>640</nb_bulletins_rejetes>
-			<taux_participation>35.87</taux_participation>
-			<nb_bureaux_depouilles>238</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>20870</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>637</nb_bulletins_rejetes>
+			<taux_participation>35.64</taux_participation>
+			<nb_bureaux_depouilles>237</nb_bureaux_depouilles>
 			<nb_bureaux_total>238</nb_bureaux_total>
 			<candidat id="347">
 				<prenom>Alan</prenom>			
 				<nom>DESOUSA</nom>
 				<parti id="7">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>10899</nb_voix_obtenues>
-				<nb_voix_majorite>5060</nb_voix_majorite>
+				<nb_voix_obtenues>10835</nb_voix_obtenues>
+				<nb_voix_majorite>5019</nb_voix_majorite>
 			</candidat>
 			<candidat id="349">
 				<prenom>François</prenom>			
 				<nom>GHALI</nom>
 				<parti id="14">Vrai changement pour Montréal - Groupe Mélanie Joly</parti>
-				<nb_voix_obtenues>5839</nb_voix_obtenues>
+				<nb_voix_obtenues>5816</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="348">
 				<prenom>William</prenom>			
 				<nom>FAYAD</nom>
 				<parti id="13">Projet Montréal - Équipe Bergeron</parti>
-				<nb_voix_obtenues>2254</nb_voix_obtenues>
+				<nb_voix_obtenues>2222</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="346">
 				<prenom>Marcello</prenom>			
 				<nom>BARSALOU</nom>
 				<parti id="1">Coalition Montréal - Marcel Côté</parti>
-				<nb_voix_obtenues>1373</nb_voix_obtenues>
+				<nb_voix_obtenues>1360</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -4505,7 +4505,7 @@
 	<resultats_maire>
 		<sommaire>
 			<nb_electeurs_inscrits>1101998</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>476601</nb_total_voix_recueillies>
+			<nb_total_voix_recueillies>476594</nb_total_voix_recueillies>
 			<nb_bulletins_rejetes>12419</nb_bulletins_rejetes>
 			<taux_participation>43.25</taux_participation>
 			<nb_bureaux_depouilles>4539</nb_bureaux_depouilles>
@@ -4556,7 +4556,7 @@
 				<prenom>Louai</prenom>			
 				<nom>HAMIDA</nom>
 				<parti id="-1">Indépendant</parti>
-				<nb_voix_obtenues>1570</nb_voix_obtenues>
+				<nb_voix_obtenues>1563</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
  			<candidat id="7">
@@ -5556,7 +5556,7 @@
 					<prenom>Louai</prenom>
 					<nom>HAMIDA</nom>
 					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>148</nb_voix_obtenues>
+					<nb_voix_obtenues>141</nb_voix_obtenues>
 				</candidat>
 				<candidat id="7"> 
 					<prenom>Claude</prenom>
