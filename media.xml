@@ -1,4 +1,4 @@
-<resultats date_heure_generation="2013-11-04T11:47:40">
+<resultats date_heure_generation="2013-11-04T11:49:37">
 	<resultats_postes>
 		<poste id="1,00">
 			<type>MC</type>
@@ -6,44 +6,44 @@
 			<arrondissement id="1">Ahuntsic-Cartierville</arrondissement>
 			<district id="0"></district>
 			<nb_electeurs_inscrits>84524</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>39306</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>1273</nb_bulletins_rejetes>
-			<taux_participation>46.50</taux_participation>
-			<nb_bureaux_depouilles>327</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>39490</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>1276</nb_bulletins_rejetes>
+			<taux_participation>46.72</taux_participation>
+			<nb_bureaux_depouilles>328</nb_bureaux_depouilles>
 			<nb_bureaux_total>335</nb_bureaux_total>
 			<candidat id="22">
 				<prenom>Pierre</prenom>			
 				<nom>GAGNIER</nom>
 				<parti id="7">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>11521</nb_voix_obtenues>
-				<nb_voix_majorite>1220</nb_voix_majorite>
+				<nb_voix_obtenues>11565</nb_voix_obtenues>
+				<nb_voix_majorite>1196</nb_voix_majorite>
 			</candidat>
 			<candidat id="19">
 				<prenom>Pierre</prenom>			
 				<nom>BASTIEN</nom>
 				<parti id="13">Projet Montréal - Équipe Bergeron</parti>
-				<nb_voix_obtenues>10301</nb_voix_obtenues>
+				<nb_voix_obtenues>10369</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="20">
 				<prenom>Hasmig</prenom>			
 				<nom>BELLELI</nom>
 				<parti id="14">Vrai changement pour Montréal - Groupe Mélanie Joly</parti>
-				<nb_voix_obtenues>8819</nb_voix_obtenues>
+				<nb_voix_obtenues>8846</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="21">
 				<prenom>Etienne</prenom>			
 				<nom>BRUNET</nom>
 				<parti id="1">Coalition Montréal - Marcel Côté</parti>
-				<nb_voix_obtenues>6436</nb_voix_obtenues>
+				<nb_voix_obtenues>6474</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="18">
 				<prenom>Claude</prenom>			
 				<nom>ALLARD</nom>
 				<parti id="11">Intégrité Montréal</parti>
-				<nb_voix_obtenues>956</nb_voix_obtenues>
+				<nb_voix_obtenues>960</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -4505,37 +4505,37 @@
 	<resultats_maire>
 		<sommaire>
 			<nb_electeurs_inscrits>1101998</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>470508</nb_total_voix_recueillies>
+			<nb_total_voix_recueillies>470571</nb_total_voix_recueillies>
 			<nb_bulletins_rejetes>12270</nb_bulletins_rejetes>
 			<taux_participation>42.70</taux_participation>
-			<nb_bureaux_depouilles>4489</nb_bureaux_depouilles>
+			<nb_bureaux_depouilles>4490</nb_bureaux_depouilles>
 			<nb_bureaux_total>4539</nb_bureaux_total>
  			<candidat id="9">
 				<prenom>Denis</prenom>			
 				<nom>CODERRE</nom>
 				<parti id="7">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>146917</nb_voix_obtenues>
-				<nb_voix_majorite>25566</nb_voix_majorite>
+				<nb_voix_obtenues>146944</nb_voix_obtenues>
+				<nb_voix_majorite>25579</nb_voix_majorite>
 			</candidat>
  			<candidat id="12">
 				<prenom>Mélanie</prenom>			
 				<nom>JOLY</nom>
 				<parti id="14">Vrai changement pour Montréal - Groupe Mélanie Joly</parti>
-				<nb_voix_obtenues>121351</nb_voix_obtenues>
+				<nb_voix_obtenues>121365</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
  			<candidat id="6">
 				<prenom>Richard</prenom>			
 				<nom>BERGERON</nom>
 				<parti id="13">Projet Montréal - Équipe Bergeron</parti>
-				<nb_voix_obtenues>117335</nb_voix_obtenues>
+				<nb_voix_obtenues>117350</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
  			<candidat id="10">
 				<prenom>Marcel</prenom>			
 				<nom>CÔTÉ</nom>
 				<parti id="1">Coalition Montréal - Marcel Côté</parti>
-				<nb_voix_obtenues>58443</nb_voix_obtenues>
+				<nb_voix_obtenues>58449</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
  			<candidat id="8">
@@ -4549,7 +4549,7 @@
 				<prenom>Patricia</prenom>			
 				<nom>TULASNE</nom>
 				<parti id="-1">Indépendant</parti>
-				<nb_voix_obtenues>2524</nb_voix_obtenues>
+				<nb_voix_obtenues>2525</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
  			<candidat id="11">
@@ -5869,31 +5869,31 @@
 			</arrondissement>
 			<arrondissement id="19">
 				<nom>Villeray–Saint-Michel–Parc-Extension</nom>
-				<nb_bureaux_depouilles>336</nb_bureaux_depouilles>
+				<nb_bureaux_depouilles>337</nb_bureaux_depouilles>
 				<nb_bureaux_total>344</nb_bureaux_total>
 				<candidat id="9"> 
 					<prenom>Denis</prenom>
 					<nom>CODERRE</nom>
 					<parti id="7">Équipe Denis Coderre pour Montréal</parti>
-					<nb_voix_obtenues>10979</nb_voix_obtenues>
+					<nb_voix_obtenues>11006</nb_voix_obtenues>
 				</candidat>
 				<candidat id="12"> 
 					<prenom>Mélanie</prenom>
 					<nom>JOLY</nom>
 					<parti id="14">Vrai changement pour Montréal - Groupe Mélanie Joly</parti>
-					<nb_voix_obtenues>7351</nb_voix_obtenues>
+					<nb_voix_obtenues>7365</nb_voix_obtenues>
 				</candidat>
 				<candidat id="6"> 
 					<prenom>Richard</prenom>
 					<nom>BERGERON</nom>
 					<parti id="13">Projet Montréal - Équipe Bergeron</parti>
-					<nb_voix_obtenues>11166</nb_voix_obtenues>
+					<nb_voix_obtenues>11181</nb_voix_obtenues>
 				</candidat>
 				<candidat id="10"> 
 					<prenom>Marcel</prenom>
 					<nom>CÔTÉ</nom>
 					<parti id="1">Coalition Montréal - Marcel Côté</parti>
-					<nb_voix_obtenues>3819</nb_voix_obtenues>
+					<nb_voix_obtenues>3825</nb_voix_obtenues>
 				</candidat>
 				<candidat id="8"> 
 					<prenom>Michel</prenom>
@@ -5905,7 +5905,7 @@
 					<prenom>Patricia</prenom>
 					<nom>TULASNE</nom>
 					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>211</nb_voix_obtenues>
+					<nb_voix_obtenues>212</nb_voix_obtenues>
 				</candidat>
 				<candidat id="11"> 
 					<prenom>Louai</prenom>
