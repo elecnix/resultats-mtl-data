@@ -1,4 +1,4 @@
-<resultats date_heure_generation="2013-11-04T00:32:19">
+<resultats date_heure_generation="2013-11-04T00:33:58">
 	<resultats_postes>
 		<poste id="1,00">
 			<type>MC</type>
@@ -53,37 +53,37 @@
 			<arrondissement id="1">Ahuntsic-Cartierville</arrondissement>
 			<district id="11">Sault-au-Récollet</district>
 			<nb_electeurs_inscrits>19965</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>9358</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>329</nb_bulletins_rejetes>
-			<taux_participation>46.87</taux_participation>
-			<nb_bureaux_depouilles>71</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>9492</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>334</nb_bulletins_rejetes>
+			<taux_participation>47.54</taux_participation>
+			<nb_bureaux_depouilles>72</nb_bureaux_depouilles>
 			<nb_bureaux_total>80</nb_bureaux_total>
 			<candidat id="24">
 				<prenom>Nathalie</prenom>			
 				<nom>HOTTE</nom>
 				<parti id="7">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>2594</nb_voix_obtenues>
-				<nb_voix_majorite>64</nb_voix_majorite>
+				<nb_voix_obtenues>2628</nb_voix_obtenues>
+				<nb_voix_majorite>62</nb_voix_majorite>
 			</candidat>
 			<candidat id="29">
 				<prenom>Lorraine</prenom>			
 				<nom>PAGÉ</nom>
 				<parti id="14">Vrai changement pour Montréal - Groupe Mélanie Joly</parti>
-				<nb_voix_obtenues>2530</nb_voix_obtenues>
+				<nb_voix_obtenues>2566</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="25">
 				<prenom>Sophie-Anne</prenom>			
 				<nom>LEGENDRE</nom>
 				<parti id="13">Projet Montréal - Équipe Bergeron</parti>
-				<nb_voix_obtenues>2359</nb_voix_obtenues>
+				<nb_voix_obtenues>2402</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="27">
 				<prenom>Louis-Gilles</prenom>			
 				<nom>MOLYNEUX</nom>
 				<parti id="1">Coalition Montréal - Marcel Côté</parti>
-				<nb_voix_obtenues>1133</nb_voix_obtenues>
+				<nb_voix_obtenues>1148</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="26">
@@ -104,7 +104,7 @@
 				<prenom>Nathalie</prenom>			
 				<nom>NYANGONO</nom>
 				<parti id="-1">Indépendant</parti>
-				<nb_voix_obtenues>67</nb_voix_obtenues>
+				<nb_voix_obtenues>68</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -4505,37 +4505,37 @@
 	<resultats_maire>
 		<sommaire>
 			<nb_electeurs_inscrits>1101998</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>445091</nb_total_voix_recueillies>
+			<nb_total_voix_recueillies>445226</nb_total_voix_recueillies>
 			<nb_bulletins_rejetes>11607</nb_bulletins_rejetes>
-			<taux_participation>40.39</taux_participation>
-			<nb_bureaux_depouilles>4304</nb_bureaux_depouilles>
+			<taux_participation>40.40</taux_participation>
+			<nb_bureaux_depouilles>4305</nb_bureaux_depouilles>
 			<nb_bureaux_total>4539</nb_bureaux_total>
  			<candidat id="9">
 				<prenom>Denis</prenom>			
 				<nom>CODERRE</nom>
 				<parti id="7">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>137804</nb_voix_obtenues>
-				<nb_voix_majorite>23038</nb_voix_majorite>
+				<nb_voix_obtenues>137845</nb_voix_obtenues>
+				<nb_voix_majorite>23049</nb_voix_majorite>
 			</candidat>
  			<candidat id="12">
 				<prenom>Mélanie</prenom>			
 				<nom>JOLY</nom>
 				<parti id="14">Vrai changement pour Montréal - Groupe Mélanie Joly</parti>
-				<nb_voix_obtenues>114766</nb_voix_obtenues>
+				<nb_voix_obtenues>114796</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
  			<candidat id="6">
 				<prenom>Richard</prenom>			
 				<nom>BERGERON</nom>
 				<parti id="13">Projet Montréal - Équipe Bergeron</parti>
-				<nb_voix_obtenues>112154</nb_voix_obtenues>
+				<nb_voix_obtenues>112201</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
  			<candidat id="10">
 				<prenom>Marcel</prenom>			
 				<nom>CÔTÉ</nom>
 				<parti id="1">Coalition Montréal - Marcel Côté</parti>
-				<nb_voix_obtenues>55469</nb_voix_obtenues>
+				<nb_voix_obtenues>55485</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
  			<candidat id="8">
@@ -4570,7 +4570,7 @@
 				<prenom>Joseph</prenom>			
 				<nom>YOUNG</nom>
 				<parti id="-1">Indépendant</parti>
-				<nb_voix_obtenues>1036</nb_voix_obtenues>
+				<nb_voix_obtenues>1037</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
  			<candidat id="15">
@@ -4591,31 +4591,31 @@
 		<arrondissements>
 			<arrondissement id="1">
 				<nom>Ahuntsic-Cartierville</nom>
-				<nb_bureaux_depouilles>312</nb_bureaux_depouilles>
+				<nb_bureaux_depouilles>313</nb_bureaux_depouilles>
 				<nb_bureaux_total>335</nb_bureaux_total>
 				<candidat id="9"> 
 					<prenom>Denis</prenom>
 					<nom>CODERRE</nom>
 					<parti id="7">Équipe Denis Coderre pour Montréal</parti>
-					<nb_voix_obtenues>11610</nb_voix_obtenues>
+					<nb_voix_obtenues>11651</nb_voix_obtenues>
 				</candidat>
 				<candidat id="12"> 
 					<prenom>Mélanie</prenom>
 					<nom>JOLY</nom>
 					<parti id="14">Vrai changement pour Montréal - Groupe Mélanie Joly</parti>
-					<nb_voix_obtenues>9069</nb_voix_obtenues>
+					<nb_voix_obtenues>9099</nb_voix_obtenues>
 				</candidat>
 				<candidat id="6"> 
 					<prenom>Richard</prenom>
 					<nom>BERGERON</nom>
 					<parti id="13">Projet Montréal - Équipe Bergeron</parti>
-					<nb_voix_obtenues>9472</nb_voix_obtenues>
+					<nb_voix_obtenues>9519</nb_voix_obtenues>
 				</candidat>
 				<candidat id="10"> 
 					<prenom>Marcel</prenom>
 					<nom>CÔTÉ</nom>
 					<parti id="1">Coalition Montréal - Marcel Côté</parti>
-					<nb_voix_obtenues>4867</nb_voix_obtenues>
+					<nb_voix_obtenues>4883</nb_voix_obtenues>
 				</candidat>
 				<candidat id="8"> 
 					<prenom>Michel</prenom>
@@ -4645,7 +4645,7 @@
 					<prenom>Joseph</prenom>
 					<nom>YOUNG</nom>
 					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>54</nb_voix_obtenues>
+					<nb_voix_obtenues>55</nb_voix_obtenues>
 				</candidat>
 				<candidat id="15"> 
 					<prenom>Kofi</prenom>
