@@ -1,4 +1,4 @@
-<resultats date_heure_generation="2013-11-04T01:06:10">
+<resultats date_heure_generation="2013-11-04T01:08:24">
 	<resultats_postes>
 		<poste id="1,00">
 			<type>MC</type>
@@ -3639,30 +3639,30 @@
 			<arrondissement id="16">Sud-Ouest</arrondissement>
 			<district id="161">Saint-Henri—Petite-Bourgogne—Pointe-Saint-Charles</district>
 			<nb_electeurs_inscrits>29736</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>9562</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>520</nb_bulletins_rejetes>
-			<taux_participation>32.16</taux_participation>
-			<nb_bureaux_depouilles>108</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>9739</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>529</nb_bulletins_rejetes>
+			<taux_participation>32.75</taux_participation>
+			<nb_bureaux_depouilles>110</nb_bureaux_depouilles>
 			<nb_bureaux_total>127</nb_bureaux_total>
 			<candidat id="396">
 				<prenom>Sophie</prenom>			
 				<nom>THIÉBAUT</nom>
 				<parti id="13">Projet Montréal - Équipe Bergeron</parti>
-				<nb_voix_obtenues>4281</nb_voix_obtenues>
-				<nb_voix_majorite>1731</nb_voix_majorite>
+				<nb_voix_obtenues>4331</nb_voix_obtenues>
+				<nb_voix_majorite>1715</nb_voix_majorite>
 			</candidat>
 			<candidat id="394">
 				<prenom>Kristi</prenom>			
 				<nom>DE BONVILLE</nom>
 				<parti id="1">Coalition Montréal - Marcel Côté</parti>
-				<nb_voix_obtenues>2550</nb_voix_obtenues>
+				<nb_voix_obtenues>2616</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="395">
 				<prenom>Pierre</prenom>			
 				<nom>FRÉCHETTE</nom>
 				<parti id="7">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>2211</nb_voix_obtenues>
+				<nb_voix_obtenues>2263</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -4505,65 +4505,65 @@
 	<resultats_maire>
 		<sommaire>
 			<nb_electeurs_inscrits>1101998</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>448933</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>11681</nb_bulletins_rejetes>
-			<taux_participation>40.74</taux_participation>
-			<nb_bureaux_depouilles>4324</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>449178</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>11688</nb_bulletins_rejetes>
+			<taux_participation>40.76</taux_participation>
+			<nb_bureaux_depouilles>4326</nb_bureaux_depouilles>
 			<nb_bureaux_total>4539</nb_bureaux_total>
  			<candidat id="9">
 				<prenom>Denis</prenom>			
 				<nom>CODERRE</nom>
 				<parti id="7">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>139187</nb_voix_obtenues>
-				<nb_voix_majorite>23381</nb_voix_majorite>
+				<nb_voix_obtenues>139252</nb_voix_obtenues>
+				<nb_voix_majorite>23387</nb_voix_majorite>
 			</candidat>
  			<candidat id="12">
 				<prenom>Mélanie</prenom>			
 				<nom>JOLY</nom>
 				<parti id="14">Vrai changement pour Montréal - Groupe Mélanie Joly</parti>
-				<nb_voix_obtenues>115806</nb_voix_obtenues>
+				<nb_voix_obtenues>115865</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
  			<candidat id="6">
 				<prenom>Richard</prenom>			
 				<nom>BERGERON</nom>
 				<parti id="13">Projet Montréal - Équipe Bergeron</parti>
-				<nb_voix_obtenues>112916</nb_voix_obtenues>
+				<nb_voix_obtenues>112975</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
  			<candidat id="10">
 				<prenom>Marcel</prenom>			
 				<nom>CÔTÉ</nom>
 				<parti id="1">Coalition Montréal - Marcel Côté</parti>
-				<nb_voix_obtenues>55960</nb_voix_obtenues>
+				<nb_voix_obtenues>56002</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
  			<candidat id="8">
 				<prenom>Michel</prenom>			
 				<nom>BRÛLÉ</nom>
 				<parti id="11">Intégrité Montréal</parti>
-				<nb_voix_obtenues>5936</nb_voix_obtenues>
+				<nb_voix_obtenues>5945</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
  			<candidat id="16">
 				<prenom>Patricia</prenom>			
 				<nom>TULASNE</nom>
 				<parti id="-1">Indépendant</parti>
-				<nb_voix_obtenues>2381</nb_voix_obtenues>
+				<nb_voix_obtenues>2382</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
  			<candidat id="11">
 				<prenom>Louai</prenom>			
 				<nom>HAMIDA</nom>
 				<parti id="-1">Indépendant</parti>
-				<nb_voix_obtenues>1444</nb_voix_obtenues>
+				<nb_voix_obtenues>1445</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
  			<candidat id="7">
 				<prenom>Claude</prenom>			
 				<nom>BLAIS</nom>
 				<parti id="-1">Indépendant</parti>
-				<nb_voix_obtenues>1420</nb_voix_obtenues>
+				<nb_voix_obtenues>1422</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
  			<candidat id="17">
@@ -4591,55 +4591,55 @@
 		<arrondissements>
 			<arrondissement id="1">
 				<nom>Ahuntsic-Cartierville</nom>
-				<nb_bureaux_depouilles>317</nb_bureaux_depouilles>
+				<nb_bureaux_depouilles>319</nb_bureaux_depouilles>
 				<nb_bureaux_total>335</nb_bureaux_total>
 				<candidat id="9"> 
 					<prenom>Denis</prenom>
 					<nom>CODERRE</nom>
 					<parti id="7">Équipe Denis Coderre pour Montréal</parti>
-					<nb_voix_obtenues>11934</nb_voix_obtenues>
+					<nb_voix_obtenues>11999</nb_voix_obtenues>
 				</candidat>
 				<candidat id="12"> 
 					<prenom>Mélanie</prenom>
 					<nom>JOLY</nom>
 					<parti id="14">Vrai changement pour Montréal - Groupe Mélanie Joly</parti>
-					<nb_voix_obtenues>9257</nb_voix_obtenues>
+					<nb_voix_obtenues>9316</nb_voix_obtenues>
 				</candidat>
 				<candidat id="6"> 
 					<prenom>Richard</prenom>
 					<nom>BERGERON</nom>
 					<parti id="13">Projet Montréal - Équipe Bergeron</parti>
-					<nb_voix_obtenues>9624</nb_voix_obtenues>
+					<nb_voix_obtenues>9683</nb_voix_obtenues>
 				</candidat>
 				<candidat id="10"> 
 					<prenom>Marcel</prenom>
 					<nom>CÔTÉ</nom>
 					<parti id="1">Coalition Montréal - Marcel Côté</parti>
-					<nb_voix_obtenues>4955</nb_voix_obtenues>
+					<nb_voix_obtenues>4997</nb_voix_obtenues>
 				</candidat>
 				<candidat id="8"> 
 					<prenom>Michel</prenom>
 					<nom>BRÛLÉ</nom>
 					<parti id="11">Intégrité Montréal</parti>
-					<nb_voix_obtenues>579</nb_voix_obtenues>
+					<nb_voix_obtenues>588</nb_voix_obtenues>
 				</candidat>
 				<candidat id="16"> 
 					<prenom>Patricia</prenom>
 					<nom>TULASNE</nom>
 					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>166</nb_voix_obtenues>
+					<nb_voix_obtenues>167</nb_voix_obtenues>
 				</candidat>
 				<candidat id="11"> 
 					<prenom>Louai</prenom>
 					<nom>HAMIDA</nom>
 					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>128</nb_voix_obtenues>
+					<nb_voix_obtenues>129</nb_voix_obtenues>
 				</candidat>
 				<candidat id="7"> 
 					<prenom>Claude</prenom>
 					<nom>BLAIS</nom>
 					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>130</nb_voix_obtenues>
+					<nb_voix_obtenues>132</nb_voix_obtenues>
 				</candidat>
 				<candidat id="17"> 
 					<prenom>Joseph</prenom>
