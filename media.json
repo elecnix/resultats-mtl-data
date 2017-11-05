@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-03T20:34:04",
+  "date_heure_generation": "2013-11-03T20:35:38",
   "partis": [
     {
       "id": 7,
@@ -376,58 +376,58 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 36927,
-    "nb_bulletins_rejetes": 870,
-    "taux_participation": 3.35,
-    "nb_bureaux_depouilles": 472,
+    "nb_total_voix_recueillies": 37363,
+    "nb_bulletins_rejetes": 888,
+    "taux_participation": 3.39,
+    "nb_bureaux_depouilles": 478,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 14908,
-        "nb_voix_majorite": 6715,
+        "nb_voix_obtenues": 15139,
+        "nb_voix_majorite": 6865,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 8193,
+        "nb_voix_obtenues": 8274,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 7166,
+        "nb_voix_obtenues": 7224,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 4640,
+        "nb_voix_obtenues": 4675,
         "nb_voix_majorite": 0,
         "parti": 1
       },
       {
         "nom": "BRÛLÉ",
         "prenom": "Michel",
-        "nb_voix_obtenues": 570,
+        "nb_voix_obtenues": 577,
         "nb_voix_majorite": 0,
         "parti": 11
       },
       {
         "nom": "TULASNE",
         "prenom": "Patricia",
-        "nb_voix_obtenues": 240,
+        "nb_voix_obtenues": 243,
         "nb_voix_majorite": 0,
         "parti": -1
       },
       {
         "nom": "HAMIDA",
         "prenom": "Louai",
-        "nb_voix_obtenues": 116,
+        "nb_voix_obtenues": 118,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -455,7 +455,7 @@
       {
         "nom": "SONOKPON",
         "prenom": "Kofi",
-        "nb_voix_obtenues": 32,
+        "nb_voix_obtenues": 33,
         "nb_voix_majorite": 0,
         "parti": -1
       }
@@ -1348,10 +1348,10 @@
       "type": "CV",
       "nom": "Conseiller de la ville arrondissement de Lachine",
       "nb_electeurs_inscrits": "31399",
-      "nb_total_voix_recueillies": "367",
-      "nb_bulletins_rejetes": "10",
-      "taux_participation": "1.17",
-      "nb_bureaux_depouilles": "6",
+      "nb_total_voix_recueillies": "536",
+      "nb_bulletins_rejetes": "14",
+      "taux_participation": "1.71",
+      "nb_bureaux_depouilles": "8",
       "nb_bureaux_total": "141",
       "candidats": [
         {
@@ -1359,15 +1359,15 @@
           "parti": 1,
           "nom": "BLANCHET",
           "prenom": "Bernard",
-          "nb_voix_obtenues": "144",
-          "nb_voix_majorite": "19"
+          "nb_voix_obtenues": "196",
+          "nb_voix_majorite": "15"
         },
         {
           "id": 98,
           "parti": 6,
           "nom": "CLOUTIER",
           "prenom": "Jean-François",
-          "nb_voix_obtenues": "125",
+          "nb_voix_obtenues": "181",
           "nb_voix_majorite": null
         },
         {
@@ -1375,7 +1375,7 @@
           "parti": 13,
           "nom": "LEFEBVRE",
           "prenom": "Jean-François",
-          "nb_voix_obtenues": "45",
+          "nb_voix_obtenues": "72",
           "nb_voix_majorite": null
         },
         {
@@ -1383,7 +1383,7 @@
           "parti": 7,
           "nom": "CARUSO",
           "prenom": "Carolina",
-          "nb_voix_obtenues": "39",
+          "nb_voix_obtenues": "61",
           "nb_voix_majorite": null
         },
         {
@@ -1391,7 +1391,7 @@
           "parti": -1,
           "nom": "LAKHOYAN",
           "prenom": "Hagop (Jacques)",
-          "nb_voix_obtenues": "4",
+          "nb_voix_obtenues": "12",
           "nb_voix_majorite": null
         }
       ]
@@ -3617,10 +3617,10 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement de Rivière-des-Prairies–Pointe-aux-Trembles",
       "nb_electeurs_inscrits": "78909",
-      "nb_total_voix_recueillies": "2860",
-      "nb_bulletins_rejetes": "116",
-      "taux_participation": "3.62",
-      "nb_bureaux_depouilles": "38",
+      "nb_total_voix_recueillies": "2942",
+      "nb_bulletins_rejetes": "121",
+      "taux_participation": "3.73",
+      "nb_bureaux_depouilles": "39",
       "nb_bureaux_total": "332",
       "candidats": [
         {
@@ -3628,15 +3628,15 @@
           "parti": 7,
           "nom": "ROULEAU",
           "prenom": "Chantal",
-          "nb_voix_obtenues": "2086",
-          "nb_voix_majorite": "1743"
+          "nb_voix_obtenues": "2144",
+          "nb_voix_majorite": "1795"
         },
         {
           "id": 301,
           "parti": 1,
           "nom": "TAYLOR",
           "prenom": "Michel",
-          "nb_voix_obtenues": "343",
+          "nb_voix_obtenues": "349",
           "nb_voix_majorite": null
         },
         {
@@ -3644,7 +3644,7 @@
           "parti": 13,
           "nom": "DELLA VALLE",
           "prenom": "Romeo",
-          "nb_voix_obtenues": "315",
+          "nb_voix_obtenues": "328",
           "nb_voix_majorite": null
         }
       ]
@@ -3836,10 +3836,10 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral de Rivière-des-Prairies",
       "nb_electeurs_inscrits": "24801",
-      "nb_total_voix_recueillies": "556",
-      "nb_bulletins_rejetes": "28",
-      "taux_participation": "2.24",
-      "nb_bureaux_depouilles": "8",
+      "nb_total_voix_recueillies": "638",
+      "nb_bulletins_rejetes": "33",
+      "taux_participation": "2.57",
+      "nb_bureaux_depouilles": "9",
       "nb_bureaux_total": "107",
       "candidats": [
         {
@@ -3847,15 +3847,15 @@
           "parti": 7,
           "nom": "RAPANÀ",
           "prenom": "Giovanni",
-          "nb_voix_obtenues": "395",
-          "nb_voix_majorite": "309"
+          "nb_voix_obtenues": "451",
+          "nb_voix_majorite": "357"
         },
         {
           "id": 317,
           "parti": 1,
           "nom": "BARONE",
           "prenom": "Italo",
-          "nb_voix_obtenues": "86",
+          "nb_voix_obtenues": "94",
           "nb_voix_majorite": null
         },
         {
@@ -3863,7 +3863,7 @@
           "parti": 13,
           "nom": "LATCHMAN",
           "prenom": "Jeffrey Scott",
-          "nb_voix_obtenues": "47",
+          "nb_voix_obtenues": "60",
           "nb_voix_majorite": null
         }
       ]
