@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T14:33:26",
+  "date_heure_generation": "2013-11-04T14:35:25",
   "partis": [
     {
       "id": 7,
@@ -376,37 +376,37 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 473856,
+    "nb_total_voix_recueillies": 473916,
     "nb_bulletins_rejetes": 12345,
-    "taux_participation": 43.0,
-    "nb_bureaux_depouilles": 4526,
+    "taux_participation": 43.01,
+    "nb_bureaux_depouilles": 4527,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 148053,
-        "nb_voix_majorite": 25869,
+        "nb_voix_obtenues": 148077,
+        "nb_voix_majorite": 25881,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 122184,
+        "nb_voix_obtenues": 122196,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 118133,
+        "nb_voix_obtenues": 118143,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 58873,
+        "nb_voix_obtenues": 58887,
         "nb_voix_majorite": 0,
         "parti": 1
       },
@@ -3930,10 +3930,10 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement de Rosemont–La Petite-Patrie",
       "nb_electeurs_inscrits": "96442",
-      "nb_total_voix_recueillies": "49926",
-      "nb_bulletins_rejetes": "1871",
-      "taux_participation": "51.77",
-      "nb_bureaux_depouilles": "380",
+      "nb_total_voix_recueillies": "49997",
+      "nb_bulletins_rejetes": "1873",
+      "taux_participation": "51.84",
+      "nb_bureaux_depouilles": "381",
       "nb_bureaux_total": "382",
       "candidats": [
         {
@@ -3941,15 +3941,15 @@
           "parti": 13,
           "nom": "CROTEAU",
           "prenom": "François W.",
-          "nb_voix_obtenues": "28598",
-          "nb_voix_majorite": "18142"
+          "nb_voix_obtenues": "28635",
+          "nb_voix_majorite": "18156"
         },
         {
           "id": 325,
           "parti": 7,
           "nom": "BRETON",
           "prenom": "Josselin",
-          "nb_voix_obtenues": "10456",
+          "nb_voix_obtenues": "10479",
           "nb_voix_majorite": null
         },
         {
@@ -3957,7 +3957,7 @@
           "parti": 1,
           "nom": "JOLIVET",
           "prenom": "Simon",
-          "nb_voix_obtenues": "6389",
+          "nb_voix_obtenues": "6393",
           "nb_voix_majorite": null
         },
         {
@@ -3965,7 +3965,7 @@
           "parti": 11,
           "nom": "SAINT-LOUIS",
           "prenom": "Jean",
-          "nb_voix_obtenues": "2612",
+          "nb_voix_obtenues": "2617",
           "nb_voix_majorite": null
         }
       ]
@@ -4134,10 +4134,10 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral de Marie-Victorin",
       "nb_electeurs_inscrits": "22731",
-      "nb_total_voix_recueillies": "11155",
-      "nb_bulletins_rejetes": "517",
-      "taux_participation": "49.07",
-      "nb_bureaux_depouilles": "92",
+      "nb_total_voix_recueillies": "11325",
+      "nb_bulletins_rejetes": "525",
+      "taux_participation": "49.82",
+      "nb_bureaux_depouilles": "94",
       "nb_bureaux_total": "95",
       "candidats": [
         {
@@ -4145,15 +4145,15 @@
           "parti": 13,
           "nom": "LAVOIE",
           "prenom": "Guillaume",
-          "nb_voix_obtenues": "4587",
-          "nb_voix_majorite": "896"
+          "nb_voix_obtenues": "4674",
+          "nb_voix_majorite": "941"
         },
         {
           "id": 344,
           "parti": 7,
           "nom": "STANTON",
           "prenom": "Françoise",
-          "nb_voix_obtenues": "3691",
+          "nb_voix_obtenues": "3733",
           "nb_voix_majorite": null
         },
         {
@@ -4161,7 +4161,7 @@
           "parti": 1,
           "nom": "THERRIEN",
           "prenom": "Jean",
-          "nb_voix_obtenues": "2360",
+          "nb_voix_obtenues": "2393",
           "nb_voix_majorite": null
         }
       ]
