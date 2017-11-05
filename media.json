@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T18:37:17",
+  "date_heure_generation": "2013-11-04T17:08:37",
   "partis": [
     {
       "id": 7,
@@ -376,17 +376,17 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 476541,
-    "nb_bulletins_rejetes": 12364,
-    "taux_participation": 43.24,
+    "nb_total_voix_recueillies": 476589,
+    "nb_bulletins_rejetes": 12420,
+    "taux_participation": 43.25,
     "nb_bureaux_depouilles": 4539,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 149120,
-        "nb_voix_majorite": 26269,
+        "nb_voix_obtenues": 149114,
+        "nb_voix_majorite": 26263,
         "parti": 7
       },
       {
@@ -399,28 +399,28 @@
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 118509,
+        "nb_voix_obtenues": 118515,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 59316,
+        "nb_voix_obtenues": 59306,
         "nb_voix_majorite": 0,
         "parti": 1
       },
       {
         "nom": "BRÛLÉ",
         "prenom": "Michel",
-        "nb_voix_obtenues": 6354,
+        "nb_voix_obtenues": 6353,
         "nb_voix_majorite": 0,
         "parti": 11
       },
       {
         "nom": "TULASNE",
         "prenom": "Patricia",
-        "nb_voix_obtenues": 2557,
+        "nb_voix_obtenues": 2560,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -2535,10 +2535,10 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement de Montréal-Nord",
       "nb_electeurs_inscrits": "52007",
-      "nb_total_voix_recueillies": "19835",
-      "nb_bulletins_rejetes": "1241",
-      "taux_participation": "38.14",
-      "nb_bureaux_depouilles": "212",
+      "nb_total_voix_recueillies": "19969",
+      "nb_bulletins_rejetes": "1249",
+      "taux_participation": "38.40",
+      "nb_bureaux_depouilles": "213",
       "nb_bureaux_total": "213",
       "candidats": [
         {
@@ -2546,15 +2546,15 @@
           "parti": 7,
           "nom": "DEGUIRE",
           "prenom": "Gilles",
-          "nb_voix_obtenues": "12070",
-          "nb_voix_majorite": "8182"
+          "nb_voix_obtenues": "12156",
+          "nb_voix_majorite": "8244"
         },
         {
           "id": 207,
           "parti": 1,
           "nom": "RYAN",
           "prenom": "Guy",
-          "nb_voix_obtenues": "3888",
+          "nb_voix_obtenues": "3912",
           "nb_voix_majorite": null
         },
         {
@@ -2562,7 +2562,7 @@
           "parti": 13,
           "nom": "BOIVIN",
           "prenom": "Suzanne",
-          "nb_voix_obtenues": "2636",
+          "nb_voix_obtenues": "2652",
           "nb_voix_majorite": null
         }
       ]
@@ -2574,9 +2574,9 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral de Marie-Clarac ",
       "nb_electeurs_inscrits": "27391",
-      "nb_total_voix_recueillies": "10672",
+      "nb_total_voix_recueillies": "10674",
       "nb_bulletins_rejetes": "731",
-      "taux_participation": "38.96",
+      "taux_participation": "38.97",
       "nb_bureaux_depouilles": "115",
       "nb_bureaux_total": "115",
       "candidats": [
@@ -2586,14 +2586,14 @@
           "nom": "ROSSI",
           "prenom": "Chantal",
           "nb_voix_obtenues": "6292",
-          "nb_voix_majorite": "4169"
+          "nb_voix_majorite": "4172"
         },
         {
           "id": 208,
           "parti": 1,
           "nom": "ALLAIRE",
           "prenom": "Michelle",
-          "nb_voix_obtenues": "2123",
+          "nb_voix_obtenues": "2120",
           "nb_voix_majorite": null
         },
         {
@@ -2601,7 +2601,7 @@
           "parti": 13,
           "nom": "COHEN",
           "prenom": "Andrea",
-          "nb_voix_obtenues": "1526",
+          "nb_voix_obtenues": "1531",
           "nb_voix_majorite": null
         }
       ]
@@ -2613,9 +2613,9 @@
       "type": "CA",
       "nom": "Conseiller d'arrondissement - District électoral de Marie-Clarac",
       "nb_electeurs_inscrits": "27391",
-      "nb_total_voix_recueillies": "10678",
+      "nb_total_voix_recueillies": "10685",
       "nb_bulletins_rejetes": "766",
-      "taux_participation": "38.98",
+      "taux_participation": "39.01",
       "nb_bureaux_depouilles": "115",
       "nb_bureaux_total": "115",
       "candidats": [
@@ -2624,8 +2624,8 @@
           "parti": 7,
           "nom": "RICOURT",
           "prenom": "Monica",
-          "nb_voix_obtenues": "6167",
-          "nb_voix_majorite": "4368"
+          "nb_voix_obtenues": "6172",
+          "nb_voix_majorite": "4373"
         },
         {
           "id": 214,
@@ -2640,7 +2640,7 @@
           "parti": 13,
           "nom": "NELSON",
           "prenom": "David",
-          "nb_voix_obtenues": "1502",
+          "nb_voix_obtenues": "1504",
           "nb_voix_majorite": null
         },
         {
@@ -2660,7 +2660,7 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral d'Ovide-Clermont",
       "nb_electeurs_inscrits": "24616",
-      "nb_total_voix_recueillies": "9289",
+      "nb_total_voix_recueillies": "9291",
       "nb_bulletins_rejetes": "458",
       "taux_participation": "37.74",
       "nb_bureaux_depouilles": "98",
@@ -2671,8 +2671,8 @@
           "parti": 7,
           "nom": "CODERRE",
           "prenom": "Denis",
-          "nb_voix_obtenues": "6376",
-          "nb_voix_majorite": "5278"
+          "nb_voix_obtenues": "6411",
+          "nb_voix_majorite": "5313"
         },
         {
           "id": 216,
@@ -2695,7 +2695,7 @@
           "parti": -1,
           "nom": "BELINGA",
           "prenom": "Renée-Chantal",
-          "nb_voix_obtenues": "452",
+          "nb_voix_obtenues": "419",
           "nb_voix_majorite": null
         }
       ]
@@ -2856,9 +2856,9 @@
       "type": "CA",
       "nom": "Conseiller d'arrondissement - District électoral de Joseph-Beaubien",
       "nb_electeurs_inscrits": "4161",
-      "nb_total_voix_recueillies": "2586",
+      "nb_total_voix_recueillies": "2584",
       "nb_bulletins_rejetes": "46",
-      "taux_participation": "62.15",
+      "taux_participation": "62.10",
       "nb_bureaux_depouilles": "18",
       "nb_bureaux_total": "18",
       "candidats": [
@@ -2883,7 +2883,7 @@
           "parti": 5,
           "nom": "NEPVEU",
           "prenom": "Bertrand",
-          "nb_voix_obtenues": "478",
+          "nb_voix_obtenues": "476",
           "nb_voix_majorite": null
         },
         {
@@ -3617,8 +3617,8 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement de Rivière-des-Prairies–Pointe-aux-Trembles",
       "nb_electeurs_inscrits": "78909",
-      "nb_total_voix_recueillies": "33546",
-      "nb_bulletins_rejetes": "2059",
+      "nb_total_voix_recueillies": "33547",
+      "nb_bulletins_rejetes": "2058",
       "taux_participation": "42.51",
       "nb_bureaux_depouilles": "332",
       "nb_bureaux_total": "332",
@@ -3628,7 +3628,7 @@
           "parti": 7,
           "nom": "ROULEAU",
           "prenom": "Chantal",
-          "nb_voix_obtenues": "20755",
+          "nb_voix_obtenues": "20756",
           "nb_voix_majorite": "14986"
         },
         {
@@ -3636,7 +3636,7 @@
           "parti": 13,
           "nom": "DELLA VALLE",
           "prenom": "Romeo",
-          "nb_voix_obtenues": "5769",
+          "nb_voix_obtenues": "5770",
           "nb_voix_majorite": null
         },
         {
@@ -3656,7 +3656,7 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral de La Pointe-aux-Prairies",
       "nb_electeurs_inscrits": "29639",
-      "nb_total_voix_recueillies": "12472",
+      "nb_total_voix_recueillies": "12473",
       "nb_bulletins_rejetes": "828",
       "taux_participation": "42.08",
       "nb_bureaux_depouilles": "124",
@@ -3683,7 +3683,7 @@
           "parti": 13,
           "nom": "THERRIEN",
           "prenom": "Paul",
-          "nb_voix_obtenues": "2396",
+          "nb_voix_obtenues": "2397",
           "nb_voix_majorite": null
         }
       ]
@@ -3742,8 +3742,8 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral de Pointe-aux-Trembles",
       "nb_electeurs_inscrits": "24469",
-      "nb_total_voix_recueillies": "11489",
-      "nb_bulletins_rejetes": "645",
+      "nb_total_voix_recueillies": "11488",
+      "nb_bulletins_rejetes": "644",
       "taux_participation": "46.95",
       "nb_bureaux_depouilles": "101",
       "nb_bureaux_total": "101",
