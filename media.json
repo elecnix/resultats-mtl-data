@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T19:27:17",
+  "date_heure_generation": "2013-11-04T19:29:17",
   "partis": [
     {
       "id": 7,
@@ -3005,9 +3005,9 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement de Pierrefonds-Roxboro",
       "nb_electeurs_inscrits": "46492",
-      "nb_total_voix_recueillies": "15971",
-      "nb_bulletins_rejetes": "407",
-      "taux_participation": "34.35",
+      "nb_total_voix_recueillies": "16182",
+      "nb_bulletins_rejetes": "411",
+      "taux_participation": "34.81",
       "nb_bureaux_depouilles": "188",
       "nb_bureaux_total": "188",
       "candidats": [
@@ -3016,15 +3016,15 @@
           "parti": 7,
           "nom": "BEIS",
           "prenom": "Dimitrios (Jim)",
-          "nb_voix_obtenues": "5174",
-          "nb_voix_majorite": "498"
+          "nb_voix_obtenues": "5276",
+          "nb_voix_majorite": "557"
         },
         {
           "id": 248,
           "parti": 14,
           "nom": "METWALLI",
           "prenom": "Karim",
-          "nb_voix_obtenues": "4676",
+          "nb_voix_obtenues": "4719",
           "nb_voix_majorite": null
         },
         {
@@ -3032,7 +3032,7 @@
           "parti": 13,
           "nom": "LABELLE",
           "prenom": "Michael",
-          "nb_voix_obtenues": "3607",
+          "nb_voix_obtenues": "3638",
           "nb_voix_majorite": null
         },
         {
@@ -3040,7 +3040,7 @@
           "parti": 1,
           "nom": "DUBOIS",
           "prenom": "Christian G.",
-          "nb_voix_obtenues": "2107",
+          "nb_voix_obtenues": "2138",
           "nb_voix_majorite": null
         }
       ]
