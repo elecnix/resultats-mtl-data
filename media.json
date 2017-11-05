@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T11:11:17",
+  "date_heure_generation": "2013-11-04T11:13:23",
   "partis": [
     {
       "id": 7,
@@ -469,10 +469,10 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement d'Ahuntsic-Cartierville",
       "nb_electeurs_inscrits": "84524",
-      "nb_total_voix_recueillies": "39043",
-      "nb_bulletins_rejetes": "1264",
-      "taux_participation": "46.19",
-      "nb_bureaux_depouilles": "325",
+      "nb_total_voix_recueillies": "39112",
+      "nb_bulletins_rejetes": "1266",
+      "taux_participation": "46.27",
+      "nb_bureaux_depouilles": "326",
       "nb_bureaux_total": "335",
       "candidats": [
         {
@@ -480,15 +480,15 @@
           "parti": 7,
           "nom": "GAGNIER",
           "prenom": "Pierre",
-          "nb_voix_obtenues": "11445",
-          "nb_voix_majorite": "1225"
+          "nb_voix_obtenues": "11476",
+          "nb_voix_majorite": "1240"
         },
         {
           "id": 19,
           "parti": 13,
           "nom": "BASTIEN",
           "prenom": "Pierre",
-          "nb_voix_obtenues": "10220",
+          "nb_voix_obtenues": "10236",
           "nb_voix_majorite": null
         },
         {
@@ -496,7 +496,7 @@
           "parti": 14,
           "nom": "BELLELI",
           "prenom": "Hasmig",
-          "nb_voix_obtenues": "8768",
+          "nb_voix_obtenues": "8784",
           "nb_voix_majorite": null
         },
         {
@@ -504,7 +504,7 @@
           "parti": 1,
           "nom": "BRUNET",
           "prenom": "Etienne",
-          "nb_voix_obtenues": "6393",
+          "nb_voix_obtenues": "6396",
           "nb_voix_majorite": null
         },
         {
@@ -512,7 +512,7 @@
           "parti": 11,
           "nom": "ALLARD",
           "prenom": "Claude",
-          "nb_voix_obtenues": "953",
+          "nb_voix_obtenues": "954",
           "nb_voix_majorite": null
         }
       ]
