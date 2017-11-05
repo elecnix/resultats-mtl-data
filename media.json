@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T11:35:37",
+  "date_heure_generation": "2013-11-04T11:37:34",
   "partis": [
     {
       "id": 7,
@@ -376,44 +376,44 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 468730,
-    "nb_bulletins_rejetes": 12219,
-    "taux_participation": 42.53,
-    "nb_bureaux_depouilles": 4470,
+    "nb_total_voix_recueillies": 468968,
+    "nb_bulletins_rejetes": 12222,
+    "taux_participation": 42.56,
+    "nb_bureaux_depouilles": 4473,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 146361,
-        "nb_voix_majorite": 25450,
+        "nb_voix_obtenues": 146448,
+        "nb_voix_majorite": 25485,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 120911,
+        "nb_voix_obtenues": 120963,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 116940,
+        "nb_voix_obtenues": 117001,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 58191,
+        "nb_voix_obtenues": 58218,
         "nb_voix_majorite": 0,
         "parti": 1
       },
       {
         "nom": "BRÛLÉ",
         "prenom": "Michel",
-        "nb_voix_obtenues": 6221,
+        "nb_voix_obtenues": 6227,
         "nb_voix_majorite": 0,
         "parti": 11
       },
@@ -434,7 +434,7 @@
       {
         "nom": "BLAIS",
         "prenom": "Claude",
-        "nb_voix_obtenues": 1505,
+        "nb_voix_obtenues": 1507,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -4627,10 +4627,10 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement du Sud-Ouest",
       "nb_electeurs_inscrits": "51114",
-      "nb_total_voix_recueillies": "19680",
-      "nb_bulletins_rejetes": "665",
-      "taux_participation": "38.50",
-      "nb_bureaux_depouilles": "216",
+      "nb_total_voix_recueillies": "19731",
+      "nb_bulletins_rejetes": "670",
+      "taux_participation": "38.60",
+      "nb_bureaux_depouilles": "217",
       "nb_bureaux_total": "224",
       "candidats": [
         {
@@ -4638,15 +4638,15 @@
           "parti": 1,
           "nom": "DORAIS",
           "prenom": "Benoit",
-          "nb_voix_obtenues": "5206",
-          "nb_voix_majorite": "64"
+          "nb_voix_obtenues": "5221",
+          "nb_voix_majorite": "71"
         },
         {
           "id": 387,
           "parti": 13,
           "nom": "PRINCE",
           "prenom": "Jason",
-          "nb_voix_obtenues": "5142",
+          "nb_voix_obtenues": "5150",
           "nb_voix_majorite": null
         },
         {
@@ -4654,7 +4654,7 @@
           "parti": 14,
           "nom": "FILIATRAULT",
           "prenom": "Cindy",
-          "nb_voix_obtenues": "4700",
+          "nb_voix_obtenues": "4712",
           "nb_voix_majorite": null
         },
         {
@@ -4662,7 +4662,7 @@
           "parti": 7,
           "nom": "RIVÈS",
           "prenom": "Sylvia M.",
-          "nb_voix_obtenues": "3967",
+          "nb_voix_obtenues": "3978",
           "nb_voix_majorite": null
         }
       ]
