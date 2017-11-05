@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T17:36:42",
+  "date_heure_generation": "2013-11-04T17:38:40",
   "partis": [
     {
       "id": 7,
@@ -3742,10 +3742,10 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral de Pointe-aux-Trembles",
       "nb_electeurs_inscrits": "24469",
-      "nb_total_voix_recueillies": "11488",
-      "nb_bulletins_rejetes": "644",
-      "taux_participation": "46.95",
-      "nb_bureaux_depouilles": "101",
+      "nb_total_voix_recueillies": "11346",
+      "nb_bulletins_rejetes": "638",
+      "taux_participation": "46.37",
+      "nb_bureaux_depouilles": "100",
       "nb_bureaux_total": "101",
       "candidats": [
         {
@@ -3753,15 +3753,15 @@
           "parti": 7,
           "nom": "DÉCARIE",
           "prenom": "Suzanne",
-          "nb_voix_obtenues": "5902",
-          "nb_voix_majorite": "3614"
+          "nb_voix_obtenues": "5836",
+          "nb_voix_majorite": "3575"
         },
         {
           "id": 311,
           "parti": 13,
           "nom": "SURPRENANT",
           "prenom": "Hugues",
-          "nb_voix_obtenues": "2288",
+          "nb_voix_obtenues": "2261",
           "nb_voix_majorite": null
         },
         {
@@ -3769,7 +3769,7 @@
           "parti": 1,
           "nom": "LECLERC",
           "prenom": "Cindy",
-          "nb_voix_obtenues": "2046",
+          "nb_voix_obtenues": "2012",
           "nb_voix_majorite": null
         },
         {
@@ -3777,7 +3777,7 @@
           "parti": -1,
           "nom": "THÉORET",
           "prenom": "Yan",
-          "nb_voix_obtenues": "608",
+          "nb_voix_obtenues": "599",
           "nb_voix_majorite": null
         }
       ]
