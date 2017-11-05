@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T11:37:34",
+  "date_heure_generation": "2013-11-04T11:39:38",
   "partis": [
     {
       "id": 7,
@@ -376,51 +376,51 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 468968,
-    "nb_bulletins_rejetes": 12222,
-    "taux_participation": 42.56,
-    "nb_bureaux_depouilles": 4473,
+    "nb_total_voix_recueillies": 469389,
+    "nb_bulletins_rejetes": 12230,
+    "taux_participation": 42.59,
+    "nb_bureaux_depouilles": 4477,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 146448,
-        "nb_voix_majorite": 25485,
+        "nb_voix_obtenues": 146560,
+        "nb_voix_majorite": 25501,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 120963,
+        "nb_voix_obtenues": 121059,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 117001,
+        "nb_voix_obtenues": 117125,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 58218,
+        "nb_voix_obtenues": 58281,
         "nb_voix_majorite": 0,
         "parti": 1
       },
       {
         "nom": "BRÛLÉ",
         "prenom": "Michel",
-        "nb_voix_obtenues": 6227,
+        "nb_voix_obtenues": 6239,
         "nb_voix_majorite": 0,
         "parti": 11
       },
       {
         "nom": "TULASNE",
         "prenom": "Patricia",
-        "nb_voix_obtenues": 2511,
+        "nb_voix_obtenues": 2516,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -434,7 +434,7 @@
       {
         "nom": "BLAIS",
         "prenom": "Claude",
-        "nb_voix_obtenues": 1507,
+        "nb_voix_obtenues": 1508,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -3617,10 +3617,10 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement de Rivière-des-Prairies–Pointe-aux-Trembles",
       "nb_electeurs_inscrits": "78909",
-      "nb_total_voix_recueillies": "33056",
-      "nb_bulletins_rejetes": "2003",
-      "taux_participation": "41.89",
-      "nb_bureaux_depouilles": "327",
+      "nb_total_voix_recueillies": "33289",
+      "nb_bulletins_rejetes": "2023",
+      "taux_participation": "42.19",
+      "nb_bureaux_depouilles": "329",
       "nb_bureaux_total": "332",
       "candidats": [
         {
@@ -3628,15 +3628,15 @@
           "parti": 7,
           "nom": "ROULEAU",
           "prenom": "Chantal",
-          "nb_voix_obtenues": "20471",
-          "nb_voix_majorite": "14782"
+          "nb_voix_obtenues": "20606",
+          "nb_voix_majorite": "14881"
         },
         {
           "id": 299,
           "parti": 13,
           "nom": "DELLA VALLE",
           "prenom": "Romeo",
-          "nb_voix_obtenues": "5689",
+          "nb_voix_obtenues": "5725",
           "nb_voix_majorite": null
         },
         {
@@ -3644,7 +3644,7 @@
           "parti": 1,
           "nom": "TAYLOR",
           "prenom": "Michel",
-          "nb_voix_obtenues": "4893",
+          "nb_voix_obtenues": "4935",
           "nb_voix_majorite": null
         }
       ]
@@ -3875,10 +3875,10 @@
       "type": "CA",
       "nom": "Conseiller d'arrondissement - District électoral de Rivière-des-Prairies",
       "nb_electeurs_inscrits": "24801",
-      "nb_total_voix_recueillies": "9275",
-      "nb_bulletins_rejetes": "498",
-      "taux_participation": "37.40",
-      "nb_bureaux_depouilles": "103",
+      "nb_total_voix_recueillies": "9357",
+      "nb_bulletins_rejetes": "504",
+      "taux_participation": "37.73",
+      "nb_bureaux_depouilles": "104",
       "nb_bureaux_total": "107",
       "candidats": [
         {
@@ -3886,15 +3886,15 @@
           "parti": 7,
           "nom": "PIERRE-ANTOINE",
           "prenom": "Nathalie",
-          "nb_voix_obtenues": "5131",
-          "nb_voix_majorite": "3586"
+          "nb_voix_obtenues": "5177",
+          "nb_voix_majorite": "3620"
         },
         {
           "id": 321,
           "parti": 14,
           "nom": "CHIAZZESE",
           "prenom": "Gianni",
-          "nb_voix_obtenues": "1545",
+          "nb_voix_obtenues": "1557",
           "nb_voix_majorite": null
         },
         {
@@ -3902,7 +3902,7 @@
           "parti": 1,
           "nom": "CARUSO",
           "prenom": "Danny",
-          "nb_voix_obtenues": "1072",
+          "nb_voix_obtenues": "1080",
           "nb_voix_majorite": null
         },
         {
@@ -3910,7 +3910,7 @@
           "parti": 13,
           "nom": "HOMBRADOS",
           "prenom": "Steven",
-          "nb_voix_obtenues": "853",
+          "nb_voix_obtenues": "863",
           "nb_voix_majorite": null
         },
         {
@@ -5319,10 +5319,10 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral de Peter-McGill",
       "nb_electeurs_inscrits": "17243",
-      "nb_total_voix_recueillies": "5039",
+      "nb_total_voix_recueillies": "5088",
       "nb_bulletins_rejetes": "114",
-      "taux_participation": "29.22",
-      "nb_bureaux_depouilles": "66",
+      "taux_participation": "29.51",
+      "nb_bureaux_depouilles": "67",
       "nb_bureaux_total": "67",
       "candidats": [
         {
@@ -5330,15 +5330,15 @@
           "parti": 14,
           "nom": "SHANAHAN",
           "prenom": "Steve",
-          "nb_voix_obtenues": "1856",
-          "nb_voix_majorite": "516"
+          "nb_voix_obtenues": "1865",
+          "nb_voix_majorite": "499"
         },
         {
           "id": 450,
           "parti": 7,
           "nom": "SILÈS",
           "prenom": "Damien",
-          "nb_voix_obtenues": "1340",
+          "nb_voix_obtenues": "1366",
           "nb_voix_majorite": null
         },
         {
@@ -5346,7 +5346,7 @@
           "parti": 1,
           "nom": "TRUDEAU",
           "prenom": "Nicole",
-          "nb_voix_obtenues": "947",
+          "nb_voix_obtenues": "959",
           "nb_voix_majorite": null
         },
         {
@@ -5354,7 +5354,7 @@
           "parti": 13,
           "nom": "ZOUBRIS",
           "prenom": "Jimmy",
-          "nb_voix_obtenues": "782",
+          "nb_voix_obtenues": "784",
           "nb_voix_majorite": null
         }
       ]
