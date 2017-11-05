@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T16:40:44",
+  "date_heure_generation": "2013-11-04T16:42:38",
   "partis": [
     {
       "id": 7,
@@ -376,37 +376,37 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 476536,
-    "nb_bulletins_rejetes": 12419,
-    "taux_participation": 43.24,
-    "nb_bureaux_depouilles": 4538,
+    "nb_total_voix_recueillies": 476600,
+    "nb_bulletins_rejetes": 12420,
+    "taux_participation": 43.25,
+    "nb_bureaux_depouilles": 4539,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 149110,
-        "nb_voix_majorite": 26281,
+        "nb_voix_obtenues": 149122,
+        "nb_voix_majorite": 26271,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 122829,
+        "nb_voix_obtenues": 122851,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 118503,
+        "nb_voix_obtenues": 118518,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 59294,
+        "nb_voix_obtenues": 59306,
         "nb_voix_majorite": 0,
         "parti": 1
       },
@@ -427,14 +427,14 @@
       {
         "nom": "HAMIDA",
         "prenom": "Louai",
-        "nb_voix_obtenues": 1562,
+        "nb_voix_obtenues": 1563,
         "nb_voix_majorite": 0,
         "parti": -1
       },
       {
         "nom": "BLAIS",
         "prenom": "Claude",
-        "nb_voix_obtenues": 1554,
+        "nb_voix_obtenues": 1555,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -4173,10 +4173,10 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement de Saint-Laurent ",
       "nb_electeurs_inscrits": "58554",
-      "nb_total_voix_recueillies": "21003",
-      "nb_bulletins_rejetes": "638",
-      "taux_participation": "35.87",
-      "nb_bureaux_depouilles": "238",
+      "nb_total_voix_recueillies": "20954",
+      "nb_bulletins_rejetes": "634",
+      "taux_participation": "35.79",
+      "nb_bureaux_depouilles": "237",
       "nb_bureaux_total": "238",
       "candidats": [
         {
@@ -4184,15 +4184,15 @@
           "parti": 7,
           "nom": "DESOUSA",
           "prenom": "Alan",
-          "nb_voix_obtenues": "10899",
-          "nb_voix_majorite": "5060"
+          "nb_voix_obtenues": "10864",
+          "nb_voix_majorite": "5031"
         },
         {
           "id": 349,
           "parti": 14,
           "nom": "GHALI",
           "prenom": "François",
-          "nb_voix_obtenues": "5839",
+          "nb_voix_obtenues": "5833",
           "nb_voix_majorite": null
         },
         {
@@ -4200,7 +4200,7 @@
           "parti": 13,
           "nom": "FAYAD",
           "prenom": "William",
-          "nb_voix_obtenues": "2254",
+          "nb_voix_obtenues": "2250",
           "nb_voix_majorite": null
         },
         {
@@ -4322,7 +4322,7 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral de Norman-McLaren",
       "nb_electeurs_inscrits": "27584",
-      "nb_total_voix_recueillies": "9923",
+      "nb_total_voix_recueillies": "9921",
       "nb_bulletins_rejetes": "431",
       "taux_participation": "35.97",
       "nb_bureaux_depouilles": "117",
@@ -4334,14 +4334,14 @@
           "nom": "SALEM",
           "prenom": "Aref",
           "nb_voix_obtenues": "4294",
-          "nb_voix_majorite": "1301"
+          "nb_voix_majorite": "1303"
         },
         {
           "id": 362,
           "parti": 14,
           "nom": "TANNOUS",
           "prenom": "Mélanie",
-          "nb_voix_obtenues": "2993",
+          "nb_voix_obtenues": "2991",
           "nb_voix_majorite": null
         },
         {
