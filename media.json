@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T12:43:49",
+  "date_heure_generation": "2013-11-04T12:45:49",
   "partis": [
     {
       "id": 7,
@@ -1513,10 +1513,10 @@
       "type": "CA",
       "nom": "Conseiller d'arrondissement - District électoral du Fort-Rolland ",
       "nb_electeurs_inscrits": "10376",
-      "nb_total_voix_recueillies": "5147",
-      "nb_bulletins_rejetes": "146",
-      "taux_participation": "49.60",
-      "nb_bureaux_depouilles": "44",
+      "nb_total_voix_recueillies": "5230",
+      "nb_bulletins_rejetes": "147",
+      "taux_participation": "50.40",
+      "nb_bureaux_depouilles": "45",
       "nb_bureaux_total": "46",
       "candidats": [
         {
@@ -1524,15 +1524,15 @@
           "parti": 6,
           "nom": "SIMONYIK",
           "prenom": "Kymberley",
-          "nb_voix_obtenues": "1588",
-          "nb_voix_majorite": "118"
+          "nb_voix_obtenues": "1614",
+          "nb_voix_majorite": "121"
         },
         {
           "id": 114,
           "parti": 13,
           "nom": "LEVASSEUR",
           "prenom": "Julie",
-          "nb_voix_obtenues": "1470",
+          "nb_voix_obtenues": "1493",
           "nb_voix_majorite": null
         },
         {
@@ -1540,7 +1540,7 @@
           "parti": 1,
           "nom": "DURANTE",
           "prenom": "Mario",
-          "nb_voix_obtenues": "725",
+          "nb_voix_obtenues": "730",
           "nb_voix_majorite": null
         },
         {
@@ -1548,7 +1548,7 @@
           "parti": 7,
           "nom": "GIRARD",
           "prenom": "Jean-François",
-          "nb_voix_obtenues": "524",
+          "nb_voix_obtenues": "534",
           "nb_voix_majorite": null
         },
         {
@@ -1556,7 +1556,7 @@
           "parti": -1,
           "nom": "LEJEUNE",
           "prenom": "Christian",
-          "nb_voix_obtenues": "448",
+          "nb_voix_obtenues": "463",
           "nb_voix_majorite": null
         },
         {
@@ -1564,7 +1564,7 @@
           "parti": -1,
           "nom": "NOËL",
           "prenom": "Pierre",
-          "nb_voix_obtenues": "139",
+          "nb_voix_obtenues": "141",
           "nb_voix_majorite": null
         },
         {
@@ -1572,7 +1572,7 @@
           "parti": -1,
           "nom": "POWELL",
           "prenom": "Patrick",
-          "nb_voix_obtenues": "107",
+          "nb_voix_obtenues": "108",
           "nb_voix_majorite": null
         }
       ]
