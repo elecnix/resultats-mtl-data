@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T14:55:58",
+  "date_heure_generation": "2013-11-04T14:57:57",
   "partis": [
     {
       "id": 7,
@@ -995,10 +995,10 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement de Côte-des-Neiges–Notre-Dame-de-Grâce ",
       "nb_electeurs_inscrits": "94587",
-      "nb_total_voix_recueillies": "36371",
-      "nb_bulletins_rejetes": "1003",
-      "taux_participation": "38.45",
-      "nb_bureaux_depouilles": "369",
+      "nb_total_voix_recueillies": "36522",
+      "nb_bulletins_rejetes": "1006",
+      "taux_participation": "38.61",
+      "nb_bureaux_depouilles": "370",
       "nb_bureaux_total": "372",
       "candidats": [
         {
@@ -1006,15 +1006,15 @@
           "parti": 1,
           "nom": "COPEMAN",
           "prenom": "Russell",
-          "nb_voix_obtenues": "10439",
-          "nb_voix_majorite": "1152"
+          "nb_voix_obtenues": "10462",
+          "nb_voix_majorite": "1146"
         },
         {
           "id": 68,
           "parti": 13,
           "nom": "SIMKIN",
           "prenom": "Michael",
-          "nb_voix_obtenues": "9287",
+          "nb_voix_obtenues": "9316",
           "nb_voix_majorite": null
         },
         {
@@ -1022,7 +1022,7 @@
           "parti": 14,
           "nom": "ROSS",
           "prenom": "Andrew",
-          "nb_voix_obtenues": "7854",
+          "nb_voix_obtenues": "7894",
           "nb_voix_majorite": null
         },
         {
@@ -1030,7 +1030,7 @@
           "parti": 7,
           "nom": "COPPS",
           "prenom": "Kevin",
-          "nb_voix_obtenues": "7788",
+          "nb_voix_obtenues": "7844",
           "nb_voix_majorite": null
         }
       ]
