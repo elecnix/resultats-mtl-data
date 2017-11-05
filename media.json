@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T11:07:07",
+  "date_heure_generation": "2013-11-04T11:09:10",
   "partis": [
     {
       "id": 7,
@@ -376,44 +376,44 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 465661,
-    "nb_bulletins_rejetes": 12125,
-    "taux_participation": 42.26,
-    "nb_bureaux_depouilles": 4443,
+    "nb_total_voix_recueillies": 465962,
+    "nb_bulletins_rejetes": 12137,
+    "taux_participation": 42.28,
+    "nb_bureaux_depouilles": 4446,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 145367,
-        "nb_voix_majorite": 25364,
+        "nb_voix_obtenues": 145436,
+        "nb_voix_majorite": 25310,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 120003,
+        "nb_voix_obtenues": 120126,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 116295,
+        "nb_voix_obtenues": 116355,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 57876,
+        "nb_voix_obtenues": 57899,
         "nb_voix_majorite": 0,
         "parti": 1
       },
       {
         "nom": "BRÛLÉ",
         "prenom": "Michel",
-        "nb_voix_obtenues": 6167,
+        "nb_voix_obtenues": 6171,
         "nb_voix_majorite": 0,
         "parti": 11
       },
@@ -427,21 +427,21 @@
       {
         "nom": "HAMIDA",
         "prenom": "Louai",
-        "nb_voix_obtenues": 1546,
+        "nb_voix_obtenues": 1548,
         "nb_voix_majorite": 0,
         "parti": -1
       },
       {
         "nom": "BLAIS",
         "prenom": "Claude",
-        "nb_voix_obtenues": 1490,
+        "nb_voix_obtenues": 1494,
         "nb_voix_majorite": 0,
         "parti": -1
       },
       {
         "nom": "YOUNG",
         "prenom": "Joseph",
-        "nb_voix_obtenues": 1086,
+        "nb_voix_obtenues": 1087,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -455,7 +455,7 @@
       {
         "nom": "SAURIOL",
         "prenom": "Clément",
-        "nb_voix_obtenues": 548,
+        "nb_voix_obtenues": 551,
         "nb_voix_majorite": 0,
         "parti": -1
       }
@@ -1584,8 +1584,8 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement de LaSalle",
       "nb_electeurs_inscrits": "51562",
-      "nb_total_voix_recueillies": "19796",
-      "nb_bulletins_rejetes": "656",
+      "nb_total_voix_recueillies": "19797",
+      "nb_bulletins_rejetes": "657",
       "taux_participation": "38.39",
       "nb_bureaux_depouilles": "233",
       "nb_bureaux_total": "236",
