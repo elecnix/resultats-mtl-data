@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T14:13:47",
+  "date_heure_generation": "2013-11-04T14:15:47",
   "partis": [
     {
       "id": 7,
@@ -807,10 +807,10 @@
       "type": "CV",
       "nom": "Conseiller de la ville arrondissement d'Anjou",
       "nb_electeurs_inscrits": "29172",
-      "nb_total_voix_recueillies": "14105",
-      "nb_bulletins_rejetes": "584",
-      "taux_participation": "48.35",
-      "nb_bureaux_depouilles": "127",
+      "nb_total_voix_recueillies": "14193",
+      "nb_bulletins_rejetes": "588",
+      "taux_participation": "48.65",
+      "nb_bureaux_depouilles": "128",
       "nb_bureaux_total": "130",
       "candidats": [
         {
@@ -818,15 +818,15 @@
           "parti": 3,
           "nom": "HÉNAULT",
           "prenom": "Andrée",
-          "nb_voix_obtenues": "7269",
-          "nb_voix_majorite": "4054"
+          "nb_voix_obtenues": "7320",
+          "nb_voix_majorite": "4095"
         },
         {
           "id": 50,
           "parti": 7,
           "nom": "HARIRI",
           "prenom": "Youssef",
-          "nb_voix_obtenues": "3215",
+          "nb_voix_obtenues": "3225",
           "nb_voix_majorite": null
         },
         {
@@ -834,7 +834,7 @@
           "parti": 13,
           "nom": "ATTARD",
           "prenom": "Daniel",
-          "nb_voix_obtenues": "1930",
+          "nb_voix_obtenues": "1942",
           "nb_voix_majorite": null
         },
         {
@@ -842,7 +842,7 @@
           "parti": 1,
           "nom": "WATSON-MOREAU",
           "prenom": "Charlotte",
-          "nb_voix_obtenues": "1107",
+          "nb_voix_obtenues": "1118",
           "nb_voix_majorite": null
         }
       ]
@@ -2276,10 +2276,10 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement de Mercier–Hochelaga-Maisonneuve",
       "nb_electeurs_inscrits": "96729",
-      "nb_total_voix_recueillies": "42566",
-      "nb_bulletins_rejetes": "2014",
-      "taux_participation": "44.01",
-      "nb_bureaux_depouilles": "378",
+      "nb_total_voix_recueillies": "42694",
+      "nb_bulletins_rejetes": "2027",
+      "taux_participation": "44.14",
+      "nb_bureaux_depouilles": "379",
       "nb_bureaux_total": "381",
       "candidats": [
         {
@@ -2287,15 +2287,15 @@
           "parti": 1,
           "nom": "MÉNARD",
           "prenom": "Réal",
-          "nb_voix_obtenues": "14716",
-          "nb_voix_majorite": "1940"
+          "nb_voix_obtenues": "14750",
+          "nb_voix_majorite": "1944"
         },
         {
           "id": 183,
           "parti": 13,
           "nom": "LESSARD-BLAIS",
           "prenom": "Pierre",
-          "nb_voix_obtenues": "12776",
+          "nb_voix_obtenues": "12806",
           "nb_voix_majorite": null
         },
         {
@@ -2303,7 +2303,7 @@
           "parti": 7,
           "nom": "POULIN",
           "prenom": "Daniel",
-          "nb_voix_obtenues": "9979",
+          "nb_voix_obtenues": "10020",
           "nb_voix_majorite": null
         },
         {
@@ -2311,7 +2311,7 @@
           "parti": 11,
           "nom": "CANUEL",
           "prenom": "Serge",
-          "nb_voix_obtenues": "3081",
+          "nb_voix_obtenues": "3091",
           "nb_voix_majorite": null
         }
       ]
