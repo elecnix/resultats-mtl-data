@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T01:12:12",
+  "date_heure_generation": "2013-11-04T01:14:16",
   "partis": [
     {
       "id": 7,
@@ -376,65 +376,65 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 450092,
-    "nb_bulletins_rejetes": 11707,
-    "taux_participation": 40.84,
-    "nb_bureaux_depouilles": 4334,
+    "nb_total_voix_recueillies": 450420,
+    "nb_bulletins_rejetes": 11736,
+    "taux_participation": 40.87,
+    "nb_bureaux_depouilles": 4337,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 139637,
-        "nb_voix_majorite": 23551,
+        "nb_voix_obtenues": 139752,
+        "nb_voix_majorite": 23593,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 116086,
+        "nb_voix_obtenues": 116159,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 113127,
+        "nb_voix_obtenues": 113190,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 56115,
+        "nb_voix_obtenues": 56154,
         "nb_voix_majorite": 0,
         "parti": 1
       },
       {
         "nom": "BRÛLÉ",
         "prenom": "Michel",
-        "nb_voix_obtenues": 5950,
+        "nb_voix_obtenues": 5955,
         "nb_voix_majorite": 0,
         "parti": 11
       },
       {
         "nom": "TULASNE",
         "prenom": "Patricia",
-        "nb_voix_obtenues": 2390,
+        "nb_voix_obtenues": 2392,
         "nb_voix_majorite": 0,
         "parti": -1
       },
       {
         "nom": "HAMIDA",
         "prenom": "Louai",
-        "nb_voix_obtenues": 1450,
+        "nb_voix_obtenues": 1451,
         "nb_voix_majorite": 0,
         "parti": -1
       },
       {
         "nom": "BLAIS",
         "prenom": "Claude",
-        "nb_voix_obtenues": 1425,
+        "nb_voix_obtenues": 1426,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -4588,10 +4588,10 @@
       "type": "CA",
       "nom": "Conseiller d'arrondissement - District électoral de Saint-Léonard-Ouest",
       "nb_electeurs_inscrits": "27130",
-      "nb_total_voix_recueillies": "9263",
-      "nb_bulletins_rejetes": "772",
-      "taux_participation": "34.14",
-      "nb_bureaux_depouilles": "109",
+      "nb_total_voix_recueillies": "9328",
+      "nb_bulletins_rejetes": "777",
+      "taux_participation": "34.38",
+      "nb_bureaux_depouilles": "110",
       "nb_bureaux_total": "111",
       "candidats": [
         {
@@ -4599,15 +4599,15 @@
           "parti": 7,
           "nom": "BATTISTA",
           "prenom": "Mario",
-          "nb_voix_obtenues": "5623",
-          "nb_voix_majorite": "3992"
+          "nb_voix_obtenues": "5663",
+          "nb_voix_majorite": "4023"
         },
         {
           "id": 384,
           "parti": 13,
           "nom": "TARABORRELLI",
           "prenom": "Teresa",
-          "nb_voix_obtenues": "1631",
+          "nb_voix_obtenues": "1640",
           "nb_voix_majorite": null
         },
         {
@@ -4615,7 +4615,7 @@
           "parti": 1,
           "nom": "PANETTA",
           "prenom": "Orlando",
-          "nb_voix_obtenues": "1237",
+          "nb_voix_obtenues": "1248",
           "nb_voix_majorite": null
         }
       ]
@@ -4674,10 +4674,10 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral de Saint-Henri–La Petite-Bourgogne–Pointe-Saint-Charles",
       "nb_electeurs_inscrits": "29736",
-      "nb_total_voix_recueillies": "10118",
-      "nb_bulletins_rejetes": "299",
-      "taux_participation": "34.03",
-      "nb_bureaux_depouilles": "115",
+      "nb_total_voix_recueillies": "10204",
+      "nb_bulletins_rejetes": "300",
+      "taux_participation": "34.32",
+      "nb_bureaux_depouilles": "116",
       "nb_bureaux_total": "127",
       "candidats": [
         {
@@ -4685,15 +4685,15 @@
           "parti": 13,
           "nom": "SAUVÉ",
           "prenom": "Craig",
-          "nb_voix_obtenues": "2949",
-          "nb_voix_majorite": "444"
+          "nb_voix_obtenues": "2971",
+          "nb_voix_majorite": "441"
         },
         {
           "id": 389,
           "parti": 1,
           "nom": "FOURNIER",
           "prenom": "Véronique",
-          "nb_voix_obtenues": "2505",
+          "nb_voix_obtenues": "2530",
           "nb_voix_majorite": null
         },
         {
@@ -4701,7 +4701,7 @@
           "parti": 14,
           "nom": "KABEYA",
           "prenom": "Mudi Wa Mbuji Liévin",
-          "nb_voix_obtenues": "2278",
+          "nb_voix_obtenues": "2290",
           "nb_voix_majorite": null
         },
         {
@@ -4709,7 +4709,7 @@
           "parti": 7,
           "nom": "ROBERTSON",
           "prenom": "Derek",
-          "nb_voix_obtenues": "1871",
+          "nb_voix_obtenues": "1893",
           "nb_voix_majorite": null
         },
         {
@@ -4717,7 +4717,7 @@
           "parti": 11,
           "nom": "PERRIER",
           "prenom": "Patrice-Hans",
-          "nb_voix_obtenues": "216",
+          "nb_voix_obtenues": "220",
           "nb_voix_majorite": null
         }
       ]
@@ -4729,10 +4729,10 @@
       "type": "CA",
       "nom": "Conseiller d'arrondissement - District électoral de Saint-Henri–La Petite-Bourgogne–Pointe-Saint-Charles",
       "nb_electeurs_inscrits": "29736",
-      "nb_total_voix_recueillies": "9781",
-      "nb_bulletins_rejetes": "530",
-      "taux_participation": "32.89",
-      "nb_bureaux_depouilles": "111",
+      "nb_total_voix_recueillies": "9867",
+      "nb_bulletins_rejetes": "532",
+      "taux_participation": "33.18",
+      "nb_bureaux_depouilles": "112",
       "nb_bureaux_total": "127",
       "candidats": [
         {
@@ -4740,15 +4740,15 @@
           "parti": 13,
           "nom": "THIÉBAUT",
           "prenom": "Sophie",
-          "nb_voix_obtenues": "4347",
-          "nb_voix_majorite": "1719"
+          "nb_voix_obtenues": "4380",
+          "nb_voix_majorite": "1732"
         },
         {
           "id": 394,
           "parti": 1,
           "nom": "DE BONVILLE",
           "prenom": "Kristi",
-          "nb_voix_obtenues": "2628",
+          "nb_voix_obtenues": "2648",
           "nb_voix_majorite": null
         },
         {
@@ -4756,7 +4756,7 @@
           "parti": 7,
           "nom": "FRÉCHETTE",
           "prenom": "Pierre",
-          "nb_voix_obtenues": "2276",
+          "nb_voix_obtenues": "2307",
           "nb_voix_majorite": null
         }
       ]
