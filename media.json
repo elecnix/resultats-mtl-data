@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T18:57:16",
+  "date_heure_generation": "2013-11-04T18:59:17",
   "partis": [
     {
       "id": 7,
@@ -385,8 +385,8 @@
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 149105,
-        "nb_voix_majorite": 26215,
+        "nb_voix_obtenues": 149106,
+        "nb_voix_majorite": 26216,
         "parti": 7
       },
       {
@@ -406,7 +406,7 @@
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 59329,
+        "nb_voix_obtenues": 59328,
         "nb_voix_majorite": 0,
         "parti": 1
       },
@@ -2276,9 +2276,9 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement de Mercier–Hochelaga-Maisonneuve",
       "nb_electeurs_inscrits": "96729",
-      "nb_total_voix_recueillies": "43705",
-      "nb_bulletins_rejetes": "2078",
-      "taux_participation": "45.18",
+      "nb_total_voix_recueillies": "43708",
+      "nb_bulletins_rejetes": "2081",
+      "taux_participation": "45.19",
       "nb_bureaux_depouilles": "381",
       "nb_bureaux_total": "381",
       "candidats": [
@@ -2433,10 +2433,10 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral d'Hochelaga",
       "nb_electeurs_inscrits": "23755",
-      "nb_total_voix_recueillies": "9826",
-      "nb_bulletins_rejetes": "288",
-      "taux_participation": "41.36",
-      "nb_bureaux_depouilles": "93",
+      "nb_total_voix_recueillies": "9968",
+      "nb_bulletins_rejetes": "292",
+      "taux_participation": "41.96",
+      "nb_bureaux_depouilles": "94",
       "nb_bureaux_total": "94",
       "candidats": [
         {
@@ -2444,15 +2444,15 @@
           "parti": 13,
           "nom": "CALDWELL",
           "prenom": "Éric Alan",
-          "nb_voix_obtenues": "3352",
-          "nb_voix_majorite": "648"
+          "nb_voix_obtenues": "3408",
+          "nb_voix_majorite": "669"
         },
         {
           "id": 196,
           "parti": 1,
           "nom": "BLANCHARD",
           "prenom": "Laurent",
-          "nb_voix_obtenues": "2704",
+          "nb_voix_obtenues": "2739",
           "nb_voix_majorite": null
         },
         {
@@ -2460,7 +2460,7 @@
           "parti": 14,
           "nom": "ST-PIERRE",
           "prenom": "Mikael",
-          "nb_voix_obtenues": "1966",
+          "nb_voix_obtenues": "2003",
           "nb_voix_majorite": null
         },
         {
@@ -2468,7 +2468,7 @@
           "parti": 7,
           "nom": "CHARBONNEAU",
           "prenom": "Patrick",
-          "nb_voix_obtenues": "1239",
+          "nb_voix_obtenues": "1244",
           "nb_voix_majorite": null
         },
         {
@@ -2476,7 +2476,7 @@
           "parti": -1,
           "nom": "DONNELLY",
           "prenom": "Nicole",
-          "nb_voix_obtenues": "277",
+          "nb_voix_obtenues": "282",
           "nb_voix_majorite": null
         }
       ]
@@ -3930,10 +3930,10 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement de Rosemont–La Petite-Patrie",
       "nb_electeurs_inscrits": "96442",
-      "nb_total_voix_recueillies": "50133",
-      "nb_bulletins_rejetes": "1880",
-      "taux_participation": "51.98",
-      "nb_bureaux_depouilles": "382",
+      "nb_total_voix_recueillies": "50017",
+      "nb_bulletins_rejetes": "1876",
+      "taux_participation": "51.86",
+      "nb_bureaux_depouilles": "381",
       "nb_bureaux_total": "382",
       "candidats": [
         {
@@ -3941,15 +3941,15 @@
           "parti": 13,
           "nom": "CROTEAU",
           "prenom": "François W.",
-          "nb_voix_obtenues": "28698",
-          "nb_voix_majorite": "18178"
+          "nb_voix_obtenues": "28628",
+          "nb_voix_majorite": "18130"
         },
         {
           "id": 325,
           "parti": 7,
           "nom": "BRETON",
           "prenom": "Josselin",
-          "nb_voix_obtenues": "10520",
+          "nb_voix_obtenues": "10498",
           "nb_voix_majorite": null
         },
         {
@@ -3957,7 +3957,7 @@
           "parti": 1,
           "nom": "JOLIVET",
           "prenom": "Simon",
-          "nb_voix_obtenues": "6409",
+          "nb_voix_obtenues": "6395",
           "nb_voix_majorite": null
         },
         {
@@ -3965,7 +3965,7 @@
           "parti": 11,
           "nom": "SAINT-LOUIS",
           "prenom": "Jean",
-          "nb_voix_obtenues": "2626",
+          "nb_voix_obtenues": "2620",
           "nb_voix_majorite": null
         }
       ]
