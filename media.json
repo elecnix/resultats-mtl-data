@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T14:31:25",
+  "date_heure_generation": "2013-11-04T14:33:26",
   "partis": [
     {
       "id": 7,
@@ -376,51 +376,51 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 473644,
-    "nb_bulletins_rejetes": 12342,
-    "taux_participation": 42.98,
-    "nb_bureaux_depouilles": 4524,
+    "nb_total_voix_recueillies": 473856,
+    "nb_bulletins_rejetes": 12345,
+    "taux_participation": 43.0,
+    "nb_bureaux_depouilles": 4526,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 147992,
-        "nb_voix_majorite": 25857,
+        "nb_voix_obtenues": 148053,
+        "nb_voix_majorite": 25869,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 122135,
+        "nb_voix_obtenues": 122184,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 118071,
+        "nb_voix_obtenues": 118133,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 58845,
+        "nb_voix_obtenues": 58873,
         "nb_voix_majorite": 0,
         "parti": 1
       },
       {
         "nom": "BRÛLÉ",
         "prenom": "Michel",
-        "nb_voix_obtenues": 6296,
+        "nb_voix_obtenues": 6302,
         "nb_voix_majorite": 0,
         "parti": 11
       },
       {
         "nom": "TULASNE",
         "prenom": "Patricia",
-        "nb_voix_obtenues": 2536,
+        "nb_voix_obtenues": 2537,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -448,7 +448,7 @@
       {
         "nom": "SONOKPON",
         "prenom": "Kofi",
-        "nb_voix_obtenues": 680,
+        "nb_voix_obtenues": 682,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -1647,10 +1647,10 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral du Sault-Saint-Louis",
       "nb_electeurs_inscrits": "25660",
-      "nb_total_voix_recueillies": "11034",
-      "nb_bulletins_rejetes": "376",
-      "taux_participation": "43.00",
-      "nb_bureaux_depouilles": "117",
+      "nb_total_voix_recueillies": "11202",
+      "nb_bulletins_rejetes": "391",
+      "taux_participation": "43.66",
+      "nb_bureaux_depouilles": "118",
       "nb_bureaux_total": "119",
       "candidats": [
         {
@@ -1658,15 +1658,15 @@
           "parti": 4,
           "nom": "DESCHAMPS",
           "prenom": "Richard",
-          "nb_voix_obtenues": "3421",
-          "nb_voix_majorite": "1035"
+          "nb_voix_obtenues": "3518",
+          "nb_voix_majorite": "1092"
         },
         {
           "id": 126,
           "parti": 7,
           "nom": "D'AMBROSIO",
           "prenom": "Carlo",
-          "nb_voix_obtenues": "2386",
+          "nb_voix_obtenues": "2426",
           "nb_voix_majorite": null
         },
         {
@@ -1674,7 +1674,7 @@
           "parti": 14,
           "nom": "BENOIT",
           "prenom": "Michel",
-          "nb_voix_obtenues": "2257",
+          "nb_voix_obtenues": "2263",
           "nb_voix_majorite": null
         },
         {
@@ -1682,7 +1682,7 @@
           "parti": 13,
           "nom": "NIEDBALSKI",
           "prenom": "Monika",
-          "nb_voix_obtenues": "1126",
+          "nb_voix_obtenues": "1131",
           "nb_voix_majorite": null
         },
         {
@@ -1690,7 +1690,7 @@
           "parti": 1,
           "nom": "LUSSIER",
           "prenom": "Pierre",
-          "nb_voix_obtenues": "869",
+          "nb_voix_obtenues": "872",
           "nb_voix_majorite": null
         },
         {
@@ -1698,7 +1698,7 @@
           "parti": 12,
           "nom": "CATALANO",
           "prenom": "Frank",
-          "nb_voix_obtenues": "599",
+          "nb_voix_obtenues": "601",
           "nb_voix_majorite": null
         }
       ]
