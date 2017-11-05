@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T11:45:37",
+  "date_heure_generation": "2013-11-04T11:47:40",
   "partis": [
     {
       "id": 7,
@@ -376,65 +376,65 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 470152,
-    "nb_bulletins_rejetes": 12260,
-    "taux_participation": 42.66,
-    "nb_bureaux_depouilles": 4485,
+    "nb_total_voix_recueillies": 470508,
+    "nb_bulletins_rejetes": 12270,
+    "taux_participation": 42.7,
+    "nb_bureaux_depouilles": 4489,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 146801,
-        "nb_voix_majorite": 25527,
+        "nb_voix_obtenues": 146917,
+        "nb_voix_majorite": 25566,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 121274,
+        "nb_voix_obtenues": 121351,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 117244,
+        "nb_voix_obtenues": 117335,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 58400,
+        "nb_voix_obtenues": 58443,
         "nb_voix_majorite": 0,
         "parti": 1
       },
       {
         "nom": "BRÛLÉ",
         "prenom": "Michel",
-        "nb_voix_obtenues": 6263,
+        "nb_voix_obtenues": 6266,
         "nb_voix_majorite": 0,
         "parti": 11
       },
       {
         "nom": "TULASNE",
         "prenom": "Patricia",
-        "nb_voix_obtenues": 2520,
+        "nb_voix_obtenues": 2524,
         "nb_voix_majorite": 0,
         "parti": -1
       },
       {
         "nom": "HAMIDA",
         "prenom": "Louai",
-        "nb_voix_obtenues": 1561,
+        "nb_voix_obtenues": 1563,
         "nb_voix_majorite": 0,
         "parti": -1
       },
       {
         "nom": "BLAIS",
         "prenom": "Claude",
-        "nb_voix_obtenues": 1510,
+        "nb_voix_obtenues": 1515,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -448,7 +448,7 @@
       {
         "nom": "SONOKPON",
         "prenom": "Kofi",
-        "nb_voix_obtenues": 671,
+        "nb_voix_obtenues": 676,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -3930,10 +3930,10 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement de Rosemont–La Petite-Patrie",
       "nb_electeurs_inscrits": "96442",
-      "nb_total_voix_recueillies": "49645",
-      "nb_bulletins_rejetes": "1858",
-      "taux_participation": "51.48",
-      "nb_bureaux_depouilles": "378",
+      "nb_total_voix_recueillies": "49829",
+      "nb_bulletins_rejetes": "1863",
+      "taux_participation": "51.67",
+      "nb_bureaux_depouilles": "379",
       "nb_bureaux_total": "382",
       "candidats": [
         {
@@ -3941,15 +3941,15 @@
           "parti": 13,
           "nom": "CROTEAU",
           "prenom": "François W.",
-          "nb_voix_obtenues": "28452",
-          "nb_voix_majorite": "18033"
+          "nb_voix_obtenues": "28541",
+          "nb_voix_majorite": "18095"
         },
         {
           "id": 325,
           "parti": 7,
           "nom": "BRETON",
           "prenom": "Josselin",
-          "nb_voix_obtenues": "10419",
+          "nb_voix_obtenues": "10446",
           "nb_voix_majorite": null
         },
         {
@@ -3957,7 +3957,7 @@
           "parti": 1,
           "nom": "JOLIVET",
           "prenom": "Simon",
-          "nb_voix_obtenues": "6317",
+          "nb_voix_obtenues": "6372",
           "nb_voix_majorite": null
         },
         {
@@ -3965,7 +3965,7 @@
           "parti": 11,
           "nom": "SAINT-LOUIS",
           "prenom": "Jean",
-          "nb_voix_obtenues": "2599",
+          "nb_voix_obtenues": "2607",
           "nb_voix_majorite": null
         }
       ]
@@ -5492,10 +5492,10 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement de Villeray–Saint-Michel–Parc-Extension",
       "nb_electeurs_inscrits": "86454",
-      "nb_total_voix_recueillies": "35531",
-      "nb_bulletins_rejetes": "1535",
-      "taux_participation": "41.10",
-      "nb_bureaux_depouilles": "338",
+      "nb_total_voix_recueillies": "35594",
+      "nb_bulletins_rejetes": "1537",
+      "taux_participation": "41.17",
+      "nb_bureaux_depouilles": "339",
       "nb_bureaux_total": "344",
       "candidats": [
         {
@@ -5503,15 +5503,15 @@
           "parti": 7,
           "nom": "SAMSON",
           "prenom": "Anie",
-          "nb_voix_obtenues": "12053",
-          "nb_voix_majorite": "621"
+          "nb_voix_obtenues": "12084",
+          "nb_voix_majorite": "638"
         },
         {
           "id": 465,
           "parti": 13,
           "nom": "GOULET",
           "prenom": "Nathalie",
-          "nb_voix_obtenues": "11432",
+          "nb_voix_obtenues": "11446",
           "nb_voix_majorite": null
         },
         {
@@ -5519,7 +5519,7 @@
           "parti": 1,
           "nom": "MARTINEZ",
           "prenom": "Soraya",
-          "nb_voix_obtenues": "5356",
+          "nb_voix_obtenues": "5361",
           "nb_voix_majorite": null
         },
         {
@@ -5527,7 +5527,7 @@
           "parti": 14,
           "nom": "ZAKO",
           "prenom": "Béatrice",
-          "nb_voix_obtenues": "5155",
+          "nb_voix_obtenues": "5166",
           "nb_voix_majorite": null
         }
       ]
@@ -5586,10 +5586,10 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral de François-Perrault",
       "nb_electeurs_inscrits": "21822",
-      "nb_total_voix_recueillies": "8270",
-      "nb_bulletins_rejetes": "362",
-      "taux_participation": "37.90",
-      "nb_bureaux_depouilles": "79",
+      "nb_total_voix_recueillies": "8333",
+      "nb_bulletins_rejetes": "364",
+      "taux_participation": "38.19",
+      "nb_bureaux_depouilles": "80",
       "nb_bureaux_total": "87",
       "candidats": [
         {
@@ -5597,15 +5597,15 @@
           "parti": 13,
           "nom": "OUELLET",
           "prenom": "Sylvain",
-          "nb_voix_obtenues": "2618",
-          "nb_voix_majorite": "66"
+          "nb_voix_obtenues": "2629",
+          "nb_voix_majorite": "50"
         },
         {
           "id": 473,
           "parti": 7,
           "nom": "BRICAULT",
           "prenom": "Claude",
-          "nb_voix_obtenues": "2552",
+          "nb_voix_obtenues": "2579",
           "nb_voix_majorite": null
         },
         {
@@ -5613,7 +5613,7 @@
           "parti": 14,
           "nom": "DE CICCO",
           "prenom": "Angelo",
-          "nb_voix_obtenues": "1587",
+          "nb_voix_obtenues": "1596",
           "nb_voix_majorite": null
         },
         {
@@ -5621,7 +5621,7 @@
           "parti": 1,
           "nom": "COLAVECCHIO",
           "prenom": "Nino",
-          "nb_voix_obtenues": "864",
+          "nb_voix_obtenues": "876",
           "nb_voix_majorite": null
         },
         {
@@ -5629,7 +5629,7 @@
           "parti": 11,
           "nom": "ST-LOUIS",
           "prenom": "François",
-          "nb_voix_obtenues": "177",
+          "nb_voix_obtenues": "179",
           "nb_voix_majorite": null
         },
         {
