@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T00:36:14",
+  "date_heure_generation": "2013-11-04T00:37:55",
   "partis": [
     {
       "id": 7,
@@ -1238,9 +1238,9 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral de Loyola",
       "nb_electeurs_inscrits": "20927",
-      "nb_total_voix_recueillies": "7079",
-      "nb_bulletins_rejetes": "153",
-      "taux_participation": "33.83",
+      "nb_total_voix_recueillies": "7078",
+      "nb_bulletins_rejetes": "152",
+      "taux_participation": "33.82",
       "nb_bureaux_depouilles": "78",
       "nb_bureaux_total": "81",
       "candidats": [
@@ -4854,10 +4854,10 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement de Verdun",
       "nb_electeurs_inscrits": "47677",
-      "nb_total_voix_recueillies": "19016",
-      "nb_bulletins_rejetes": "524",
-      "taux_participation": "39.89",
-      "nb_bureaux_depouilles": "202",
+      "nb_total_voix_recueillies": "19730",
+      "nb_bulletins_rejetes": "538",
+      "taux_participation": "41.38",
+      "nb_bureaux_depouilles": "203",
       "nb_bureaux_total": "219",
       "candidats": [
         {
@@ -4865,15 +4865,15 @@
           "parti": 7,
           "nom": "PARENTEAU",
           "prenom": "Jean-François",
-          "nb_voix_obtenues": "4562",
-          "nb_voix_majorite": "452"
+          "nb_voix_obtenues": "4787",
+          "nb_voix_majorite": "548"
         },
         {
           "id": 406,
           "parti": 13,
           "nom": "DAVIS",
           "prenom": "Mary Ann",
-          "nb_voix_obtenues": "4110",
+          "nb_voix_obtenues": "4239",
           "nb_voix_majorite": null
         },
         {
@@ -4881,7 +4881,7 @@
           "parti": 14,
           "nom": "BENDJENNET",
           "prenom": "Mourad",
-          "nb_voix_obtenues": "3262",
+          "nb_voix_obtenues": "3335",
           "nb_voix_majorite": null
         },
         {
@@ -4889,7 +4889,7 @@
           "parti": 1,
           "nom": "TASSÉ",
           "prenom": "Alain",
-          "nb_voix_obtenues": "2594",
+          "nb_voix_obtenues": "2683",
           "nb_voix_majorite": null
         },
         {
@@ -4897,7 +4897,7 @@
           "parti": 9,
           "nom": "SAVARD",
           "prenom": "André",
-          "nb_voix_obtenues": "2318",
+          "nb_voix_obtenues": "2444",
           "nb_voix_majorite": null
         },
         {
@@ -4905,7 +4905,7 @@
           "parti": 2,
           "nom": "CHAMPOUX",
           "prenom": "Andrée",
-          "nb_voix_obtenues": "1413",
+          "nb_voix_obtenues": "1459",
           "nb_voix_majorite": null
         },
         {
@@ -4913,7 +4913,7 @@
           "parti": 11,
           "nom": "MERCIER",
           "prenom": "Jency",
-          "nb_voix_obtenues": "124",
+          "nb_voix_obtenues": "131",
           "nb_voix_majorite": null
         },
         {
@@ -4921,7 +4921,7 @@
           "parti": -1,
           "nom": "LE ROUGETEL",
           "prenom": "Katherine",
-          "nb_voix_obtenues": "109",
+          "nb_voix_obtenues": "114",
           "nb_voix_majorite": null
         }
       ]
