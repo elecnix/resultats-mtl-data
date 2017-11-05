@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T17:32:38",
+  "date_heure_generation": "2013-11-04T17:34:45",
   "partis": [
     {
       "id": 7,
@@ -376,44 +376,44 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 476467,
-    "nb_bulletins_rejetes": 12415,
-    "taux_participation": 43.24,
-    "nb_bureaux_depouilles": 4538,
+    "nb_total_voix_recueillies": 476601,
+    "nb_bulletins_rejetes": 12421,
+    "taux_participation": 43.25,
+    "nb_bureaux_depouilles": 4539,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 149069,
-        "nb_voix_majorite": 26251,
+        "nb_voix_obtenues": 149114,
+        "nb_voix_majorite": 26263,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 122818,
+        "nb_voix_obtenues": 122851,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 118486,
+        "nb_voix_obtenues": 118515,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 59299,
+        "nb_voix_obtenues": 59316,
         "nb_voix_majorite": 0,
         "parti": 1
       },
       {
         "nom": "BRÛLÉ",
         "prenom": "Michel",
-        "nb_voix_obtenues": 6350,
+        "nb_voix_obtenues": 6354,
         "nb_voix_majorite": 0,
         "parti": 11
       },
@@ -3617,8 +3617,8 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement de Rivière-des-Prairies–Pointe-aux-Trembles",
       "nb_electeurs_inscrits": "78909",
-      "nb_total_voix_recueillies": "33547",
-      "nb_bulletins_rejetes": "2058",
+      "nb_total_voix_recueillies": "33546",
+      "nb_bulletins_rejetes": "2057",
       "taux_participation": "42.51",
       "nb_bureaux_depouilles": "332",
       "nb_bureaux_total": "332",
@@ -3656,7 +3656,7 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral de La Pointe-aux-Prairies",
       "nb_electeurs_inscrits": "29639",
-      "nb_total_voix_recueillies": "12473",
+      "nb_total_voix_recueillies": "12472",
       "nb_bulletins_rejetes": "828",
       "taux_participation": "42.08",
       "nb_bureaux_depouilles": "124",
@@ -3683,7 +3683,7 @@
           "parti": 13,
           "nom": "THERRIEN",
           "prenom": "Paul",
-          "nb_voix_obtenues": "2397",
+          "nb_voix_obtenues": "2396",
           "nb_voix_majorite": null
         }
       ]
