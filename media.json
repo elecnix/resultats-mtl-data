@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T12:13:33",
+  "date_heure_generation": "2013-11-04T12:15:37",
   "partis": [
     {
       "id": 7,
@@ -376,37 +376,37 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 471633,
-    "nb_bulletins_rejetes": 12300,
-    "taux_participation": 42.8,
-    "nb_bureaux_depouilles": 4501,
+    "nb_total_voix_recueillies": 471777,
+    "nb_bulletins_rejetes": 12301,
+    "taux_participation": 42.81,
+    "nb_bureaux_depouilles": 4502,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 147229,
-        "nb_voix_majorite": 25595,
+        "nb_voix_obtenues": 147257,
+        "nb_voix_majorite": 25592,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 121634,
+        "nb_voix_obtenues": 121665,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 117620,
+        "nb_voix_obtenues": 117675,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 58627,
+        "nb_voix_obtenues": 58655,
         "nb_voix_majorite": 0,
         "parti": 1
       },
@@ -427,7 +427,7 @@
       {
         "nom": "HAMIDA",
         "prenom": "Louai",
-        "nb_voix_obtenues": 1564,
+        "nb_voix_obtenues": 1565,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -901,10 +901,10 @@
       "type": "CA",
       "nom": "Conseiller d'arrondissement - District électoral de l'Est",
       "nb_electeurs_inscrits": "8722",
-      "nb_total_voix_recueillies": "3864",
+      "nb_total_voix_recueillies": "3929",
       "nb_bulletins_rejetes": "138",
-      "taux_participation": "44.30",
-      "nb_bureaux_depouilles": "35",
+      "taux_participation": "45.05",
+      "nb_bureaux_depouilles": "36",
       "nb_bureaux_total": "38",
       "candidats": [
         {
@@ -912,15 +912,15 @@
           "parti": 3,
           "nom": "PERRON",
           "prenom": "Paul-Yvon",
-          "nb_voix_obtenues": "1954",
-          "nb_voix_majorite": "1062"
+          "nb_voix_obtenues": "1978",
+          "nb_voix_majorite": "1073"
         },
         {
           "id": 59,
           "parti": 7,
           "nom": "PLOURDE",
           "prenom": "Sylvain",
-          "nb_voix_obtenues": "892",
+          "nb_voix_obtenues": "905",
           "nb_voix_majorite": null
         },
         {
@@ -928,7 +928,7 @@
           "parti": 13,
           "nom": "EDOUARD",
           "prenom": "Nadia",
-          "nb_voix_obtenues": "597",
+          "nb_voix_obtenues": "613",
           "nb_voix_majorite": null
         },
         {
@@ -936,7 +936,7 @@
           "parti": 1,
           "nom": "TOURÉ",
           "prenom": "Boubacar",
-          "nb_voix_obtenues": "283",
+          "nb_voix_obtenues": "295",
           "nb_voix_majorite": null
         }
       ]
@@ -1309,10 +1309,10 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement de Lachine",
       "nb_electeurs_inscrits": "31399",
-      "nb_total_voix_recueillies": "12727",
-      "nb_bulletins_rejetes": "424",
-      "taux_participation": "40.53",
-      "nb_bureaux_depouilles": "138",
+      "nb_total_voix_recueillies": "12784",
+      "nb_bulletins_rejetes": "427",
+      "taux_participation": "40.71",
+      "nb_bureaux_depouilles": "139",
       "nb_bureaux_total": "141",
       "candidats": [
         {
@@ -1320,15 +1320,15 @@
           "parti": 6,
           "nom": "DAUPHIN",
           "prenom": "Claude",
-          "nb_voix_obtenues": "6657",
-          "nb_voix_majorite": "2178"
+          "nb_voix_obtenues": "6681",
+          "nb_voix_majorite": "2176"
         },
         {
           "id": 93,
           "parti": 13,
           "nom": "BOSSY",
           "prenom": "Patricia",
-          "nb_voix_obtenues": "4479",
+          "nb_voix_obtenues": "4505",
           "nb_voix_majorite": null
         },
         {
@@ -1336,7 +1336,7 @@
           "parti": -1,
           "nom": "ENE",
           "prenom": "Pierre",
-          "nb_voix_obtenues": "1167",
+          "nb_voix_obtenues": "1171",
           "nb_voix_majorite": null
         }
       ]
@@ -1348,10 +1348,10 @@
       "type": "CV",
       "nom": "Conseiller de la ville arrondissement de Lachine",
       "nb_electeurs_inscrits": "31399",
-      "nb_total_voix_recueillies": "12263",
-      "nb_bulletins_rejetes": "416",
-      "taux_participation": "39.06",
-      "nb_bureaux_depouilles": "137",
+      "nb_total_voix_recueillies": "12320",
+      "nb_bulletins_rejetes": "418",
+      "taux_participation": "39.24",
+      "nb_bureaux_depouilles": "138",
       "nb_bureaux_total": "141",
       "candidats": [
         {
@@ -1359,15 +1359,15 @@
           "parti": 6,
           "nom": "CLOUTIER",
           "prenom": "Jean-François",
-          "nb_voix_obtenues": "3781",
-          "nb_voix_majorite": "170"
+          "nb_voix_obtenues": "3794",
+          "nb_voix_majorite": "167"
         },
         {
           "id": 96,
           "parti": 1,
           "nom": "BLANCHET",
           "prenom": "Bernard",
-          "nb_voix_obtenues": "3611",
+          "nb_voix_obtenues": "3627",
           "nb_voix_majorite": null
         },
         {
@@ -1375,7 +1375,7 @@
           "parti": 13,
           "nom": "LEFEBVRE",
           "prenom": "Jean-François",
-          "nb_voix_obtenues": "2600",
+          "nb_voix_obtenues": "2617",
           "nb_voix_majorite": null
         },
         {
@@ -1383,7 +1383,7 @@
           "parti": 7,
           "nom": "CARUSO",
           "prenom": "Carolina",
-          "nb_voix_obtenues": "1435",
+          "nb_voix_obtenues": "1442",
           "nb_voix_majorite": null
         },
         {
@@ -1391,7 +1391,7 @@
           "parti": -1,
           "nom": "LAKHOYAN",
           "prenom": "Hagop (Jacques)",
-          "nb_voix_obtenues": "420",
+          "nb_voix_obtenues": "422",
           "nb_voix_majorite": null
         }
       ]
@@ -2746,10 +2746,10 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement d'Outremont",
       "nb_electeurs_inscrits": "15366",
-      "nb_total_voix_recueillies": "9177",
-      "nb_bulletins_rejetes": "141",
-      "taux_participation": "59.72",
-      "nb_bureaux_depouilles": "65",
+      "nb_total_voix_recueillies": "9319",
+      "nb_bulletins_rejetes": "149",
+      "taux_participation": "60.65",
+      "nb_bureaux_depouilles": "66",
       "nb_bureaux_total": "66",
       "candidats": [
         {
@@ -2757,15 +2757,15 @@
           "parti": 5,
           "nom": "CINQ-MARS",
           "prenom": "Marie",
-          "nb_voix_obtenues": "3565",
-          "nb_voix_majorite": "460"
+          "nb_voix_obtenues": "3582",
+          "nb_voix_majorite": "390"
         },
         {
           "id": 224,
           "parti": 13,
           "nom": "COUTU",
           "prenom": "Etienne",
-          "nb_voix_obtenues": "3105",
+          "nb_voix_obtenues": "3192",
           "nb_voix_majorite": null
         },
         {
@@ -2773,7 +2773,7 @@
           "parti": 1,
           "nom": "TÉTREAULT",
           "prenom": "Paul-André",
-          "nb_voix_obtenues": "1233",
+          "nb_voix_obtenues": "1250",
           "nb_voix_majorite": null
         },
         {
@@ -2781,7 +2781,7 @@
           "parti": 7,
           "nom": "TILQUIN",
           "prenom": "Renaud",
-          "nb_voix_obtenues": "892",
+          "nb_voix_obtenues": "900",
           "nb_voix_majorite": null
         },
         {
@@ -2789,7 +2789,7 @@
           "parti": -1,
           "nom": "AMOUZOU",
           "prenom": "Comlan",
-          "nb_voix_obtenues": "241",
+          "nb_voix_obtenues": "246",
           "nb_voix_majorite": null
         }
       ]
