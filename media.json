@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T19:41:17",
+  "date_heure_generation": "2013-11-04T19:43:15",
   "partis": [
     {
       "id": 7,
@@ -376,51 +376,51 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 477101,
-    "nb_bulletins_rejetes": 12377,
-    "taux_participation": 43.29,
-    "nb_bureaux_depouilles": 4538,
+    "nb_total_voix_recueillies": 477218,
+    "nb_bulletins_rejetes": 12379,
+    "taux_participation": 43.3,
+    "nb_bureaux_depouilles": 4539,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 149338,
-        "nb_voix_majorite": 26290,
+        "nb_voix_obtenues": 149367,
+        "nb_voix_majorite": 26286,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 123048,
+        "nb_voix_obtenues": 123081,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 118609,
+        "nb_voix_obtenues": 118644,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 59434,
+        "nb_voix_obtenues": 59446,
         "nb_voix_majorite": 0,
         "parti": 1
       },
       {
         "nom": "BRÛLÉ",
         "prenom": "Michel",
-        "nb_voix_obtenues": 6313,
+        "nb_voix_obtenues": 6316,
         "nb_voix_majorite": 0,
         "parti": 11
       },
       {
         "nom": "TULASNE",
         "prenom": "Patricia",
-        "nb_voix_obtenues": 2559,
+        "nb_voix_obtenues": 2560,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -434,7 +434,7 @@
       {
         "nom": "HAMIDA",
         "prenom": "Louai",
-        "nb_voix_obtenues": 1514,
+        "nb_voix_obtenues": 1515,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -448,7 +448,7 @@
       {
         "nom": "SONOKPON",
         "prenom": "Kofi",
-        "nb_voix_obtenues": 686,
+        "nb_voix_obtenues": 687,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -469,8 +469,8 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement d'Ahuntsic-Cartierville",
       "nb_electeurs_inscrits": "84524",
-      "nb_total_voix_recueillies": "41000",
-      "nb_bulletins_rejetes": "1319",
+      "nb_total_voix_recueillies": "40999",
+      "nb_bulletins_rejetes": "1318",
       "taux_participation": "48.51",
       "nb_bureaux_depouilles": "335",
       "nb_bureaux_total": "335",
@@ -524,10 +524,10 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral du Sault-au-Récollet",
       "nb_electeurs_inscrits": "19965",
-      "nb_total_voix_recueillies": "10485",
-      "nb_bulletins_rejetes": "372",
-      "taux_participation": "52.52",
-      "nb_bureaux_depouilles": "80",
+      "nb_total_voix_recueillies": "10363",
+      "nb_bulletins_rejetes": "361",
+      "taux_participation": "51.91",
+      "nb_bureaux_depouilles": "79",
       "nb_bureaux_total": "80",
       "candidats": [
         {
@@ -535,15 +535,15 @@
           "parti": 14,
           "nom": "PAGÉ",
           "prenom": "Lorraine",
-          "nb_voix_obtenues": "2877",
-          "nb_voix_majorite": "8"
+          "nb_voix_obtenues": "2855",
+          "nb_voix_majorite": "40"
         },
         {
           "id": 24,
           "parti": 7,
           "nom": "HOTTE",
           "prenom": "Nathalie",
-          "nb_voix_obtenues": "2869",
+          "nb_voix_obtenues": "2815",
           "nb_voix_majorite": null
         },
         {
@@ -551,7 +551,7 @@
           "parti": 13,
           "nom": "LEGENDRE",
           "prenom": "Sophie-Anne",
-          "nb_voix_obtenues": "2677",
+          "nb_voix_obtenues": "2666",
           "nb_voix_majorite": null
         },
         {
@@ -559,7 +559,7 @@
           "parti": 1,
           "nom": "MOLYNEUX",
           "prenom": "Louis-Gilles",
-          "nb_voix_obtenues": "1245",
+          "nb_voix_obtenues": "1225",
           "nb_voix_majorite": null
         },
         {
@@ -567,7 +567,7 @@
           "parti": 11,
           "nom": "LEMIEUX",
           "prenom": "Mario",
-          "nb_voix_obtenues": "266",
+          "nb_voix_obtenues": "263",
           "nb_voix_majorite": null
         },
         {
@@ -583,7 +583,7 @@
           "parti": -1,
           "nom": "NYANGONO",
           "prenom": "Nathalie",
-          "nb_voix_obtenues": "69",
+          "nb_voix_obtenues": "68",
           "nb_voix_majorite": null
         }
       ]
@@ -3052,9 +3052,9 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral de Bois-de-Liesse",
       "nb_electeurs_inscrits": "24446",
-      "nb_total_voix_recueillies": "8787",
-      "nb_bulletins_rejetes": "249",
-      "taux_participation": "35.94",
+      "nb_total_voix_recueillies": "8789",
+      "nb_bulletins_rejetes": "251",
+      "taux_participation": "35.95",
       "nb_bureaux_depouilles": "99",
       "nb_bureaux_total": "99",
       "candidats": [
@@ -3099,10 +3099,10 @@
       "type": "CA",
       "nom": "Conseiller d'arrondissement - District électoral de Bois-de-Liesse",
       "nb_electeurs_inscrits": "24446",
-      "nb_total_voix_recueillies": "8813",
+      "nb_total_voix_recueillies": "8713",
       "nb_bulletins_rejetes": "283",
-      "taux_participation": "36.05",
-      "nb_bureaux_depouilles": "99",
+      "taux_participation": "35.64",
+      "nb_bureaux_depouilles": "98",
       "nb_bureaux_total": "99",
       "candidats": [
         {
@@ -3110,15 +3110,15 @@
           "parti": 14,
           "nom": "TROTTIER",
           "prenom": "Roger",
-          "nb_voix_obtenues": "2523",
-          "nb_voix_majorite": "125"
+          "nb_voix_obtenues": "2488",
+          "nb_voix_majorite": "120"
         },
         {
           "id": 253,
           "parti": 7,
           "nom": "CAMPEAU",
           "prenom": "Claudine",
-          "nb_voix_obtenues": "2398",
+          "nb_voix_obtenues": "2368",
           "nb_voix_majorite": null
         },
         {
@@ -3126,7 +3126,7 @@
           "parti": 13,
           "nom": "MORIN",
           "prenom": "Nathalie",
-          "nb_voix_obtenues": "2050",
+          "nb_voix_obtenues": "2026",
           "nb_voix_majorite": null
         },
         {
@@ -3134,7 +3134,7 @@
           "parti": 1,
           "nom": "SMITH",
           "prenom": "David-James",
-          "nb_voix_obtenues": "1113",
+          "nb_voix_obtenues": "1103",
           "nb_voix_majorite": null
         },
         {
@@ -3142,7 +3142,7 @@
           "parti": -1,
           "nom": "STITT",
           "prenom": "Ross",
-          "nb_voix_obtenues": "263",
+          "nb_voix_obtenues": "262",
           "nb_voix_majorite": null
         },
         {
