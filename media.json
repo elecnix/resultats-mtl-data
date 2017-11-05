@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T11:47:40",
+  "date_heure_generation": "2013-11-04T11:49:37",
   "partis": [
     {
       "id": 7,
@@ -376,37 +376,37 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 470508,
+    "nb_total_voix_recueillies": 470571,
     "nb_bulletins_rejetes": 12270,
     "taux_participation": 42.7,
-    "nb_bureaux_depouilles": 4489,
+    "nb_bureaux_depouilles": 4490,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 146917,
-        "nb_voix_majorite": 25566,
+        "nb_voix_obtenues": 146944,
+        "nb_voix_majorite": 25579,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 121351,
+        "nb_voix_obtenues": 121365,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 117335,
+        "nb_voix_obtenues": 117350,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 58443,
+        "nb_voix_obtenues": 58449,
         "nb_voix_majorite": 0,
         "parti": 1
       },
@@ -420,7 +420,7 @@
       {
         "nom": "TULASNE",
         "prenom": "Patricia",
-        "nb_voix_obtenues": 2524,
+        "nb_voix_obtenues": 2525,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -469,10 +469,10 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement d'Ahuntsic-Cartierville",
       "nb_electeurs_inscrits": "84524",
-      "nb_total_voix_recueillies": "39306",
-      "nb_bulletins_rejetes": "1273",
-      "taux_participation": "46.50",
-      "nb_bureaux_depouilles": "327",
+      "nb_total_voix_recueillies": "39490",
+      "nb_bulletins_rejetes": "1276",
+      "taux_participation": "46.72",
+      "nb_bureaux_depouilles": "328",
       "nb_bureaux_total": "335",
       "candidats": [
         {
@@ -480,15 +480,15 @@
           "parti": 7,
           "nom": "GAGNIER",
           "prenom": "Pierre",
-          "nb_voix_obtenues": "11521",
-          "nb_voix_majorite": "1220"
+          "nb_voix_obtenues": "11565",
+          "nb_voix_majorite": "1196"
         },
         {
           "id": 19,
           "parti": 13,
           "nom": "BASTIEN",
           "prenom": "Pierre",
-          "nb_voix_obtenues": "10301",
+          "nb_voix_obtenues": "10369",
           "nb_voix_majorite": null
         },
         {
@@ -496,7 +496,7 @@
           "parti": 14,
           "nom": "BELLELI",
           "prenom": "Hasmig",
-          "nb_voix_obtenues": "8819",
+          "nb_voix_obtenues": "8846",
           "nb_voix_majorite": null
         },
         {
@@ -504,7 +504,7 @@
           "parti": 1,
           "nom": "BRUNET",
           "prenom": "Etienne",
-          "nb_voix_obtenues": "6436",
+          "nb_voix_obtenues": "6474",
           "nb_voix_majorite": null
         },
         {
@@ -512,7 +512,7 @@
           "parti": 11,
           "nom": "ALLARD",
           "prenom": "Claude",
-          "nb_voix_obtenues": "956",
+          "nb_voix_obtenues": "960",
           "nb_voix_majorite": null
         }
       ]
