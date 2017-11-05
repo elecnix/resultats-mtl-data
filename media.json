@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T18:09:15",
+  "date_heure_generation": "2013-11-04T18:11:16",
   "partis": [
     {
       "id": 7,
@@ -376,8 +376,8 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 476541,
-    "nb_bulletins_rejetes": 12364,
+    "nb_total_voix_recueillies": 476539,
+    "nb_bulletins_rejetes": 12362,
     "taux_participation": 43.24,
     "nb_bureaux_depouilles": 4539,
     "nb_bureaux_total": 4539,
@@ -2586,14 +2586,14 @@
           "nom": "ROSSI",
           "prenom": "Chantal",
           "nb_voix_obtenues": "6292",
-          "nb_voix_majorite": "4172"
+          "nb_voix_majorite": "4169"
         },
         {
           "id": 208,
           "parti": 1,
           "nom": "ALLAIRE",
           "prenom": "Michelle",
-          "nb_voix_obtenues": "2120",
+          "nb_voix_obtenues": "2123",
           "nb_voix_majorite": null
         },
         {
@@ -2601,7 +2601,7 @@
           "parti": 13,
           "nom": "COHEN",
           "prenom": "Andrea",
-          "nb_voix_obtenues": "1529",
+          "nb_voix_obtenues": "1526",
           "nb_voix_majorite": null
         }
       ]
