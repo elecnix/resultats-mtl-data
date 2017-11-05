@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T00:32:19",
+  "date_heure_generation": "2013-11-04T00:33:58",
   "partis": [
     {
       "id": 7,
@@ -376,37 +376,37 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 445091,
+    "nb_total_voix_recueillies": 445226,
     "nb_bulletins_rejetes": 11607,
-    "taux_participation": 40.39,
-    "nb_bureaux_depouilles": 4304,
+    "taux_participation": 40.4,
+    "nb_bureaux_depouilles": 4305,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 137804,
-        "nb_voix_majorite": 23038,
+        "nb_voix_obtenues": 137845,
+        "nb_voix_majorite": 23049,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 114766,
+        "nb_voix_obtenues": 114796,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 112154,
+        "nb_voix_obtenues": 112201,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 55469,
+        "nb_voix_obtenues": 55485,
         "nb_voix_majorite": 0,
         "parti": 1
       },
@@ -441,7 +441,7 @@
       {
         "nom": "YOUNG",
         "prenom": "Joseph",
-        "nb_voix_obtenues": 1036,
+        "nb_voix_obtenues": 1037,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -524,10 +524,10 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral du Sault-au-Récollet",
       "nb_electeurs_inscrits": "19965",
-      "nb_total_voix_recueillies": "9358",
-      "nb_bulletins_rejetes": "329",
-      "taux_participation": "46.87",
-      "nb_bureaux_depouilles": "71",
+      "nb_total_voix_recueillies": "9492",
+      "nb_bulletins_rejetes": "334",
+      "taux_participation": "47.54",
+      "nb_bureaux_depouilles": "72",
       "nb_bureaux_total": "80",
       "candidats": [
         {
@@ -535,15 +535,15 @@
           "parti": 7,
           "nom": "HOTTE",
           "prenom": "Nathalie",
-          "nb_voix_obtenues": "2594",
-          "nb_voix_majorite": "64"
+          "nb_voix_obtenues": "2628",
+          "nb_voix_majorite": "62"
         },
         {
           "id": 29,
           "parti": 14,
           "nom": "PAGÉ",
           "prenom": "Lorraine",
-          "nb_voix_obtenues": "2530",
+          "nb_voix_obtenues": "2566",
           "nb_voix_majorite": null
         },
         {
@@ -551,7 +551,7 @@
           "parti": 13,
           "nom": "LEGENDRE",
           "prenom": "Sophie-Anne",
-          "nb_voix_obtenues": "2359",
+          "nb_voix_obtenues": "2402",
           "nb_voix_majorite": null
         },
         {
@@ -559,7 +559,7 @@
           "parti": 1,
           "nom": "MOLYNEUX",
           "prenom": "Louis-Gilles",
-          "nb_voix_obtenues": "1133",
+          "nb_voix_obtenues": "1148",
           "nb_voix_majorite": null
         },
         {
@@ -583,7 +583,7 @@
           "parti": -1,
           "nom": "NYANGONO",
           "prenom": "Nathalie",
-          "nb_voix_obtenues": "67",
+          "nb_voix_obtenues": "68",
           "nb_voix_majorite": null
         }
       ]
