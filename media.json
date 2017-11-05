@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T10:51:07",
+  "date_heure_generation": "2013-11-04T10:53:06",
   "partis": [
     {
       "id": 7,
@@ -376,72 +376,72 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 464549,
-    "nb_bulletins_rejetes": 12081,
-    "taux_participation": 42.16,
+    "nb_total_voix_recueillies": 464366,
+    "nb_bulletins_rejetes": 12079,
+    "taux_participation": 42.14,
     "nb_bureaux_depouilles": 4434,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 144910,
-        "nb_voix_majorite": 25124,
+        "nb_voix_obtenues": 144924,
+        "nb_voix_majorite": 25269,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 119786,
+        "nb_voix_obtenues": 119655,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 116051,
+        "nb_voix_obtenues": 116025,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 57779,
+        "nb_voix_obtenues": 57752,
         "nb_voix_majorite": 0,
         "parti": 1
       },
       {
         "nom": "BRÛLÉ",
         "prenom": "Michel",
-        "nb_voix_obtenues": 6151,
+        "nb_voix_obtenues": 6142,
         "nb_voix_majorite": 0,
         "parti": 11
       },
       {
         "nom": "TULASNE",
         "prenom": "Patricia",
-        "nb_voix_obtenues": 2491,
+        "nb_voix_obtenues": 2492,
         "nb_voix_majorite": 0,
         "parti": -1
       },
       {
         "nom": "HAMIDA",
         "prenom": "Louai",
-        "nb_voix_obtenues": 1536,
+        "nb_voix_obtenues": 1534,
         "nb_voix_majorite": 0,
         "parti": -1
       },
       {
         "nom": "BLAIS",
         "prenom": "Claude",
-        "nb_voix_obtenues": 1482,
+        "nb_voix_obtenues": 1484,
         "nb_voix_majorite": 0,
         "parti": -1
       },
       {
         "nom": "YOUNG",
         "prenom": "Joseph",
-        "nb_voix_obtenues": 1084,
+        "nb_voix_obtenues": 1082,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -455,7 +455,7 @@
       {
         "nom": "SAURIOL",
         "prenom": "Clément",
-        "nb_voix_obtenues": 546,
+        "nb_voix_obtenues": 545,
         "nb_voix_majorite": 0,
         "parti": -1
       }
