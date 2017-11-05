@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T00:56:18",
+  "date_heure_generation": "2013-11-04T00:58:28",
   "partis": [
     {
       "id": 7,
@@ -376,58 +376,58 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 448229,
-    "nb_bulletins_rejetes": 11665,
-    "taux_participation": 40.67,
-    "nb_bureaux_depouilles": 4317,
+    "nb_total_voix_recueillies": 448427,
+    "nb_bulletins_rejetes": 11669,
+    "taux_participation": 40.69,
+    "nb_bureaux_depouilles": 4319,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 138966,
-        "nb_voix_majorite": 23347,
+        "nb_voix_obtenues": 139055,
+        "nb_voix_majorite": 23372,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 115619,
+        "nb_voix_obtenues": 115683,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 112766,
+        "nb_voix_obtenues": 112787,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 55862,
+        "nb_voix_obtenues": 55875,
         "nb_voix_majorite": 0,
         "parti": 1
       },
       {
         "nom": "BRÛLÉ",
         "prenom": "Michel",
-        "nb_voix_obtenues": 5920,
+        "nb_voix_obtenues": 5922,
         "nb_voix_majorite": 0,
         "parti": 11
       },
       {
         "nom": "TULASNE",
         "prenom": "Patricia",
-        "nb_voix_obtenues": 2376,
+        "nb_voix_obtenues": 2377,
         "nb_voix_majorite": 0,
         "parti": -1
       },
       {
         "nom": "HAMIDA",
         "prenom": "Louai",
-        "nb_voix_obtenues": 1441,
+        "nb_voix_obtenues": 1443,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -441,7 +441,7 @@
       {
         "nom": "YOUNG",
         "prenom": "Joseph",
-        "nb_voix_obtenues": 1042,
+        "nb_voix_obtenues": 1044,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -469,10 +469,10 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement d'Ahuntsic-Cartierville",
       "nb_electeurs_inscrits": "84524",
-      "nb_total_voix_recueillies": "37405",
-      "nb_bulletins_rejetes": "1197",
-      "taux_participation": "44.25",
-      "nb_bureaux_depouilles": "318",
+      "nb_total_voix_recueillies": "37484",
+      "nb_bulletins_rejetes": "1198",
+      "taux_participation": "44.35",
+      "nb_bureaux_depouilles": "319",
       "nb_bureaux_total": "335",
       "candidats": [
         {
@@ -480,15 +480,15 @@
           "parti": 7,
           "nom": "GAGNIER",
           "prenom": "Pierre",
-          "nb_voix_obtenues": "10791",
-          "nb_voix_majorite": "877"
+          "nb_voix_obtenues": "10819",
+          "nb_voix_majorite": "891"
         },
         {
           "id": 19,
           "parti": 13,
           "nom": "BASTIEN",
           "prenom": "Pierre",
-          "nb_voix_obtenues": "9914",
+          "nb_voix_obtenues": "9928",
           "nb_voix_majorite": null
         },
         {
@@ -496,7 +496,7 @@
           "parti": 14,
           "nom": "BELLELI",
           "prenom": "Hasmig",
-          "nb_voix_obtenues": "8409",
+          "nb_voix_obtenues": "8438",
           "nb_voix_majorite": null
         },
         {
@@ -504,7 +504,7 @@
           "parti": 1,
           "nom": "BRUNET",
           "prenom": "Etienne",
-          "nb_voix_obtenues": "6179",
+          "nb_voix_obtenues": "6182",
           "nb_voix_majorite": null
         },
         {
@@ -512,7 +512,7 @@
           "parti": 11,
           "nom": "ALLARD",
           "prenom": "Claude",
-          "nb_voix_obtenues": "915",
+          "nb_voix_obtenues": "919",
           "nb_voix_majorite": null
         }
       ]
@@ -4729,10 +4729,10 @@
       "type": "CA",
       "nom": "Conseiller d'arrondissement - District électoral de Saint-Henri–La Petite-Bourgogne–Pointe-Saint-Charles",
       "nb_electeurs_inscrits": "29736",
-      "nb_total_voix_recueillies": "9243",
-      "nb_bulletins_rejetes": "501",
-      "taux_participation": "31.08",
-      "nb_bureaux_depouilles": "104",
+      "nb_total_voix_recueillies": "9328",
+      "nb_bulletins_rejetes": "504",
+      "taux_participation": "31.37",
+      "nb_bureaux_depouilles": "105",
       "nb_bureaux_total": "127",
       "candidats": [
         {
@@ -4740,15 +4740,15 @@
           "parti": 13,
           "nom": "THIÉBAUT",
           "prenom": "Sophie",
-          "nb_voix_obtenues": "4159",
-          "nb_voix_majorite": "1674"
+          "nb_voix_obtenues": "4192",
+          "nb_voix_majorite": "1692"
         },
         {
           "id": 394,
           "parti": 1,
           "nom": "DE BONVILLE",
           "prenom": "Kristi",
-          "nb_voix_obtenues": "2485",
+          "nb_voix_obtenues": "2500",
           "nb_voix_majorite": null
         },
         {
@@ -4756,7 +4756,7 @@
           "parti": 7,
           "nom": "FRÉCHETTE",
           "prenom": "Pierre",
-          "nb_voix_obtenues": "2098",
+          "nb_voix_obtenues": "2132",
           "nb_voix_majorite": null
         }
       ]
@@ -5256,10 +5256,10 @@
       "type": "CA",
       "nom": "Conseiller d'arrondissement - District électoral de Desmarchais-Crawford (siège 2)",
       "nb_electeurs_inscrits": "22017",
-      "nb_total_voix_recueillies": "8590",
-      "nb_bulletins_rejetes": "286",
-      "taux_participation": "39.02",
-      "nb_bureaux_depouilles": "92",
+      "nb_total_voix_recueillies": "9329",
+      "nb_bulletins_rejetes": "305",
+      "taux_participation": "42.37",
+      "nb_bureaux_depouilles": "98",
       "nb_bureaux_total": "101",
       "candidats": [
         {
@@ -5267,15 +5267,15 @@
           "parti": 13,
           "nom": "MAUGER",
           "prenom": "Marie-Andrée",
-          "nb_voix_obtenues": "2132",
-          "nb_voix_majorite": "279"
+          "nb_voix_obtenues": "2361",
+          "nb_voix_majorite": "397"
         },
         {
           "id": 448,
           "parti": 7,
           "nom": "SARRASIN",
           "prenom": "Philippe",
-          "nb_voix_obtenues": "1853",
+          "nb_voix_obtenues": "1964",
           "nb_voix_majorite": null
         },
         {
@@ -5283,7 +5283,7 @@
           "parti": 14,
           "nom": "PARENT",
           "prenom": "André-Yanne",
-          "nb_voix_obtenues": "1667",
+          "nb_voix_obtenues": "1805",
           "nb_voix_majorite": null
         },
         {
@@ -5291,7 +5291,7 @@
           "parti": 9,
           "nom": "AUGER",
           "prenom": "Robert",
-          "nb_voix_obtenues": "1353",
+          "nb_voix_obtenues": "1460",
           "nb_voix_majorite": null
         },
         {
@@ -5299,7 +5299,7 @@
           "parti": 1,
           "nom": "LÉVESQUE",
           "prenom": "Rielle",
-          "nb_voix_obtenues": "916",
+          "nb_voix_obtenues": "1031",
           "nb_voix_majorite": null
         },
         {
@@ -5307,7 +5307,7 @@
           "parti": 2,
           "nom": "RAHEEMEEA",
           "prenom": "Mamad",
-          "nb_voix_obtenues": "383",
+          "nb_voix_obtenues": "403",
           "nb_voix_majorite": null
         }
       ]
