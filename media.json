@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T12:21:50",
+  "date_heure_generation": "2013-11-04T12:23:52",
   "partis": [
     {
       "id": 7,
@@ -995,10 +995,10 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement de Côte-des-Neiges–Notre-Dame-de-Grâce ",
       "nb_electeurs_inscrits": "94587",
-      "nb_total_voix_recueillies": "35589",
-      "nb_bulletins_rejetes": "988",
-      "taux_participation": "37.63",
-      "nb_bureaux_depouilles": "366",
+      "nb_total_voix_recueillies": "35765",
+      "nb_bulletins_rejetes": "997",
+      "taux_participation": "37.81",
+      "nb_bureaux_depouilles": "368",
       "nb_bureaux_total": "372",
       "candidats": [
         {
@@ -1006,15 +1006,15 @@
           "parti": 1,
           "nom": "COPEMAN",
           "prenom": "Russell",
-          "nb_voix_obtenues": "10189",
-          "nb_voix_majorite": "1106"
+          "nb_voix_obtenues": "10246",
+          "nb_voix_majorite": "1121"
         },
         {
           "id": 68,
           "parti": 13,
           "nom": "SIMKIN",
           "prenom": "Michael",
-          "nb_voix_obtenues": "9083",
+          "nb_voix_obtenues": "9125",
           "nb_voix_majorite": null
         },
         {
@@ -1022,7 +1022,7 @@
           "parti": 14,
           "nom": "ROSS",
           "prenom": "Andrew",
-          "nb_voix_obtenues": "7713",
+          "nb_voix_obtenues": "7734",
           "nb_voix_majorite": null
         },
         {
@@ -1030,7 +1030,7 @@
           "parti": 7,
           "nom": "COPPS",
           "prenom": "Kevin",
-          "nb_voix_obtenues": "7616",
+          "nb_voix_obtenues": "7663",
           "nb_voix_majorite": null
         }
       ]
@@ -1513,10 +1513,10 @@
       "type": "CA",
       "nom": "Conseiller d'arrondissement - District électoral du Fort-Rolland ",
       "nb_electeurs_inscrits": "10376",
-      "nb_total_voix_recueillies": "5147",
-      "nb_bulletins_rejetes": "146",
-      "taux_participation": "49.60",
-      "nb_bureaux_depouilles": "44",
+      "nb_total_voix_recueillies": "5033",
+      "nb_bulletins_rejetes": "145",
+      "taux_participation": "48.51",
+      "nb_bureaux_depouilles": "43",
       "nb_bureaux_total": "46",
       "candidats": [
         {
@@ -1524,15 +1524,15 @@
           "parti": 6,
           "nom": "SIMONYIK",
           "prenom": "Kymberley",
-          "nb_voix_obtenues": "1588",
-          "nb_voix_majorite": "117"
+          "nb_voix_obtenues": "1558",
+          "nb_voix_majorite": "133"
         },
         {
           "id": 114,
           "parti": 13,
           "nom": "LEVASSEUR",
           "prenom": "Julie",
-          "nb_voix_obtenues": "1471",
+          "nb_voix_obtenues": "1425",
           "nb_voix_majorite": null
         },
         {
@@ -1540,7 +1540,7 @@
           "parti": 1,
           "nom": "DURANTE",
           "prenom": "Mario",
-          "nb_voix_obtenues": "725",
+          "nb_voix_obtenues": "718",
           "nb_voix_majorite": null
         },
         {
@@ -1548,7 +1548,7 @@
           "parti": 7,
           "nom": "GIRARD",
           "prenom": "Jean-François",
-          "nb_voix_obtenues": "524",
+          "nb_voix_obtenues": "515",
           "nb_voix_majorite": null
         },
         {
@@ -1556,7 +1556,7 @@
           "parti": -1,
           "nom": "LEJEUNE",
           "prenom": "Christian",
-          "nb_voix_obtenues": "447",
+          "nb_voix_obtenues": "435",
           "nb_voix_majorite": null
         },
         {
@@ -1564,7 +1564,7 @@
           "parti": -1,
           "nom": "NOËL",
           "prenom": "Pierre",
-          "nb_voix_obtenues": "139",
+          "nb_voix_obtenues": "135",
           "nb_voix_majorite": null
         },
         {
@@ -1572,7 +1572,7 @@
           "parti": -1,
           "nom": "POWELL",
           "prenom": "Patrick",
-          "nb_voix_obtenues": "107",
+          "nb_voix_obtenues": "102",
           "nb_voix_majorite": null
         }
       ]
