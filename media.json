@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T14:47:57",
+  "date_heure_generation": "2013-11-04T14:49:52",
   "partis": [
     {
       "id": 7,
@@ -376,65 +376,65 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 474332,
-    "nb_bulletins_rejetes": 12349,
-    "taux_participation": 43.04,
-    "nb_bureaux_depouilles": 4530,
+    "nb_total_voix_recueillies": 474506,
+    "nb_bulletins_rejetes": 12354,
+    "taux_participation": 43.06,
+    "nb_bureaux_depouilles": 4532,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 148213,
-        "nb_voix_majorite": 25922,
+        "nb_voix_obtenues": 148274,
+        "nb_voix_majorite": 25939,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 122291,
+        "nb_voix_obtenues": 122335,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 118218,
+        "nb_voix_obtenues": 118251,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 58981,
+        "nb_voix_obtenues": 59000,
         "nb_voix_majorite": 0,
         "parti": 1
       },
       {
         "nom": "BRÛLÉ",
         "prenom": "Michel",
-        "nb_voix_obtenues": 6308,
+        "nb_voix_obtenues": 6314,
         "nb_voix_majorite": 0,
         "parti": 11
       },
       {
         "nom": "TULASNE",
         "prenom": "Patricia",
-        "nb_voix_obtenues": 2539,
+        "nb_voix_obtenues": 2541,
         "nb_voix_majorite": 0,
         "parti": -1
       },
       {
         "nom": "HAMIDA",
         "prenom": "Louai",
-        "nb_voix_obtenues": 1567,
+        "nb_voix_obtenues": 1568,
         "nb_voix_majorite": 0,
         "parti": -1
       },
       {
         "nom": "BLAIS",
         "prenom": "Claude",
-        "nb_voix_obtenues": 1523,
+        "nb_voix_obtenues": 1525,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -448,7 +448,7 @@
       {
         "nom": "SONOKPON",
         "prenom": "Kofi",
-        "nb_voix_obtenues": 684,
+        "nb_voix_obtenues": 685,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -3005,10 +3005,10 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement de Pierrefonds-Roxboro",
       "nb_electeurs_inscrits": "46492",
-      "nb_total_voix_recueillies": "15908",
-      "nb_bulletins_rejetes": "404",
-      "taux_participation": "34.22",
-      "nb_bureaux_depouilles": "187",
+      "nb_total_voix_recueillies": "15957",
+      "nb_bulletins_rejetes": "407",
+      "taux_participation": "34.32",
+      "nb_bureaux_depouilles": "188",
       "nb_bureaux_total": "188",
       "candidats": [
         {
@@ -3016,15 +3016,15 @@
           "parti": 7,
           "nom": "BEIS",
           "prenom": "Dimitrios (Jim)",
-          "nb_voix_obtenues": "5149",
-          "nb_voix_majorite": "495"
+          "nb_voix_obtenues": "5170",
+          "nb_voix_majorite": "494"
         },
         {
           "id": 248,
           "parti": 14,
           "nom": "METWALLI",
           "prenom": "Karim",
-          "nb_voix_obtenues": "4654",
+          "nb_voix_obtenues": "4676",
           "nb_voix_majorite": null
         },
         {
@@ -3032,7 +3032,7 @@
           "parti": 13,
           "nom": "LABELLE",
           "prenom": "Michael",
-          "nb_voix_obtenues": "3596",
+          "nb_voix_obtenues": "3597",
           "nb_voix_majorite": null
         },
         {
@@ -3040,7 +3040,7 @@
           "parti": 1,
           "nom": "DUBOIS",
           "prenom": "Christian G.",
-          "nb_voix_obtenues": "2105",
+          "nb_voix_obtenues": "2107",
           "nb_voix_majorite": null
         }
       ]
