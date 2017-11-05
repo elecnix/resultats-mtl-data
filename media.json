@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T14:03:41",
+  "date_heure_generation": "2013-11-04T14:05:46",
   "partis": [
     {
       "id": 7,
@@ -376,44 +376,44 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 472770,
-    "nb_bulletins_rejetes": 12328,
-    "taux_participation": 42.9,
-    "nb_bureaux_depouilles": 4515,
+    "nb_total_voix_recueillies": 472874,
+    "nb_bulletins_rejetes": 12331,
+    "taux_participation": 42.91,
+    "nb_bureaux_depouilles": 4516,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 147682,
-        "nb_voix_majorite": 25793,
+        "nb_voix_obtenues": 147703,
+        "nb_voix_majorite": 25774,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 121889,
+        "nb_voix_obtenues": 121929,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 117882,
+        "nb_voix_obtenues": 117905,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 58749,
+        "nb_voix_obtenues": 58763,
         "nb_voix_majorite": 0,
         "parti": 1
       },
       {
         "nom": "BRÛLÉ",
         "prenom": "Michel",
-        "nb_voix_obtenues": 6284,
+        "nb_voix_obtenues": 6287,
         "nb_voix_majorite": 0,
         "parti": 11
       },
@@ -995,10 +995,10 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement de Côte-des-Neiges–Notre-Dame-de-Grâce ",
       "nb_electeurs_inscrits": "94587",
-      "nb_total_voix_recueillies": "35765",
-      "nb_bulletins_rejetes": "997",
-      "taux_participation": "37.81",
-      "nb_bureaux_depouilles": "368",
+      "nb_total_voix_recueillies": "36371",
+      "nb_bulletins_rejetes": "1003",
+      "taux_participation": "38.45",
+      "nb_bureaux_depouilles": "369",
       "nb_bureaux_total": "372",
       "candidats": [
         {
@@ -1006,15 +1006,15 @@
           "parti": 1,
           "nom": "COPEMAN",
           "prenom": "Russell",
-          "nb_voix_obtenues": "10246",
-          "nb_voix_majorite": "1121"
+          "nb_voix_obtenues": "10439",
+          "nb_voix_majorite": "1152"
         },
         {
           "id": 68,
           "parti": 13,
           "nom": "SIMKIN",
           "prenom": "Michael",
-          "nb_voix_obtenues": "9125",
+          "nb_voix_obtenues": "9287",
           "nb_voix_majorite": null
         },
         {
@@ -1022,7 +1022,7 @@
           "parti": 14,
           "nom": "ROSS",
           "prenom": "Andrew",
-          "nb_voix_obtenues": "7734",
+          "nb_voix_obtenues": "7854",
           "nb_voix_majorite": null
         },
         {
@@ -1030,7 +1030,7 @@
           "parti": 7,
           "nom": "COPPS",
           "prenom": "Kevin",
-          "nb_voix_obtenues": "7663",
+          "nb_voix_obtenues": "7788",
           "nb_voix_majorite": null
         }
       ]
