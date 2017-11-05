@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T19:17:16",
+  "date_heure_generation": "2013-11-04T19:19:16",
   "partis": [
     {
       "id": 7,
@@ -376,8 +376,8 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 476558,
-    "nb_bulletins_rejetes": 12372,
+    "nb_total_voix_recueillies": 476557,
+    "nb_bulletins_rejetes": 12371,
     "taux_participation": 43.24,
     "nb_bureaux_depouilles": 4539,
     "nb_bureaux_total": 4539,
@@ -3201,10 +3201,10 @@
       "type": "CA",
       "nom": "Conseiller d'arrondissement - District électoral de Cap-Saint-Jacques",
       "nb_electeurs_inscrits": "22046",
-      "nb_total_voix_recueillies": "7095",
-      "nb_bulletins_rejetes": "172",
-      "taux_participation": "32.18",
-      "nb_bureaux_depouilles": "88",
+      "nb_total_voix_recueillies": "7182",
+      "nb_bulletins_rejetes": "175",
+      "taux_participation": "32.58",
+      "nb_bureaux_depouilles": "89",
       "nb_bureaux_total": "89",
       "candidats": [
         {
@@ -3212,15 +3212,15 @@
           "parti": 7,
           "nom": "GIGNAC",
           "prenom": "Yves",
-          "nb_voix_obtenues": "2508",
-          "nb_voix_majorite": "445"
+          "nb_voix_obtenues": "2524",
+          "nb_voix_majorite": "427"
         },
         {
           "id": 263,
           "parti": 14,
           "nom": "GOSWAMI",
           "prenom": "Bhaskar",
-          "nb_voix_obtenues": "2063",
+          "nb_voix_obtenues": "2097",
           "nb_voix_majorite": null
         },
         {
@@ -3228,7 +3228,7 @@
           "parti": 13,
           "nom": "SIRIGNANO",
           "prenom": "Lisa",
-          "nb_voix_obtenues": "1479",
+          "nb_voix_obtenues": "1503",
           "nb_voix_majorite": null
         },
         {
@@ -3236,7 +3236,7 @@
           "parti": 1,
           "nom": "MALTAIS",
           "prenom": "Odette",
-          "nb_voix_obtenues": "873",
+          "nb_voix_obtenues": "883",
           "nb_voix_majorite": null
         }
       ]
