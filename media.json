@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T10:57:08",
+  "date_heure_generation": "2013-11-04T10:59:11",
   "partis": [
     {
       "id": 7,
@@ -376,44 +376,44 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 465094,
-    "nb_bulletins_rejetes": 12096,
-    "taux_participation": 42.2,
-    "nb_bureaux_depouilles": 4436,
+    "nb_total_voix_recueillies": 465164,
+    "nb_bulletins_rejetes": 12102,
+    "taux_participation": 42.21,
+    "nb_bureaux_depouilles": 4437,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 145185,
-        "nb_voix_majorite": 25315,
+        "nb_voix_obtenues": 145216,
+        "nb_voix_majorite": 25335,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 119870,
+        "nb_voix_obtenues": 119881,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 116175,
+        "nb_voix_obtenues": 116184,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 57816,
+        "nb_voix_obtenues": 57827,
         "nb_voix_majorite": 0,
         "parti": 1
       },
       {
         "nom": "BRÛLÉ",
         "prenom": "Michel",
-        "nb_voix_obtenues": 6156,
+        "nb_voix_obtenues": 6157,
         "nb_voix_majorite": 0,
         "parti": 11
       },
@@ -434,7 +434,7 @@
       {
         "nom": "BLAIS",
         "prenom": "Claude",
-        "nb_voix_obtenues": 1485,
+        "nb_voix_obtenues": 1486,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -2378,10 +2378,10 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral de Maisonneuve–Longue-Pointe",
       "nb_electeurs_inscrits": "25059",
-      "nb_total_voix_recueillies": "11204",
-      "nb_bulletins_rejetes": "456",
-      "taux_participation": "44.71",
-      "nb_bureaux_depouilles": "98",
+      "nb_total_voix_recueillies": "11343",
+      "nb_bulletins_rejetes": "467",
+      "taux_participation": "45.27",
+      "nb_bureaux_depouilles": "99",
       "nb_bureaux_total": "100",
       "candidats": [
         {
@@ -2389,15 +2389,15 @@
           "parti": 13,
           "nom": "LAVIGNE LALONDE",
           "prenom": "Laurence",
-          "nb_voix_obtenues": "3352",
-          "nb_voix_majorite": "831"
+          "nb_voix_obtenues": "3408",
+          "nb_voix_majorite": "848"
         },
         {
           "id": 191,
           "parti": 14,
           "nom": "KARATCHEVSKAYA",
           "prenom": "Alexandra",
-          "nb_voix_obtenues": "2521",
+          "nb_voix_obtenues": "2560",
           "nb_voix_majorite": null
         },
         {
@@ -2405,7 +2405,7 @@
           "parti": 7,
           "nom": "PINEL",
           "prenom": "Cindy",
-          "nb_voix_obtenues": "2399",
+          "nb_voix_obtenues": "2416",
           "nb_voix_majorite": null
         },
         {
@@ -2413,7 +2413,7 @@
           "parti": 1,
           "nom": "PAQUET",
           "prenom": "Pierre",
-          "nb_voix_obtenues": "2186",
+          "nb_voix_obtenues": "2201",
           "nb_voix_majorite": null
         },
         {
@@ -2421,7 +2421,7 @@
           "parti": -1,
           "nom": "RACICOT",
           "prenom": "Yves",
-          "nb_voix_obtenues": "290",
+          "nb_voix_obtenues": "291",
           "nb_voix_majorite": null
         }
       ]
