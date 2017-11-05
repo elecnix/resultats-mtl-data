@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T16:42:38",
+  "date_heure_generation": "2013-11-04T16:44:45",
   "partis": [
     {
       "id": 7,
@@ -376,7 +376,7 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 476600,
+    "nb_total_voix_recueillies": 476597,
     "nb_bulletins_rejetes": 12420,
     "taux_participation": 43.25,
     "nb_bureaux_depouilles": 4539,
@@ -399,7 +399,7 @@
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 118518,
+        "nb_voix_obtenues": 118515,
         "nb_voix_majorite": 0,
         "parti": 13
       },
@@ -4173,10 +4173,10 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement de Saint-Laurent ",
       "nb_electeurs_inscrits": "58554",
-      "nb_total_voix_recueillies": "20954",
-      "nb_bulletins_rejetes": "634",
-      "taux_participation": "35.79",
-      "nb_bureaux_depouilles": "237",
+      "nb_total_voix_recueillies": "20977",
+      "nb_bulletins_rejetes": "638",
+      "taux_participation": "35.83",
+      "nb_bureaux_depouilles": "238",
       "nb_bureaux_total": "238",
       "candidats": [
         {
@@ -4184,15 +4184,15 @@
           "parti": 7,
           "nom": "DESOUSA",
           "prenom": "Alan",
-          "nb_voix_obtenues": "10864",
-          "nb_voix_majorite": "5031"
+          "nb_voix_obtenues": "10885",
+          "nb_voix_majorite": "5060"
         },
         {
           "id": 349,
           "parti": 14,
           "nom": "GHALI",
           "prenom": "François",
-          "nb_voix_obtenues": "5833",
+          "nb_voix_obtenues": "5825",
           "nb_voix_majorite": null
         },
         {
@@ -4200,7 +4200,7 @@
           "parti": 13,
           "nom": "FAYAD",
           "prenom": "William",
-          "nb_voix_obtenues": "2250",
+          "nb_voix_obtenues": "2255",
           "nb_voix_majorite": null
         },
         {
@@ -4208,7 +4208,7 @@
           "parti": 1,
           "nom": "BARSALOU",
           "prenom": "Marcello",
-          "nb_voix_obtenues": "1373",
+          "nb_voix_obtenues": "1374",
           "nb_voix_majorite": null
         }
       ]
