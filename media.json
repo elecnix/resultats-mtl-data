@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T11:03:08",
+  "date_heure_generation": "2013-11-04T11:05:08",
   "partis": [
     {
       "id": 7,
@@ -376,51 +376,51 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 465567,
-    "nb_bulletins_rejetes": 12122,
+    "nb_total_voix_recueillies": 465644,
+    "nb_bulletins_rejetes": 12124,
     "taux_participation": 42.25,
-    "nb_bureaux_depouilles": 4442,
+    "nb_bureaux_depouilles": 4443,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 145342,
+        "nb_voix_obtenues": 145365,
         "nb_voix_majorite": 25364,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 119978,
+        "nb_voix_obtenues": 120001,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 116271,
+        "nb_voix_obtenues": 116285,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 57867,
+        "nb_voix_obtenues": 57875,
         "nb_voix_majorite": 0,
         "parti": 1
       },
       {
         "nom": "BRÛLÉ",
         "prenom": "Michel",
-        "nb_voix_obtenues": 6166,
+        "nb_voix_obtenues": 6167,
         "nb_voix_majorite": 0,
         "parti": 11
       },
       {
         "nom": "TULASNE",
         "prenom": "Patricia",
-        "nb_voix_obtenues": 2494,
+        "nb_voix_obtenues": 2499,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -455,7 +455,7 @@
       {
         "nom": "SAURIOL",
         "prenom": "Clément",
-        "nb_voix_obtenues": 548,
+        "nb_voix_obtenues": 549,
         "nb_voix_majorite": 0,
         "parti": -1
       }
@@ -2535,10 +2535,10 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement de Montréal-Nord",
       "nb_electeurs_inscrits": "52007",
-      "nb_total_voix_recueillies": "19734",
-      "nb_bulletins_rejetes": "1240",
-      "taux_participation": "37.94",
-      "nb_bureaux_depouilles": "211",
+      "nb_total_voix_recueillies": "19869",
+      "nb_bulletins_rejetes": "1248",
+      "taux_participation": "38.20",
+      "nb_bureaux_depouilles": "212",
       "nb_bureaux_total": "213",
       "candidats": [
         {
@@ -2546,15 +2546,15 @@
           "parti": 7,
           "nom": "DEGUIRE",
           "prenom": "Gilles",
-          "nb_voix_obtenues": "12020",
-          "nb_voix_majorite": "8155"
+          "nb_voix_obtenues": "12107",
+          "nb_voix_majorite": "8218"
         },
         {
           "id": 207,
           "parti": 1,
           "nom": "RYAN",
           "prenom": "Guy",
-          "nb_voix_obtenues": "3865",
+          "nb_voix_obtenues": "3889",
           "nb_voix_majorite": null
         },
         {
@@ -2562,7 +2562,7 @@
           "parti": 13,
           "nom": "BOIVIN",
           "prenom": "Suzanne",
-          "nb_voix_obtenues": "2609",
+          "nb_voix_obtenues": "2625",
           "nb_voix_majorite": null
         }
       ]
