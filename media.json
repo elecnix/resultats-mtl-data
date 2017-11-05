@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T16:30:08",
+  "date_heure_generation": "2013-11-04T16:32:10",
   "partis": [
     {
       "id": 7,
@@ -376,7 +376,7 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 476601,
+    "nb_total_voix_recueillies": 476594,
     "nb_bulletins_rejetes": 12419,
     "taux_participation": 43.25,
     "nb_bureaux_depouilles": 4539,
@@ -427,7 +427,7 @@
       {
         "nom": "HAMIDA",
         "prenom": "Louai",
-        "nb_voix_obtenues": 1570,
+        "nb_voix_obtenues": 1563,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -4173,10 +4173,10 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement de Saint-Laurent ",
       "nb_electeurs_inscrits": "58554",
-      "nb_total_voix_recueillies": "21005",
-      "nb_bulletins_rejetes": "640",
-      "taux_participation": "35.87",
-      "nb_bureaux_depouilles": "238",
+      "nb_total_voix_recueillies": "20870",
+      "nb_bulletins_rejetes": "637",
+      "taux_participation": "35.64",
+      "nb_bureaux_depouilles": "237",
       "nb_bureaux_total": "238",
       "candidats": [
         {
@@ -4184,15 +4184,15 @@
           "parti": 7,
           "nom": "DESOUSA",
           "prenom": "Alan",
-          "nb_voix_obtenues": "10899",
-          "nb_voix_majorite": "5060"
+          "nb_voix_obtenues": "10835",
+          "nb_voix_majorite": "5019"
         },
         {
           "id": 349,
           "parti": 14,
           "nom": "GHALI",
           "prenom": "François",
-          "nb_voix_obtenues": "5839",
+          "nb_voix_obtenues": "5816",
           "nb_voix_majorite": null
         },
         {
@@ -4200,7 +4200,7 @@
           "parti": 13,
           "nom": "FAYAD",
           "prenom": "William",
-          "nb_voix_obtenues": "2254",
+          "nb_voix_obtenues": "2222",
           "nb_voix_majorite": null
         },
         {
@@ -4208,7 +4208,7 @@
           "parti": 1,
           "nom": "BARSALOU",
           "prenom": "Marcello",
-          "nb_voix_obtenues": "1373",
+          "nb_voix_obtenues": "1360",
           "nb_voix_majorite": null
         }
       ]
