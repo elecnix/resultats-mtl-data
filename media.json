@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T14:39:50",
+  "date_heure_generation": "2013-11-04T14:41:53",
   "partis": [
     {
       "id": 7,
@@ -3162,10 +3162,10 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral de Cap-Saint-Jacques",
       "nb_electeurs_inscrits": "22046",
-      "nb_total_voix_recueillies": "7122",
-      "nb_bulletins_rejetes": "418",
-      "taux_participation": "32.31",
-      "nb_bureaux_depouilles": "88",
+      "nb_total_voix_recueillies": "7181",
+      "nb_bulletins_rejetes": "423",
+      "taux_participation": "32.57",
+      "nb_bureaux_depouilles": "89",
       "nb_bureaux_total": "89",
       "candidats": [
         {
@@ -3173,15 +3173,15 @@
           "parti": 7,
           "nom": "CLÉMENT-TALBOT",
           "prenom": "Catherine",
-          "nb_voix_obtenues": "3156",
-          "nb_voix_majorite": "1069"
+          "nb_voix_obtenues": "3185",
+          "nb_voix_majorite": "1078"
         },
         {
           "id": 261,
           "parti": 13,
           "nom": "McCARTY",
           "prenom": "Eric",
-          "nb_voix_obtenues": "2087",
+          "nb_voix_obtenues": "2107",
           "nb_voix_majorite": null
         },
         {
@@ -3189,7 +3189,7 @@
           "parti": 1,
           "nom": "GARNER",
           "prenom": "Linton",
-          "nb_voix_obtenues": "1461",
+          "nb_voix_obtenues": "1466",
           "nb_voix_majorite": null
         }
       ]
@@ -3201,10 +3201,10 @@
       "type": "CA",
       "nom": "Conseiller d'arrondissement - District électoral de Cap-Saint-Jacques",
       "nb_electeurs_inscrits": "22046",
-      "nb_total_voix_recueillies": "7143",
+      "nb_total_voix_recueillies": "7178",
       "nb_bulletins_rejetes": "175",
-      "taux_participation": "32.40",
-      "nb_bureaux_depouilles": "88",
+      "taux_participation": "32.56",
+      "nb_bureaux_depouilles": "89",
       "nb_bureaux_total": "89",
       "candidats": [
         {
@@ -3212,15 +3212,15 @@
           "parti": 7,
           "nom": "GIGNAC",
           "prenom": "Yves",
-          "nb_voix_obtenues": "2499",
-          "nb_voix_majorite": "407"
+          "nb_voix_obtenues": "2519",
+          "nb_voix_majorite": "422"
         },
         {
           "id": 263,
           "parti": 14,
           "nom": "GOSWAMI",
           "prenom": "Bhaskar",
-          "nb_voix_obtenues": "2092",
+          "nb_voix_obtenues": "2097",
           "nb_voix_majorite": null
         },
         {
@@ -3228,7 +3228,7 @@
           "parti": 13,
           "nom": "SIRIGNANO",
           "prenom": "Lisa",
-          "nb_voix_obtenues": "1499",
+          "nb_voix_obtenues": "1503",
           "nb_voix_majorite": null
         },
         {
@@ -3236,7 +3236,7 @@
           "parti": 1,
           "nom": "MALTAIS",
           "prenom": "Odette",
-          "nb_voix_obtenues": "878",
+          "nb_voix_obtenues": "884",
           "nb_voix_majorite": null
         }
       ]
