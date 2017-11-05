@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T13:05:23",
+  "date_heure_generation": "2013-11-04T13:07:23",
   "partis": [
     {
       "id": 7,
@@ -376,51 +376,51 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 472341,
-    "nb_bulletins_rejetes": 12316,
-    "taux_participation": 42.86,
-    "nb_bureaux_depouilles": 4509,
+    "nb_total_voix_recueillies": 472421,
+    "nb_bulletins_rejetes": 12320,
+    "taux_participation": 42.87,
+    "nb_bureaux_depouilles": 4510,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 147446,
-        "nb_voix_majorite": 25626,
+        "nb_voix_obtenues": 147473,
+        "nb_voix_majorite": 25636,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 121820,
+        "nb_voix_obtenues": 121837,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 117817,
+        "nb_voix_obtenues": 117843,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 58712,
+        "nb_voix_obtenues": 58715,
         "nb_voix_majorite": 0,
         "parti": 1
       },
       {
         "nom": "BRÛLÉ",
         "prenom": "Michel",
-        "nb_voix_obtenues": 6281,
+        "nb_voix_obtenues": 6282,
         "nb_voix_majorite": 0,
         "parti": 11
       },
       {
         "nom": "TULASNE",
         "prenom": "Patricia",
-        "nb_voix_obtenues": 2532,
+        "nb_voix_obtenues": 2533,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -434,7 +434,7 @@
       {
         "nom": "BLAIS",
         "prenom": "Claude",
-        "nb_voix_obtenues": 1518,
+        "nb_voix_obtenues": 1519,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -5586,10 +5586,10 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral de François-Perrault",
       "nb_electeurs_inscrits": "21822",
-      "nb_total_voix_recueillies": "8873",
-      "nb_bulletins_rejetes": "384",
-      "taux_participation": "40.66",
-      "nb_bureaux_depouilles": "86",
+      "nb_total_voix_recueillies": "9009",
+      "nb_bulletins_rejetes": "394",
+      "taux_participation": "41.28",
+      "nb_bureaux_depouilles": "87",
       "nb_bureaux_total": "87",
       "candidats": [
         {
@@ -5597,15 +5597,15 @@
           "parti": 13,
           "nom": "OUELLET",
           "prenom": "Sylvain",
-          "nb_voix_obtenues": "2789",
-          "nb_voix_majorite": "15"
+          "nb_voix_obtenues": "2820",
+          "nb_voix_majorite": "8"
         },
         {
           "id": 473,
           "parti": 7,
           "nom": "BRICAULT",
           "prenom": "Claude",
-          "nb_voix_obtenues": "2774",
+          "nb_voix_obtenues": "2812",
           "nb_voix_majorite": null
         },
         {
@@ -5613,7 +5613,7 @@
           "parti": 14,
           "nom": "DE CICCO",
           "prenom": "Angelo",
-          "nb_voix_obtenues": "1702",
+          "nb_voix_obtenues": "1731",
           "nb_voix_majorite": null
         },
         {
@@ -5621,7 +5621,7 @@
           "parti": 1,
           "nom": "COLAVECCHIO",
           "prenom": "Nino",
-          "nb_voix_obtenues": "916",
+          "nb_voix_obtenues": "936",
           "nb_voix_majorite": null
         },
         {
@@ -5629,7 +5629,7 @@
           "parti": 11,
           "nom": "ST-LOUIS",
           "prenom": "François",
-          "nb_voix_obtenues": "191",
+          "nb_voix_obtenues": "198",
           "nb_voix_majorite": null
         },
         {
@@ -5637,7 +5637,7 @@
           "parti": -1,
           "nom": "LESSARD",
           "prenom": "André-Germain",
-          "nb_voix_obtenues": "117",
+          "nb_voix_obtenues": "118",
           "nb_voix_majorite": null
         }
       ]
