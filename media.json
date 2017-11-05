@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T11:05:08",
+  "date_heure_generation": "2013-11-04T11:07:07",
   "partis": [
     {
       "id": 7,
@@ -376,37 +376,37 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 465644,
-    "nb_bulletins_rejetes": 12124,
-    "taux_participation": 42.25,
+    "nb_total_voix_recueillies": 465661,
+    "nb_bulletins_rejetes": 12125,
+    "taux_participation": 42.26,
     "nb_bureaux_depouilles": 4443,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 145365,
+        "nb_voix_obtenues": 145367,
         "nb_voix_majorite": 25364,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 120001,
+        "nb_voix_obtenues": 120003,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 116285,
+        "nb_voix_obtenues": 116295,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 57875,
+        "nb_voix_obtenues": 57876,
         "nb_voix_majorite": 0,
         "parti": 1
       },
@@ -420,14 +420,14 @@
       {
         "nom": "TULASNE",
         "prenom": "Patricia",
-        "nb_voix_obtenues": 2499,
+        "nb_voix_obtenues": 2500,
         "nb_voix_majorite": 0,
         "parti": -1
       },
       {
         "nom": "HAMIDA",
         "prenom": "Louai",
-        "nb_voix_obtenues": 1545,
+        "nb_voix_obtenues": 1546,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -455,7 +455,7 @@
       {
         "nom": "SAURIOL",
         "prenom": "Clément",
-        "nb_voix_obtenues": 549,
+        "nb_voix_obtenues": 548,
         "nb_voix_majorite": 0,
         "parti": -1
       }
@@ -4267,10 +4267,10 @@
       "type": "CA",
       "nom": "Conseiller d'arrondissement - District électoral de la Côte-de-Liesse",
       "nb_electeurs_inscrits": "30970",
-      "nb_total_voix_recueillies": "10948",
-      "nb_bulletins_rejetes": "354",
-      "taux_participation": "35.35",
-      "nb_bureaux_depouilles": "120",
+      "nb_total_voix_recueillies": "11058",
+      "nb_bulletins_rejetes": "359",
+      "taux_participation": "35.71",
+      "nb_bureaux_depouilles": "121",
       "nb_bureaux_total": "121",
       "candidats": [
         {
@@ -4278,15 +4278,15 @@
           "parti": 7,
           "nom": "COHEN",
           "prenom": "Maurice",
-          "nb_voix_obtenues": "4842",
-          "nb_voix_majorite": "1660"
+          "nb_voix_obtenues": "4881",
+          "nb_voix_majorite": "1656"
         },
         {
           "id": 358,
           "parti": 14,
           "nom": "SIEGMAN",
           "prenom": "Michael",
-          "nb_voix_obtenues": "3182",
+          "nb_voix_obtenues": "3225",
           "nb_voix_majorite": null
         },
         {
@@ -4294,7 +4294,7 @@
           "parti": 13,
           "nom": "BASTIEN",
           "prenom": "Dominique",
-          "nb_voix_obtenues": "1374",
+          "nb_voix_obtenues": "1384",
           "nb_voix_majorite": null
         },
         {
@@ -4302,7 +4302,7 @@
           "parti": 1,
           "nom": "FARAH",
           "prenom": "Sara",
-          "nb_voix_obtenues": "1030",
+          "nb_voix_obtenues": "1041",
           "nb_voix_majorite": null
         },
         {
@@ -4310,7 +4310,7 @@
           "parti": -1,
           "nom": "IVASCU",
           "prenom": "Viorel",
-          "nb_voix_obtenues": "166",
+          "nb_voix_obtenues": "168",
           "nb_voix_majorite": null
         }
       ]
