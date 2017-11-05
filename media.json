@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T18:02:46",
+  "date_heure_generation": "2013-11-04T18:04:46",
   "partis": [
     {
       "id": 7,
@@ -376,37 +376,37 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 476589,
+    "nb_total_voix_recueillies": 476514,
     "nb_bulletins_rejetes": 12412,
-    "taux_participation": 43.25,
-    "nb_bureaux_depouilles": 4539,
+    "taux_participation": 43.24,
+    "nb_bureaux_depouilles": 4538,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 149120,
-        "nb_voix_majorite": 26269,
+        "nb_voix_obtenues": 149073,
+        "nb_voix_majorite": 26230,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 122851,
+        "nb_voix_obtenues": 122843,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 118509,
+        "nb_voix_obtenues": 118499,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 59316,
+        "nb_voix_obtenues": 59308,
         "nb_voix_majorite": 0,
         "parti": 1
       },
@@ -448,7 +448,7 @@
       {
         "nom": "SONOKPON",
         "prenom": "Kofi",
-        "nb_voix_obtenues": 687,
+        "nb_voix_obtenues": 685,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -2574,10 +2574,10 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral de Marie-Clarac ",
       "nb_electeurs_inscrits": "27391",
-      "nb_total_voix_recueillies": "10562",
-      "nb_bulletins_rejetes": "721",
-      "taux_participation": "38.56",
-      "nb_bureaux_depouilles": "114",
+      "nb_total_voix_recueillies": "10672",
+      "nb_bulletins_rejetes": "731",
+      "taux_participation": "38.96",
+      "nb_bureaux_depouilles": "115",
       "nb_bureaux_total": "115",
       "candidats": [
         {
@@ -2585,15 +2585,15 @@
           "parti": 7,
           "nom": "ROSSI",
           "prenom": "Chantal",
-          "nb_voix_obtenues": "6228",
-          "nb_voix_majorite": "4127"
+          "nb_voix_obtenues": "6292",
+          "nb_voix_majorite": "4172"
         },
         {
           "id": 208,
           "parti": 1,
           "nom": "ALLAIRE",
           "prenom": "Michelle",
-          "nb_voix_obtenues": "2101",
+          "nb_voix_obtenues": "2120",
           "nb_voix_majorite": null
         },
         {
@@ -2601,7 +2601,7 @@
           "parti": 13,
           "nom": "COHEN",
           "prenom": "Andrea",
-          "nb_voix_obtenues": "1512",
+          "nb_voix_obtenues": "1529",
           "nb_voix_majorite": null
         }
       ]
