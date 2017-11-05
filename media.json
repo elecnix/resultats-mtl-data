@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T19:11:15",
+  "date_heure_generation": "2013-11-04T19:15:18",
   "partis": [
     {
       "id": 7,
@@ -376,58 +376,58 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 476484,
-    "nb_bulletins_rejetes": 12366,
+    "nb_total_voix_recueillies": 476557,
+    "nb_bulletins_rejetes": 12372,
     "taux_participation": 43.24,
-    "nb_bureaux_depouilles": 4538,
+    "nb_bureaux_depouilles": 4539,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 149109,
-        "nb_voix_majorite": 26210,
+        "nb_voix_obtenues": 149130,
+        "nb_voix_majorite": 26216,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 122899,
+        "nb_voix_obtenues": 122914,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 118489,
+        "nb_voix_obtenues": 118504,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 59337,
+        "nb_voix_obtenues": 59347,
         "nb_voix_majorite": 0,
         "parti": 1
       },
       {
         "nom": "BRÛLÉ",
         "prenom": "Michel",
-        "nb_voix_obtenues": 6311,
+        "nb_voix_obtenues": 6313,
         "nb_voix_majorite": 0,
         "parti": 11
       },
       {
         "nom": "TULASNE",
         "prenom": "Patricia",
-        "nb_voix_obtenues": 2555,
+        "nb_voix_obtenues": 2556,
         "nb_voix_majorite": 0,
         "parti": -1
       },
       {
         "nom": "BLAIS",
         "prenom": "Claude",
-        "nb_voix_obtenues": 1552,
+        "nb_voix_obtenues": 1554,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -441,7 +441,7 @@
       {
         "nom": "YOUNG",
         "prenom": "Joseph",
-        "nb_voix_obtenues": 1109,
+        "nb_voix_obtenues": 1110,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -3201,9 +3201,9 @@
       "type": "CA",
       "nom": "Conseiller d'arrondissement - District électoral de Cap-Saint-Jacques",
       "nb_electeurs_inscrits": "22046",
-      "nb_total_voix_recueillies": "7178",
+      "nb_total_voix_recueillies": "7183",
       "nb_bulletins_rejetes": "175",
-      "taux_participation": "32.56",
+      "taux_participation": "32.58",
       "nb_bureaux_depouilles": "89",
       "nb_bureaux_total": "89",
       "candidats": [
@@ -3212,8 +3212,8 @@
           "parti": 7,
           "nom": "GIGNAC",
           "prenom": "Yves",
-          "nb_voix_obtenues": "2519",
-          "nb_voix_majorite": "422"
+          "nb_voix_obtenues": "2524",
+          "nb_voix_majorite": "427"
         },
         {
           "id": 263,
