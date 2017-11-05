@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T16:14:01",
+  "date_heure_generation": "2013-11-04T16:16:04",
   "partis": [
     {
       "id": 7,
@@ -2221,10 +2221,10 @@
       "type": "CA",
       "nom": "Conseiller d'arrondissement - District électoral de Sainte-Geneviève",
       "nb_electeurs_inscrits": "2469",
-      "nb_total_voix_recueillies": "840",
-      "nb_bulletins_rejetes": "34",
-      "taux_participation": "34.02",
-      "nb_bureaux_depouilles": "11",
+      "nb_total_voix_recueillies": "948",
+      "nb_bulletins_rejetes": "37",
+      "taux_participation": "38.40",
+      "nb_bureaux_depouilles": "12",
       "nb_bureaux_total": "12",
       "candidats": [
         {
@@ -2232,15 +2232,15 @@
           "parti": 8,
           "nom": "DUGAS",
           "prenom": "Éric",
-          "nb_voix_obtenues": "283",
-          "nb_voix_majorite": "62"
+          "nb_voix_obtenues": "335",
+          "nb_voix_majorite": "95"
         },
         {
           "id": 178,
           "parti": 14,
           "nom": "DUGAT",
           "prenom": "Jean Maxime",
-          "nb_voix_obtenues": "221",
+          "nb_voix_obtenues": "240",
           "nb_voix_majorite": null
         },
         {
@@ -2248,7 +2248,7 @@
           "parti": 7,
           "nom": "LECLERC",
           "prenom": "Roger",
-          "nb_voix_obtenues": "149",
+          "nb_voix_obtenues": "169",
           "nb_voix_majorite": null
         },
         {
@@ -2256,7 +2256,7 @@
           "parti": -1,
           "nom": "VOISARD",
           "prenom": "Philippe",
-          "nb_voix_obtenues": "98",
+          "nb_voix_obtenues": "104",
           "nb_voix_majorite": null
         },
         {
@@ -2264,7 +2264,7 @@
           "parti": 13,
           "nom": "PROULX",
           "prenom": "Geneviève-Anaïs",
-          "nb_voix_obtenues": "55",
+          "nb_voix_obtenues": "63",
           "nb_voix_majorite": null
         }
       ]
