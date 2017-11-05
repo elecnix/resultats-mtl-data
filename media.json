@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T11:41:34",
+  "date_heure_generation": "2013-11-04T11:43:38",
   "partis": [
     {
       "id": 7,
@@ -376,58 +376,58 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 469551,
-    "nb_bulletins_rejetes": 12232,
-    "taux_participation": 42.61,
-    "nb_bureaux_depouilles": 4479,
+    "nb_total_voix_recueillies": 469763,
+    "nb_bulletins_rejetes": 12237,
+    "taux_participation": 42.63,
+    "nb_bureaux_depouilles": 4481,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 146614,
-        "nb_voix_majorite": 25522,
+        "nb_voix_obtenues": 146676,
+        "nb_voix_majorite": 25515,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 121092,
+        "nb_voix_obtenues": 121161,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 117147,
+        "nb_voix_obtenues": 117185,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 58327,
+        "nb_voix_obtenues": 58355,
         "nb_voix_majorite": 0,
         "parti": 1
       },
       {
         "nom": "BRÛLÉ",
         "prenom": "Michel",
-        "nb_voix_obtenues": 6239,
+        "nb_voix_obtenues": 6246,
         "nb_voix_majorite": 0,
         "parti": 11
       },
       {
         "nom": "TULASNE",
         "prenom": "Patricia",
-        "nb_voix_obtenues": 2516,
+        "nb_voix_obtenues": 2518,
         "nb_voix_majorite": 0,
         "parti": -1
       },
       {
         "nom": "HAMIDA",
         "prenom": "Louai",
-        "nb_voix_obtenues": 1558,
+        "nb_voix_obtenues": 1559,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -4768,10 +4768,10 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral de Saint-Paul–Émard",
       "nb_electeurs_inscrits": "21378",
-      "nb_total_voix_recueillies": "7952",
-      "nb_bulletins_rejetes": "556",
-      "taux_participation": "37.20",
-      "nb_bureaux_depouilles": "89",
+      "nb_total_voix_recueillies": "8239",
+      "nb_bulletins_rejetes": "580",
+      "taux_participation": "38.54",
+      "nb_bureaux_depouilles": "92",
       "nb_bureaux_total": "97",
       "candidats": [
         {
@@ -4779,15 +4779,15 @@
           "parti": 13,
           "nom": "SIGOUIN",
           "prenom": "Anne-Marie",
-          "nb_voix_obtenues": "2721",
-          "nb_voix_majorite": "407"
+          "nb_voix_obtenues": "2818",
+          "nb_voix_majorite": "431"
         },
         {
           "id": 397,
           "parti": 7,
           "nom": "OUAMABIA",
           "prenom": "Claudia Olga",
-          "nb_voix_obtenues": "2314",
+          "nb_voix_obtenues": "2387",
           "nb_voix_majorite": null
         },
         {
@@ -4795,7 +4795,7 @@
           "parti": 1,
           "nom": "ROY",
           "prenom": "Huguette",
-          "nb_voix_obtenues": "1940",
+          "nb_voix_obtenues": "2017",
           "nb_voix_majorite": null
         },
         {
@@ -4803,7 +4803,7 @@
           "parti": 11,
           "nom": "SALAS CASTRO",
           "prenom": "José Humberto",
-          "nb_voix_obtenues": "421",
+          "nb_voix_obtenues": "437",
           "nb_voix_majorite": null
         }
       ]
@@ -4815,10 +4815,10 @@
       "type": "CA",
       "nom": "Conseiller d'arrondissement - District électoral de Saint-Paul–Émard",
       "nb_electeurs_inscrits": "21378",
-      "nb_total_voix_recueillies": "8263",
-      "nb_bulletins_rejetes": "640",
-      "taux_participation": "38.65",
-      "nb_bureaux_depouilles": "93",
+      "nb_total_voix_recueillies": "8458",
+      "nb_bulletins_rejetes": "657",
+      "taux_participation": "39.56",
+      "nb_bureaux_depouilles": "95",
       "nb_bureaux_total": "97",
       "candidats": [
         {
@@ -4826,15 +4826,15 @@
           "parti": 13,
           "nom": "VAILLANCOURT",
           "prenom": "Alain",
-          "nb_voix_obtenues": "2820",
-          "nb_voix_majorite": "360"
+          "nb_voix_obtenues": "2896",
+          "nb_voix_majorite": "393"
         },
         {
           "id": 402,
           "parti": 7,
           "nom": "PHANEUF",
           "prenom": "Guillaume",
-          "nb_voix_obtenues": "2460",
+          "nb_voix_obtenues": "2503",
           "nb_voix_majorite": null
         },
         {
@@ -4842,7 +4842,7 @@
           "parti": 1,
           "nom": "BÉLANGER",
           "prenom": "Daniel",
-          "nb_voix_obtenues": "2343",
+          "nb_voix_obtenues": "2402",
           "nb_voix_majorite": null
         }
       ]
