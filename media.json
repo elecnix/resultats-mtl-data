@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T10:32:53",
+  "date_heure_generation": "2013-11-04T10:38:58",
   "partis": [
     {
       "id": 7,
@@ -376,58 +376,58 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 462546,
-    "nb_bulletins_rejetes": 12036,
-    "taux_participation": 41.97,
-    "nb_bureaux_depouilles": 4423,
+    "nb_total_voix_recueillies": 462906,
+    "nb_bulletins_rejetes": 12043,
+    "taux_participation": 42.01,
+    "nb_bureaux_depouilles": 4427,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 144148,
-        "nb_voix_majorite": 24876,
+        "nb_voix_obtenues": 144283,
+        "nb_voix_majorite": 24920,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 119272,
+        "nb_voix_obtenues": 119363,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 115656,
+        "nb_voix_obtenues": 115742,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 57558,
+        "nb_voix_obtenues": 57587,
         "nb_voix_majorite": 0,
         "parti": 1
       },
       {
         "nom": "BRÛLÉ",
         "prenom": "Michel",
-        "nb_voix_obtenues": 6128,
+        "nb_voix_obtenues": 6130,
         "nb_voix_majorite": 0,
         "parti": 11
       },
       {
         "nom": "TULASNE",
         "prenom": "Patricia",
-        "nb_voix_obtenues": 2474,
+        "nb_voix_obtenues": 2482,
         "nb_voix_majorite": 0,
         "parti": -1
       },
       {
         "nom": "HAMIDA",
         "prenom": "Louai",
-        "nb_voix_obtenues": 1520,
+        "nb_voix_obtenues": 1521,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -448,7 +448,7 @@
       {
         "nom": "SONOKPON",
         "prenom": "Kofi",
-        "nb_voix_obtenues": 650,
+        "nb_voix_obtenues": 651,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -1584,10 +1584,10 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement de LaSalle",
       "nb_electeurs_inscrits": "51562",
-      "nb_total_voix_recueillies": "19424",
-      "nb_bulletins_rejetes": "644",
-      "taux_participation": "37.67",
-      "nb_bureaux_depouilles": "229",
+      "nb_total_voix_recueillies": "19796",
+      "nb_bulletins_rejetes": "656",
+      "taux_participation": "38.39",
+      "nb_bureaux_depouilles": "233",
       "nb_bureaux_total": "236",
       "candidats": [
         {
@@ -1595,15 +1595,15 @@
           "parti": 4,
           "nom": "BARBE",
           "prenom": "Manon",
-          "nb_voix_obtenues": "6858",
-          "nb_voix_majorite": "2733"
+          "nb_voix_obtenues": "6981",
+          "nb_voix_majorite": "2795"
         },
         {
           "id": 121,
           "parti": 7,
           "nom": "LABBÉ",
           "prenom": "Jean-François",
-          "nb_voix_obtenues": "4125",
+          "nb_voix_obtenues": "4186",
           "nb_voix_majorite": null
         },
         {
@@ -1611,7 +1611,7 @@
           "parti": 14,
           "nom": "MORENO",
           "prenom": "Francisco",
-          "nb_voix_obtenues": "3114",
+          "nb_voix_obtenues": "3182",
           "nb_voix_majorite": null
         },
         {
@@ -1619,7 +1619,7 @@
           "parti": 13,
           "nom": "ASCH",
           "prenom": "Patrick",
-          "nb_voix_obtenues": "2104",
+          "nb_voix_obtenues": "2159",
           "nb_voix_majorite": null
         },
         {
@@ -1627,7 +1627,7 @@
           "parti": 12,
           "nom": "VADACCHINO",
           "prenom": "Michael",
-          "nb_voix_obtenues": "1529",
+          "nb_voix_obtenues": "1567",
           "nb_voix_majorite": null
         },
         {
@@ -1635,7 +1635,7 @@
           "parti": 1,
           "nom": "KALUZNY",
           "prenom": "Oksana",
-          "nb_voix_obtenues": "1050",
+          "nb_voix_obtenues": "1065",
           "nb_voix_majorite": null
         }
       ]
@@ -1710,10 +1710,10 @@
       "type": "CA",
       "nom": "Conseiller d'arrondissement - District électoral du Sault-Saint-Louis (siège 1)",
       "nb_electeurs_inscrits": "25660",
-      "nb_total_voix_recueillies": "10918",
-      "nb_bulletins_rejetes": "443",
-      "taux_participation": "42.55",
-      "nb_bureaux_depouilles": "116",
+      "nb_total_voix_recueillies": "11195",
+      "nb_bulletins_rejetes": "458",
+      "taux_participation": "43.63",
+      "nb_bureaux_depouilles": "119",
       "nb_bureaux_total": "119",
       "candidats": [
         {
@@ -1721,15 +1721,15 @@
           "parti": 4,
           "nom": "BLANCHET",
           "prenom": "Nancy",
-          "nb_voix_obtenues": "3283",
-          "nb_voix_majorite": "790"
+          "nb_voix_obtenues": "3367",
+          "nb_voix_majorite": "821"
         },
         {
           "id": 134,
           "parti": 7,
           "nom": "LAFONTAINE",
           "prenom": "Julien",
-          "nb_voix_obtenues": "2493",
+          "nb_voix_obtenues": "2546",
           "nb_voix_majorite": null
         },
         {
@@ -1737,7 +1737,7 @@
           "parti": 14,
           "nom": "KWON",
           "prenom": "Andréa",
-          "nb_voix_obtenues": "2083",
+          "nb_voix_obtenues": "2126",
           "nb_voix_majorite": null
         },
         {
@@ -1745,7 +1745,7 @@
           "parti": 13,
           "nom": "BUFFONE",
           "prenom": "Patrizia",
-          "nb_voix_obtenues": "1173",
+          "nb_voix_obtenues": "1203",
           "nb_voix_majorite": null
         },
         {
@@ -1753,7 +1753,7 @@
           "parti": 1,
           "nom": "BÉNARD",
           "prenom": "Jocelyne",
-          "nb_voix_obtenues": "810",
+          "nb_voix_obtenues": "839",
           "nb_voix_majorite": null
         },
         {
@@ -1761,7 +1761,7 @@
           "parti": 12,
           "nom": "SICOLI",
           "prenom": "Luciano",
-          "nb_voix_obtenues": "633",
+          "nb_voix_obtenues": "656",
           "nb_voix_majorite": null
         }
       ]
