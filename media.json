@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T11:31:36",
+  "date_heure_generation": "2013-11-04T11:33:33",
   "partis": [
     {
       "id": 7,
@@ -376,72 +376,72 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 467750,
-    "nb_bulletins_rejetes": 12190,
-    "taux_participation": 42.45,
-    "nb_bureaux_depouilles": 4460,
+    "nb_total_voix_recueillies": 468148,
+    "nb_bulletins_rejetes": 12206,
+    "taux_participation": 42.48,
+    "nb_bureaux_depouilles": 4465,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 146091,
-        "nb_voix_majorite": 25499,
+        "nb_voix_obtenues": 146194,
+        "nb_voix_majorite": 25461,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 120592,
+        "nb_voix_obtenues": 120733,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 116721,
+        "nb_voix_obtenues": 116808,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 58084,
+        "nb_voix_obtenues": 58121,
         "nb_voix_majorite": 0,
         "parti": 1
       },
       {
         "nom": "BRÛLÉ",
         "prenom": "Michel",
-        "nb_voix_obtenues": 6203,
+        "nb_voix_obtenues": 6212,
         "nb_voix_majorite": 0,
         "parti": 11
       },
       {
         "nom": "TULASNE",
         "prenom": "Patricia",
-        "nb_voix_obtenues": 2509,
+        "nb_voix_obtenues": 2510,
         "nb_voix_majorite": 0,
         "parti": -1
       },
       {
         "nom": "HAMIDA",
         "prenom": "Louai",
-        "nb_voix_obtenues": 1555,
+        "nb_voix_obtenues": 1557,
         "nb_voix_majorite": 0,
         "parti": -1
       },
       {
         "nom": "BLAIS",
         "prenom": "Claude",
-        "nb_voix_obtenues": 1502,
+        "nb_voix_obtenues": 1503,
         "nb_voix_majorite": 0,
         "parti": -1
       },
       {
         "nom": "YOUNG",
         "prenom": "Joseph",
-        "nb_voix_obtenues": 1090,
+        "nb_voix_obtenues": 1091,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -995,10 +995,10 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement de Côte-des-Neiges–Notre-Dame-de-Grâce ",
       "nb_electeurs_inscrits": "94587",
-      "nb_total_voix_recueillies": "35485",
-      "nb_bulletins_rejetes": "982",
-      "taux_participation": "37.52",
-      "nb_bureaux_depouilles": "365",
+      "nb_total_voix_recueillies": "35573",
+      "nb_bulletins_rejetes": "991",
+      "taux_participation": "37.61",
+      "nb_bureaux_depouilles": "366",
       "nb_bureaux_total": "372",
       "candidats": [
         {
@@ -1006,15 +1006,15 @@
           "parti": 1,
           "nom": "COPEMAN",
           "prenom": "Russell",
-          "nb_voix_obtenues": "10188",
-          "nb_voix_majorite": "1141"
+          "nb_voix_obtenues": "10201",
+          "nb_voix_majorite": "1132"
         },
         {
           "id": 68,
           "parti": 13,
           "nom": "SIMKIN",
           "prenom": "Michael",
-          "nb_voix_obtenues": "9047",
+          "nb_voix_obtenues": "9069",
           "nb_voix_majorite": null
         },
         {
@@ -1022,7 +1022,7 @@
           "parti": 14,
           "nom": "ROSS",
           "prenom": "Andrew",
-          "nb_voix_obtenues": "7668",
+          "nb_voix_obtenues": "7687",
           "nb_voix_majorite": null
         },
         {
@@ -1030,7 +1030,7 @@
           "parti": 7,
           "nom": "COPPS",
           "prenom": "Kevin",
-          "nb_voix_obtenues": "7600",
+          "nb_voix_obtenues": "7625",
           "nb_voix_majorite": null
         }
       ]
