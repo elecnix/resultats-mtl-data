@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T12:07:29",
+  "date_heure_generation": "2013-11-04T12:11:31",
   "partis": [
     {
       "id": 7,
@@ -3460,10 +3460,10 @@
       "type": "CA",
       "nom": "Conseiller d'arrondissement - District électoral de De Lorimier",
       "nb_electeurs_inscrits": "23148",
-      "nb_total_voix_recueillies": "13222",
-      "nb_bulletins_rejetes": "415",
-      "taux_participation": "57.12",
-      "nb_bureaux_depouilles": "101",
+      "nb_total_voix_recueillies": "13320",
+      "nb_bulletins_rejetes": "416",
+      "taux_participation": "57.54",
+      "nb_bureaux_depouilles": "102",
       "nb_bureaux_total": "102",
       "candidats": [
         {
@@ -3471,15 +3471,15 @@
           "parti": 13,
           "nom": "GIGUÈRE",
           "prenom": "Marianne",
-          "nb_voix_obtenues": "6727",
-          "nb_voix_majorite": "3169"
+          "nb_voix_obtenues": "6771",
+          "nb_voix_majorite": "3184"
         },
         {
           "id": 285,
           "parti": 1,
           "nom": "BOILEAU",
           "prenom": "Carl",
-          "nb_voix_obtenues": "3558",
+          "nb_voix_obtenues": "3587",
           "nb_voix_majorite": null
         },
         {
@@ -3487,7 +3487,7 @@
           "parti": 7,
           "nom": "TRUONG",
           "prenom": "Nam",
-          "nb_voix_obtenues": "1568",
+          "nb_voix_obtenues": "1586",
           "nb_voix_majorite": null
         },
         {
@@ -3495,7 +3495,7 @@
           "parti": -1,
           "nom": "LAPIERRE",
           "prenom": "Sophie Stéphanie",
-          "nb_voix_obtenues": "954",
+          "nb_voix_obtenues": "960",
           "nb_voix_majorite": null
         }
       ]
@@ -5539,10 +5539,10 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral de Saint-Michel",
       "nb_electeurs_inscrits": "21255",
-      "nb_total_voix_recueillies": "6844",
-      "nb_bulletins_rejetes": "349",
-      "taux_participation": "32.20",
-      "nb_bureaux_depouilles": "81",
+      "nb_total_voix_recueillies": "6958",
+      "nb_bulletins_rejetes": "355",
+      "taux_participation": "32.74",
+      "nb_bureaux_depouilles": "82",
       "nb_bureaux_total": "84",
       "candidats": [
         {
@@ -5550,15 +5550,15 @@
           "parti": 7,
           "nom": "BENJAMIN",
           "prenom": "Frantz",
-          "nb_voix_obtenues": "3262",
-          "nb_voix_majorite": "2038"
+          "nb_voix_obtenues": "3328",
+          "nb_voix_majorite": "2086"
         },
         {
           "id": 471,
           "parti": 13,
           "nom": "BERNARD",
           "prenom": "Isabelle",
-          "nb_voix_obtenues": "1224",
+          "nb_voix_obtenues": "1242",
           "nb_voix_majorite": null
         },
         {
@@ -5566,7 +5566,7 @@
           "parti": 14,
           "nom": "ALVAREZ GARCIA",
           "prenom": "Emilio",
-          "nb_voix_obtenues": "1091",
+          "nb_voix_obtenues": "1100",
           "nb_voix_majorite": null
         },
         {
@@ -5574,7 +5574,7 @@
           "parti": 1,
           "nom": "DE LUCA",
           "prenom": "John",
-          "nb_voix_obtenues": "918",
+          "nb_voix_obtenues": "933",
           "nb_voix_majorite": null
         }
       ]
