@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T16:12:01",
+  "date_heure_generation": "2013-11-04T16:14:01",
   "partis": [
     {
       "id": 7,
@@ -376,44 +376,44 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 476521,
-    "nb_bulletins_rejetes": 12414,
-    "taux_participation": 43.24,
-    "nb_bureaux_depouilles": 4538,
+    "nb_total_voix_recueillies": 476601,
+    "nb_bulletins_rejetes": 12419,
+    "taux_participation": 43.25,
+    "nb_bureaux_depouilles": 4539,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 149085,
-        "nb_voix_majorite": 26262,
+        "nb_voix_obtenues": 149122,
+        "nb_voix_majorite": 26274,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 122823,
+        "nb_voix_obtenues": 122848,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 118513,
+        "nb_voix_obtenues": 118516,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 59298,
+        "nb_voix_obtenues": 59306,
         "nb_voix_majorite": 0,
         "parti": 1
       },
       {
         "nom": "BRÛLÉ",
         "prenom": "Michel",
-        "nb_voix_obtenues": 6351,
+        "nb_voix_obtenues": 6353,
         "nb_voix_majorite": 0,
         "parti": 11
       },
@@ -2017,8 +2017,8 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement de L'Île-Bizard–Sainte-Geneviève",
       "nb_electeurs_inscrits": "13432",
-      "nb_total_voix_recueillies": "6925",
-      "nb_bulletins_rejetes": "140",
+      "nb_total_voix_recueillies": "6926",
+      "nb_bulletins_rejetes": "141",
       "taux_participation": "51.56",
       "nb_bureaux_depouilles": "56",
       "nb_bureaux_total": "56",
@@ -2221,10 +2221,10 @@
       "type": "CA",
       "nom": "Conseiller d'arrondissement - District électoral de Sainte-Geneviève",
       "nb_electeurs_inscrits": "2469",
-      "nb_total_voix_recueillies": "945",
+      "nb_total_voix_recueillies": "840",
       "nb_bulletins_rejetes": "34",
-      "taux_participation": "38.27",
-      "nb_bureaux_depouilles": "12",
+      "taux_participation": "34.02",
+      "nb_bureaux_depouilles": "11",
       "nb_bureaux_total": "12",
       "candidats": [
         {
@@ -2232,15 +2232,15 @@
           "parti": 8,
           "nom": "DUGAS",
           "prenom": "Éric",
-          "nb_voix_obtenues": "335",
-          "nb_voix_majorite": "95"
+          "nb_voix_obtenues": "283",
+          "nb_voix_majorite": "62"
         },
         {
           "id": 178,
           "parti": 14,
           "nom": "DUGAT",
           "prenom": "Jean Maxime",
-          "nb_voix_obtenues": "240",
+          "nb_voix_obtenues": "221",
           "nb_voix_majorite": null
         },
         {
@@ -2248,7 +2248,7 @@
           "parti": 7,
           "nom": "LECLERC",
           "prenom": "Roger",
-          "nb_voix_obtenues": "169",
+          "nb_voix_obtenues": "149",
           "nb_voix_majorite": null
         },
         {
@@ -2256,7 +2256,7 @@
           "parti": -1,
           "nom": "VOISARD",
           "prenom": "Philippe",
-          "nb_voix_obtenues": "104",
+          "nb_voix_obtenues": "98",
           "nb_voix_majorite": null
         },
         {
@@ -2264,7 +2264,7 @@
           "parti": 13,
           "nom": "PROULX",
           "prenom": "Geneviève-Anaïs",
-          "nb_voix_obtenues": "63",
+          "nb_voix_obtenues": "55",
           "nb_voix_majorite": null
         }
       ]
