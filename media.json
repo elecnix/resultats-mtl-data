@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T12:11:31",
+  "date_heure_generation": "2013-11-04T12:13:33",
   "partis": [
     {
       "id": 7,
@@ -376,58 +376,58 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 471392,
-    "nb_bulletins_rejetes": 12297,
-    "taux_participation": 42.78,
-    "nb_bureaux_depouilles": 4498,
+    "nb_total_voix_recueillies": 471633,
+    "nb_bulletins_rejetes": 12300,
+    "taux_participation": 42.8,
+    "nb_bureaux_depouilles": 4501,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 147168,
-        "nb_voix_majorite": 25587,
+        "nb_voix_obtenues": 147229,
+        "nb_voix_majorite": 25595,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 121581,
+        "nb_voix_obtenues": 121634,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 117522,
+        "nb_voix_obtenues": 117620,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 58610,
+        "nb_voix_obtenues": 58627,
         "nb_voix_majorite": 0,
         "parti": 1
       },
       {
         "nom": "BRÛLÉ",
         "prenom": "Michel",
-        "nb_voix_obtenues": 6272,
+        "nb_voix_obtenues": 6277,
         "nb_voix_majorite": 0,
         "parti": 11
       },
       {
         "nom": "TULASNE",
         "prenom": "Patricia",
-        "nb_voix_obtenues": 2530,
+        "nb_voix_obtenues": 2531,
         "nb_voix_majorite": 0,
         "parti": -1
       },
       {
         "nom": "HAMIDA",
         "prenom": "Louai",
-        "nb_voix_obtenues": 1563,
+        "nb_voix_obtenues": 1564,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -441,14 +441,14 @@
       {
         "nom": "YOUNG",
         "prenom": "Joseph",
-        "nb_voix_obtenues": 1100,
+        "nb_voix_obtenues": 1101,
         "nb_voix_majorite": 0,
         "parti": -1
       },
       {
         "nom": "SONOKPON",
         "prenom": "Kofi",
-        "nb_voix_obtenues": 678,
+        "nb_voix_obtenues": 679,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -3248,10 +3248,10 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement du Plateau-Mont-Royal",
       "nb_electeurs_inscrits": "65058",
-      "nb_total_voix_recueillies": "33368",
-      "nb_bulletins_rejetes": "936",
-      "taux_participation": "51.29",
-      "nb_bureaux_depouilles": "279",
+      "nb_total_voix_recueillies": "33518",
+      "nb_bulletins_rejetes": "939",
+      "taux_participation": "51.52",
+      "nb_bureaux_depouilles": "280",
       "nb_bureaux_total": "280",
       "candidats": [
         {
@@ -3259,15 +3259,15 @@
           "parti": 13,
           "nom": "FERRANDEZ",
           "prenom": "Luc",
-          "nb_voix_obtenues": "16630",
-          "nb_voix_majorite": "6674"
+          "nb_voix_obtenues": "16706",
+          "nb_voix_majorite": "6699"
         },
         {
           "id": 268,
           "parti": 1,
           "nom": "LORAIN",
           "prenom": "Danièle",
-          "nb_voix_obtenues": "9956",
+          "nb_voix_obtenues": "10007",
           "nb_voix_majorite": null
         },
         {
@@ -3275,7 +3275,7 @@
           "parti": 7,
           "nom": "THIBODEAU",
           "prenom": "Gilbert",
-          "nb_voix_obtenues": "4420",
+          "nb_voix_obtenues": "4437",
           "nb_voix_majorite": null
         },
         {
@@ -3283,7 +3283,7 @@
           "parti": -1,
           "nom": "BOYER",
           "prenom": "Martin",
-          "nb_voix_obtenues": "1426",
+          "nb_voix_obtenues": "1429",
           "nb_voix_majorite": null
         }
       ]
