@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T14:25:26",
+  "date_heure_generation": "2013-11-04T14:27:24",
   "partis": [
     {
       "id": 7,
@@ -948,10 +948,10 @@
       "type": "CA",
       "nom": "Conseiller d'arrondissement - District électoral du Centre ",
       "nb_electeurs_inscrits": "10802",
-      "nb_total_voix_recueillies": "5407",
-      "nb_bulletins_rejetes": "250",
-      "taux_participation": "50.06",
-      "nb_bureaux_depouilles": "49",
+      "nb_total_voix_recueillies": "5525",
+      "nb_bulletins_rejetes": "256",
+      "taux_participation": "51.15",
+      "nb_bureaux_depouilles": "50",
       "nb_bureaux_total": "50",
       "candidats": [
         {
@@ -959,15 +959,15 @@
           "parti": 3,
           "nom": "DI GENOVA ZAMMIT",
           "prenom": "Michelle",
-          "nb_voix_obtenues": "2413",
-          "nb_voix_majorite": "820"
+          "nb_voix_obtenues": "2459",
+          "nb_voix_majorite": "830"
         },
         {
           "id": 62,
           "parti": 7,
           "nom": "MANCINI",
           "prenom": "Angela",
-          "nb_voix_obtenues": "1593",
+          "nb_voix_obtenues": "1629",
           "nb_voix_majorite": null
         },
         {
@@ -975,7 +975,7 @@
           "parti": 13,
           "nom": "ROUSSY",
           "prenom": "Jean-Sébastien",
-          "nb_voix_obtenues": "819",
+          "nb_voix_obtenues": "843",
           "nb_voix_majorite": null
         },
         {
@@ -983,7 +983,7 @@
           "parti": 1,
           "nom": "MOUSSALEM",
           "prenom": "Mona",
-          "nb_voix_obtenues": "332",
+          "nb_voix_obtenues": "338",
           "nb_voix_majorite": null
         }
       ]
