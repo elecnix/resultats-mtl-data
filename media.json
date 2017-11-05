@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T13:41:32",
+  "date_heure_generation": "2013-11-04T13:43:32",
   "partis": [
     {
       "id": 7,
@@ -3617,10 +3617,10 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement de Rivière-des-Prairies–Pointe-aux-Trembles",
       "nb_electeurs_inscrits": "78909",
-      "nb_total_voix_recueillies": "33289",
-      "nb_bulletins_rejetes": "2023",
-      "taux_participation": "42.19",
-      "nb_bureaux_depouilles": "329",
+      "nb_total_voix_recueillies": "33359",
+      "nb_bulletins_rejetes": "2032",
+      "taux_participation": "42.28",
+      "nb_bureaux_depouilles": "330",
       "nb_bureaux_total": "332",
       "candidats": [
         {
@@ -3628,15 +3628,15 @@
           "parti": 7,
           "nom": "ROULEAU",
           "prenom": "Chantal",
-          "nb_voix_obtenues": "20606",
-          "nb_voix_majorite": "14881"
+          "nb_voix_obtenues": "20651",
+          "nb_voix_majorite": "14915"
         },
         {
           "id": 299,
           "parti": 13,
           "nom": "DELLA VALLE",
           "prenom": "Romeo",
-          "nb_voix_obtenues": "5725",
+          "nb_voix_obtenues": "5736",
           "nb_voix_majorite": null
         },
         {
@@ -3644,7 +3644,7 @@
           "parti": 1,
           "nom": "TAYLOR",
           "prenom": "Michel",
-          "nb_voix_obtenues": "4935",
+          "nb_voix_obtenues": "4940",
           "nb_voix_majorite": null
         }
       ]
@@ -3875,10 +3875,10 @@
       "type": "CA",
       "nom": "Conseiller d'arrondissement - District électoral de Rivière-des-Prairies",
       "nb_electeurs_inscrits": "24801",
-      "nb_total_voix_recueillies": "9481",
-      "nb_bulletins_rejetes": "510",
-      "taux_participation": "38.23",
-      "nb_bureaux_depouilles": "106",
+      "nb_total_voix_recueillies": "9577",
+      "nb_bulletins_rejetes": "520",
+      "taux_participation": "38.62",
+      "nb_bureaux_depouilles": "107",
       "nb_bureaux_total": "107",
       "candidats": [
         {
@@ -3886,15 +3886,15 @@
           "parti": 7,
           "nom": "PIERRE-ANTOINE",
           "prenom": "Nathalie",
-          "nb_voix_obtenues": "5240",
-          "nb_voix_majorite": "3662"
+          "nb_voix_obtenues": "5281",
+          "nb_voix_majorite": "3685"
         },
         {
           "id": 321,
           "parti": 14,
           "nom": "CHIAZZESE",
           "prenom": "Gianni",
-          "nb_voix_obtenues": "1578",
+          "nb_voix_obtenues": "1596",
           "nb_voix_majorite": null
         },
         {
@@ -3902,7 +3902,7 @@
           "parti": 1,
           "nom": "CARUSO",
           "prenom": "Danny",
-          "nb_voix_obtenues": "1099",
+          "nb_voix_obtenues": "1108",
           "nb_voix_majorite": null
         },
         {
@@ -3910,7 +3910,7 @@
           "parti": 13,
           "nom": "HOMBRADOS",
           "prenom": "Steven",
-          "nb_voix_obtenues": "877",
+          "nb_voix_obtenues": "891",
           "nb_voix_majorite": null
         },
         {
@@ -3918,7 +3918,7 @@
           "parti": -1,
           "nom": "FIRMIN",
           "prenom": "Marcel",
-          "nb_voix_obtenues": "177",
+          "nb_voix_obtenues": "181",
           "nb_voix_majorite": null
         }
       ]
