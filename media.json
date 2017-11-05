@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T17:30:43",
+  "date_heure_generation": "2013-11-04T17:32:38",
   "partis": [
     {
       "id": 7,
@@ -376,44 +376,44 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 476589,
-    "nb_bulletins_rejetes": 12420,
-    "taux_participation": 43.25,
-    "nb_bureaux_depouilles": 4539,
+    "nb_total_voix_recueillies": 476467,
+    "nb_bulletins_rejetes": 12415,
+    "taux_participation": 43.24,
+    "nb_bureaux_depouilles": 4538,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 149114,
-        "nb_voix_majorite": 26263,
+        "nb_voix_obtenues": 149069,
+        "nb_voix_majorite": 26251,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 122851,
+        "nb_voix_obtenues": 122818,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 118515,
+        "nb_voix_obtenues": 118486,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 59306,
+        "nb_voix_obtenues": 59299,
         "nb_voix_majorite": 0,
         "parti": 1
       },
       {
         "nom": "BRÛLÉ",
         "prenom": "Michel",
-        "nb_voix_obtenues": 6353,
+        "nb_voix_obtenues": 6350,
         "nb_voix_majorite": 0,
         "parti": 11
       },
@@ -2856,9 +2856,9 @@
       "type": "CA",
       "nom": "Conseiller d'arrondissement - District électoral de Joseph-Beaubien",
       "nb_electeurs_inscrits": "4161",
-      "nb_total_voix_recueillies": "2584",
+      "nb_total_voix_recueillies": "2586",
       "nb_bulletins_rejetes": "46",
-      "taux_participation": "62.10",
+      "taux_participation": "62.15",
       "nb_bureaux_depouilles": "18",
       "nb_bureaux_total": "18",
       "candidats": [
@@ -2883,7 +2883,7 @@
           "parti": 5,
           "nom": "NEPVEU",
           "prenom": "Bertrand",
-          "nb_voix_obtenues": "476",
+          "nb_voix_obtenues": "478",
           "nb_voix_majorite": null
         },
         {
