@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T19:01:15",
+  "date_heure_generation": "2013-11-04T19:05:17",
   "partis": [
     {
       "id": 7,
@@ -376,44 +376,44 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 476412,
-    "nb_bulletins_rejetes": 12366,
-    "taux_participation": 43.23,
-    "nb_bureaux_depouilles": 4538,
+    "nb_total_voix_recueillies": 476537,
+    "nb_bulletins_rejetes": 12373,
+    "taux_participation": 43.24,
+    "nb_bureaux_depouilles": 4539,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 149087,
-        "nb_voix_majorite": 26228,
+        "nb_voix_obtenues": 149106,
+        "nb_voix_majorite": 26216,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 122859,
+        "nb_voix_obtenues": 122890,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 118460,
+        "nb_voix_obtenues": 118504,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 59306,
+        "nb_voix_obtenues": 59328,
         "nb_voix_majorite": 0,
         "parti": 1
       },
       {
         "nom": "BRÛLÉ",
         "prenom": "Michel",
-        "nb_voix_obtenues": 6345,
+        "nb_voix_obtenues": 6347,
         "nb_voix_majorite": 0,
         "parti": 11
       },
@@ -2276,8 +2276,8 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement de Mercier–Hochelaga-Maisonneuve",
       "nb_electeurs_inscrits": "96729",
-      "nb_total_voix_recueillies": "43708",
-      "nb_bulletins_rejetes": "2081",
+      "nb_total_voix_recueillies": "43710",
+      "nb_bulletins_rejetes": "2083",
       "taux_participation": "45.19",
       "nb_bureaux_depouilles": "381",
       "nb_bureaux_total": "381",
@@ -2433,9 +2433,9 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral d'Hochelaga",
       "nb_electeurs_inscrits": "23755",
-      "nb_total_voix_recueillies": "9968",
+      "nb_total_voix_recueillies": "9978",
       "nb_bulletins_rejetes": "292",
-      "taux_participation": "41.96",
+      "taux_participation": "42.00",
       "nb_bureaux_depouilles": "94",
       "nb_bureaux_total": "94",
       "candidats": [
@@ -2460,7 +2460,7 @@
           "parti": 14,
           "nom": "ST-PIERRE",
           "prenom": "Mikael",
-          "nb_voix_obtenues": "2003",
+          "nb_voix_obtenues": "2013",
           "nb_voix_majorite": null
         },
         {
@@ -4627,9 +4627,9 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement du Sud-Ouest",
       "nb_electeurs_inscrits": "51114",
-      "nb_total_voix_recueillies": "20294",
-      "nb_bulletins_rejetes": "683",
-      "taux_participation": "39.70",
+      "nb_total_voix_recueillies": "20296",
+      "nb_bulletins_rejetes": "685",
+      "taux_participation": "39.71",
       "nb_bureaux_depouilles": "224",
       "nb_bureaux_total": "224",
       "candidats": [
@@ -4768,9 +4768,9 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral de Saint-Paul–Émard",
       "nb_electeurs_inscrits": "21378",
-      "nb_total_voix_recueillies": "8722",
+      "nb_total_voix_recueillies": "8716",
       "nb_bulletins_rejetes": "623",
-      "taux_participation": "40.80",
+      "taux_participation": "40.77",
       "nb_bureaux_depouilles": "97",
       "nb_bureaux_total": "97",
       "candidats": [
@@ -4803,7 +4803,7 @@
           "parti": 11,
           "nom": "SALAS CASTRO",
           "prenom": "José Humberto",
-          "nb_voix_obtenues": "457",
+          "nb_voix_obtenues": "451",
           "nb_voix_majorite": null
         }
       ]
