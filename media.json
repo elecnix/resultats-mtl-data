@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T16:02:03",
+  "date_heure_generation": "2013-11-04T16:04:02",
   "partis": [
     {
       "id": 7,
@@ -1348,10 +1348,10 @@
       "type": "CV",
       "nom": "Conseiller de la ville arrondissement de Lachine",
       "nb_electeurs_inscrits": "31399",
-      "nb_total_voix_recueillies": "12941",
-      "nb_bulletins_rejetes": "428",
-      "taux_participation": "41.21",
-      "nb_bureaux_depouilles": "141",
+      "nb_total_voix_recueillies": "12818",
+      "nb_bulletins_rejetes": "425",
+      "taux_participation": "40.82",
+      "nb_bureaux_depouilles": "140",
       "nb_bureaux_total": "141",
       "candidats": [
         {
@@ -1359,15 +1359,15 @@
           "parti": 6,
           "nom": "CLOUTIER",
           "prenom": "Jean-François",
-          "nb_voix_obtenues": "4004",
-          "nb_voix_majorite": "247"
+          "nb_voix_obtenues": "3960",
+          "nb_voix_majorite": "243"
         },
         {
           "id": 96,
           "parti": 1,
           "nom": "BLANCHET",
           "prenom": "Bernard",
-          "nb_voix_obtenues": "3757",
+          "nb_voix_obtenues": "3717",
           "nb_voix_majorite": null
         },
         {
@@ -1375,7 +1375,7 @@
           "parti": 13,
           "nom": "LEFEBVRE",
           "prenom": "Jean-François",
-          "nb_voix_obtenues": "2779",
+          "nb_voix_obtenues": "2757",
           "nb_voix_majorite": null
         },
         {
@@ -1383,7 +1383,7 @@
           "parti": 7,
           "nom": "CARUSO",
           "prenom": "Carolina",
-          "nb_voix_obtenues": "1527",
+          "nb_voix_obtenues": "1516",
           "nb_voix_majorite": null
         },
         {
@@ -1391,7 +1391,7 @@
           "parti": -1,
           "nom": "LAKHOYAN",
           "prenom": "Hagop (Jacques)",
-          "nb_voix_obtenues": "446",
+          "nb_voix_obtenues": "443",
           "nb_voix_majorite": null
         }
       ]
