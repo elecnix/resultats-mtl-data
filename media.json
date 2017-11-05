@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T19:35:15",
+  "date_heure_generation": "2013-11-04T19:41:17",
   "partis": [
     {
       "id": 7,
@@ -376,51 +376,51 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 477218,
-    "nb_bulletins_rejetes": 12379,
-    "taux_participation": 43.3,
-    "nb_bureaux_depouilles": 4539,
+    "nb_total_voix_recueillies": 477101,
+    "nb_bulletins_rejetes": 12377,
+    "taux_participation": 43.29,
+    "nb_bureaux_depouilles": 4538,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 149367,
-        "nb_voix_majorite": 26286,
+        "nb_voix_obtenues": 149338,
+        "nb_voix_majorite": 26290,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 123081,
+        "nb_voix_obtenues": 123048,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 118644,
+        "nb_voix_obtenues": 118609,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 59446,
+        "nb_voix_obtenues": 59434,
         "nb_voix_majorite": 0,
         "parti": 1
       },
       {
         "nom": "BRÛLÉ",
         "prenom": "Michel",
-        "nb_voix_obtenues": 6316,
+        "nb_voix_obtenues": 6313,
         "nb_voix_majorite": 0,
         "parti": 11
       },
       {
         "nom": "TULASNE",
         "prenom": "Patricia",
-        "nb_voix_obtenues": 2560,
+        "nb_voix_obtenues": 2559,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -434,7 +434,7 @@
       {
         "nom": "HAMIDA",
         "prenom": "Louai",
-        "nb_voix_obtenues": 1515,
+        "nb_voix_obtenues": 1514,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -448,7 +448,7 @@
       {
         "nom": "SONOKPON",
         "prenom": "Kofi",
-        "nb_voix_obtenues": 687,
+        "nb_voix_obtenues": 686,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -524,9 +524,9 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral du Sault-au-Récollet",
       "nb_electeurs_inscrits": "19965",
-      "nb_total_voix_recueillies": "10489",
+      "nb_total_voix_recueillies": "10485",
       "nb_bulletins_rejetes": "372",
-      "taux_participation": "52.54",
+      "taux_participation": "52.52",
       "nb_bureaux_depouilles": "80",
       "nb_bureaux_total": "80",
       "candidats": [
@@ -567,7 +567,7 @@
           "parti": 11,
           "nom": "LEMIEUX",
           "prenom": "Mario",
-          "nb_voix_obtenues": "270",
+          "nb_voix_obtenues": "266",
           "nb_voix_majorite": null
         },
         {
@@ -595,10 +595,10 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral de Saint-Sulpice",
       "nb_electeurs_inscrits": "22266",
-      "nb_total_voix_recueillies": "10174",
-      "nb_bulletins_rejetes": "501",
-      "taux_participation": "45.69",
-      "nb_bureaux_depouilles": "89",
+      "nb_total_voix_recueillies": "10310",
+      "nb_bulletins_rejetes": "502",
+      "taux_participation": "46.30",
+      "nb_bureaux_depouilles": "90",
       "nb_bureaux_total": "90",
       "candidats": [
         {
@@ -606,15 +606,15 @@
           "parti": 7,
           "nom": "DESROCHERS",
           "prenom": "Pierre",
-          "nb_voix_obtenues": "3445",
-          "nb_voix_majorite": "30"
+          "nb_voix_obtenues": "3477",
+          "nb_voix_majorite": "9"
         },
         {
           "id": 30,
           "parti": 13,
           "nom": "BAZINET",
           "prenom": "Martin",
-          "nb_voix_obtenues": "3415",
+          "nb_voix_obtenues": "3468",
           "nb_voix_majorite": null
         },
         {
@@ -622,7 +622,7 @@
           "parti": 1,
           "nom": "LAPOINTE",
           "prenom": "Jean-Jacques",
-          "nb_voix_obtenues": "2140",
+          "nb_voix_obtenues": "2182",
           "nb_voix_majorite": null
         },
         {
@@ -630,7 +630,7 @@
           "parti": 11,
           "nom": "RAINVILLE",
           "prenom": "Martin Félip",
-          "nb_voix_obtenues": "673",
+          "nb_voix_obtenues": "681",
           "nb_voix_majorite": null
         }
       ]
@@ -3099,9 +3099,9 @@
       "type": "CA",
       "nom": "Conseiller d'arrondissement - District électoral de Bois-de-Liesse",
       "nb_electeurs_inscrits": "24446",
-      "nb_total_voix_recueillies": "8803",
+      "nb_total_voix_recueillies": "8813",
       "nb_bulletins_rejetes": "283",
-      "taux_participation": "36.01",
+      "taux_participation": "36.05",
       "nb_bureaux_depouilles": "99",
       "nb_bureaux_total": "99",
       "candidats": [
@@ -3134,7 +3134,7 @@
           "parti": 1,
           "nom": "SMITH",
           "prenom": "David-James",
-          "nb_voix_obtenues": "1103",
+          "nb_voix_obtenues": "1113",
           "nb_voix_majorite": null
         },
         {
