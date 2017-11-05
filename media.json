@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T17:38:40",
+  "date_heure_generation": "2013-11-04T17:40:46",
   "partis": [
     {
       "id": 7,
@@ -376,44 +376,44 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 476600,
-    "nb_bulletins_rejetes": 12421,
-    "taux_participation": 43.25,
-    "nb_bureaux_depouilles": 4539,
+    "nb_total_voix_recueillies": 476521,
+    "nb_bulletins_rejetes": 12419,
+    "taux_participation": 43.24,
+    "nb_bureaux_depouilles": 4538,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 149114,
-        "nb_voix_majorite": 26263,
+        "nb_voix_obtenues": 149073,
+        "nb_voix_majorite": 26237,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 122851,
+        "nb_voix_obtenues": 122836,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 118514,
+        "nb_voix_obtenues": 118505,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 59316,
+        "nb_voix_obtenues": 59306,
         "nb_voix_majorite": 0,
         "parti": 1
       },
       {
         "nom": "BRÛLÉ",
         "prenom": "Michel",
-        "nb_voix_obtenues": 6354,
+        "nb_voix_obtenues": 6352,
         "nb_voix_majorite": 0,
         "parti": 11
       },
@@ -3618,7 +3618,7 @@
       "nom": "Maire de l'arrondissement de Rivière-des-Prairies–Pointe-aux-Trembles",
       "nb_electeurs_inscrits": "78909",
       "nb_total_voix_recueillies": "33546",
-      "nb_bulletins_rejetes": "2057",
+      "nb_bulletins_rejetes": "2059",
       "taux_participation": "42.51",
       "nb_bureaux_depouilles": "332",
       "nb_bureaux_total": "332",
@@ -3628,7 +3628,7 @@
           "parti": 7,
           "nom": "ROULEAU",
           "prenom": "Chantal",
-          "nb_voix_obtenues": "20756",
+          "nb_voix_obtenues": "20755",
           "nb_voix_majorite": "14986"
         },
         {
@@ -3636,7 +3636,7 @@
           "parti": 13,
           "nom": "DELLA VALLE",
           "prenom": "Romeo",
-          "nb_voix_obtenues": "5770",
+          "nb_voix_obtenues": "5769",
           "nb_voix_majorite": null
         },
         {
@@ -3742,10 +3742,10 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral de Pointe-aux-Trembles",
       "nb_electeurs_inscrits": "24469",
-      "nb_total_voix_recueillies": "11346",
-      "nb_bulletins_rejetes": "638",
-      "taux_participation": "46.37",
-      "nb_bureaux_depouilles": "100",
+      "nb_total_voix_recueillies": "11489",
+      "nb_bulletins_rejetes": "645",
+      "taux_participation": "46.95",
+      "nb_bureaux_depouilles": "101",
       "nb_bureaux_total": "101",
       "candidats": [
         {
@@ -3753,15 +3753,15 @@
           "parti": 7,
           "nom": "DÉCARIE",
           "prenom": "Suzanne",
-          "nb_voix_obtenues": "5836",
-          "nb_voix_majorite": "3575"
+          "nb_voix_obtenues": "5902",
+          "nb_voix_majorite": "3614"
         },
         {
           "id": 311,
           "parti": 13,
           "nom": "SURPRENANT",
           "prenom": "Hugues",
-          "nb_voix_obtenues": "2261",
+          "nb_voix_obtenues": "2288",
           "nb_voix_majorite": null
         },
         {
@@ -3769,7 +3769,7 @@
           "parti": 1,
           "nom": "LECLERC",
           "prenom": "Cindy",
-          "nb_voix_obtenues": "2012",
+          "nb_voix_obtenues": "2046",
           "nb_voix_majorite": null
         },
         {
@@ -3777,7 +3777,7 @@
           "parti": -1,
           "nom": "THÉORET",
           "prenom": "Yan",
-          "nb_voix_obtenues": "599",
+          "nb_voix_obtenues": "608",
           "nb_voix_majorite": null
         }
       ]
