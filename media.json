@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T11:39:38",
+  "date_heure_generation": "2013-11-04T11:41:34",
   "partis": [
     {
       "id": 7,
@@ -376,37 +376,37 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 469389,
-    "nb_bulletins_rejetes": 12230,
-    "taux_participation": 42.59,
-    "nb_bureaux_depouilles": 4477,
+    "nb_total_voix_recueillies": 469551,
+    "nb_bulletins_rejetes": 12232,
+    "taux_participation": 42.61,
+    "nb_bureaux_depouilles": 4479,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 146560,
-        "nb_voix_majorite": 25501,
+        "nb_voix_obtenues": 146614,
+        "nb_voix_majorite": 25522,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 121059,
+        "nb_voix_obtenues": 121092,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 117125,
+        "nb_voix_obtenues": 117147,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 58281,
+        "nb_voix_obtenues": 58327,
         "nb_voix_majorite": 0,
         "parti": 1
       },
@@ -427,21 +427,21 @@
       {
         "nom": "HAMIDA",
         "prenom": "Louai",
-        "nb_voix_obtenues": 1557,
+        "nb_voix_obtenues": 1558,
         "nb_voix_majorite": 0,
         "parti": -1
       },
       {
         "nom": "BLAIS",
         "prenom": "Claude",
-        "nb_voix_obtenues": 1508,
+        "nb_voix_obtenues": 1510,
         "nb_voix_majorite": 0,
         "parti": -1
       },
       {
         "nom": "YOUNG",
         "prenom": "Joseph",
-        "nb_voix_obtenues": 1091,
+        "nb_voix_obtenues": 1093,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -3836,9 +3836,9 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral de Rivière-des-Prairies",
       "nb_electeurs_inscrits": "24801",
-      "nb_total_voix_recueillies": "9260",
-      "nb_bulletins_rejetes": "610",
-      "taux_participation": "37.34",
+      "nb_total_voix_recueillies": "9258",
+      "nb_bulletins_rejetes": "608",
+      "taux_participation": "37.33",
       "nb_bureaux_depouilles": "104",
       "nb_bureaux_total": "107",
       "candidats": [
@@ -4854,10 +4854,10 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement de Verdun",
       "nb_electeurs_inscrits": "47677",
-      "nb_total_voix_recueillies": "20637",
-      "nb_bulletins_rejetes": "563",
-      "taux_participation": "43.29",
-      "nb_bureaux_depouilles": "211",
+      "nb_total_voix_recueillies": "20729",
+      "nb_bulletins_rejetes": "564",
+      "taux_participation": "43.48",
+      "nb_bureaux_depouilles": "212",
       "nb_bureaux_total": "219",
       "candidats": [
         {
@@ -4865,15 +4865,15 @@
           "parti": 7,
           "nom": "PARENTEAU",
           "prenom": "Jean-François",
-          "nb_voix_obtenues": "4965",
-          "nb_voix_majorite": "530"
+          "nb_voix_obtenues": "4992",
+          "nb_voix_majorite": "550"
         },
         {
           "id": 406,
           "parti": 13,
           "nom": "DAVIS",
           "prenom": "Mary Ann",
-          "nb_voix_obtenues": "4435",
+          "nb_voix_obtenues": "4442",
           "nb_voix_majorite": null
         },
         {
@@ -4881,7 +4881,7 @@
           "parti": 14,
           "nom": "BENDJENNET",
           "prenom": "Mourad",
-          "nb_voix_obtenues": "3481",
+          "nb_voix_obtenues": "3508",
           "nb_voix_majorite": null
         },
         {
@@ -4889,7 +4889,7 @@
           "parti": 1,
           "nom": "TASSÉ",
           "prenom": "Alain",
-          "nb_voix_obtenues": "2831",
+          "nb_voix_obtenues": "2845",
           "nb_voix_majorite": null
         },
         {
@@ -4897,7 +4897,7 @@
           "parti": 9,
           "nom": "SAVARD",
           "prenom": "André",
-          "nb_voix_obtenues": "2605",
+          "nb_voix_obtenues": "2611",
           "nb_voix_majorite": null
         },
         {
@@ -4905,7 +4905,7 @@
           "parti": 2,
           "nom": "CHAMPOUX",
           "prenom": "Andrée",
-          "nb_voix_obtenues": "1510",
+          "nb_voix_obtenues": "1520",
           "nb_voix_majorite": null
         },
         {
