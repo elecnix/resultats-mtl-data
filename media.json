@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T12:23:52",
+  "date_heure_generation": "2013-11-04T12:25:53",
   "partis": [
     {
       "id": 7,
@@ -376,44 +376,44 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 472012,
-    "nb_bulletins_rejetes": 12311,
-    "taux_participation": 42.83,
-    "nb_bureaux_depouilles": 4505,
+    "nb_total_voix_recueillies": 472124,
+    "nb_bulletins_rejetes": 12312,
+    "taux_participation": 42.84,
+    "nb_bureaux_depouilles": 4506,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 147312,
-        "nb_voix_majorite": 25584,
+        "nb_voix_obtenues": 147335,
+        "nb_voix_majorite": 25575,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 121728,
+        "nb_voix_obtenues": 121760,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 117754,
+        "nb_voix_obtenues": 117795,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 58682,
+        "nb_voix_obtenues": 58696,
         "nb_voix_majorite": 0,
         "parti": 1
       },
       {
         "nom": "BRÛLÉ",
         "prenom": "Michel",
-        "nb_voix_obtenues": 6278,
+        "nb_voix_obtenues": 6279,
         "nb_voix_majorite": 0,
         "parti": 11
       },
@@ -1513,10 +1513,10 @@
       "type": "CA",
       "nom": "Conseiller d'arrondissement - District électoral du Fort-Rolland ",
       "nb_electeurs_inscrits": "10376",
-      "nb_total_voix_recueillies": "5033",
-      "nb_bulletins_rejetes": "145",
-      "taux_participation": "48.51",
-      "nb_bureaux_depouilles": "43",
+      "nb_total_voix_recueillies": "5147",
+      "nb_bulletins_rejetes": "146",
+      "taux_participation": "49.60",
+      "nb_bureaux_depouilles": "44",
       "nb_bureaux_total": "46",
       "candidats": [
         {
@@ -1524,15 +1524,15 @@
           "parti": 6,
           "nom": "SIMONYIK",
           "prenom": "Kymberley",
-          "nb_voix_obtenues": "1558",
-          "nb_voix_majorite": "133"
+          "nb_voix_obtenues": "1588",
+          "nb_voix_majorite": "118"
         },
         {
           "id": 114,
           "parti": 13,
           "nom": "LEVASSEUR",
           "prenom": "Julie",
-          "nb_voix_obtenues": "1425",
+          "nb_voix_obtenues": "1470",
           "nb_voix_majorite": null
         },
         {
@@ -1540,7 +1540,7 @@
           "parti": 1,
           "nom": "DURANTE",
           "prenom": "Mario",
-          "nb_voix_obtenues": "718",
+          "nb_voix_obtenues": "725",
           "nb_voix_majorite": null
         },
         {
@@ -1548,7 +1548,7 @@
           "parti": 7,
           "nom": "GIRARD",
           "prenom": "Jean-François",
-          "nb_voix_obtenues": "515",
+          "nb_voix_obtenues": "524",
           "nb_voix_majorite": null
         },
         {
@@ -1556,7 +1556,7 @@
           "parti": -1,
           "nom": "LEJEUNE",
           "prenom": "Christian",
-          "nb_voix_obtenues": "435",
+          "nb_voix_obtenues": "448",
           "nb_voix_majorite": null
         },
         {
@@ -1564,7 +1564,7 @@
           "parti": -1,
           "nom": "NOËL",
           "prenom": "Pierre",
-          "nb_voix_obtenues": "135",
+          "nb_voix_obtenues": "139",
           "nb_voix_majorite": null
         },
         {
@@ -1572,7 +1572,7 @@
           "parti": -1,
           "nom": "POWELL",
           "prenom": "Patrick",
-          "nb_voix_obtenues": "102",
+          "nb_voix_obtenues": "107",
           "nb_voix_majorite": null
         }
       ]
@@ -3342,10 +3342,10 @@
       "type": "CA",
       "nom": "Conseiller d'arrondissement - District électoral du Mile End",
       "nb_electeurs_inscrits": "21326",
-      "nb_total_voix_recueillies": "10757",
-      "nb_bulletins_rejetes": "279",
-      "taux_participation": "50.44",
-      "nb_bureaux_depouilles": "94",
+      "nb_total_voix_recueillies": "10882",
+      "nb_bulletins_rejetes": "285",
+      "taux_participation": "51.03",
+      "nb_bureaux_depouilles": "95",
       "nb_bureaux_total": "95",
       "candidats": [
         {
@@ -3353,15 +3353,15 @@
           "parti": 13,
           "nom": "PLOURDE",
           "prenom": "Marie",
-          "nb_voix_obtenues": "5388",
-          "nb_voix_majorite": "3293"
+          "nb_voix_obtenues": "5447",
+          "nb_voix_majorite": "3331"
         },
         {
           "id": 274,
           "parti": 14,
           "nom": "CÔTÉ",
           "prenom": "David",
-          "nb_voix_obtenues": "2095",
+          "nb_voix_obtenues": "2116",
           "nb_voix_majorite": null
         },
         {
@@ -3369,7 +3369,7 @@
           "parti": 1,
           "nom": "GRONDIN",
           "prenom": "Stéphanie",
-          "nb_voix_obtenues": "1600",
+          "nb_voix_obtenues": "1609",
           "nb_voix_majorite": null
         },
         {
@@ -3377,7 +3377,7 @@
           "parti": 7,
           "nom": "YEBA",
           "prenom": "Sandenga",
-          "nb_voix_obtenues": "1144",
+          "nb_voix_obtenues": "1168",
           "nb_voix_majorite": null
         },
         {
@@ -3385,7 +3385,7 @@
           "parti": 11,
           "nom": "OLIVO RODRIGUEZ",
           "prenom": "Joaquin",
-          "nb_voix_obtenues": "251",
+          "nb_voix_obtenues": "257",
           "nb_voix_majorite": null
         }
       ]
