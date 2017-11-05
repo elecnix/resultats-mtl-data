@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T01:50:05",
+  "date_heure_generation": "2013-11-04T01:52:11",
   "partis": [
     {
       "id": 7,
@@ -2535,10 +2535,10 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement de Montréal-Nord",
       "nb_electeurs_inscrits": "52007",
-      "nb_total_voix_recueillies": "19222",
-      "nb_bulletins_rejetes": "1207",
-      "taux_participation": "36.96",
-      "nb_bureaux_depouilles": "205",
+      "nb_total_voix_recueillies": "19277",
+      "nb_bulletins_rejetes": "1210",
+      "taux_participation": "37.07",
+      "nb_bureaux_depouilles": "206",
       "nb_bureaux_total": "213",
       "candidats": [
         {
@@ -2546,15 +2546,15 @@
           "parti": 7,
           "nom": "DEGUIRE",
           "prenom": "Gilles",
-          "nb_voix_obtenues": "11681",
-          "nb_voix_majorite": "7899"
+          "nb_voix_obtenues": "11721",
+          "nb_voix_majorite": "7934"
         },
         {
           "id": 207,
           "parti": 1,
           "nom": "RYAN",
           "prenom": "Guy",
-          "nb_voix_obtenues": "3782",
+          "nb_voix_obtenues": "3787",
           "nb_voix_majorite": null
         },
         {
@@ -2562,7 +2562,7 @@
           "parti": 13,
           "nom": "BOIVIN",
           "prenom": "Suzanne",
-          "nb_voix_obtenues": "2552",
+          "nb_voix_obtenues": "2559",
           "nb_voix_majorite": null
         }
       ]
@@ -2660,10 +2660,10 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral d'Ovide-Clermont",
       "nb_electeurs_inscrits": "24616",
-      "nb_total_voix_recueillies": "9236",
-      "nb_bulletins_rejetes": "456",
-      "taux_participation": "37.52",
-      "nb_bureaux_depouilles": "97",
+      "nb_total_voix_recueillies": "9291",
+      "nb_bulletins_rejetes": "458",
+      "taux_participation": "37.74",
+      "nb_bureaux_depouilles": "98",
       "nb_bureaux_total": "98",
       "candidats": [
         {
@@ -2671,15 +2671,15 @@
           "parti": 7,
           "nom": "CODERRE",
           "prenom": "Denis",
-          "nb_voix_obtenues": "6371",
-          "nb_voix_majorite": "5277"
+          "nb_voix_obtenues": "6411",
+          "nb_voix_majorite": "5313"
         },
         {
           "id": 216,
           "parti": 1,
           "nom": "FORTIN",
           "prenom": "Claude",
-          "nb_voix_obtenues": "1094",
+          "nb_voix_obtenues": "1098",
           "nb_voix_majorite": null
         },
         {
@@ -2687,7 +2687,7 @@
           "parti": 13,
           "nom": "GELIN",
           "prenom": "Vladimir",
-          "nb_voix_obtenues": "899",
+          "nb_voix_obtenues": "905",
           "nb_voix_majorite": null
         },
         {
@@ -2695,7 +2695,7 @@
           "parti": -1,
           "nom": "BELINGA",
           "prenom": "Renée-Chantal",
-          "nb_voix_obtenues": "416",
+          "nb_voix_obtenues": "419",
           "nb_voix_majorite": null
         }
       ]
