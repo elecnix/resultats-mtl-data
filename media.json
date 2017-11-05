@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T11:09:10",
+  "date_heure_generation": "2013-11-04T11:11:17",
   "partis": [
     {
       "id": 7,
@@ -376,37 +376,37 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 465962,
-    "nb_bulletins_rejetes": 12137,
-    "taux_participation": 42.28,
-    "nb_bureaux_depouilles": 4446,
+    "nb_total_voix_recueillies": 466043,
+    "nb_bulletins_rejetes": 12139,
+    "taux_participation": 42.29,
+    "nb_bureaux_depouilles": 4447,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 145436,
-        "nb_voix_majorite": 25310,
+        "nb_voix_obtenues": 145467,
+        "nb_voix_majorite": 25324,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 120126,
+        "nb_voix_obtenues": 120143,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 116355,
+        "nb_voix_obtenues": 116377,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 57899,
+        "nb_voix_obtenues": 57906,
         "nb_voix_majorite": 0,
         "parti": 1
       },
@@ -420,7 +420,7 @@
       {
         "nom": "TULASNE",
         "prenom": "Patricia",
-        "nb_voix_obtenues": 2500,
+        "nb_voix_obtenues": 2502,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -1584,10 +1584,10 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement de LaSalle",
       "nb_electeurs_inscrits": "51562",
-      "nb_total_voix_recueillies": "19797",
-      "nb_bulletins_rejetes": "657",
-      "taux_participation": "38.39",
-      "nb_bureaux_depouilles": "233",
+      "nb_total_voix_recueillies": "19995",
+      "nb_bulletins_rejetes": "668",
+      "taux_participation": "38.78",
+      "nb_bureaux_depouilles": "235",
       "nb_bureaux_total": "236",
       "candidats": [
         {
@@ -1595,15 +1595,15 @@
           "parti": 4,
           "nom": "BARBE",
           "prenom": "Manon",
-          "nb_voix_obtenues": "6981",
-          "nb_voix_majorite": "2795"
+          "nb_voix_obtenues": "7036",
+          "nb_voix_majorite": "2810"
         },
         {
           "id": 121,
           "parti": 7,
           "nom": "LABBÉ",
           "prenom": "Jean-François",
-          "nb_voix_obtenues": "4186",
+          "nb_voix_obtenues": "4226",
           "nb_voix_majorite": null
         },
         {
@@ -1611,7 +1611,7 @@
           "parti": 14,
           "nom": "MORENO",
           "prenom": "Francisco",
-          "nb_voix_obtenues": "3182",
+          "nb_voix_obtenues": "3214",
           "nb_voix_majorite": null
         },
         {
@@ -1619,7 +1619,7 @@
           "parti": 13,
           "nom": "ASCH",
           "prenom": "Patrick",
-          "nb_voix_obtenues": "2159",
+          "nb_voix_obtenues": "2185",
           "nb_voix_majorite": null
         },
         {
@@ -1627,7 +1627,7 @@
           "parti": 12,
           "nom": "VADACCHINO",
           "prenom": "Michael",
-          "nb_voix_obtenues": "1567",
+          "nb_voix_obtenues": "1585",
           "nb_voix_majorite": null
         },
         {
@@ -1635,7 +1635,7 @@
           "parti": 1,
           "nom": "KALUZNY",
           "prenom": "Oksana",
-          "nb_voix_obtenues": "1065",
+          "nb_voix_obtenues": "1081",
           "nb_voix_majorite": null
         }
       ]
