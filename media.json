@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T19:05:17",
+  "date_heure_generation": "2013-11-04T19:07:18",
   "partis": [
     {
       "id": 7,
@@ -376,8 +376,8 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 476537,
-    "nb_bulletins_rejetes": 12373,
+    "nb_total_voix_recueillies": 476546,
+    "nb_bulletins_rejetes": 12372,
     "taux_participation": 43.24,
     "nb_bureaux_depouilles": 4539,
     "nb_bureaux_total": 4539,
@@ -385,14 +385,14 @@
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 149106,
+        "nb_voix_obtenues": 149130,
         "nb_voix_majorite": 26216,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 122890,
+        "nb_voix_obtenues": 122914,
         "nb_voix_majorite": 0,
         "parti": 14
       },
@@ -406,14 +406,14 @@
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 59328,
+        "nb_voix_obtenues": 59338,
         "nb_voix_majorite": 0,
         "parti": 1
       },
       {
         "nom": "BRÛLÉ",
         "prenom": "Michel",
-        "nb_voix_obtenues": 6347,
+        "nb_voix_obtenues": 6313,
         "nb_voix_majorite": 0,
         "parti": 11
       },
@@ -434,7 +434,7 @@
       {
         "nom": "HAMIDA",
         "prenom": "Louai",
-        "nb_voix_obtenues": 1528,
+        "nb_voix_obtenues": 1514,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -2433,9 +2433,9 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral d'Hochelaga",
       "nb_electeurs_inscrits": "23755",
-      "nb_total_voix_recueillies": "9978",
-      "nb_bulletins_rejetes": "292",
-      "taux_participation": "42.00",
+      "nb_total_voix_recueillies": "9979",
+      "nb_bulletins_rejetes": "293",
+      "taux_participation": "42.01",
       "nb_bureaux_depouilles": "94",
       "nb_bureaux_total": "94",
       "candidats": [
@@ -4815,9 +4815,9 @@
       "type": "CA",
       "nom": "Conseiller d'arrondissement - District électoral de Saint-Paul–Émard",
       "nb_electeurs_inscrits": "21378",
-      "nb_total_voix_recueillies": "8702",
+      "nb_total_voix_recueillies": "8697",
       "nb_bulletins_rejetes": "671",
-      "taux_participation": "40.71",
+      "taux_participation": "40.68",
       "nb_bureaux_depouilles": "97",
       "nb_bureaux_total": "97",
       "candidats": [
@@ -4842,7 +4842,7 @@
           "parti": 1,
           "nom": "BÉLANGER",
           "prenom": "Daniel",
-          "nb_voix_obtenues": "2466",
+          "nb_voix_obtenues": "2461",
           "nb_voix_majorite": null
         }
       ]
