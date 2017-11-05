@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T11:27:03",
+  "date_heure_generation": "2013-11-04T11:29:34",
   "partis": [
     {
       "id": 7,
@@ -1647,10 +1647,10 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral du Sault-Saint-Louis",
       "nb_electeurs_inscrits": "25660",
-      "nb_total_voix_recueillies": "10860",
-      "nb_bulletins_rejetes": "372",
-      "taux_participation": "42.32",
-      "nb_bureaux_depouilles": "115",
+      "nb_total_voix_recueillies": "10917",
+      "nb_bulletins_rejetes": "373",
+      "taux_participation": "42.54",
+      "nb_bureaux_depouilles": "116",
       "nb_bureaux_total": "119",
       "candidats": [
         {
@@ -1658,15 +1658,15 @@
           "parti": 4,
           "nom": "DESCHAMPS",
           "prenom": "Richard",
-          "nb_voix_obtenues": "3360",
-          "nb_voix_majorite": "1005"
+          "nb_voix_obtenues": "3377",
+          "nb_voix_majorite": "1011"
         },
         {
           "id": 126,
           "parti": 7,
           "nom": "D'AMBROSIO",
           "prenom": "Carlo",
-          "nb_voix_obtenues": "2355",
+          "nb_voix_obtenues": "2366",
           "nb_voix_majorite": null
         },
         {
@@ -1674,7 +1674,7 @@
           "parti": 14,
           "nom": "BENOIT",
           "prenom": "Michel",
-          "nb_voix_obtenues": "2213",
+          "nb_voix_obtenues": "2230",
           "nb_voix_majorite": null
         },
         {
@@ -1682,7 +1682,7 @@
           "parti": 13,
           "nom": "NIEDBALSKI",
           "prenom": "Monika",
-          "nb_voix_obtenues": "1112",
+          "nb_voix_obtenues": "1118",
           "nb_voix_majorite": null
         },
         {
@@ -1690,7 +1690,7 @@
           "parti": 1,
           "nom": "LUSSIER",
           "prenom": "Pierre",
-          "nb_voix_obtenues": "861",
+          "nb_voix_obtenues": "864",
           "nb_voix_majorite": null
         },
         {
@@ -1698,7 +1698,7 @@
           "parti": 12,
           "nom": "CATALANO",
           "prenom": "Frank",
-          "nb_voix_obtenues": "587",
+          "nb_voix_obtenues": "589",
           "nb_voix_majorite": null
         }
       ]
