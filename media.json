@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T12:51:22",
+  "date_heure_generation": "2013-11-04T12:53:19",
   "partis": [
     {
       "id": 7,
@@ -4627,10 +4627,10 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement du Sud-Ouest",
       "nb_electeurs_inscrits": "51114",
-      "nb_total_voix_recueillies": "20002",
+      "nb_total_voix_recueillies": "20094",
       "nb_bulletins_rejetes": "677",
-      "taux_participation": "39.13",
-      "nb_bureaux_depouilles": "220",
+      "taux_participation": "39.31",
+      "nb_bureaux_depouilles": "221",
       "nb_bureaux_total": "224",
       "candidats": [
         {
@@ -4638,15 +4638,15 @@
           "parti": 1,
           "nom": "DORAIS",
           "prenom": "Benoit",
-          "nb_voix_obtenues": "5310",
-          "nb_voix_majorite": "92"
+          "nb_voix_obtenues": "5338",
+          "nb_voix_majorite": "98"
         },
         {
           "id": 387,
           "parti": 13,
           "nom": "PRINCE",
           "prenom": "Jason",
-          "nb_voix_obtenues": "5218",
+          "nb_voix_obtenues": "5240",
           "nb_voix_majorite": null
         },
         {
@@ -4654,7 +4654,7 @@
           "parti": 14,
           "nom": "FILIATRAULT",
           "prenom": "Cindy",
-          "nb_voix_obtenues": "4765",
+          "nb_voix_obtenues": "4774",
           "nb_voix_majorite": null
         },
         {
@@ -4662,7 +4662,7 @@
           "parti": 7,
           "nom": "RIVÈS",
           "prenom": "Sylvia M.",
-          "nb_voix_obtenues": "4032",
+          "nb_voix_obtenues": "4065",
           "nb_voix_majorite": null
         }
       ]
