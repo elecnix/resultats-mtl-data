@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T11:17:25",
+  "date_heure_generation": "2013-11-04T11:19:25",
   "partis": [
     {
       "id": 7,
@@ -376,58 +376,58 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 466694,
-    "nb_bulletins_rejetes": 12158,
-    "taux_participation": 42.35,
-    "nb_bureaux_depouilles": 4454,
+    "nb_total_voix_recueillies": 466768,
+    "nb_bulletins_rejetes": 12161,
+    "taux_participation": 42.36,
+    "nb_bureaux_depouilles": 4455,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 145666,
-        "nb_voix_majorite": 25333,
+        "nb_voix_obtenues": 145692,
+        "nb_voix_majorite": 25344,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 120333,
+        "nb_voix_obtenues": 120348,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 116502,
+        "nb_voix_obtenues": 116514,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 58001,
+        "nb_voix_obtenues": 58013,
         "nb_voix_majorite": 0,
         "parti": 1
       },
       {
         "nom": "BRÛLÉ",
         "prenom": "Michel",
-        "nb_voix_obtenues": 6186,
+        "nb_voix_obtenues": 6189,
         "nb_voix_majorite": 0,
         "parti": 11
       },
       {
         "nom": "TULASNE",
         "prenom": "Patricia",
-        "nb_voix_obtenues": 2502,
+        "nb_voix_obtenues": 2504,
         "nb_voix_majorite": 0,
         "parti": -1
       },
       {
         "nom": "HAMIDA",
         "prenom": "Louai",
-        "nb_voix_obtenues": 1552,
+        "nb_voix_obtenues": 1553,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -1828,10 +1828,10 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral de Cecil-P.-Newman",
       "nb_electeurs_inscrits": "25902",
-      "nb_total_voix_recueillies": "9163",
-      "nb_bulletins_rejetes": "477",
-      "taux_participation": "35.38",
-      "nb_bureaux_depouilles": "114",
+      "nb_total_voix_recueillies": "9266",
+      "nb_bulletins_rejetes": "485",
+      "taux_participation": "35.77",
+      "nb_bureaux_depouilles": "116",
       "nb_bureaux_total": "117",
       "candidats": [
         {
@@ -1839,15 +1839,15 @@
           "parti": 7,
           "nom": "VALLÉE",
           "prenom": "Monique",
-          "nb_voix_obtenues": "2535",
-          "nb_voix_majorite": "143"
+          "nb_voix_obtenues": "2561",
+          "nb_voix_majorite": "148"
         },
         {
           "id": 142,
           "parti": 4,
           "nom": "DI SANTE",
           "prenom": "Luciano",
-          "nb_voix_obtenues": "2392",
+          "nb_voix_obtenues": "2413",
           "nb_voix_majorite": null
         },
         {
@@ -1855,7 +1855,7 @@
           "parti": 14,
           "nom": "LAPERRIÈRE",
           "prenom": "Steven",
-          "nb_voix_obtenues": "1950",
+          "nb_voix_obtenues": "1979",
           "nb_voix_majorite": null
         },
         {
@@ -1863,7 +1863,7 @@
           "parti": 13,
           "nom": "AZZOUNI",
           "prenom": "Yosef",
-          "nb_voix_obtenues": "1005",
+          "nb_voix_obtenues": "1010",
           "nb_voix_majorite": null
         },
         {
@@ -1871,7 +1871,7 @@
           "parti": 1,
           "nom": "PACE",
           "prenom": "Enrico",
-          "nb_voix_obtenues": "680",
+          "nb_voix_obtenues": "692",
           "nb_voix_majorite": null
         },
         {
@@ -1879,7 +1879,7 @@
           "parti": 11,
           "nom": "DOLGIH",
           "prenom": "Kiril",
-          "nb_voix_obtenues": "124",
+          "nb_voix_obtenues": "126",
           "nb_voix_majorite": null
         }
       ]
@@ -1891,10 +1891,10 @@
       "type": "CA",
       "nom": "Conseiller d'arrondissement - District électoral de Cecil-P.-Newman (siège 1)",
       "nb_electeurs_inscrits": "25902",
-      "nb_total_voix_recueillies": "8991",
-      "nb_bulletins_rejetes": "413",
-      "taux_participation": "34.71",
-      "nb_bureaux_depouilles": "113",
+      "nb_total_voix_recueillies": "9072",
+      "nb_bulletins_rejetes": "417",
+      "taux_participation": "35.02",
+      "nb_bureaux_depouilles": "114",
       "nb_bureaux_total": "117",
       "candidats": [
         {
@@ -1902,15 +1902,15 @@
           "parti": 4,
           "nom": "DECLOS",
           "prenom": "Serge",
-          "nb_voix_obtenues": "2247",
-          "nb_voix_majorite": "72"
+          "nb_voix_obtenues": "2262",
+          "nb_voix_majorite": "51"
         },
         {
           "id": 149,
           "parti": 7,
           "nom": "DHILLON",
           "prenom": "Anju",
-          "nb_voix_obtenues": "2175",
+          "nb_voix_obtenues": "2211",
           "nb_voix_majorite": null
         },
         {
@@ -1918,7 +1918,7 @@
           "parti": 14,
           "nom": "TREMBLAY",
           "prenom": "Eric",
-          "nb_voix_obtenues": "1812",
+          "nb_voix_obtenues": "1826",
           "nb_voix_majorite": null
         },
         {
@@ -1926,7 +1926,7 @@
           "parti": 1,
           "nom": "ORLANDO",
           "prenom": "Mario",
-          "nb_voix_obtenues": "935",
+          "nb_voix_obtenues": "940",
           "nb_voix_majorite": null
         },
         {
@@ -1934,7 +1934,7 @@
           "parti": 13,
           "nom": "BARRY",
           "prenom": "Mody Maka",
-          "nb_voix_obtenues": "895",
+          "nb_voix_obtenues": "902",
           "nb_voix_majorite": null
         },
         {
