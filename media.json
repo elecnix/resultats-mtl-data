@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T12:33:55",
+  "date_heure_generation": "2013-11-04T12:35:51",
   "partis": [
     {
       "id": 7,
@@ -4627,10 +4627,10 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement du Sud-Ouest",
       "nb_electeurs_inscrits": "51114",
-      "nb_total_voix_recueillies": "19731",
+      "nb_total_voix_recueillies": "19848",
       "nb_bulletins_rejetes": "670",
-      "taux_participation": "38.60",
-      "nb_bureaux_depouilles": "217",
+      "taux_participation": "38.83",
+      "nb_bureaux_depouilles": "218",
       "nb_bureaux_total": "224",
       "candidats": [
         {
@@ -4638,7 +4638,7 @@
           "parti": 1,
           "nom": "DORAIS",
           "prenom": "Benoit",
-          "nb_voix_obtenues": "5221",
+          "nb_voix_obtenues": "5261",
           "nb_voix_majorite": "71"
         },
         {
@@ -4646,7 +4646,7 @@
           "parti": 13,
           "nom": "PRINCE",
           "prenom": "Jason",
-          "nb_voix_obtenues": "5150",
+          "nb_voix_obtenues": "5190",
           "nb_voix_majorite": null
         },
         {
@@ -4654,7 +4654,7 @@
           "parti": 14,
           "nom": "FILIATRAULT",
           "prenom": "Cindy",
-          "nb_voix_obtenues": "4712",
+          "nb_voix_obtenues": "4732",
           "nb_voix_majorite": null
         },
         {
@@ -4662,7 +4662,7 @@
           "parti": 7,
           "nom": "RIVÈS",
           "prenom": "Sylvia M.",
-          "nb_voix_obtenues": "3978",
+          "nb_voix_obtenues": "3995",
           "nb_voix_majorite": null
         }
       ]
@@ -5586,10 +5586,10 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral de François-Perrault",
       "nb_electeurs_inscrits": "21822",
-      "nb_total_voix_recueillies": "8669",
-      "nb_bulletins_rejetes": "375",
-      "taux_participation": "39.73",
-      "nb_bureaux_depouilles": "84",
+      "nb_total_voix_recueillies": "8793",
+      "nb_bulletins_rejetes": "379",
+      "taux_participation": "40.29",
+      "nb_bureaux_depouilles": "85",
       "nb_bureaux_total": "87",
       "candidats": [
         {
@@ -5597,15 +5597,15 @@
           "parti": 13,
           "nom": "OUELLET",
           "prenom": "Sylvain",
-          "nb_voix_obtenues": "2736",
-          "nb_voix_majorite": "49"
+          "nb_voix_obtenues": "2757",
+          "nb_voix_majorite": "4"
         },
         {
           "id": 473,
           "parti": 7,
           "nom": "BRICAULT",
           "prenom": "Claude",
-          "nb_voix_obtenues": "2687",
+          "nb_voix_obtenues": "2753",
           "nb_voix_majorite": null
         },
         {
@@ -5613,7 +5613,7 @@
           "parti": 14,
           "nom": "DE CICCO",
           "prenom": "Angelo",
-          "nb_voix_obtenues": "1663",
+          "nb_voix_obtenues": "1689",
           "nb_voix_majorite": null
         },
         {
@@ -5621,7 +5621,7 @@
           "parti": 1,
           "nom": "COLAVECCHIO",
           "prenom": "Nino",
-          "nb_voix_obtenues": "904",
+          "nb_voix_obtenues": "909",
           "nb_voix_majorite": null
         },
         {
@@ -5629,7 +5629,7 @@
           "parti": 11,
           "nom": "ST-LOUIS",
           "prenom": "François",
-          "nb_voix_obtenues": "189",
+          "nb_voix_obtenues": "190",
           "nb_voix_majorite": null
         },
         {
@@ -5637,7 +5637,7 @@
           "parti": -1,
           "nom": "LESSARD",
           "prenom": "André-Germain",
-          "nb_voix_obtenues": "115",
+          "nb_voix_obtenues": "116",
           "nb_voix_majorite": null
         }
       ]
