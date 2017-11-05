@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T19:33:14",
+  "date_heure_generation": "2013-11-04T19:35:15",
   "partis": [
     {
       "id": 7,
@@ -595,10 +595,10 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral de Saint-Sulpice",
       "nb_electeurs_inscrits": "22266",
-      "nb_total_voix_recueillies": "10315",
-      "nb_bulletins_rejetes": "502",
-      "taux_participation": "46.33",
-      "nb_bureaux_depouilles": "90",
+      "nb_total_voix_recueillies": "10174",
+      "nb_bulletins_rejetes": "501",
+      "taux_participation": "45.69",
+      "nb_bureaux_depouilles": "89",
       "nb_bureaux_total": "90",
       "candidats": [
         {
@@ -606,15 +606,15 @@
           "parti": 7,
           "nom": "DESROCHERS",
           "prenom": "Pierre",
-          "nb_voix_obtenues": "3477",
-          "nb_voix_majorite": "9"
+          "nb_voix_obtenues": "3445",
+          "nb_voix_majorite": "30"
         },
         {
           "id": 30,
           "parti": 13,
           "nom": "BAZINET",
           "prenom": "Martin",
-          "nb_voix_obtenues": "3468",
+          "nb_voix_obtenues": "3415",
           "nb_voix_majorite": null
         },
         {
@@ -622,7 +622,7 @@
           "parti": 1,
           "nom": "LAPOINTE",
           "prenom": "Jean-Jacques",
-          "nb_voix_obtenues": "2187",
+          "nb_voix_obtenues": "2140",
           "nb_voix_majorite": null
         },
         {
@@ -630,7 +630,7 @@
           "parti": 11,
           "nom": "RAINVILLE",
           "prenom": "Martin Félip",
-          "nb_voix_obtenues": "681",
+          "nb_voix_obtenues": "673",
           "nb_voix_majorite": null
         }
       ]
@@ -3201,9 +3201,9 @@
       "type": "CA",
       "nom": "Conseiller d'arrondissement - District électoral de Cap-Saint-Jacques",
       "nb_electeurs_inscrits": "22046",
-      "nb_total_voix_recueillies": "7182",
-      "nb_bulletins_rejetes": "175",
-      "taux_participation": "32.58",
+      "nb_total_voix_recueillies": "7396",
+      "nb_bulletins_rejetes": "181",
+      "taux_participation": "33.55",
       "nb_bureaux_depouilles": "89",
       "nb_bureaux_total": "89",
       "candidats": [
@@ -3212,15 +3212,15 @@
           "parti": 7,
           "nom": "GIGNAC",
           "prenom": "Yves",
-          "nb_voix_obtenues": "2524",
-          "nb_voix_majorite": "427"
+          "nb_voix_obtenues": "2624",
+          "nb_voix_majorite": "482"
         },
         {
           "id": 263,
           "parti": 14,
           "nom": "GOSWAMI",
           "prenom": "Bhaskar",
-          "nb_voix_obtenues": "2097",
+          "nb_voix_obtenues": "2142",
           "nb_voix_majorite": null
         },
         {
@@ -3228,7 +3228,7 @@
           "parti": 13,
           "nom": "SIRIGNANO",
           "prenom": "Lisa",
-          "nb_voix_obtenues": "1503",
+          "nb_voix_obtenues": "1535",
           "nb_voix_majorite": null
         },
         {
@@ -3236,7 +3236,7 @@
           "parti": 1,
           "nom": "MALTAIS",
           "prenom": "Odette",
-          "nb_voix_obtenues": "883",
+          "nb_voix_obtenues": "914",
           "nb_voix_majorite": null
         }
       ]
