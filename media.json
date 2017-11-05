@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T19:49:17",
+  "date_heure_generation": "2013-11-04T19:50:17",
   "partis": [
     {
       "id": 7,
@@ -3099,10 +3099,10 @@
       "type": "CA",
       "nom": "Conseiller d'arrondissement - District électoral de Bois-de-Liesse",
       "nb_electeurs_inscrits": "24446",
-      "nb_total_voix_recueillies": "8812",
-      "nb_bulletins_rejetes": "282",
-      "taux_participation": "36.05",
-      "nb_bureaux_depouilles": "99",
+      "nb_total_voix_recueillies": "8693",
+      "nb_bulletins_rejetes": "279",
+      "taux_participation": "35.56",
+      "nb_bureaux_depouilles": "98",
       "nb_bureaux_total": "99",
       "candidats": [
         {
@@ -3110,15 +3110,15 @@
           "parti": 14,
           "nom": "TROTTIER",
           "prenom": "Roger",
-          "nb_voix_obtenues": "2523",
-          "nb_voix_majorite": "125"
+          "nb_voix_obtenues": "2498",
+          "nb_voix_majorite": "141"
         },
         {
           "id": 253,
           "parti": 7,
           "nom": "CAMPEAU",
           "prenom": "Claudine",
-          "nb_voix_obtenues": "2398",
+          "nb_voix_obtenues": "2357",
           "nb_voix_majorite": null
         },
         {
@@ -3126,7 +3126,7 @@
           "parti": 13,
           "nom": "MORIN",
           "prenom": "Nathalie",
-          "nb_voix_obtenues": "2050",
+          "nb_voix_obtenues": "2025",
           "nb_voix_majorite": null
         },
         {
@@ -3134,7 +3134,7 @@
           "parti": 1,
           "nom": "SMITH",
           "prenom": "David-James",
-          "nb_voix_obtenues": "1113",
+          "nb_voix_obtenues": "1097",
           "nb_voix_majorite": null
         },
         {
@@ -3142,7 +3142,7 @@
           "parti": -1,
           "nom": "STITT",
           "prenom": "Ross",
-          "nb_voix_obtenues": "263",
+          "nb_voix_obtenues": "261",
           "nb_voix_majorite": null
         },
         {
@@ -3150,7 +3150,7 @@
           "parti": -1,
           "nom": "LEGAULT",
           "prenom": "Jean Charles",
-          "nb_voix_obtenues": "183",
+          "nb_voix_obtenues": "176",
           "nb_voix_majorite": null
         }
       ]
