@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T18:55:16",
+  "date_heure_generation": "2013-11-04T18:57:16",
   "partis": [
     {
       "id": 7,
@@ -376,8 +376,8 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 476525,
-    "nb_bulletins_rejetes": 12359,
+    "nb_total_voix_recueillies": 476530,
+    "nb_bulletins_rejetes": 12364,
     "taux_participation": 43.24,
     "nb_bureaux_depouilles": 4539,
     "nb_bureaux_total": 4539,
@@ -2276,8 +2276,8 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement de Mercier–Hochelaga-Maisonneuve",
       "nb_electeurs_inscrits": "96729",
-      "nb_total_voix_recueillies": "43699",
-      "nb_bulletins_rejetes": "2072",
+      "nb_total_voix_recueillies": "43705",
+      "nb_bulletins_rejetes": "2078",
       "taux_participation": "45.18",
       "nb_bureaux_depouilles": "381",
       "nb_bureaux_total": "381",
@@ -2433,10 +2433,10 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral d'Hochelaga",
       "nb_electeurs_inscrits": "23755",
-      "nb_total_voix_recueillies": "9964",
+      "nb_total_voix_recueillies": "9826",
       "nb_bulletins_rejetes": "288",
-      "taux_participation": "41.94",
-      "nb_bureaux_depouilles": "94",
+      "taux_participation": "41.36",
+      "nb_bureaux_depouilles": "93",
       "nb_bureaux_total": "94",
       "candidats": [
         {
@@ -2444,15 +2444,15 @@
           "parti": 13,
           "nom": "CALDWELL",
           "prenom": "Éric Alan",
-          "nb_voix_obtenues": "3408",
-          "nb_voix_majorite": "669"
+          "nb_voix_obtenues": "3352",
+          "nb_voix_majorite": "648"
         },
         {
           "id": 196,
           "parti": 1,
           "nom": "BLANCHARD",
           "prenom": "Laurent",
-          "nb_voix_obtenues": "2739",
+          "nb_voix_obtenues": "2704",
           "nb_voix_majorite": null
         },
         {
@@ -2460,7 +2460,7 @@
           "parti": 14,
           "nom": "ST-PIERRE",
           "prenom": "Mikael",
-          "nb_voix_obtenues": "2003",
+          "nb_voix_obtenues": "1966",
           "nb_voix_majorite": null
         },
         {
@@ -2468,7 +2468,7 @@
           "parti": 7,
           "nom": "CHARBONNEAU",
           "prenom": "Patrick",
-          "nb_voix_obtenues": "1244",
+          "nb_voix_obtenues": "1239",
           "nb_voix_majorite": null
         },
         {
@@ -2476,7 +2476,7 @@
           "parti": -1,
           "nom": "DONNELLY",
           "prenom": "Nicole",
-          "nb_voix_obtenues": "282",
+          "nb_voix_obtenues": "277",
           "nb_voix_majorite": null
         }
       ]
@@ -4024,9 +4024,9 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral d'Étienne-Desmarteau",
       "nb_electeurs_inscrits": "23339",
-      "nb_total_voix_recueillies": "12802",
-      "nb_bulletins_rejetes": "324",
-      "taux_participation": "54.85",
+      "nb_total_voix_recueillies": "12805",
+      "nb_bulletins_rejetes": "330",
+      "taux_participation": "54.87",
       "nb_bureaux_depouilles": "91",
       "nb_bureaux_total": "91",
       "candidats": [
@@ -4035,15 +4035,15 @@
           "parti": 13,
           "nom": "GADOURY",
           "prenom": "Marc-André",
-          "nb_voix_obtenues": "6797",
-          "nb_voix_majorite": "4763"
+          "nb_voix_obtenues": "6800",
+          "nb_voix_majorite": "4762"
         },
         {
           "id": 335,
           "parti": 7,
           "nom": "MONETTE",
           "prenom": "Jacques",
-          "nb_voix_obtenues": "2034",
+          "nb_voix_obtenues": "2038",
           "nb_voix_majorite": null
         },
         {
@@ -4051,7 +4051,7 @@
           "parti": 14,
           "nom": "VELASCO",
           "prenom": "Delphine",
-          "nb_voix_obtenues": "2024",
+          "nb_voix_obtenues": "2012",
           "nb_voix_majorite": null
         },
         {
@@ -4059,7 +4059,7 @@
           "parti": 1,
           "nom": "L'HEUREUX",
           "prenom": "Chantal",
-          "nb_voix_obtenues": "1377",
+          "nb_voix_obtenues": "1382",
           "nb_voix_majorite": null
         },
         {
@@ -4067,7 +4067,7 @@
           "parti": 11,
           "nom": "SEMIKIN",
           "prenom": "Ekaterina",
-          "nb_voix_obtenues": "246",
+          "nb_voix_obtenues": "243",
           "nb_voix_majorite": null
         }
       ]
