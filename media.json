@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T00:30:05",
+  "date_heure_generation": "2013-11-04T00:32:19",
   "partis": [
     {
       "id": 7,
@@ -376,65 +376,65 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 444555,
-    "nb_bulletins_rejetes": 11590,
-    "taux_participation": 40.34,
-    "nb_bureaux_depouilles": 4302,
+    "nb_total_voix_recueillies": 445091,
+    "nb_bulletins_rejetes": 11607,
+    "taux_participation": 40.39,
+    "nb_bureaux_depouilles": 4304,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 137519,
-        "nb_voix_majorite": 22864,
+        "nb_voix_obtenues": 137804,
+        "nb_voix_majorite": 23038,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 114655,
+        "nb_voix_obtenues": 114766,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 112097,
+        "nb_voix_obtenues": 112154,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 55419,
+        "nb_voix_obtenues": 55469,
         "nb_voix_majorite": 0,
         "parti": 1
       },
       {
         "nom": "BRÛLÉ",
         "prenom": "Michel",
-        "nb_voix_obtenues": 5894,
+        "nb_voix_obtenues": 5901,
         "nb_voix_majorite": 0,
         "parti": 11
       },
       {
         "nom": "TULASNE",
         "prenom": "Patricia",
-        "nb_voix_obtenues": 2355,
+        "nb_voix_obtenues": 2358,
         "nb_voix_majorite": 0,
         "parti": -1
       },
       {
         "nom": "HAMIDA",
         "prenom": "Louai",
-        "nb_voix_obtenues": 1435,
+        "nb_voix_obtenues": 1437,
         "nb_voix_majorite": 0,
         "parti": -1
       },
       {
         "nom": "BLAIS",
         "prenom": "Claude",
-        "nb_voix_obtenues": 1409,
+        "nb_voix_obtenues": 1411,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -455,7 +455,7 @@
       {
         "nom": "SAURIOL",
         "prenom": "Clément",
-        "nb_voix_obtenues": 520,
+        "nb_voix_obtenues": 522,
         "nb_voix_majorite": 0,
         "parti": -1
       }
@@ -1006,15 +1006,15 @@
           "parti": 1,
           "nom": "COPEMAN",
           "prenom": "Russell",
-          "nb_voix_obtenues": "9928",
-          "nb_voix_majorite": "1031"
+          "nb_voix_obtenues": "9929",
+          "nb_voix_majorite": "1033"
         },
         {
           "id": 68,
           "parti": 13,
           "nom": "SIMKIN",
           "prenom": "Michael",
-          "nb_voix_obtenues": "8897",
+          "nb_voix_obtenues": "8896",
           "nb_voix_majorite": null
         },
         {
@@ -4134,10 +4134,10 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral de Marie-Victorin",
       "nb_electeurs_inscrits": "22731",
-      "nb_total_voix_recueillies": "11020",
-      "nb_bulletins_rejetes": "510",
-      "taux_participation": "48.48",
-      "nb_bureaux_depouilles": "91",
+      "nb_total_voix_recueillies": "11154",
+      "nb_bulletins_rejetes": "517",
+      "taux_participation": "49.07",
+      "nb_bureaux_depouilles": "92",
       "nb_bureaux_total": "95",
       "candidats": [
         {
@@ -4145,15 +4145,15 @@
           "parti": 13,
           "nom": "LAVOIE",
           "prenom": "Guillaume",
-          "nb_voix_obtenues": "4517",
-          "nb_voix_majorite": "848"
+          "nb_voix_obtenues": "4587",
+          "nb_voix_majorite": "897"
         },
         {
           "id": 344,
           "parti": 7,
           "nom": "STANTON",
           "prenom": "Françoise",
-          "nb_voix_obtenues": "3669",
+          "nb_voix_obtenues": "3690",
           "nb_voix_majorite": null
         },
         {
@@ -4161,7 +4161,7 @@
           "parti": 1,
           "nom": "THERRIEN",
           "prenom": "Jean",
-          "nb_voix_obtenues": "2324",
+          "nb_voix_obtenues": "2360",
           "nb_voix_majorite": null
         }
       ]
