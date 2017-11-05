@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T19:29:17",
+  "date_heure_generation": "2013-11-04T19:33:14",
   "partis": [
     {
       "id": 7,
@@ -376,65 +376,65 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 476396,
-    "nb_bulletins_rejetes": 12363,
-    "taux_participation": 43.23,
-    "nb_bureaux_depouilles": 4538,
+    "nb_total_voix_recueillies": 477218,
+    "nb_bulletins_rejetes": 12379,
+    "taux_participation": 43.3,
+    "nb_bureaux_depouilles": 4539,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 149068,
-        "nb_voix_majorite": 26158,
+        "nb_voix_obtenues": 149367,
+        "nb_voix_majorite": 26286,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 122910,
+        "nb_voix_obtenues": 123081,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 118462,
+        "nb_voix_obtenues": 118644,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 59317,
+        "nb_voix_obtenues": 59446,
         "nb_voix_majorite": 0,
         "parti": 1
       },
       {
         "nom": "BRÛLÉ",
         "prenom": "Michel",
-        "nb_voix_obtenues": 6299,
+        "nb_voix_obtenues": 6316,
         "nb_voix_majorite": 0,
         "parti": 11
       },
       {
         "nom": "TULASNE",
         "prenom": "Patricia",
-        "nb_voix_obtenues": 2555,
+        "nb_voix_obtenues": 2560,
         "nb_voix_majorite": 0,
         "parti": -1
       },
       {
         "nom": "BLAIS",
         "prenom": "Claude",
-        "nb_voix_obtenues": 1553,
+        "nb_voix_obtenues": 1554,
         "nb_voix_majorite": 0,
         "parti": -1
       },
       {
         "nom": "HAMIDA",
         "prenom": "Louai",
-        "nb_voix_obtenues": 1514,
+        "nb_voix_obtenues": 1515,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -455,7 +455,7 @@
       {
         "nom": "SAURIOL",
         "prenom": "Clément",
-        "nb_voix_obtenues": 556,
+        "nb_voix_obtenues": 557,
         "nb_voix_majorite": 0,
         "parti": -1
       }
@@ -469,9 +469,9 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement d'Ahuntsic-Cartierville",
       "nb_electeurs_inscrits": "84524",
-      "nb_total_voix_recueillies": "41032",
-      "nb_bulletins_rejetes": "1317",
-      "taux_participation": "48.54",
+      "nb_total_voix_recueillies": "41000",
+      "nb_bulletins_rejetes": "1319",
+      "taux_participation": "48.51",
       "nb_bureaux_depouilles": "335",
       "nb_bureaux_total": "335",
       "candidats": [
@@ -480,15 +480,15 @@
           "parti": 7,
           "nom": "GAGNIER",
           "prenom": "Pierre",
-          "nb_voix_obtenues": "12055",
-          "nb_voix_majorite": "1339"
+          "nb_voix_obtenues": "12056",
+          "nb_voix_majorite": "1351"
         },
         {
           "id": 19,
           "parti": 13,
           "nom": "BASTIEN",
           "prenom": "Pierre",
-          "nb_voix_obtenues": "10716",
+          "nb_voix_obtenues": "10705",
           "nb_voix_majorite": null
         },
         {
@@ -496,7 +496,7 @@
           "parti": 14,
           "nom": "BELLELI",
           "prenom": "Hasmig",
-          "nb_voix_obtenues": "9166",
+          "nb_voix_obtenues": "9167",
           "nb_voix_majorite": null
         },
         {
@@ -504,7 +504,7 @@
           "parti": 1,
           "nom": "BRUNET",
           "prenom": "Etienne",
-          "nb_voix_obtenues": "6759",
+          "nb_voix_obtenues": "6733",
           "nb_voix_majorite": null
         },
         {
@@ -512,7 +512,7 @@
           "parti": 11,
           "nom": "ALLARD",
           "prenom": "Claude",
-          "nb_voix_obtenues": "1019",
+          "nb_voix_obtenues": "1020",
           "nb_voix_majorite": null
         }
       ]
@@ -3162,9 +3162,9 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral de Cap-Saint-Jacques",
       "nb_electeurs_inscrits": "22046",
-      "nb_total_voix_recueillies": "7181",
-      "nb_bulletins_rejetes": "423",
-      "taux_participation": "32.57",
+      "nb_total_voix_recueillies": "7390",
+      "nb_bulletins_rejetes": "432",
+      "taux_participation": "33.52",
       "nb_bureaux_depouilles": "89",
       "nb_bureaux_total": "89",
       "candidats": [
@@ -3173,15 +3173,15 @@
           "parti": 7,
           "nom": "CLÉMENT-TALBOT",
           "prenom": "Catherine",
-          "nb_voix_obtenues": "3185",
-          "nb_voix_majorite": "1078"
+          "nb_voix_obtenues": "3309",
+          "nb_voix_majorite": "1162"
         },
         {
           "id": 261,
           "parti": 13,
           "nom": "McCARTY",
           "prenom": "Eric",
-          "nb_voix_obtenues": "2107",
+          "nb_voix_obtenues": "2147",
           "nb_voix_majorite": null
         },
         {
@@ -3189,7 +3189,7 @@
           "parti": 1,
           "nom": "GARNER",
           "prenom": "Linton",
-          "nb_voix_obtenues": "1466",
+          "nb_voix_obtenues": "1502",
           "nb_voix_majorite": null
         }
       ]
