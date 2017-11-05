@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T18:06:44",
+  "date_heure_generation": "2013-11-04T18:09:15",
   "partis": [
     {
       "id": 7,
@@ -376,8 +376,8 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 476540,
-    "nb_bulletins_rejetes": 12363,
+    "nb_total_voix_recueillies": 476541,
+    "nb_bulletins_rejetes": 12364,
     "taux_participation": 43.24,
     "nb_bureaux_depouilles": 4539,
     "nb_bureaux_total": 4539,
@@ -2613,10 +2613,10 @@
       "type": "CA",
       "nom": "Conseiller d'arrondissement - District électoral de Marie-Clarac",
       "nb_electeurs_inscrits": "27391",
-      "nb_total_voix_recueillies": "10595",
-      "nb_bulletins_rejetes": "764",
-      "taux_participation": "38.68",
-      "nb_bureaux_depouilles": "114",
+      "nb_total_voix_recueillies": "10678",
+      "nb_bulletins_rejetes": "766",
+      "taux_participation": "38.98",
+      "nb_bureaux_depouilles": "115",
       "nb_bureaux_total": "115",
       "candidats": [
         {
@@ -2624,15 +2624,15 @@
           "parti": 7,
           "nom": "RICOURT",
           "prenom": "Monica",
-          "nb_voix_obtenues": "6123",
-          "nb_voix_majorite": "4336"
+          "nb_voix_obtenues": "6167",
+          "nb_voix_majorite": "4368"
         },
         {
           "id": 214,
           "parti": 1,
           "nom": "ROY",
           "prenom": "Jean",
-          "nb_voix_obtenues": "1787",
+          "nb_voix_obtenues": "1799",
           "nb_voix_majorite": null
         },
         {
@@ -2640,7 +2640,7 @@
           "parti": 13,
           "nom": "NELSON",
           "prenom": "David",
-          "nb_voix_obtenues": "1480",
+          "nb_voix_obtenues": "1502",
           "nb_voix_majorite": null
         },
         {
@@ -2648,7 +2648,7 @@
           "parti": -1,
           "nom": "BERNIER",
           "prenom": "Henri-Paul",
-          "nb_voix_obtenues": "441",
+          "nb_voix_obtenues": "444",
           "nb_voix_majorite": null
         }
       ]
