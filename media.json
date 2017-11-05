@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T14:52:04",
+  "date_heure_generation": "2013-11-04T14:54:01",
   "partis": [
     {
       "id": 7,
@@ -2276,10 +2276,10 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement de Mercier–Hochelaga-Maisonneuve",
       "nb_electeurs_inscrits": "96729",
-      "nb_total_voix_recueillies": "42694",
-      "nb_bulletins_rejetes": "2027",
-      "taux_participation": "44.14",
-      "nb_bureaux_depouilles": "379",
+      "nb_total_voix_recueillies": "43506",
+      "nb_bulletins_rejetes": "2062",
+      "taux_participation": "44.98",
+      "nb_bureaux_depouilles": "380",
       "nb_bureaux_total": "381",
       "candidats": [
         {
@@ -2287,15 +2287,15 @@
           "parti": 1,
           "nom": "MÉNARD",
           "prenom": "Réal",
-          "nb_voix_obtenues": "14750",
-          "nb_voix_majorite": "1944"
+          "nb_voix_obtenues": "15032",
+          "nb_voix_majorite": "2122"
         },
         {
           "id": 183,
           "parti": 13,
           "nom": "LESSARD-BLAIS",
           "prenom": "Pierre",
-          "nb_voix_obtenues": "12806",
+          "nb_voix_obtenues": "12910",
           "nb_voix_majorite": null
         },
         {
@@ -2303,7 +2303,7 @@
           "parti": 7,
           "nom": "POULIN",
           "prenom": "Daniel",
-          "nb_voix_obtenues": "10020",
+          "nb_voix_obtenues": "10348",
           "nb_voix_majorite": null
         },
         {
@@ -2311,7 +2311,7 @@
           "parti": 11,
           "nom": "CANUEL",
           "prenom": "Serge",
-          "nb_voix_obtenues": "3091",
+          "nb_voix_obtenues": "3154",
           "nb_voix_majorite": null
         }
       ]
