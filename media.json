@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T16:10:05",
+  "date_heure_generation": "2013-11-04T16:12:01",
   "partis": [
     {
       "id": 7,
@@ -376,44 +376,44 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 476597,
+    "nb_total_voix_recueillies": 476521,
     "nb_bulletins_rejetes": 12414,
-    "taux_participation": 43.25,
-    "nb_bureaux_depouilles": 4539,
+    "taux_participation": 43.24,
+    "nb_bureaux_depouilles": 4538,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 149122,
-        "nb_voix_majorite": 26274,
+        "nb_voix_obtenues": 149085,
+        "nb_voix_majorite": 26262,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 122848,
+        "nb_voix_obtenues": 122823,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 118516,
+        "nb_voix_obtenues": 118513,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 59306,
+        "nb_voix_obtenues": 59298,
         "nb_voix_majorite": 0,
         "parti": 1
       },
       {
         "nom": "BRÛLÉ",
         "prenom": "Michel",
-        "nb_voix_obtenues": 6353,
+        "nb_voix_obtenues": 6351,
         "nb_voix_majorite": 0,
         "parti": 11
       },
@@ -441,7 +441,7 @@
       {
         "nom": "YOUNG",
         "prenom": "Joseph",
-        "nb_voix_obtenues": 1110,
+        "nb_voix_obtenues": 1109,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -2119,9 +2119,9 @@
       "type": "CA",
       "nom": "Conseiller d'arrondissement - District électoral de Denis-Benjamin-Viger",
       "nb_electeurs_inscrits": "3827",
-      "nb_total_voix_recueillies": "2131",
+      "nb_total_voix_recueillies": "2128",
       "nb_bulletins_rejetes": "44",
-      "taux_participation": "55.68",
+      "taux_participation": "55.60",
       "nb_bureaux_depouilles": "15",
       "nb_bureaux_total": "15",
       "candidats": [
@@ -2130,8 +2130,8 @@
           "parti": 14,
           "nom": "LAROCQUE",
           "prenom": "Christian",
-          "nb_voix_obtenues": "1049",
-          "nb_voix_majorite": "515"
+          "nb_voix_obtenues": "1046",
+          "nb_voix_majorite": "512"
         },
         {
           "id": 170,
