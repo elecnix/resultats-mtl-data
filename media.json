@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T12:25:53",
+  "date_heure_generation": "2013-11-04T12:29:50",
   "partis": [
     {
       "id": 7,
@@ -376,37 +376,37 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 472124,
-    "nb_bulletins_rejetes": 12312,
-    "taux_participation": 42.84,
-    "nb_bureaux_depouilles": 4506,
+    "nb_total_voix_recueillies": 472239,
+    "nb_bulletins_rejetes": 12315,
+    "taux_participation": 42.85,
+    "nb_bureaux_depouilles": 4507,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 147335,
-        "nb_voix_majorite": 25575,
+        "nb_voix_obtenues": 147408,
+        "nb_voix_majorite": 25629,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 121760,
+        "nb_voix_obtenues": 121779,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 117795,
+        "nb_voix_obtenues": 117804,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 58696,
+        "nb_voix_obtenues": 58705,
         "nb_voix_majorite": 0,
         "parti": 1
       },
@@ -420,7 +420,7 @@
       {
         "nom": "TULASNE",
         "prenom": "Patricia",
-        "nb_voix_obtenues": 2531,
+        "nb_voix_obtenues": 2532,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -441,7 +441,7 @@
       {
         "nom": "YOUNG",
         "prenom": "Joseph",
-        "nb_voix_obtenues": 1101,
+        "nb_voix_obtenues": 1102,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -469,10 +469,10 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement d'Ahuntsic-Cartierville",
       "nb_electeurs_inscrits": "84524",
-      "nb_total_voix_recueillies": "39555",
-      "nb_bulletins_rejetes": "1278",
-      "taux_participation": "46.80",
-      "nb_bureaux_depouilles": "329",
+      "nb_total_voix_recueillies": "40357",
+      "nb_bulletins_rejetes": "1299",
+      "taux_participation": "47.75",
+      "nb_bureaux_depouilles": "330",
       "nb_bureaux_total": "335",
       "candidats": [
         {
@@ -480,15 +480,15 @@
           "parti": 7,
           "nom": "GAGNIER",
           "prenom": "Pierre",
-          "nb_voix_obtenues": "11596",
-          "nb_voix_majorite": "1219"
+          "nb_voix_obtenues": "11876",
+          "nb_voix_majorite": "1314"
         },
         {
           "id": 19,
           "parti": 13,
           "nom": "BASTIEN",
           "prenom": "Pierre",
-          "nb_voix_obtenues": "10377",
+          "nb_voix_obtenues": "10562",
           "nb_voix_majorite": null
         },
         {
@@ -496,7 +496,7 @@
           "parti": 14,
           "nom": "BELLELI",
           "prenom": "Hasmig",
-          "nb_voix_obtenues": "8866",
+          "nb_voix_obtenues": "9003",
           "nb_voix_majorite": null
         },
         {
@@ -504,7 +504,7 @@
           "parti": 1,
           "nom": "BRUNET",
           "prenom": "Etienne",
-          "nb_voix_obtenues": "6477",
+          "nb_voix_obtenues": "6631",
           "nb_voix_majorite": null
         },
         {
@@ -512,7 +512,7 @@
           "parti": 11,
           "nom": "ALLARD",
           "prenom": "Claude",
-          "nb_voix_obtenues": "961",
+          "nb_voix_obtenues": "986",
           "nb_voix_majorite": null
         }
       ]
@@ -1309,10 +1309,10 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement de Lachine",
       "nb_electeurs_inscrits": "31399",
-      "nb_total_voix_recueillies": "12784",
-      "nb_bulletins_rejetes": "427",
-      "taux_participation": "40.71",
-      "nb_bureaux_depouilles": "139",
+      "nb_total_voix_recueillies": "12896",
+      "nb_bulletins_rejetes": "430",
+      "taux_participation": "41.07",
+      "nb_bureaux_depouilles": "140",
       "nb_bureaux_total": "141",
       "candidats": [
         {
@@ -1320,15 +1320,15 @@
           "parti": 6,
           "nom": "DAUPHIN",
           "prenom": "Claude",
-          "nb_voix_obtenues": "6681",
-          "nb_voix_majorite": "2176"
+          "nb_voix_obtenues": "6732",
+          "nb_voix_majorite": "2174"
         },
         {
           "id": 93,
           "parti": 13,
           "nom": "BOSSY",
           "prenom": "Patricia",
-          "nb_voix_obtenues": "4505",
+          "nb_voix_obtenues": "4558",
           "nb_voix_majorite": null
         },
         {
@@ -1336,7 +1336,7 @@
           "parti": -1,
           "nom": "ENE",
           "prenom": "Pierre",
-          "nb_voix_obtenues": "1171",
+          "nb_voix_obtenues": "1176",
           "nb_voix_majorite": null
         }
       ]
@@ -1348,10 +1348,10 @@
       "type": "CV",
       "nom": "Conseiller de la ville arrondissement de Lachine",
       "nb_electeurs_inscrits": "31399",
-      "nb_total_voix_recueillies": "12441",
-      "nb_bulletins_rejetes": "421",
-      "taux_participation": "39.62",
-      "nb_bureaux_depouilles": "139",
+      "nb_total_voix_recueillies": "12553",
+      "nb_bulletins_rejetes": "422",
+      "taux_participation": "39.98",
+      "nb_bureaux_depouilles": "140",
       "nb_bureaux_total": "141",
       "candidats": [
         {
@@ -1359,15 +1359,15 @@
           "parti": 6,
           "nom": "CLOUTIER",
           "prenom": "Jean-François",
-          "nb_voix_obtenues": "3829",
-          "nb_voix_majorite": "188"
+          "nb_voix_obtenues": "3863",
+          "nb_voix_majorite": "207"
         },
         {
           "id": 96,
           "parti": 1,
           "nom": "BLANCHET",
           "prenom": "Bernard",
-          "nb_voix_obtenues": "3641",
+          "nb_voix_obtenues": "3656",
           "nb_voix_majorite": null
         },
         {
@@ -1375,7 +1375,7 @@
           "parti": 13,
           "nom": "LEFEBVRE",
           "prenom": "Jean-François",
-          "nb_voix_obtenues": "2668",
+          "nb_voix_obtenues": "2709",
           "nb_voix_majorite": null
         },
         {
@@ -1383,7 +1383,7 @@
           "parti": 7,
           "nom": "CARUSO",
           "prenom": "Carolina",
-          "nb_voix_obtenues": "1455",
+          "nb_voix_obtenues": "1475",
           "nb_voix_majorite": null
         },
         {
@@ -1391,7 +1391,7 @@
           "parti": -1,
           "nom": "LAKHOYAN",
           "prenom": "Hagop (Jacques)",
-          "nb_voix_obtenues": "427",
+          "nb_voix_obtenues": "428",
           "nb_voix_majorite": null
         }
       ]
