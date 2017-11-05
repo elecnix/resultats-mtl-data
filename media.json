@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T19:43:15",
+  "date_heure_generation": "2013-11-04T19:45:18",
   "partis": [
     {
       "id": 7,
@@ -524,9 +524,9 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral du Sault-au-Récollet",
       "nb_electeurs_inscrits": "19965",
-      "nb_total_voix_recueillies": "10363",
-      "nb_bulletins_rejetes": "361",
-      "taux_participation": "51.91",
+      "nb_total_voix_recueillies": "10323",
+      "nb_bulletins_rejetes": "365",
+      "taux_participation": "51.71",
       "nb_bureaux_depouilles": "79",
       "nb_bureaux_total": "80",
       "candidats": [
@@ -535,15 +535,15 @@
           "parti": 14,
           "nom": "PAGÉ",
           "prenom": "Lorraine",
-          "nb_voix_obtenues": "2855",
-          "nb_voix_majorite": "40"
+          "nb_voix_obtenues": "2836",
+          "nb_voix_majorite": "23"
         },
         {
           "id": 24,
           "parti": 7,
           "nom": "HOTTE",
           "prenom": "Nathalie",
-          "nb_voix_obtenues": "2815",
+          "nb_voix_obtenues": "2813",
           "nb_voix_majorite": null
         },
         {
@@ -551,7 +551,7 @@
           "parti": 13,
           "nom": "LEGENDRE",
           "prenom": "Sophie-Anne",
-          "nb_voix_obtenues": "2666",
+          "nb_voix_obtenues": "2644",
           "nb_voix_majorite": null
         },
         {
@@ -575,7 +575,7 @@
           "parti": -1,
           "nom": "GRONDIN",
           "prenom": "Dominique",
-          "nb_voix_obtenues": "110",
+          "nb_voix_obtenues": "109",
           "nb_voix_majorite": null
         },
         {
@@ -3052,8 +3052,8 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral de Bois-de-Liesse",
       "nb_electeurs_inscrits": "24446",
-      "nb_total_voix_recueillies": "8789",
-      "nb_bulletins_rejetes": "251",
+      "nb_total_voix_recueillies": "8788",
+      "nb_bulletins_rejetes": "250",
       "taux_participation": "35.95",
       "nb_bureaux_depouilles": "99",
       "nb_bureaux_total": "99",
@@ -3099,10 +3099,10 @@
       "type": "CA",
       "nom": "Conseiller d'arrondissement - District électoral de Bois-de-Liesse",
       "nb_electeurs_inscrits": "24446",
-      "nb_total_voix_recueillies": "8713",
+      "nb_total_voix_recueillies": "8813",
       "nb_bulletins_rejetes": "283",
-      "taux_participation": "35.64",
-      "nb_bureaux_depouilles": "98",
+      "taux_participation": "36.05",
+      "nb_bureaux_depouilles": "99",
       "nb_bureaux_total": "99",
       "candidats": [
         {
@@ -3110,15 +3110,15 @@
           "parti": 14,
           "nom": "TROTTIER",
           "prenom": "Roger",
-          "nb_voix_obtenues": "2488",
-          "nb_voix_majorite": "120"
+          "nb_voix_obtenues": "2523",
+          "nb_voix_majorite": "125"
         },
         {
           "id": 253,
           "parti": 7,
           "nom": "CAMPEAU",
           "prenom": "Claudine",
-          "nb_voix_obtenues": "2368",
+          "nb_voix_obtenues": "2398",
           "nb_voix_majorite": null
         },
         {
@@ -3126,7 +3126,7 @@
           "parti": 13,
           "nom": "MORIN",
           "prenom": "Nathalie",
-          "nb_voix_obtenues": "2026",
+          "nb_voix_obtenues": "2050",
           "nb_voix_majorite": null
         },
         {
@@ -3134,7 +3134,7 @@
           "parti": 1,
           "nom": "SMITH",
           "prenom": "David-James",
-          "nb_voix_obtenues": "1103",
+          "nb_voix_obtenues": "1113",
           "nb_voix_majorite": null
         },
         {
@@ -3142,7 +3142,7 @@
           "parti": -1,
           "nom": "STITT",
           "prenom": "Ross",
-          "nb_voix_obtenues": "262",
+          "nb_voix_obtenues": "263",
           "nb_voix_majorite": null
         },
         {
