@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T19:09:15",
+  "date_heure_generation": "2013-11-04T19:11:15",
   "partis": [
     {
       "id": 7,
@@ -376,44 +376,44 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 476546,
-    "nb_bulletins_rejetes": 12372,
+    "nb_total_voix_recueillies": 476484,
+    "nb_bulletins_rejetes": 12366,
     "taux_participation": 43.24,
-    "nb_bureaux_depouilles": 4539,
+    "nb_bureaux_depouilles": 4538,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 149130,
-        "nb_voix_majorite": 26216,
+        "nb_voix_obtenues": 149109,
+        "nb_voix_majorite": 26210,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 122914,
+        "nb_voix_obtenues": 122899,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 118504,
+        "nb_voix_obtenues": 118489,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 59338,
+        "nb_voix_obtenues": 59337,
         "nb_voix_majorite": 0,
         "parti": 1
       },
       {
         "nom": "BRÛLÉ",
         "prenom": "Michel",
-        "nb_voix_obtenues": 6313,
+        "nb_voix_obtenues": 6311,
         "nb_voix_majorite": 0,
         "parti": 11
       },
@@ -427,7 +427,7 @@
       {
         "nom": "BLAIS",
         "prenom": "Claude",
-        "nb_voix_obtenues": 1554,
+        "nb_voix_obtenues": 1552,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -3005,9 +3005,9 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement de Pierrefonds-Roxboro",
       "nb_electeurs_inscrits": "46492",
-      "nb_total_voix_recueillies": "15957",
+      "nb_total_voix_recueillies": "15961",
       "nb_bulletins_rejetes": "407",
-      "taux_participation": "34.32",
+      "taux_participation": "34.33",
       "nb_bureaux_depouilles": "188",
       "nb_bureaux_total": "188",
       "candidats": [
@@ -3016,8 +3016,8 @@
           "parti": 7,
           "nom": "BEIS",
           "prenom": "Dimitrios (Jim)",
-          "nb_voix_obtenues": "5170",
-          "nb_voix_majorite": "494"
+          "nb_voix_obtenues": "5174",
+          "nb_voix_majorite": "498"
         },
         {
           "id": 248,
