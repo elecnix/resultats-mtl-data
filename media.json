@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-03T20:28:26",
+  "date_heure_generation": "2013-11-03T20:29:25",
   "partis": [
     {
       "id": 7,
@@ -376,51 +376,51 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 36169,
-    "nb_bulletins_rejetes": 838,
-    "taux_participation": 3.28,
-    "nb_bureaux_depouilles": 461,
+    "nb_total_voix_recueillies": 36443,
+    "nb_bulletins_rejetes": 855,
+    "taux_participation": 3.31,
+    "nb_bureaux_depouilles": 464,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 14473,
-        "nb_voix_majorite": 6407,
+        "nb_voix_obtenues": 14630,
+        "nb_voix_majorite": 6522,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 8066,
+        "nb_voix_obtenues": 8108,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 7076,
+        "nb_voix_obtenues": 7102,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 4585,
+        "nb_voix_obtenues": 4611,
         "nb_voix_majorite": 0,
         "parti": 1
       },
       {
         "nom": "BRÛLÉ",
         "prenom": "Michel",
-        "nb_voix_obtenues": 559,
+        "nb_voix_obtenues": 563,
         "nb_voix_majorite": 0,
         "parti": 11
       },
       {
         "nom": "TULASNE",
         "prenom": "Patricia",
-        "nb_voix_obtenues": 235,
+        "nb_voix_obtenues": 236,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -434,7 +434,7 @@
       {
         "nom": "BLAIS",
         "prenom": "Claude",
-        "nb_voix_obtenues": 78,
+        "nb_voix_obtenues": 79,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -524,10 +524,10 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral du Sault-au-Récollet",
       "nb_electeurs_inscrits": "19965",
-      "nb_total_voix_recueillies": "325",
-      "nb_bulletins_rejetes": "5",
-      "taux_participation": "1.63",
-      "nb_bureaux_depouilles": "3",
+      "nb_total_voix_recueillies": "411",
+      "nb_bulletins_rejetes": "8",
+      "taux_participation": "2.06",
+      "nb_bureaux_depouilles": "4",
       "nb_bureaux_total": "80",
       "candidats": [
         {
@@ -535,15 +535,15 @@
           "parti": 7,
           "nom": "HOTTE",
           "prenom": "Nathalie",
-          "nb_voix_obtenues": "113",
-          "nb_voix_majorite": "26"
+          "nb_voix_obtenues": "145",
+          "nb_voix_majorite": "39"
         },
         {
           "id": 25,
           "parti": 13,
           "nom": "LEGENDRE",
           "prenom": "Sophie-Anne",
-          "nb_voix_obtenues": "87",
+          "nb_voix_obtenues": "106",
           "nb_voix_majorite": null
         },
         {
@@ -551,7 +551,7 @@
           "parti": 14,
           "nom": "PAGÉ",
           "prenom": "Lorraine",
-          "nb_voix_obtenues": "69",
+          "nb_voix_obtenues": "92",
           "nb_voix_majorite": null
         },
         {
@@ -559,7 +559,7 @@
           "parti": 1,
           "nom": "MOLYNEUX",
           "prenom": "Louis-Gilles",
-          "nb_voix_obtenues": "34",
+          "nb_voix_obtenues": "42",
           "nb_voix_majorite": null
         },
         {
@@ -575,7 +575,7 @@
           "parti": -1,
           "nom": "GRONDIN",
           "prenom": "Dominique",
-          "nb_voix_obtenues": "5",
+          "nb_voix_obtenues": "6",
           "nb_voix_majorite": null
         },
         {
@@ -760,26 +760,26 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement d'Anjou",
       "nb_electeurs_inscrits": "29172",
-      "nb_total_voix_recueillies": "0",
-      "nb_bulletins_rejetes": "0",
-      "taux_participation": "0.00",
-      "nb_bureaux_depouilles": "0",
+      "nb_total_voix_recueillies": "59",
+      "nb_bulletins_rejetes": "3",
+      "taux_participation": "0.20",
+      "nb_bureaux_depouilles": "1",
       "nb_bureaux_total": "130",
       "candidats": [
-        {
-          "id": 45,
-          "parti": 1,
-          "nom": "MARCELLUS",
-          "prenom": "Nyrlande",
-          "nb_voix_obtenues": "0",
-          "nb_voix_majorite": "0"
-        },
         {
           "id": 46,
           "parti": 3,
           "nom": "MIRANDA",
           "prenom": "Luis",
-          "nb_voix_obtenues": "0",
+          "nb_voix_obtenues": "32",
+          "nb_voix_majorite": "14"
+        },
+        {
+          "id": 48,
+          "parti": 7,
+          "nom": "TONDREAU",
+          "prenom": "Rémi",
+          "nb_voix_obtenues": "18",
           "nb_voix_majorite": null
         },
         {
@@ -787,15 +787,15 @@
           "parti": 13,
           "nom": "OBREGON",
           "prenom": "René",
-          "nb_voix_obtenues": "0",
+          "nb_voix_obtenues": "4",
           "nb_voix_majorite": null
         },
         {
-          "id": 48,
-          "parti": 7,
-          "nom": "TONDREAU",
-          "prenom": "Rémi",
-          "nb_voix_obtenues": "0",
+          "id": 45,
+          "parti": 1,
+          "nom": "MARCELLUS",
+          "prenom": "Nyrlande",
+          "nb_voix_obtenues": "2",
           "nb_voix_majorite": null
         }
       ]
@@ -3617,10 +3617,10 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement de Rivière-des-Prairies–Pointe-aux-Trembles",
       "nb_electeurs_inscrits": "78909",
-      "nb_total_voix_recueillies": "2773",
-      "nb_bulletins_rejetes": "110",
-      "taux_participation": "3.51",
-      "nb_bureaux_depouilles": "37",
+      "nb_total_voix_recueillies": "2860",
+      "nb_bulletins_rejetes": "116",
+      "taux_participation": "3.62",
+      "nb_bureaux_depouilles": "38",
       "nb_bureaux_total": "332",
       "candidats": [
         {
@@ -3628,15 +3628,15 @@
           "parti": 7,
           "nom": "ROULEAU",
           "prenom": "Chantal",
-          "nb_voix_obtenues": "2025",
-          "nb_voix_majorite": "1688"
+          "nb_voix_obtenues": "2086",
+          "nb_voix_majorite": "1743"
         },
         {
           "id": 301,
           "parti": 1,
           "nom": "TAYLOR",
           "prenom": "Michel",
-          "nb_voix_obtenues": "337",
+          "nb_voix_obtenues": "343",
           "nb_voix_majorite": null
         },
         {
@@ -3644,7 +3644,7 @@
           "parti": 13,
           "nom": "DELLA VALLE",
           "prenom": "Romeo",
-          "nb_voix_obtenues": "301",
+          "nb_voix_obtenues": "315",
           "nb_voix_majorite": null
         }
       ]
@@ -3695,10 +3695,10 @@
       "type": "CA",
       "nom": "Conseiller d'arrondissement - District électoral de La Pointe-aux-Prairies ",
       "nb_electeurs_inscrits": "29639",
-      "nb_total_voix_recueillies": "1029",
-      "nb_bulletins_rejetes": "21",
-      "taux_participation": "3.47",
-      "nb_bureaux_depouilles": "15",
+      "nb_total_voix_recueillies": "1101",
+      "nb_bulletins_rejetes": "25",
+      "taux_participation": "3.71",
+      "nb_bureaux_depouilles": "16",
       "nb_bureaux_total": "124",
       "candidats": [
         {
@@ -3706,15 +3706,15 @@
           "parti": 7,
           "nom": "GUEDES",
           "prenom": "Manuel",
-          "nb_voix_obtenues": "546",
-          "nb_voix_majorite": "365"
+          "nb_voix_obtenues": "572",
+          "nb_voix_majorite": "376"
         },
         {
           "id": 305,
           "parti": 14,
           "nom": "BÉRARD",
           "prenom": "Gaëtan",
-          "nb_voix_obtenues": "181",
+          "nb_voix_obtenues": "196",
           "nb_voix_majorite": null
         },
         {
@@ -3722,7 +3722,7 @@
           "parti": 1,
           "nom": "BLANCHET",
           "prenom": "Mario",
-          "nb_voix_obtenues": "161",
+          "nb_voix_obtenues": "179",
           "nb_voix_majorite": null
         },
         {
@@ -3730,7 +3730,7 @@
           "parti": 13,
           "nom": "LEBOEUF McGREGOR",
           "prenom": "Tomy-Richard",
-          "nb_voix_obtenues": "120",
+          "nb_voix_obtenues": "129",
           "nb_voix_majorite": null
         }
       ]
@@ -4173,10 +4173,10 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement de Saint-Laurent ",
       "nb_electeurs_inscrits": "58554",
-      "nb_total_voix_recueillies": "1769",
-      "nb_bulletins_rejetes": "35",
-      "taux_participation": "3.02",
-      "nb_bureaux_depouilles": "24",
+      "nb_total_voix_recueillies": "2008",
+      "nb_bulletins_rejetes": "43",
+      "taux_participation": "3.43",
+      "nb_bureaux_depouilles": "28",
       "nb_bureaux_total": "238",
       "candidats": [
         {
@@ -4184,15 +4184,15 @@
           "parti": 7,
           "nom": "DESOUSA",
           "prenom": "Alan",
-          "nb_voix_obtenues": "1129",
-          "nb_voix_majorite": "741"
+          "nb_voix_obtenues": "1262",
+          "nb_voix_majorite": "822"
         },
         {
           "id": 349,
           "parti": 14,
           "nom": "GHALI",
           "prenom": "François",
-          "nb_voix_obtenues": "388",
+          "nb_voix_obtenues": "440",
           "nb_voix_majorite": null
         },
         {
@@ -4200,7 +4200,7 @@
           "parti": 13,
           "nom": "FAYAD",
           "prenom": "William",
-          "nb_voix_obtenues": "115",
+          "nb_voix_obtenues": "141",
           "nb_voix_majorite": null
         },
         {
@@ -4208,7 +4208,7 @@
           "parti": 1,
           "nom": "BARSALOU",
           "prenom": "Marcello",
-          "nb_voix_obtenues": "102",
+          "nb_voix_obtenues": "122",
           "nb_voix_majorite": null
         }
       ]
@@ -4322,10 +4322,10 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral de Norman-McLaren",
       "nb_electeurs_inscrits": "27584",
-      "nb_total_voix_recueillies": "589",
-      "nb_bulletins_rejetes": "21",
-      "taux_participation": "2.14",
-      "nb_bureaux_depouilles": "8",
+      "nb_total_voix_recueillies": "635",
+      "nb_bulletins_rejetes": "22",
+      "taux_participation": "2.30",
+      "nb_bureaux_depouilles": "9",
       "nb_bureaux_total": "117",
       "candidats": [
         {
@@ -4333,15 +4333,15 @@
           "parti": 7,
           "nom": "SALEM",
           "prenom": "Aref",
-          "nb_voix_obtenues": "344",
-          "nb_voix_majorite": "216"
+          "nb_voix_obtenues": "356",
+          "nb_voix_majorite": "209"
         },
         {
           "id": 362,
           "parti": 14,
           "nom": "TANNOUS",
           "prenom": "Mélanie",
-          "nb_voix_obtenues": "128",
+          "nb_voix_obtenues": "147",
           "nb_voix_majorite": null
         },
         {
@@ -4349,7 +4349,7 @@
           "parti": 13,
           "nom": "KHANDJIAN",
           "prenom": "Naïri",
-          "nb_voix_obtenues": "55",
+          "nb_voix_obtenues": "64",
           "nb_voix_majorite": null
         },
         {
@@ -4357,7 +4357,7 @@
           "parti": 1,
           "nom": "RASOOL",
           "prenom": "Mubashar",
-          "nb_voix_obtenues": "41",
+          "nb_voix_obtenues": "46",
           "nb_voix_majorite": null
         }
       ]
@@ -4369,10 +4369,10 @@
       "type": "CA",
       "nom": "Conseiller d'arrondissement - District électoral de Norman-McLaren",
       "nb_electeurs_inscrits": "27584",
-      "nb_total_voix_recueillies": "705",
-      "nb_bulletins_rejetes": "24",
-      "taux_participation": "2.56",
-      "nb_bureaux_depouilles": "9",
+      "nb_total_voix_recueillies": "751",
+      "nb_bulletins_rejetes": "25",
+      "taux_participation": "2.72",
+      "nb_bureaux_depouilles": "10",
       "nb_bureaux_total": "117",
       "candidats": [
         {
@@ -4380,15 +4380,15 @@
           "parti": 7,
           "nom": "BIRON",
           "prenom": "Michèle D.",
-          "nb_voix_obtenues": "434",
-          "nb_voix_majorite": "307"
+          "nb_voix_obtenues": "451",
+          "nb_voix_majorite": "306"
         },
         {
           "id": 366,
           "parti": 14,
           "nom": "IONESCU",
           "prenom": "Stefan",
-          "nb_voix_obtenues": "127",
+          "nb_voix_obtenues": "145",
           "nb_voix_majorite": null
         },
         {
@@ -4396,7 +4396,7 @@
           "parti": 1,
           "nom": "BITAR",
           "prenom": "Elias",
-          "nb_voix_obtenues": "70",
+          "nb_voix_obtenues": "73",
           "nb_voix_majorite": null
         },
         {
@@ -4404,7 +4404,7 @@
           "parti": 13,
           "nom": "HRAIKY",
           "prenom": "Wael",
-          "nb_voix_obtenues": "50",
+          "nb_voix_obtenues": "57",
           "nb_voix_majorite": null
         }
       ]
@@ -5492,10 +5492,10 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement de Villeray–Saint-Michel–Parc-Extension",
       "nb_electeurs_inscrits": "86454",
-      "nb_total_voix_recueillies": "1912",
-      "nb_bulletins_rejetes": "77",
-      "taux_participation": "2.21",
-      "nb_bureaux_depouilles": "31",
+      "nb_total_voix_recueillies": "2014",
+      "nb_bulletins_rejetes": "86",
+      "taux_participation": "2.33",
+      "nb_bureaux_depouilles": "32",
       "nb_bureaux_total": "344",
       "candidats": [
         {
@@ -5503,15 +5503,15 @@
           "parti": 7,
           "nom": "SAMSON",
           "prenom": "Anie",
-          "nb_voix_obtenues": "821",
-          "nb_voix_majorite": "321"
+          "nb_voix_obtenues": "848",
+          "nb_voix_majorite": "318"
         },
         {
           "id": 465,
           "parti": 13,
           "nom": "GOULET",
           "prenom": "Nathalie",
-          "nb_voix_obtenues": "500",
+          "nb_voix_obtenues": "530",
           "nb_voix_majorite": null
         },
         {
@@ -5519,7 +5519,7 @@
           "parti": 1,
           "nom": "MARTINEZ",
           "prenom": "Soraya",
-          "nb_voix_obtenues": "313",
+          "nb_voix_obtenues": "341",
           "nb_voix_majorite": null
         },
         {
@@ -5527,7 +5527,7 @@
           "parti": 14,
           "nom": "ZAKO",
           "prenom": "Béatrice",
-          "nb_voix_obtenues": "201",
+          "nb_voix_obtenues": "209",
           "nb_voix_majorite": null
         }
       ]
