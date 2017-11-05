@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T12:15:37",
+  "date_heure_generation": "2013-11-04T12:17:45",
   "partis": [
     {
       "id": 7,
@@ -376,44 +376,44 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 471777,
-    "nb_bulletins_rejetes": 12301,
-    "taux_participation": 42.81,
-    "nb_bureaux_depouilles": 4502,
+    "nb_total_voix_recueillies": 471965,
+    "nb_bulletins_rejetes": 12308,
+    "taux_participation": 42.83,
+    "nb_bureaux_depouilles": 4504,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 147257,
-        "nb_voix_majorite": 25592,
+        "nb_voix_obtenues": 147281,
+        "nb_voix_majorite": 25559,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 121665,
+        "nb_voix_obtenues": 121722,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 117675,
+        "nb_voix_obtenues": 117750,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 58655,
+        "nb_voix_obtenues": 58679,
         "nb_voix_majorite": 0,
         "parti": 1
       },
       {
         "nom": "BRÛLÉ",
         "prenom": "Michel",
-        "nb_voix_obtenues": 6277,
+        "nb_voix_obtenues": 6278,
         "nb_voix_majorite": 0,
         "parti": 11
       },
@@ -1403,10 +1403,10 @@
       "type": "CA",
       "nom": "Conseiller d'arrondissement - District électoral du Canal",
       "nb_electeurs_inscrits": "10744",
-      "nb_total_voix_recueillies": "3965",
-      "nb_bulletins_rejetes": "154",
-      "taux_participation": "36.90",
-      "nb_bureaux_depouilles": "46",
+      "nb_total_voix_recueillies": "4022",
+      "nb_bulletins_rejetes": "156",
+      "taux_participation": "37.43",
+      "nb_bureaux_depouilles": "47",
       "nb_bureaux_total": "48",
       "candidats": [
         {
@@ -1414,15 +1414,15 @@
           "parti": 6,
           "nom": "VODANOVIC",
           "prenom": "Maja",
-          "nb_voix_obtenues": "1242",
-          "nb_voix_majorite": "153"
+          "nb_voix_obtenues": "1251",
+          "nb_voix_majorite": "147"
         },
         {
           "id": 103,
           "parti": 1,
           "nom": "POULIN",
           "prenom": "Lise",
-          "nb_voix_obtenues": "1089",
+          "nb_voix_obtenues": "1104",
           "nb_voix_majorite": null
         },
         {
@@ -1430,7 +1430,7 @@
           "parti": 13,
           "nom": "SYMON",
           "prenom": "John",
-          "nb_voix_obtenues": "736",
+          "nb_voix_obtenues": "753",
           "nb_voix_majorite": null
         },
         {
@@ -1438,7 +1438,7 @@
           "parti": 7,
           "nom": "BORJA",
           "prenom": "Sergio",
-          "nb_voix_obtenues": "407",
+          "nb_voix_obtenues": "419",
           "nb_voix_majorite": null
         },
         {
@@ -1446,7 +1446,7 @@
           "parti": -1,
           "nom": "LANGLOIS",
           "prenom": "Julie",
-          "nb_voix_obtenues": "337",
+          "nb_voix_obtenues": "339",
           "nb_voix_majorite": null
         }
       ]
@@ -2535,10 +2535,10 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement de Montréal-Nord",
       "nb_electeurs_inscrits": "52007",
-      "nb_total_voix_recueillies": "19869",
-      "nb_bulletins_rejetes": "1248",
-      "taux_participation": "38.20",
-      "nb_bureaux_depouilles": "212",
+      "nb_total_voix_recueillies": "19969",
+      "nb_bulletins_rejetes": "1249",
+      "taux_participation": "38.40",
+      "nb_bureaux_depouilles": "213",
       "nb_bureaux_total": "213",
       "candidats": [
         {
@@ -2546,15 +2546,15 @@
           "parti": 7,
           "nom": "DEGUIRE",
           "prenom": "Gilles",
-          "nb_voix_obtenues": "12107",
-          "nb_voix_majorite": "8218"
+          "nb_voix_obtenues": "12156",
+          "nb_voix_majorite": "8244"
         },
         {
           "id": 207,
           "parti": 1,
           "nom": "RYAN",
           "prenom": "Guy",
-          "nb_voix_obtenues": "3889",
+          "nb_voix_obtenues": "3912",
           "nb_voix_majorite": null
         },
         {
@@ -2562,7 +2562,7 @@
           "parti": 13,
           "nom": "BOIVIN",
           "prenom": "Suzanne",
-          "nb_voix_obtenues": "2625",
+          "nb_voix_obtenues": "2652",
           "nb_voix_majorite": null
         }
       ]
@@ -3570,10 +3570,10 @@
       "type": "CA",
       "nom": "Conseiller d'arrondissement - District électoral de Jeanne-Mance",
       "nb_electeurs_inscrits": "20584",
-      "nb_total_voix_recueillies": "9211",
-      "nb_bulletins_rejetes": "303",
-      "taux_participation": "44.75",
-      "nb_bureaux_depouilles": "82",
+      "nb_total_voix_recueillies": "9368",
+      "nb_bulletins_rejetes": "308",
+      "taux_participation": "45.51",
+      "nb_bureaux_depouilles": "83",
       "nb_bureaux_total": "83",
       "candidats": [
         {
@@ -3581,15 +3581,15 @@
           "parti": 13,
           "nom": "GOSSELIN",
           "prenom": "Christine",
-          "nb_voix_obtenues": "4359",
-          "nb_voix_majorite": "1941"
+          "nb_voix_obtenues": "4434",
+          "nb_voix_majorite": "1954"
         },
         {
           "id": 297,
           "parti": 1,
           "nom": "PICARD",
           "prenom": "André",
-          "nb_voix_obtenues": "2418",
+          "nb_voix_obtenues": "2480",
           "nb_voix_majorite": null
         },
         {
@@ -3597,7 +3597,7 @@
           "parti": 7,
           "nom": "RODRIGUES",
           "prenom": "Antonio",
-          "nb_voix_obtenues": "1469",
+          "nb_voix_obtenues": "1479",
           "nb_voix_majorite": null
         },
         {
@@ -3605,7 +3605,7 @@
           "parti": 11,
           "nom": "BISAILLON",
           "prenom": "Manon",
-          "nb_voix_obtenues": "662",
+          "nb_voix_obtenues": "667",
           "nb_voix_majorite": null
         }
       ]
@@ -5539,10 +5539,10 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral de Saint-Michel",
       "nb_electeurs_inscrits": "21255",
-      "nb_total_voix_recueillies": "6958",
-      "nb_bulletins_rejetes": "355",
-      "taux_participation": "32.74",
-      "nb_bureaux_depouilles": "82",
+      "nb_total_voix_recueillies": "7025",
+      "nb_bulletins_rejetes": "361",
+      "taux_participation": "33.05",
+      "nb_bureaux_depouilles": "83",
       "nb_bureaux_total": "84",
       "candidats": [
         {
@@ -5550,15 +5550,15 @@
           "parti": 7,
           "nom": "BENJAMIN",
           "prenom": "Frantz",
-          "nb_voix_obtenues": "3328",
-          "nb_voix_majorite": "2086"
+          "nb_voix_obtenues": "3344",
+          "nb_voix_majorite": "2085"
         },
         {
           "id": 471,
           "parti": 13,
           "nom": "BERNARD",
           "prenom": "Isabelle",
-          "nb_voix_obtenues": "1242",
+          "nb_voix_obtenues": "1259",
           "nb_voix_majorite": null
         },
         {
@@ -5566,7 +5566,7 @@
           "parti": 14,
           "nom": "ALVAREZ GARCIA",
           "prenom": "Emilio",
-          "nb_voix_obtenues": "1100",
+          "nb_voix_obtenues": "1114",
           "nb_voix_majorite": null
         },
         {
@@ -5574,7 +5574,7 @@
           "parti": 1,
           "nom": "DE LUCA",
           "prenom": "John",
-          "nb_voix_obtenues": "933",
+          "nb_voix_obtenues": "947",
           "nb_voix_majorite": null
         }
       ]
