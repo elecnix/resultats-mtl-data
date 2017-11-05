@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T11:25:05",
+  "date_heure_generation": "2013-11-04T11:27:03",
   "partis": [
     {
       "id": 7,
@@ -376,51 +376,51 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 466987,
-    "nb_bulletins_rejetes": 12164,
-    "taux_participation": 42.38,
-    "nb_bureaux_depouilles": 4457,
+    "nb_total_voix_recueillies": 467750,
+    "nb_bulletins_rejetes": 12190,
+    "taux_participation": 42.45,
+    "nb_bureaux_depouilles": 4460,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 145772,
-        "nb_voix_majorite": 25362,
+        "nb_voix_obtenues": 146091,
+        "nb_voix_majorite": 25499,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 120410,
+        "nb_voix_obtenues": 120592,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 116566,
+        "nb_voix_obtenues": 116721,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 58026,
+        "nb_voix_obtenues": 58084,
         "nb_voix_majorite": 0,
         "parti": 1
       },
       {
         "nom": "BRÛLÉ",
         "prenom": "Michel",
-        "nb_voix_obtenues": 6192,
+        "nb_voix_obtenues": 6203,
         "nb_voix_majorite": 0,
         "parti": 11
       },
       {
         "nom": "TULASNE",
         "prenom": "Patricia",
-        "nb_voix_obtenues": 2506,
+        "nb_voix_obtenues": 2509,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -434,28 +434,28 @@
       {
         "nom": "BLAIS",
         "prenom": "Claude",
-        "nb_voix_obtenues": 1498,
+        "nb_voix_obtenues": 1502,
         "nb_voix_majorite": 0,
         "parti": -1
       },
       {
         "nom": "YOUNG",
         "prenom": "Joseph",
-        "nb_voix_obtenues": 1089,
+        "nb_voix_obtenues": 1090,
         "nb_voix_majorite": 0,
         "parti": -1
       },
       {
         "nom": "SONOKPON",
         "prenom": "Kofi",
-        "nb_voix_obtenues": 658,
+        "nb_voix_obtenues": 661,
         "nb_voix_majorite": 0,
         "parti": -1
       },
       {
         "nom": "SAURIOL",
         "prenom": "Clément",
-        "nb_voix_obtenues": 551,
+        "nb_voix_obtenues": 552,
         "nb_voix_majorite": 0,
         "parti": -1
       }
@@ -1513,10 +1513,10 @@
       "type": "CA",
       "nom": "Conseiller d'arrondissement - District électoral du Fort-Rolland ",
       "nb_electeurs_inscrits": "10376",
-      "nb_total_voix_recueillies": "4995",
-      "nb_bulletins_rejetes": "140",
-      "taux_participation": "48.14",
-      "nb_bureaux_depouilles": "43",
+      "nb_total_voix_recueillies": "5147",
+      "nb_bulletins_rejetes": "146",
+      "taux_participation": "49.60",
+      "nb_bureaux_depouilles": "44",
       "nb_bureaux_total": "46",
       "candidats": [
         {
@@ -1524,15 +1524,15 @@
           "parti": 6,
           "nom": "SIMONYIK",
           "prenom": "Kymberley",
-          "nb_voix_obtenues": "1555",
-          "nb_voix_majorite": "120"
+          "nb_voix_obtenues": "1588",
+          "nb_voix_majorite": "117"
         },
         {
           "id": 114,
           "parti": 13,
           "nom": "LEVASSEUR",
           "prenom": "Julie",
-          "nb_voix_obtenues": "1435",
+          "nb_voix_obtenues": "1471",
           "nb_voix_majorite": null
         },
         {
@@ -1540,7 +1540,7 @@
           "parti": 1,
           "nom": "DURANTE",
           "prenom": "Mario",
-          "nb_voix_obtenues": "707",
+          "nb_voix_obtenues": "725",
           "nb_voix_majorite": null
         },
         {
@@ -1548,7 +1548,7 @@
           "parti": 7,
           "nom": "GIRARD",
           "prenom": "Jean-François",
-          "nb_voix_obtenues": "513",
+          "nb_voix_obtenues": "524",
           "nb_voix_majorite": null
         },
         {
@@ -1556,7 +1556,7 @@
           "parti": -1,
           "nom": "LEJEUNE",
           "prenom": "Christian",
-          "nb_voix_obtenues": "407",
+          "nb_voix_obtenues": "447",
           "nb_voix_majorite": null
         },
         {
@@ -1564,7 +1564,7 @@
           "parti": -1,
           "nom": "NOËL",
           "prenom": "Pierre",
-          "nb_voix_obtenues": "134",
+          "nb_voix_obtenues": "139",
           "nb_voix_majorite": null
         },
         {
@@ -1572,7 +1572,7 @@
           "parti": -1,
           "nom": "POWELL",
           "prenom": "Patrick",
-          "nb_voix_obtenues": "104",
+          "nb_voix_obtenues": "107",
           "nb_voix_majorite": null
         }
       ]
