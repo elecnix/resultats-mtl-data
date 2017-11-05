@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T11:21:25",
+  "date_heure_generation": "2013-11-04T11:23:01",
   "partis": [
     {
       "id": 7,
@@ -376,58 +376,58 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 466668,
-    "nb_bulletins_rejetes": 12158,
-    "taux_participation": 42.35,
-    "nb_bureaux_depouilles": 4454,
+    "nb_total_voix_recueillies": 466869,
+    "nb_bulletins_rejetes": 12162,
+    "taux_participation": 42.37,
+    "nb_bureaux_depouilles": 4456,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 145675,
-        "nb_voix_majorite": 25378,
+        "nb_voix_obtenues": 145733,
+        "nb_voix_majorite": 25365,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 120297,
+        "nb_voix_obtenues": 120368,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 116493,
+        "nb_voix_obtenues": 116547,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 58006,
+        "nb_voix_obtenues": 58014,
         "nb_voix_majorite": 0,
         "parti": 1
       },
       {
         "nom": "BRÛLÉ",
         "prenom": "Michel",
-        "nb_voix_obtenues": 6188,
+        "nb_voix_obtenues": 6191,
         "nb_voix_majorite": 0,
         "parti": 11
       },
       {
         "nom": "TULASNE",
         "prenom": "Patricia",
-        "nb_voix_obtenues": 2504,
+        "nb_voix_obtenues": 2505,
         "nb_voix_majorite": 0,
         "parti": -1
       },
       {
         "nom": "HAMIDA",
         "prenom": "Louai",
-        "nb_voix_obtenues": 1553,
+        "nb_voix_obtenues": 1554,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -441,7 +441,7 @@
       {
         "nom": "YOUNG",
         "prenom": "Joseph",
-        "nb_voix_obtenues": 1088,
+        "nb_voix_obtenues": 1089,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -1403,10 +1403,10 @@
       "type": "CA",
       "nom": "Conseiller d'arrondissement - District électoral du Canal",
       "nb_electeurs_inscrits": "10744",
-      "nb_total_voix_recueillies": "3922",
-      "nb_bulletins_rejetes": "153",
-      "taux_participation": "36.50",
-      "nb_bureaux_depouilles": "45",
+      "nb_total_voix_recueillies": "3965",
+      "nb_bulletins_rejetes": "154",
+      "taux_participation": "36.90",
+      "nb_bureaux_depouilles": "46",
       "nb_bureaux_total": "48",
       "candidats": [
         {
@@ -1414,15 +1414,15 @@
           "parti": 6,
           "nom": "VODANOVIC",
           "prenom": "Maja",
-          "nb_voix_obtenues": "1232",
-          "nb_voix_majorite": "155"
+          "nb_voix_obtenues": "1242",
+          "nb_voix_majorite": "153"
         },
         {
           "id": 103,
           "parti": 1,
           "nom": "POULIN",
           "prenom": "Lise",
-          "nb_voix_obtenues": "1077",
+          "nb_voix_obtenues": "1089",
           "nb_voix_majorite": null
         },
         {
@@ -1430,7 +1430,7 @@
           "parti": 13,
           "nom": "SYMON",
           "prenom": "John",
-          "nb_voix_obtenues": "722",
+          "nb_voix_obtenues": "736",
           "nb_voix_majorite": null
         },
         {
@@ -1438,7 +1438,7 @@
           "parti": 7,
           "nom": "BORJA",
           "prenom": "Sergio",
-          "nb_voix_obtenues": "404",
+          "nb_voix_obtenues": "407",
           "nb_voix_majorite": null
         },
         {
@@ -1446,7 +1446,7 @@
           "parti": -1,
           "nom": "LANGLOIS",
           "prenom": "Julie",
-          "nb_voix_obtenues": "334",
+          "nb_voix_obtenues": "337",
           "nb_voix_majorite": null
         }
       ]
@@ -1891,10 +1891,10 @@
       "type": "CA",
       "nom": "Conseiller d'arrondissement - District électoral de Cecil-P.-Newman (siège 1)",
       "nb_electeurs_inscrits": "25902",
-      "nb_total_voix_recueillies": "9181",
-      "nb_bulletins_rejetes": "421",
-      "taux_participation": "35.45",
-      "nb_bureaux_depouilles": "115",
+      "nb_total_voix_recueillies": "9363",
+      "nb_bulletins_rejetes": "429",
+      "taux_participation": "36.15",
+      "nb_bureaux_depouilles": "117",
       "nb_bureaux_total": "117",
       "candidats": [
         {
@@ -1902,15 +1902,15 @@
           "parti": 4,
           "nom": "DECLOS",
           "prenom": "Serge",
-          "nb_voix_obtenues": "2283",
-          "nb_voix_majorite": "48"
+          "nb_voix_obtenues": "2322",
+          "nb_voix_majorite": "59"
         },
         {
           "id": 149,
           "parti": 7,
           "nom": "DHILLON",
           "prenom": "Anju",
-          "nb_voix_obtenues": "2235",
+          "nb_voix_obtenues": "2263",
           "nb_voix_majorite": null
         },
         {
@@ -1918,7 +1918,7 @@
           "parti": 14,
           "nom": "TREMBLAY",
           "prenom": "Eric",
-          "nb_voix_obtenues": "1842",
+          "nb_voix_obtenues": "1902",
           "nb_voix_majorite": null
         },
         {
@@ -1926,7 +1926,7 @@
           "parti": 1,
           "nom": "ORLANDO",
           "prenom": "Mario",
-          "nb_voix_obtenues": "970",
+          "nb_voix_obtenues": "996",
           "nb_voix_majorite": null
         },
         {
@@ -1934,7 +1934,7 @@
           "parti": 13,
           "nom": "BARRY",
           "prenom": "Mody Maka",
-          "nb_voix_obtenues": "909",
+          "nb_voix_obtenues": "919",
           "nb_voix_majorite": null
         },
         {
@@ -1942,7 +1942,7 @@
           "parti": 12,
           "nom": "DUFORT",
           "prenom": "Raymond",
-          "nb_voix_obtenues": "471",
+          "nb_voix_obtenues": "481",
           "nb_voix_majorite": null
         },
         {
@@ -1950,7 +1950,7 @@
           "parti": -1,
           "nom": "HAYECK",
           "prenom": "Héné",
-          "nb_voix_obtenues": "50",
+          "nb_voix_obtenues": "51",
           "nb_voix_majorite": null
         }
       ]
@@ -5586,10 +5586,10 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral de François-Perrault",
       "nb_electeurs_inscrits": "21822",
-      "nb_total_voix_recueillies": "7662",
-      "nb_bulletins_rejetes": "337",
-      "taux_participation": "35.11",
-      "nb_bureaux_depouilles": "77",
+      "nb_total_voix_recueillies": "8246",
+      "nb_bulletins_rejetes": "360",
+      "taux_participation": "37.79",
+      "nb_bureaux_depouilles": "78",
       "nb_bureaux_total": "87",
       "candidats": [
         {
@@ -5597,15 +5597,15 @@
           "parti": 13,
           "nom": "OUELLET",
           "prenom": "Sylvain",
-          "nb_voix_obtenues": "2495",
-          "nb_voix_majorite": "220"
+          "nb_voix_obtenues": "2615",
+          "nb_voix_majorite": "72"
         },
         {
           "id": 473,
           "parti": 7,
           "nom": "BRICAULT",
           "prenom": "Claude",
-          "nb_voix_obtenues": "2275",
+          "nb_voix_obtenues": "2543",
           "nb_voix_majorite": null
         },
         {
@@ -5613,7 +5613,7 @@
           "parti": 14,
           "nom": "DE CICCO",
           "prenom": "Angelo",
-          "nb_voix_obtenues": "1463",
+          "nb_voix_obtenues": "1584",
           "nb_voix_majorite": null
         },
         {
@@ -5621,7 +5621,7 @@
           "parti": 1,
           "nom": "COLAVECCHIO",
           "prenom": "Nino",
-          "nb_voix_obtenues": "817",
+          "nb_voix_obtenues": "859",
           "nb_voix_majorite": null
         },
         {
@@ -5629,7 +5629,7 @@
           "parti": 11,
           "nom": "ST-LOUIS",
           "prenom": "François",
-          "nb_voix_obtenues": "168",
+          "nb_voix_obtenues": "176",
           "nb_voix_majorite": null
         },
         {
@@ -5637,7 +5637,7 @@
           "parti": -1,
           "nom": "LESSARD",
           "prenom": "André-Germain",
-          "nb_voix_obtenues": "107",
+          "nb_voix_obtenues": "109",
           "nb_voix_majorite": null
         }
       ]
