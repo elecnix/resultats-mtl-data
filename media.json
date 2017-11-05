@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T18:59:17",
+  "date_heure_generation": "2013-11-04T19:01:15",
   "partis": [
     {
       "id": 7,
@@ -376,44 +376,44 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 476530,
-    "nb_bulletins_rejetes": 12364,
-    "taux_participation": 43.24,
-    "nb_bureaux_depouilles": 4539,
+    "nb_total_voix_recueillies": 476412,
+    "nb_bulletins_rejetes": 12366,
+    "taux_participation": 43.23,
+    "nb_bureaux_depouilles": 4538,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 149106,
-        "nb_voix_majorite": 26216,
+        "nb_voix_obtenues": 149087,
+        "nb_voix_majorite": 26228,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 122890,
+        "nb_voix_obtenues": 122859,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 118504,
+        "nb_voix_obtenues": 118460,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 59328,
+        "nb_voix_obtenues": 59306,
         "nb_voix_majorite": 0,
         "parti": 1
       },
       {
         "nom": "BRÛLÉ",
         "prenom": "Michel",
-        "nb_voix_obtenues": 6347,
+        "nb_voix_obtenues": 6345,
         "nb_voix_majorite": 0,
         "parti": 11
       },
@@ -434,7 +434,7 @@
       {
         "nom": "HAMIDA",
         "prenom": "Louai",
-        "nb_voix_obtenues": 1530,
+        "nb_voix_obtenues": 1528,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -3930,10 +3930,10 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement de Rosemont–La Petite-Patrie",
       "nb_electeurs_inscrits": "96442",
-      "nb_total_voix_recueillies": "50017",
-      "nb_bulletins_rejetes": "1876",
-      "taux_participation": "51.86",
-      "nb_bureaux_depouilles": "381",
+      "nb_total_voix_recueillies": "50136",
+      "nb_bulletins_rejetes": "1881",
+      "taux_participation": "51.99",
+      "nb_bureaux_depouilles": "382",
       "nb_bureaux_total": "382",
       "candidats": [
         {
@@ -3941,15 +3941,15 @@
           "parti": 13,
           "nom": "CROTEAU",
           "prenom": "François W.",
-          "nb_voix_obtenues": "28628",
-          "nb_voix_majorite": "18130"
+          "nb_voix_obtenues": "28698",
+          "nb_voix_majorite": "18176"
         },
         {
           "id": 325,
           "parti": 7,
           "nom": "BRETON",
           "prenom": "Josselin",
-          "nb_voix_obtenues": "10498",
+          "nb_voix_obtenues": "10522",
           "nb_voix_majorite": null
         },
         {
@@ -3957,7 +3957,7 @@
           "parti": 1,
           "nom": "JOLIVET",
           "prenom": "Simon",
-          "nb_voix_obtenues": "6395",
+          "nb_voix_obtenues": "6409",
           "nb_voix_majorite": null
         },
         {
@@ -3965,7 +3965,7 @@
           "parti": 11,
           "nom": "SAINT-LOUIS",
           "prenom": "Jean",
-          "nb_voix_obtenues": "2620",
+          "nb_voix_obtenues": "2626",
           "nb_voix_majorite": null
         }
       ]
