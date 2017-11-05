@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T16:34:39",
+  "date_heure_generation": "2013-11-04T16:36:38",
   "partis": [
     {
       "id": 7,
@@ -376,7 +376,7 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 476594,
+    "nb_total_voix_recueillies": 476597,
     "nb_bulletins_rejetes": 12419,
     "taux_participation": 43.25,
     "nb_bureaux_depouilles": 4539,
@@ -386,13 +386,13 @@
         "nom": "CODERRE",
         "prenom": "Denis",
         "nb_voix_obtenues": 149122,
-        "nb_voix_majorite": 26274,
+        "nb_voix_majorite": 26271,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 122848,
+        "nb_voix_obtenues": 122851,
         "nb_voix_majorite": 0,
         "parti": 14
       },
@@ -4220,9 +4220,9 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral de la Côte-de-Liesse",
       "nb_electeurs_inscrits": "30970",
-      "nb_total_voix_recueillies": "10960",
+      "nb_total_voix_recueillies": "10962",
       "nb_bulletins_rejetes": "382",
-      "taux_participation": "35.39",
+      "taux_participation": "35.40",
       "nb_bureaux_depouilles": "121",
       "nb_bureaux_total": "121",
       "candidats": [
@@ -4231,8 +4231,8 @@
           "parti": 7,
           "nom": "MIELE",
           "prenom": "Francesco",
-          "nb_voix_obtenues": "4559",
-          "nb_voix_majorite": "766"
+          "nb_voix_obtenues": "4561",
+          "nb_voix_majorite": "768"
         },
         {
           "id": 350,
@@ -4267,9 +4267,9 @@
       "type": "CA",
       "nom": "Conseiller d'arrondissement - District électoral de la Côte-de-Liesse",
       "nb_electeurs_inscrits": "30970",
-      "nb_total_voix_recueillies": "11058",
+      "nb_total_voix_recueillies": "11056",
       "nb_bulletins_rejetes": "359",
-      "taux_participation": "35.71",
+      "taux_participation": "35.70",
       "nb_bureaux_depouilles": "121",
       "nb_bureaux_total": "121",
       "candidats": [
@@ -4310,7 +4310,7 @@
           "parti": -1,
           "nom": "IVASCU",
           "prenom": "Viorel",
-          "nb_voix_obtenues": "168",
+          "nb_voix_obtenues": "166",
           "nb_voix_majorite": null
         }
       ]
