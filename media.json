@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T11:15:22",
+  "date_heure_generation": "2013-11-04T11:17:25",
   "partis": [
     {
       "id": 7,
@@ -376,44 +376,44 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 466262,
-    "nb_bulletins_rejetes": 12147,
-    "taux_participation": 42.31,
-    "nb_bureaux_depouilles": 4449,
+    "nb_total_voix_recueillies": 466694,
+    "nb_bulletins_rejetes": 12158,
+    "taux_participation": 42.35,
+    "nb_bureaux_depouilles": 4454,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 145549,
-        "nb_voix_majorite": 25348,
+        "nb_voix_obtenues": 145666,
+        "nb_voix_majorite": 25333,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 120201,
+        "nb_voix_obtenues": 120333,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 116414,
+        "nb_voix_obtenues": 116502,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 57925,
+        "nb_voix_obtenues": 58001,
         "nb_voix_majorite": 0,
         "parti": 1
       },
       {
         "nom": "BRÛLÉ",
         "prenom": "Michel",
-        "nb_voix_obtenues": 6183,
+        "nb_voix_obtenues": 6186,
         "nb_voix_majorite": 0,
         "parti": 11
       },
@@ -427,21 +427,21 @@
       {
         "nom": "HAMIDA",
         "prenom": "Louai",
-        "nb_voix_obtenues": 1550,
+        "nb_voix_obtenues": 1552,
         "nb_voix_majorite": 0,
         "parti": -1
       },
       {
         "nom": "BLAIS",
         "prenom": "Claude",
-        "nb_voix_obtenues": 1495,
+        "nb_voix_obtenues": 1497,
         "nb_voix_majorite": 0,
         "parti": -1
       },
       {
         "nom": "YOUNG",
         "prenom": "Joseph",
-        "nb_voix_obtenues": 1087,
+        "nb_voix_obtenues": 1088,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -1828,10 +1828,10 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral de Cecil-P.-Newman",
       "nb_electeurs_inscrits": "25902",
-      "nb_total_voix_recueillies": "9080",
-      "nb_bulletins_rejetes": "474",
-      "taux_participation": "35.06",
-      "nb_bureaux_depouilles": "113",
+      "nb_total_voix_recueillies": "9163",
+      "nb_bulletins_rejetes": "477",
+      "taux_participation": "35.38",
+      "nb_bureaux_depouilles": "114",
       "nb_bureaux_total": "117",
       "candidats": [
         {
@@ -1839,15 +1839,15 @@
           "parti": 7,
           "nom": "VALLÉE",
           "prenom": "Monique",
-          "nb_voix_obtenues": "2522",
-          "nb_voix_majorite": "154"
+          "nb_voix_obtenues": "2535",
+          "nb_voix_majorite": "143"
         },
         {
           "id": 142,
           "parti": 4,
           "nom": "DI SANTE",
           "prenom": "Luciano",
-          "nb_voix_obtenues": "2368",
+          "nb_voix_obtenues": "2392",
           "nb_voix_majorite": null
         },
         {
@@ -1855,7 +1855,7 @@
           "parti": 14,
           "nom": "LAPERRIÈRE",
           "prenom": "Steven",
-          "nb_voix_obtenues": "1920",
+          "nb_voix_obtenues": "1950",
           "nb_voix_majorite": null
         },
         {
@@ -1863,7 +1863,7 @@
           "parti": 13,
           "nom": "AZZOUNI",
           "prenom": "Yosef",
-          "nb_voix_obtenues": "997",
+          "nb_voix_obtenues": "1005",
           "nb_voix_majorite": null
         },
         {
@@ -1871,7 +1871,7 @@
           "parti": 1,
           "nom": "PACE",
           "prenom": "Enrico",
-          "nb_voix_obtenues": "675",
+          "nb_voix_obtenues": "680",
           "nb_voix_majorite": null
         },
         {
