@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T14:54:01",
+  "date_heure_generation": "2013-11-04T14:55:58",
   "partis": [
     {
       "id": 7,
@@ -376,79 +376,79 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 474506,
-    "nb_bulletins_rejetes": 12354,
-    "taux_participation": 43.06,
-    "nb_bureaux_depouilles": 4532,
+    "nb_total_voix_recueillies": 475315,
+    "nb_bulletins_rejetes": 12375,
+    "taux_participation": 43.13,
+    "nb_bureaux_depouilles": 4533,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 148274,
-        "nb_voix_majorite": 25939,
+        "nb_voix_obtenues": 148633,
+        "nb_voix_majorite": 26134,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 122335,
+        "nb_voix_obtenues": 122499,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 118251,
+        "nb_voix_obtenues": 118350,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 59000,
+        "nb_voix_obtenues": 59130,
         "nb_voix_majorite": 0,
         "parti": 1
       },
       {
         "nom": "BRÛLÉ",
         "prenom": "Michel",
-        "nb_voix_obtenues": 6314,
+        "nb_voix_obtenues": 6331,
         "nb_voix_majorite": 0,
         "parti": 11
       },
       {
         "nom": "TULASNE",
         "prenom": "Patricia",
-        "nb_voix_obtenues": 2541,
+        "nb_voix_obtenues": 2555,
         "nb_voix_majorite": 0,
         "parti": -1
       },
       {
         "nom": "HAMIDA",
         "prenom": "Louai",
-        "nb_voix_obtenues": 1568,
+        "nb_voix_obtenues": 1569,
         "nb_voix_majorite": 0,
         "parti": -1
       },
       {
         "nom": "BLAIS",
         "prenom": "Claude",
-        "nb_voix_obtenues": 1525,
+        "nb_voix_obtenues": 1526,
         "nb_voix_majorite": 0,
         "parti": -1
       },
       {
         "nom": "YOUNG",
         "prenom": "Joseph",
-        "nb_voix_obtenues": 1105,
+        "nb_voix_obtenues": 1107,
         "nb_voix_majorite": 0,
         "parti": -1
       },
       {
         "nom": "SONOKPON",
         "prenom": "Kofi",
-        "nb_voix_obtenues": 685,
+        "nb_voix_obtenues": 686,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -2276,10 +2276,10 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement de Mercier–Hochelaga-Maisonneuve",
       "nb_electeurs_inscrits": "96729",
-      "nb_total_voix_recueillies": "43506",
-      "nb_bulletins_rejetes": "2062",
-      "taux_participation": "44.98",
-      "nb_bureaux_depouilles": "380",
+      "nb_total_voix_recueillies": "43654",
+      "nb_bulletins_rejetes": "2068",
+      "taux_participation": "45.13",
+      "nb_bureaux_depouilles": "381",
       "nb_bureaux_total": "381",
       "candidats": [
         {
@@ -2287,15 +2287,15 @@
           "parti": 1,
           "nom": "MÉNARD",
           "prenom": "Réal",
-          "nb_voix_obtenues": "15032",
-          "nb_voix_majorite": "2122"
+          "nb_voix_obtenues": "15090",
+          "nb_voix_majorite": "2153"
         },
         {
           "id": 183,
           "parti": 13,
           "nom": "LESSARD-BLAIS",
           "prenom": "Pierre",
-          "nb_voix_obtenues": "12910",
+          "nb_voix_obtenues": "12937",
           "nb_voix_majorite": null
         },
         {
@@ -2303,7 +2303,7 @@
           "parti": 7,
           "nom": "POULIN",
           "prenom": "Daniel",
-          "nb_voix_obtenues": "10348",
+          "nb_voix_obtenues": "10396",
           "nb_voix_majorite": null
         },
         {
@@ -2311,7 +2311,7 @@
           "parti": 11,
           "nom": "CANUEL",
           "prenom": "Serge",
-          "nb_voix_obtenues": "3154",
+          "nb_voix_obtenues": "3163",
           "nb_voix_majorite": null
         }
       ]
