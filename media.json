@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T01:26:13",
+  "date_heure_generation": "2013-11-04T01:27:53",
   "partis": [
     {
       "id": 7,
@@ -760,10 +760,10 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement d'Anjou",
       "nb_electeurs_inscrits": "29172",
-      "nb_total_voix_recueillies": "12631",
-      "nb_bulletins_rejetes": "420",
-      "taux_participation": "43.30",
-      "nb_bureaux_depouilles": "120",
+      "nb_total_voix_recueillies": "12751",
+      "nb_bulletins_rejetes": "422",
+      "taux_participation": "43.71",
+      "nb_bureaux_depouilles": "121",
       "nb_bureaux_total": "130",
       "candidats": [
         {
@@ -771,15 +771,15 @@
           "parti": 3,
           "nom": "MIRANDA",
           "prenom": "Luis",
-          "nb_voix_obtenues": "6889",
-          "nb_voix_majorite": "3974"
+          "nb_voix_obtenues": "6953",
+          "nb_voix_majorite": "4014"
         },
         {
           "id": 48,
           "parti": 7,
           "nom": "TONDREAU",
           "prenom": "Rémi",
-          "nb_voix_obtenues": "2915",
+          "nb_voix_obtenues": "2939",
           "nb_voix_majorite": null
         },
         {
@@ -787,7 +787,7 @@
           "parti": 13,
           "nom": "OBREGON",
           "prenom": "René",
-          "nb_voix_obtenues": "1615",
+          "nb_voix_obtenues": "1628",
           "nb_voix_majorite": null
         },
         {
@@ -795,7 +795,7 @@
           "parti": 1,
           "nom": "MARCELLUS",
           "prenom": "Nyrlande",
-          "nb_voix_obtenues": "792",
+          "nb_voix_obtenues": "809",
           "nb_voix_majorite": null
         }
       ]
@@ -4729,10 +4729,10 @@
       "type": "CA",
       "nom": "Conseiller d'arrondissement - District électoral de Saint-Henri–La Petite-Bourgogne–Pointe-Saint-Charles",
       "nb_electeurs_inscrits": "29736",
-      "nb_total_voix_recueillies": "10153",
-      "nb_bulletins_rejetes": "551",
-      "taux_participation": "34.14",
-      "nb_bureaux_depouilles": "116",
+      "nb_total_voix_recueillies": "10255",
+      "nb_bulletins_rejetes": "556",
+      "taux_participation": "34.49",
+      "nb_bureaux_depouilles": "117",
       "nb_bureaux_total": "127",
       "candidats": [
         {
@@ -4740,15 +4740,15 @@
           "parti": 13,
           "nom": "THIÉBAUT",
           "prenom": "Sophie",
-          "nb_voix_obtenues": "4489",
-          "nb_voix_majorite": "1785"
+          "nb_voix_obtenues": "4519",
+          "nb_voix_majorite": "1782"
         },
         {
           "id": 394,
           "parti": 1,
           "nom": "DE BONVILLE",
           "prenom": "Kristi",
-          "nb_voix_obtenues": "2704",
+          "nb_voix_obtenues": "2737",
           "nb_voix_majorite": null
         },
         {
@@ -4756,7 +4756,7 @@
           "parti": 7,
           "nom": "FRÉCHETTE",
           "prenom": "Pierre",
-          "nb_voix_obtenues": "2409",
+          "nb_voix_obtenues": "2443",
           "nb_voix_majorite": null
         }
       ]
