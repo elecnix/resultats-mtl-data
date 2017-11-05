@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T14:35:25",
+  "date_heure_generation": "2013-11-04T14:37:53",
   "partis": [
     {
       "id": 7,
@@ -376,44 +376,44 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 473916,
-    "nb_bulletins_rejetes": 12345,
-    "taux_participation": 43.01,
-    "nb_bureaux_depouilles": 4527,
+    "nb_total_voix_recueillies": 474054,
+    "nb_bulletins_rejetes": 12347,
+    "taux_participation": 43.02,
+    "nb_bureaux_depouilles": 4528,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 148077,
-        "nb_voix_majorite": 25881,
+        "nb_voix_obtenues": 148122,
+        "nb_voix_majorite": 25903,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 122196,
+        "nb_voix_obtenues": 122219,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 118143,
+        "nb_voix_obtenues": 118155,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 58887,
+        "nb_voix_obtenues": 58940,
         "nb_voix_majorite": 0,
         "parti": 1
       },
       {
         "nom": "BRÛLÉ",
         "prenom": "Michel",
-        "nb_voix_obtenues": 6302,
+        "nb_voix_obtenues": 6303,
         "nb_voix_majorite": 0,
         "parti": 11
       },
@@ -427,7 +427,7 @@
       {
         "nom": "HAMIDA",
         "prenom": "Louai",
-        "nb_voix_obtenues": 1566,
+        "nb_voix_obtenues": 1567,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -441,7 +441,7 @@
       {
         "nom": "YOUNG",
         "prenom": "Joseph",
-        "nb_voix_obtenues": 1104,
+        "nb_voix_obtenues": 1105,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -1089,10 +1089,10 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral de Côte-des-Neiges ",
       "nb_electeurs_inscrits": "15870",
-      "nb_total_voix_recueillies": "6342",
-      "nb_bulletins_rejetes": "153",
-      "taux_participation": "39.96",
-      "nb_bureaux_depouilles": "61",
+      "nb_total_voix_recueillies": "6486",
+      "nb_bulletins_rejetes": "158",
+      "taux_participation": "40.87",
+      "nb_bureaux_depouilles": "63",
       "nb_bureaux_total": "63",
       "candidats": [
         {
@@ -1100,15 +1100,15 @@
           "parti": 13,
           "nom": "POPEANU",
           "prenom": "Magda",
-          "nb_voix_obtenues": "1898",
-          "nb_voix_majorite": "51"
+          "nb_voix_obtenues": "1953",
+          "nb_voix_majorite": "77"
         },
         {
           "id": 74,
           "parti": 7,
           "nom": "FOTOPULOS",
           "prenom": "Helen",
-          "nb_voix_obtenues": "1847",
+          "nb_voix_obtenues": "1876",
           "nb_voix_majorite": null
         },
         {
@@ -1116,7 +1116,7 @@
           "parti": 14,
           "nom": "ASSOR",
           "prenom": "Raphaël",
-          "nb_voix_obtenues": "1242",
+          "nb_voix_obtenues": "1272",
           "nb_voix_majorite": null
         },
         {
@@ -1124,7 +1124,7 @@
           "parti": 1,
           "nom": "CÔTÉ",
           "prenom": "Marcel",
-          "nb_voix_obtenues": "1155",
+          "nb_voix_obtenues": "1176",
           "nb_voix_majorite": null
         },
         {
@@ -1132,7 +1132,7 @@
           "parti": -1,
           "nom": "SIAZON",
           "prenom": "Elizabeth",
-          "nb_voix_obtenues": "47",
+          "nb_voix_obtenues": "51",
           "nb_voix_majorite": null
         }
       ]
@@ -1144,10 +1144,10 @@
       "type": "CV",
       "nom": "Conseiller de la ville - District électoral de Snowdon ",
       "nb_electeurs_inscrits": "19431",
-      "nb_total_voix_recueillies": "6747",
-      "nb_bulletins_rejetes": "286",
-      "taux_participation": "34.72",
-      "nb_bureaux_depouilles": "80",
+      "nb_total_voix_recueillies": "6841",
+      "nb_bulletins_rejetes": "289",
+      "taux_participation": "35.21",
+      "nb_bureaux_depouilles": "81",
       "nb_bureaux_total": "81",
       "candidats": [
         {
@@ -1155,15 +1155,15 @@
           "parti": 1,
           "nom": "ROTRAND",
           "prenom": "Marvin",
-          "nb_voix_obtenues": "3090",
-          "nb_voix_majorite": "989"
+          "nb_voix_obtenues": "3155",
+          "nb_voix_majorite": "1044"
         },
         {
           "id": 78,
           "parti": 13,
           "nom": "GUTMAN",
           "prenom": "Sarah",
-          "nb_voix_obtenues": "2101",
+          "nb_voix_obtenues": "2111",
           "nb_voix_majorite": null
         },
         {
@@ -1171,7 +1171,7 @@
           "parti": 7,
           "nom": "SAUVÉ-FRANKEL",
           "prenom": "Ginette",
-          "nb_voix_obtenues": "1270",
+          "nb_voix_obtenues": "1286",
           "nb_voix_majorite": null
         }
       ]
