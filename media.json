@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T13:37:25",
+  "date_heure_generation": "2013-11-04T13:39:26",
   "partis": [
     {
       "id": 7,
@@ -376,65 +376,65 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 472545,
-    "nb_bulletins_rejetes": 12323,
-    "taux_participation": 42.88,
-    "nb_bureaux_depouilles": 4512,
+    "nb_total_voix_recueillies": 472770,
+    "nb_bulletins_rejetes": 12328,
+    "taux_participation": 42.9,
+    "nb_bureaux_depouilles": 4515,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 147550,
-        "nb_voix_majorite": 25701,
+        "nb_voix_obtenues": 147682,
+        "nb_voix_majorite": 25793,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 121849,
+        "nb_voix_obtenues": 121889,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 117861,
+        "nb_voix_obtenues": 117882,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 58729,
+        "nb_voix_obtenues": 58749,
         "nb_voix_majorite": 0,
         "parti": 1
       },
       {
         "nom": "BRÛLÉ",
         "prenom": "Michel",
-        "nb_voix_obtenues": 6282,
+        "nb_voix_obtenues": 6284,
         "nb_voix_majorite": 0,
         "parti": 11
       },
       {
         "nom": "TULASNE",
         "prenom": "Patricia",
-        "nb_voix_obtenues": 2533,
+        "nb_voix_obtenues": 2534,
         "nb_voix_majorite": 0,
         "parti": -1
       },
       {
         "nom": "HAMIDA",
         "prenom": "Louai",
-        "nb_voix_obtenues": 1565,
+        "nb_voix_obtenues": 1566,
         "nb_voix_majorite": 0,
         "parti": -1
       },
       {
         "nom": "BLAIS",
         "prenom": "Claude",
-        "nb_voix_obtenues": 1519,
+        "nb_voix_obtenues": 1521,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -455,7 +455,7 @@
       {
         "nom": "SAURIOL",
         "prenom": "Clément",
-        "nb_voix_obtenues": 553,
+        "nb_voix_obtenues": 554,
         "nb_voix_majorite": 0,
         "parti": -1
       }
@@ -5492,10 +5492,10 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement de Villeray–Saint-Michel–Parc-Extension",
       "nb_electeurs_inscrits": "86454",
-      "nb_total_voix_recueillies": "36277",
-      "nb_bulletins_rejetes": "1573",
-      "taux_participation": "41.96",
-      "nb_bureaux_depouilles": "343",
+      "nb_total_voix_recueillies": "36380",
+      "nb_bulletins_rejetes": "1576",
+      "taux_participation": "42.08",
+      "nb_bureaux_depouilles": "344",
       "nb_bureaux_total": "344",
       "candidats": [
         {
@@ -5503,15 +5503,15 @@
           "parti": 7,
           "nom": "SAMSON",
           "prenom": "Anie",
-          "nb_voix_obtenues": "12373",
-          "nb_voix_majorite": "755"
+          "nb_voix_obtenues": "12401",
+          "nb_voix_majorite": "736"
         },
         {
           "id": 465,
           "parti": 13,
           "nom": "GOULET",
           "prenom": "Nathalie",
-          "nb_voix_obtenues": "11618",
+          "nb_voix_obtenues": "11665",
           "nb_voix_majorite": null
         },
         {
@@ -5519,7 +5519,7 @@
           "parti": 1,
           "nom": "MARTINEZ",
           "prenom": "Soraya",
-          "nb_voix_obtenues": "5436",
+          "nb_voix_obtenues": "5447",
           "nb_voix_majorite": null
         },
         {
@@ -5527,7 +5527,7 @@
           "parti": 14,
           "nom": "ZAKO",
           "prenom": "Béatrice",
-          "nb_voix_obtenues": "5277",
+          "nb_voix_obtenues": "5291",
           "nb_voix_majorite": null
         }
       ]
