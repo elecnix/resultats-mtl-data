@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T18:53:16",
+  "date_heure_generation": "2013-11-04T18:55:16",
   "partis": [
     {
       "id": 7,
@@ -376,7 +376,7 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 476522,
+    "nb_total_voix_recueillies": 476525,
     "nb_bulletins_rejetes": 12359,
     "taux_participation": 43.24,
     "nb_bureaux_depouilles": 4539,
@@ -385,14 +385,14 @@
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 149109,
-        "nb_voix_majorite": 26254,
+        "nb_voix_obtenues": 149105,
+        "nb_voix_majorite": 26215,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 122855,
+        "nb_voix_obtenues": 122890,
         "nb_voix_majorite": 0,
         "parti": 14
       },
@@ -406,14 +406,14 @@
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 59317,
+        "nb_voix_obtenues": 59329,
         "nb_voix_majorite": 0,
         "parti": 1
       },
       {
         "nom": "BRÛLÉ",
         "prenom": "Michel",
-        "nb_voix_obtenues": 6355,
+        "nb_voix_obtenues": 6347,
         "nb_voix_majorite": 0,
         "parti": 11
       },
@@ -425,16 +425,16 @@
         "parti": -1
       },
       {
-        "nom": "HAMIDA",
-        "prenom": "Louai",
-        "nb_voix_obtenues": 1562,
+        "nom": "BLAIS",
+        "prenom": "Claude",
+        "nb_voix_obtenues": 1554,
         "nb_voix_majorite": 0,
         "parti": -1
       },
       {
-        "nom": "BLAIS",
-        "prenom": "Claude",
-        "nb_voix_obtenues": 1554,
+        "nom": "HAMIDA",
+        "prenom": "Louai",
+        "nb_voix_obtenues": 1530,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -3930,7 +3930,7 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement de Rosemont–La Petite-Patrie",
       "nb_electeurs_inscrits": "96442",
-      "nb_total_voix_recueillies": "50130",
+      "nb_total_voix_recueillies": "50133",
       "nb_bulletins_rejetes": "1880",
       "taux_participation": "51.98",
       "nb_bureaux_depouilles": "382",
@@ -3957,7 +3957,7 @@
           "parti": 1,
           "nom": "JOLIVET",
           "prenom": "Simon",
-          "nb_voix_obtenues": "6406",
+          "nb_voix_obtenues": "6409",
           "nb_voix_majorite": null
         },
         {
