@@ -1,5 +1,5 @@
 {
-  "date_heure_generation": "2013-11-04T12:19:50",
+  "date_heure_generation": "2013-11-04T12:21:50",
   "partis": [
     {
       "id": 7,
@@ -376,37 +376,37 @@
   ],
   "mairie": {
     "nb_electeurs_inscrits": 1101998,
-    "nb_total_voix_recueillies": 471956,
+    "nb_total_voix_recueillies": 472012,
     "nb_bulletins_rejetes": 12311,
     "taux_participation": 42.83,
-    "nb_bureaux_depouilles": 4504,
+    "nb_bureaux_depouilles": 4505,
     "nb_bureaux_total": 4539,
     "candidats": [
       {
         "nom": "CODERRE",
         "prenom": "Denis",
-        "nb_voix_obtenues": 147276,
-        "nb_voix_majorite": 25552,
+        "nb_voix_obtenues": 147312,
+        "nb_voix_majorite": 25584,
         "parti": 7
       },
       {
         "nom": "JOLY",
         "prenom": "Mélanie",
-        "nb_voix_obtenues": 121724,
+        "nb_voix_obtenues": 121728,
         "nb_voix_majorite": 0,
         "parti": 14
       },
       {
         "nom": "BERGERON",
         "prenom": "Richard",
-        "nb_voix_obtenues": 117749,
+        "nb_voix_obtenues": 117754,
         "nb_voix_majorite": 0,
         "parti": 13
       },
       {
         "nom": "CÔTÉ",
         "prenom": "Marcel",
-        "nb_voix_obtenues": 58674,
+        "nb_voix_obtenues": 58682,
         "nb_voix_majorite": 0,
         "parti": 1
       },
@@ -420,7 +420,7 @@
       {
         "nom": "TULASNE",
         "prenom": "Patricia",
-        "nb_voix_obtenues": 2530,
+        "nb_voix_obtenues": 2531,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -441,7 +441,7 @@
       {
         "nom": "YOUNG",
         "prenom": "Joseph",
-        "nb_voix_obtenues": 1100,
+        "nb_voix_obtenues": 1101,
         "nb_voix_majorite": 0,
         "parti": -1
       },
@@ -455,7 +455,7 @@
       {
         "nom": "SAURIOL",
         "prenom": "Clément",
-        "nb_voix_obtenues": 552,
+        "nb_voix_obtenues": 553,
         "nb_voix_majorite": 0,
         "parti": -1
       }
@@ -995,10 +995,10 @@
       "type": "MC",
       "nom": "Maire de l'arrondissement de Côte-des-Neiges–Notre-Dame-de-Grâce ",
       "nb_electeurs_inscrits": "94587",
-      "nb_total_voix_recueillies": "35684",
-      "nb_bulletins_rejetes": "995",
-      "taux_participation": "37.73",
-      "nb_bureaux_depouilles": "367",
+      "nb_total_voix_recueillies": "35589",
+      "nb_bulletins_rejetes": "988",
+      "taux_participation": "37.63",
+      "nb_bureaux_depouilles": "366",
       "nb_bureaux_total": "372",
       "candidats": [
         {
@@ -1006,15 +1006,15 @@
           "parti": 1,
           "nom": "COPEMAN",
           "prenom": "Russell",
-          "nb_voix_obtenues": "10227",
-          "nb_voix_majorite": "1129"
+          "nb_voix_obtenues": "10189",
+          "nb_voix_majorite": "1106"
         },
         {
           "id": 68,
           "parti": 13,
           "nom": "SIMKIN",
           "prenom": "Michael",
-          "nb_voix_obtenues": "9098",
+          "nb_voix_obtenues": "9083",
           "nb_voix_majorite": null
         },
         {
@@ -1022,7 +1022,7 @@
           "parti": 14,
           "nom": "ROSS",
           "prenom": "Andrew",
-          "nb_voix_obtenues": "7724",
+          "nb_voix_obtenues": "7713",
           "nb_voix_majorite": null
         },
         {
@@ -1030,7 +1030,7 @@
           "parti": 7,
           "nom": "COPPS",
           "prenom": "Kevin",
-          "nb_voix_obtenues": "7640",
+          "nb_voix_obtenues": "7616",
           "nb_voix_majorite": null
         }
       ]
@@ -1348,10 +1348,10 @@
       "type": "CV",
       "nom": "Conseiller de la ville arrondissement de Lachine",
       "nb_electeurs_inscrits": "31399",
-      "nb_total_voix_recueillies": "12320",
-      "nb_bulletins_rejetes": "418",
-      "taux_participation": "39.24",
-      "nb_bureaux_depouilles": "138",
+      "nb_total_voix_recueillies": "12441",
+      "nb_bulletins_rejetes": "421",
+      "taux_participation": "39.62",
+      "nb_bureaux_depouilles": "139",
       "nb_bureaux_total": "141",
       "candidats": [
         {
@@ -1359,15 +1359,15 @@
           "parti": 6,
           "nom": "CLOUTIER",
           "prenom": "Jean-François",
-          "nb_voix_obtenues": "3794",
-          "nb_voix_majorite": "167"
+          "nb_voix_obtenues": "3829",
+          "nb_voix_majorite": "188"
         },
         {
           "id": 96,
           "parti": 1,
           "nom": "BLANCHET",
           "prenom": "Bernard",
-          "nb_voix_obtenues": "3627",
+          "nb_voix_obtenues": "3641",
           "nb_voix_majorite": null
         },
         {
@@ -1375,7 +1375,7 @@
           "parti": 13,
           "nom": "LEFEBVRE",
           "prenom": "Jean-François",
-          "nb_voix_obtenues": "2617",
+          "nb_voix_obtenues": "2668",
           "nb_voix_majorite": null
         },
         {
@@ -1383,7 +1383,7 @@
           "parti": 7,
           "nom": "CARUSO",
           "prenom": "Carolina",
-          "nb_voix_obtenues": "1442",
+          "nb_voix_obtenues": "1455",
           "nb_voix_majorite": null
         },
         {
@@ -1391,7 +1391,7 @@
           "parti": -1,
           "nom": "LAKHOYAN",
           "prenom": "Hagop (Jacques)",
-          "nb_voix_obtenues": "422",
+          "nb_voix_obtenues": "427",
           "nb_voix_majorite": null
         }
       ]
