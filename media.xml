@@ -1,4 +1,4 @@
-<resultats date_heure_generation="2017-11-06T08:45:16">
+<resultats date_heure_generation="2017-11-06T08:47:16">
 	<resultats_postes>
 		<poste id="1,00">
 			<type>MC</type>
@@ -2649,23 +2649,23 @@
 			<arrondissement id="16">Sud-Ouest</arrondissement>
 			<district id="0"></district>
 			<nb_electeurs_inscrits>55657</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>22057</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>695</nb_bulletins_rejetes>
-			<taux_participation>39.63</taux_participation>
-			<nb_bureaux_depouilles>200</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>22304</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>697</nb_bulletins_rejetes>
+			<taux_participation>40.07</taux_participation>
+			<nb_bureaux_depouilles>202</nb_bureaux_depouilles>
 			<nb_bureaux_total>203</nb_bureaux_total>
 			<candidat id="111">
 				<prenom>Benoit</prenom>			
 				<nom>DORAIS</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>15226</nb_voix_obtenues>
-				<nb_voix_majorite>9090</nb_voix_majorite>
+				<nb_voix_obtenues>15417</nb_voix_obtenues>
+				<nb_voix_majorite>9227</nb_voix_majorite>
 			</candidat>
 			<candidat id="110">
 				<prenom>Denise</prenom>			
 				<nom>MÉRINEAU</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>6136</nb_voix_obtenues>
+				<nb_voix_obtenues>6190</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -2675,23 +2675,23 @@
 			<arrondissement id="16">Sud-Ouest</arrondissement>
 			<district id="161">Saint-Henri-Est–Petite-Bourgogne–Pointe-Saint-Charles–Griffintown</district>
 			<nb_electeurs_inscrits>30537</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>11775</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>292</nb_bulletins_rejetes>
-			<taux_participation>38.56</taux_participation>
-			<nb_bureaux_depouilles>108</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>11912</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>293</nb_bulletins_rejetes>
+			<taux_participation>39.01</taux_participation>
+			<nb_bureaux_depouilles>109</nb_bureaux_depouilles>
 			<nb_bureaux_total>111</nb_bureaux_total>
 			<candidat id="115">
 				<prenom>Craig</prenom>			
 				<nom>SAUVÉ</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>7540</nb_voix_obtenues>
-				<nb_voix_majorite>3862</nb_voix_majorite>
+				<nb_voix_obtenues>7640</nb_voix_obtenues>
+				<nb_voix_majorite>3929</nb_voix_majorite>
 			</candidat>
 			<candidat id="113">
 				<prenom>Daniel</prenom>			
 				<nom>DOYLE</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>3678</nb_voix_obtenues>
+				<nb_voix_obtenues>3711</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="112">
@@ -2705,7 +2705,7 @@
 				<prenom>Thomas</prenom>			
 				<nom>TSUKALAS</nom>
 				<parti id="-1">Indépendant</parti>
-				<nb_voix_obtenues>113</nb_voix_obtenues>
+				<nb_voix_obtenues>116</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
