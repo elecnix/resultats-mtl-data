@@ -1,4 +1,4 @@
-<resultats date_heure_generation="2017-11-04T10:31:12">
+<resultats date_heure_generation="2017-11-05T19:58:13">
 	<resultats_postes>
 		<poste id="1,00">
 			<type>MC</type>
@@ -6,23 +6,23 @@
 			<arrondissement id="1">Ahuntsic-Cartierville</arrondissement>
 			<district id="0"></district>
 			<nb_electeurs_inscrits>87651</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>1511</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>35</nb_bulletins_rejetes>
+			<taux_participation>1.72</taux_participation>
+			<nb_bureaux_depouilles>16</nb_bureaux_depouilles>
 			<nb_bureaux_total>309</nb_bureaux_total>
-			<candidat id="12">
-				<prenom>Harout</prenom>			
-				<nom>CHITILIAN</nom>
-				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
 			<candidat id="13">
 				<prenom>Émilie</prenom>			
 				<nom>THUILLIER</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>868</nb_voix_obtenues>
+				<nb_voix_majorite>260</nb_voix_majorite>
+			</candidat>
+			<candidat id="12">
+				<prenom>Harout</prenom>			
+				<nom>CHITILIAN</nom>
+				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
+				<nb_voix_obtenues>608</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -32,30 +32,30 @@
 			<arrondissement id="1">Ahuntsic-Cartierville</arrondissement>
 			<district id="11">Sault-au-Récollet</district>
 			<nb_electeurs_inscrits>20676</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>76</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>2</nb_bulletins_rejetes>
+			<taux_participation>0.37</taux_participation>
+			<nb_bureaux_depouilles>1</nb_bureaux_depouilles>
 			<nb_bureaux_total>75</nb_bureaux_total>
-			<candidat id="14">
-				<prenom>Giovanna</prenom>			
-				<nom>GIANCASPRO</nom>
-				<parti id="1">Coalition Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
 			<candidat id="16">
 				<prenom>Jérôme</prenom>			
 				<nom>NORMAND</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite></nb_voix_majorite>
+				<nb_voix_obtenues>40</nb_voix_obtenues>
+				<nb_voix_majorite>10</nb_voix_majorite>
 			</candidat>
 			<candidat id="15">
 				<prenom>Lorraine</prenom>			
 				<nom>PAGÉ</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>30</nb_voix_obtenues>
+				<nb_voix_majorite></nb_voix_majorite>
+			</candidat>
+			<candidat id="14">
+				<prenom>Giovanna</prenom>			
+				<nom>GIANCASPRO</nom>
+				<parti id="1">Coalition Montréal</parti>
+				<nb_voix_obtenues>4</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -65,23 +65,23 @@
 			<arrondissement id="1">Ahuntsic-Cartierville</arrondissement>
 			<district id="12">Saint-Sulpice</district>
 			<nb_electeurs_inscrits>23313</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>275</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>7</nb_bulletins_rejetes>
+			<taux_participation>1.18</taux_participation>
+			<nb_bureaux_depouilles>5</nb_bureaux_depouilles>
 			<nb_bureaux_total>80</nb_bureaux_total>
 			<candidat id="17">
 				<prenom>Hadrien</prenom>			
 				<nom>PARIZEAU</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
+				<nb_voix_obtenues>151</nb_voix_obtenues>
+				<nb_voix_majorite>34</nb_voix_majorite>
 			</candidat>
 			<candidat id="18">
 				<prenom>Ramzi</prenom>			
 				<nom>SFEIR</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>117</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -124,30 +124,30 @@
 			<arrondissement id="1">Ahuntsic-Cartierville</arrondissement>
 			<district id="14">Bordeaux-Cartierville</district>
 			<nb_electeurs_inscrits>21653</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>156</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>5</nb_bulletins_rejetes>
+			<taux_participation>0.72</taux_participation>
+			<nb_bureaux_depouilles>2</nb_bureaux_depouilles>
 			<nb_bureaux_total>70</nb_bureaux_total>
 			<candidat id="23">
 				<prenom>Effie</prenom>			
 				<nom>GIANNOU</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
-			<candidat id="22">
-				<prenom>Shant</prenom>			
-				<nom>KARABAJAK</nom>
-				<parti id="1">Coalition Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite></nb_voix_majorite>
+				<nb_voix_obtenues>95</nb_voix_obtenues>
+				<nb_voix_majorite>46</nb_voix_majorite>
 			</candidat>
 			<candidat id="24">
 				<prenom>Fadia</prenom>			
 				<nom>NASSR</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>49</nb_voix_obtenues>
+				<nb_voix_majorite></nb_voix_majorite>
+			</candidat>
+			<candidat id="22">
+				<prenom>Shant</prenom>			
+				<nom>KARABAJAK</nom>
+				<parti id="1">Coalition Montréal</parti>
+				<nb_voix_obtenues>7</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -157,30 +157,30 @@
 			<arrondissement id="2">Anjou</arrondissement>
 			<district id="0"></district>
 			<nb_electeurs_inscrits>29577</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>1071</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>31</nb_bulletins_rejetes>
+			<taux_participation>3.62</taux_participation>
+			<nb_bureaux_depouilles>10</nb_bureaux_depouilles>
 			<nb_bureaux_total>128</nb_bureaux_total>
-			<candidat id="160">
-				<prenom>Angela</prenom>			
-				<nom>MANCINI</nom>
-				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
 			<candidat id="159">
 				<prenom>Luis</prenom>			
 				<nom>MIRANDA</nom>
 				<parti id="2">Équipe Anjou</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>598</nb_voix_obtenues>
+				<nb_voix_majorite>377</nb_voix_majorite>
+			</candidat>
+			<candidat id="160">
+				<prenom>Angela</prenom>			
+				<nom>MANCINI</nom>
+				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
+				<nb_voix_obtenues>221</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="161">
 				<prenom>Rémy</prenom>			
 				<nom>TONDREAU</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>221</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -190,30 +190,30 @@
 			<arrondissement id="2">Anjou</arrondissement>
 			<district id="0"></district>
 			<nb_electeurs_inscrits>29577</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>240</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>6</nb_bulletins_rejetes>
+			<taux_participation>0.81</taux_participation>
+			<nb_bureaux_depouilles>2</nb_bureaux_depouilles>
 			<nb_bureaux_total>128</nb_bureaux_total>
-			<candidat id="163">
-				<prenom>Michèle</prenom>			
-				<nom>GAGNÉ</nom>
-				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
 			<candidat id="162">
 				<prenom>Andrée</prenom>			
 				<nom>HÉNAULT</nom>
 				<parti id="2">Équipe Anjou</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite></nb_voix_majorite>
+				<nb_voix_obtenues>122</nb_voix_obtenues>
+				<nb_voix_majorite>57</nb_voix_majorite>
 			</candidat>
 			<candidat id="164">
 				<prenom>Robert</prenom>			
 				<nom>MAILHOT</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>65</nb_voix_obtenues>
+				<nb_voix_majorite></nb_voix_majorite>
+			</candidat>
+			<candidat id="163">
+				<prenom>Michèle</prenom>			
+				<nom>GAGNÉ</nom>
+				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
+				<nb_voix_obtenues>47</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -223,37 +223,37 @@
 			<arrondissement id="2">Anjou</arrondissement>
 			<district id="21">Ouest</district>
 			<nb_electeurs_inscrits>9753</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>95</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>2</nb_bulletins_rejetes>
+			<taux_participation>0.97</taux_participation>
+			<nb_bureaux_depouilles>1</nb_bureaux_depouilles>
 			<nb_bureaux_total>39</nb_bureaux_total>
-			<candidat id="167">
-				<prenom>Gilles</prenom>			
-				<nom>BEAUDRY</nom>
-				<parti id="-1">Indépendant</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
 			<candidat id="168">
 				<prenom>Stephanie</prenom>			
 				<nom>CAMBRIA</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>36</nb_voix_obtenues>
+				<nb_voix_majorite>5</nb_voix_majorite>
+			</candidat>
+			<candidat id="165">
+				<prenom>Lynne</prenom>			
+				<nom>SHAND</nom>
+				<parti id="2">Équipe Anjou</parti>
+				<nb_voix_obtenues>31</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="166">
 				<prenom>René</prenom>			
 				<nom>GAUTHIER</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>20</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
-			<candidat id="165">
-				<prenom>Lynne</prenom>			
-				<nom>SHAND</nom>
-				<parti id="2">Équipe Anjou</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+			<candidat id="167">
+				<prenom>Gilles</prenom>			
+				<nom>BEAUDRY</nom>
+				<parti id="-1">Indépendant</parti>
+				<nb_voix_obtenues>6</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -336,30 +336,30 @@
 			<arrondissement id="3">Côte-des-Neiges–Notre-Dame-de-Grâce</arrondissement>
 			<district id="0"></district>
 			<nb_electeurs_inscrits>99094</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>1177</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>26</nb_bulletins_rejetes>
+			<taux_participation>1.19</taux_participation>
+			<nb_bureaux_depouilles>13</nb_bureaux_depouilles>
 			<nb_bureaux_total>310</nb_bureaux_total>
+			<candidat id="178">
+				<prenom>Sue</prenom>			
+				<nom>MONTGOMERY</nom>
+				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
+				<nb_voix_obtenues>567</nb_voix_obtenues>
+				<nb_voix_majorite>19</nb_voix_majorite>
+			</candidat>
 			<candidat id="177">
 				<prenom>Russell</prenom>			
 				<nom>COPEMAN</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
+				<nb_voix_obtenues>548</nb_voix_obtenues>
+				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="176">
 				<prenom>Zaki</prenom>			
 				<nom>GHAVITIAN</nom>
 				<parti id="1">Coalition Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite></nb_voix_majorite>
-			</candidat>
-			<candidat id="178">
-				<prenom>Sue</prenom>			
-				<nom>MONTGOMERY</nom>
-				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>36</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -369,30 +369,30 @@
 			<arrondissement id="3">Côte-des-Neiges–Notre-Dame-de-Grâce</arrondissement>
 			<district id="31">Darlington</district>
 			<nb_electeurs_inscrits>18076</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>82</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>2</nb_bulletins_rejetes>
+			<taux_participation>0.45</taux_participation>
+			<nb_bureaux_depouilles>2</nb_bureaux_depouilles>
 			<nb_bureaux_total>54</nb_bureaux_total>
-			<candidat id="181">
-				<prenom>Graham</prenom>			
-				<nom>CARPENTER</nom>
-				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
 			<candidat id="179">
 				<prenom>Erik</prenom>			
 				<nom>HAMON</nom>
 				<parti id="1">Coalition Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite></nb_voix_majorite>
+				<nb_voix_obtenues>40</nb_voix_obtenues>
+				<nb_voix_majorite>15</nb_voix_majorite>
 			</candidat>
 			<candidat id="180">
 				<prenom>Lionel</prenom>			
 				<nom>PEREZ</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>25</nb_voix_obtenues>
+				<nb_voix_majorite></nb_voix_majorite>
+			</candidat>
+			<candidat id="181">
+				<prenom>Graham</prenom>			
+				<nom>CARPENTER</nom>
+				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
+				<nb_voix_obtenues>15</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -475,30 +475,30 @@
 			<arrondissement id="3">Côte-des-Neiges–Notre-Dame-de-Grâce</arrondissement>
 			<district id="34">Notre-Dame-de-Grâce</district>
 			<nb_electeurs_inscrits>21987</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>206</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>3</nb_bulletins_rejetes>
+			<taux_participation>0.94</taux_participation>
+			<nb_bureaux_depouilles>3</nb_bureaux_depouilles>
 			<nb_bureaux_total>72</nb_bureaux_total>
-			<candidat id="190">
-				<prenom>Elaine</prenom>			
-				<nom>ETHIER</nom>
-				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
 			<candidat id="191">
 				<prenom>Peter</prenom>			
 				<nom>MCQUEEN</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>157</nb_voix_obtenues>
+				<nb_voix_majorite>119</nb_voix_majorite>
+			</candidat>
+			<candidat id="190">
+				<prenom>Elaine</prenom>			
+				<nom>ETHIER</nom>
+				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
+				<nb_voix_obtenues>38</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="189">
 				<prenom>Caroline</prenom>			
 				<nom>ORCHARD</nom>
 				<parti id="1">Coalition Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>8</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -508,51 +508,51 @@
 			<arrondissement id="3">Côte-des-Neiges–Notre-Dame-de-Grâce</arrondissement>
 			<district id="35">Loyola</district>
 			<nb_electeurs_inscrits>21750</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>229</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>7</nb_bulletins_rejetes>
+			<taux_participation>1.05</taux_participation>
+			<nb_bureaux_depouilles>3</nb_bureaux_depouilles>
 			<nb_bureaux_total>69</nb_bureaux_total>
-			<candidat id="197">
-				<prenom>Christian</prenom>			
-				<nom>ARSENEAULT</nom>
-				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
-			<candidat id="192">
-				<prenom>Keeton</prenom>			
-				<nom>CLARKE</nom>
-				<parti id="1">Coalition Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite></nb_voix_majorite>
-			</candidat>
 			<candidat id="193">
 				<prenom>Gabriel</prenom>			
 				<nom>RETTA</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite></nb_voix_majorite>
+				<nb_voix_obtenues>99</nb_voix_obtenues>
+				<nb_voix_majorite>10</nb_voix_majorite>
 			</candidat>
-			<candidat id="194">
-				<prenom>Angeluz Valery</prenom>			
-				<nom>SANTILLAN AGUIRRE</nom>
-				<parti id="-1">Indépendant</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+			<candidat id="197">
+				<prenom>Christian</prenom>			
+				<nom>ARSENEAULT</nom>
+				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
+				<nb_voix_obtenues>89</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="195">
 				<prenom>Jeremy</prenom>			
 				<nom>SEARLE</nom>
 				<parti id="-1">Indépendant</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>12</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="196">
 				<prenom>Gianpaolo (Paolo)</prenom>			
 				<nom>TRANI</nom>
 				<parti id="-1">Indépendant</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>9</nb_voix_obtenues>
+				<nb_voix_majorite></nb_voix_majorite>
+			</candidat>
+			<candidat id="192">
+				<prenom>Keeton</prenom>			
+				<nom>CLARKE</nom>
+				<parti id="1">Coalition Montréal</parti>
+				<nb_voix_obtenues>8</nb_voix_obtenues>
+				<nb_voix_majorite></nb_voix_majorite>
+			</candidat>
+			<candidat id="194">
+				<prenom>Angeluz Valery</prenom>			
+				<nom>SANTILLAN AGUIRRE</nom>
+				<parti id="-1">Indépendant</parti>
+				<nb_voix_obtenues>5</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -562,37 +562,37 @@
 			<arrondissement id="4">Lachine</arrondissement>
 			<district id="0"></district>
 			<nb_electeurs_inscrits>32351</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>475</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>10</nb_bulletins_rejetes>
+			<taux_participation>1.47</taux_participation>
+			<nb_bureaux_depouilles>6</nb_bureaux_depouilles>
 			<nb_bureaux_total>128</nb_bureaux_total>
-			<candidat id="200">
-				<prenom>Bernard</prenom>			
-				<nom>BLANCHET</nom>
-				<parti id="9">Vrai changement pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
+			<candidat id="201">
+				<prenom>Maja</prenom>			
+				<nom>VODANOVIC</nom>
+				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
+				<nb_voix_obtenues>163</nb_voix_obtenues>
+				<nb_voix_majorite>34</nb_voix_majorite>
 			</candidat>
 			<candidat id="198">
 				<prenom>Claude</prenom>			
 				<nom>DAUPHIN</nom>
 				<parti id="4">Équipe Dauphin Lachine</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>129</nb_voix_obtenues>
+				<nb_voix_majorite></nb_voix_majorite>
+			</candidat>
+			<candidat id="200">
+				<prenom>Bernard</prenom>			
+				<nom>BLANCHET</nom>
+				<parti id="9">Vrai changement pour Montréal</parti>
+				<nb_voix_obtenues>107</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="199">
 				<prenom>Catherine</prenom>			
 				<nom>MÉNARD</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite></nb_voix_majorite>
-			</candidat>
-			<candidat id="201">
-				<prenom>Maja</prenom>			
-				<nom>VODANOVIC</nom>
-				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>66</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -682,37 +682,37 @@
 			<arrondissement id="4">Lachine</arrondissement>
 			<district id="42">J.-Émery-Provost</district>
 			<nb_electeurs_inscrits>10430</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>245</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>6</nb_bulletins_rejetes>
+			<taux_participation>2.35</taux_participation>
+			<nb_bureaux_depouilles>3</nb_bureaux_depouilles>
 			<nb_bureaux_total>39</nb_bureaux_total>
-			<candidat id="212">
-				<prenom>Younes</prenom>			
-				<nom>BOUKALA</nom>
-				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
 			<candidat id="211">
 				<prenom>Mehdi</prenom>			
 				<nom>LAMA</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>72</nb_voix_obtenues>
+				<nb_voix_majorite>1</nb_voix_majorite>
+			</candidat>
+			<candidat id="212">
+				<prenom>Younes</prenom>			
+				<nom>BOUKALA</nom>
+				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
+				<nb_voix_obtenues>71</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="213">
 				<prenom>Christian</prenom>			
 				<nom>LEJEUNE</nom>
 				<parti id="9">Vrai changement pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>49</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="210">
 				<prenom>Daniel</prenom>			
 				<nom>RACICOT</nom>
 				<parti id="4">Équipe Dauphin Lachine</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>47</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -762,30 +762,30 @@
 			<arrondissement id="5">LaSalle</arrondissement>
 			<district id="0"></district>
 			<nb_electeurs_inscrits>53533</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>1759</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>44</nb_bulletins_rejetes>
+			<taux_participation>3.29</taux_participation>
+			<nb_bureaux_depouilles>25</nb_bureaux_depouilles>
 			<nb_bureaux_total>233</nb_bureaux_total>
 			<candidat id="218">
 				<prenom>Manon</prenom>			
 				<nom>BARBE</nom>
 				<parti id="3">Équipe Barbe Team</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
-			<candidat id="220">
-				<prenom>Kathy</prenom>			
-				<nom>LANDRY</nom>
-				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite></nb_voix_majorite>
+				<nb_voix_obtenues>1011</nb_voix_obtenues>
+				<nb_voix_majorite>649</nb_voix_majorite>
 			</candidat>
 			<candidat id="219">
 				<prenom>Monique</prenom>			
 				<nom>VALLÉE</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>362</nb_voix_obtenues>
+				<nb_voix_majorite></nb_voix_majorite>
+			</candidat>
+			<candidat id="220">
+				<prenom>Kathy</prenom>			
+				<nom>LANDRY</nom>
+				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
+				<nb_voix_obtenues>342</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -795,30 +795,30 @@
 			<arrondissement id="5">LaSalle</arrondissement>
 			<district id="51">Sault-Saint-Louis</district>
 			<nb_electeurs_inscrits>26851</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>501</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>8</nb_bulletins_rejetes>
+			<taux_participation>1.87</taux_participation>
+			<nb_bureaux_depouilles>7</nb_bureaux_depouilles>
 			<nb_bureaux_total>123</nb_bureaux_total>
-			<candidat id="223">
-				<prenom>Loren</prenom>			
-				<nom>DAFNIOTIS</nom>
-				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
 			<candidat id="221">
 				<prenom>Richard</prenom>			
 				<nom>DESCHAMPS</nom>
 				<parti id="3">Équipe Barbe Team</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>281</nb_voix_obtenues>
+				<nb_voix_majorite>153</nb_voix_majorite>
+			</candidat>
+			<candidat id="223">
+				<prenom>Loren</prenom>			
+				<nom>DAFNIOTIS</nom>
+				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
+				<nb_voix_obtenues>128</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="222">
 				<prenom>Ben Lumière</prenom>			
 				<nom>MOUSSIENZA</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>84</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -828,30 +828,30 @@
 			<arrondissement id="5">LaSalle</arrondissement>
 			<district id="51">Sault-Saint-Louis</district>
 			<nb_electeurs_inscrits>26851</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>512</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>13</nb_bulletins_rejetes>
+			<taux_participation>1.91</taux_participation>
+			<nb_bureaux_depouilles>7</nb_bureaux_depouilles>
 			<nb_bureaux_total>123</nb_bureaux_total>
-			<candidat id="225">
-				<prenom>Josée</prenom>			
-				<nom>AUMONT-BLANCHETTE</nom>
-				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
+			<candidat id="224">
+				<prenom>Laura</prenom>			
+				<nom>PALESTINI</nom>
+				<parti id="3">Équipe Barbe Team</parti>
+				<nb_voix_obtenues>266</nb_voix_obtenues>
+				<nb_voix_majorite>131</nb_voix_majorite>
 			</candidat>
 			<candidat id="226">
 				<prenom>Alex</prenom>			
 				<nom>LAUZON</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>135</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
-			<candidat id="224">
-				<prenom>Laura</prenom>			
-				<nom>PALESTINI</nom>
-				<parti id="3">Équipe Barbe Team</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+			<candidat id="225">
+				<prenom>Josée</prenom>			
+				<nom>AUMONT-BLANCHETTE</nom>
+				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
+				<nb_voix_obtenues>98</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -861,30 +861,30 @@
 			<arrondissement id="5">LaSalle</arrondissement>
 			<district id="51">Sault-Saint-Louis</district>
 			<nb_electeurs_inscrits>26851</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>188</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>4</nb_bulletins_rejetes>
+			<taux_participation>0.70</taux_participation>
+			<nb_bureaux_depouilles>3</nb_bureaux_depouilles>
 			<nb_bureaux_total>123</nb_bureaux_total>
 			<candidat id="227">
 				<prenom>Nancy</prenom>			
 				<nom>BLANCHET</nom>
 				<parti id="3">Équipe Barbe Team</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
+				<nb_voix_obtenues>104</nb_voix_obtenues>
+				<nb_voix_majorite>50</nb_voix_majorite>
 			</candidat>
 			<candidat id="229">
 				<prenom>Roxanne</prenom>			
 				<nom>GENDRON</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>54</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="228">
 				<prenom>Balkis</prenom>			
 				<nom>IMAM</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>26</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -894,37 +894,37 @@
 			<arrondissement id="5">LaSalle</arrondissement>
 			<district id="52">Cecil-P.-Newman</district>
 			<nb_electeurs_inscrits>26682</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>775</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>25</nb_bulletins_rejetes>
+			<taux_participation>2.90</taux_participation>
+			<nb_bureaux_depouilles>13</nb_bureaux_depouilles>
 			<nb_bureaux_total>110</nb_bureaux_total>
+			<candidat id="230">
+				<prenom>Lise</prenom>			
+				<nom>ZARAC</nom>
+				<parti id="3">Équipe Barbe Team</parti>
+				<nb_voix_obtenues>301</nb_voix_obtenues>
+				<nb_voix_majorite>59</nb_voix_majorite>
+			</candidat>
 			<candidat id="231">
 				<prenom>Pino</prenom>			
 				<nom>ASARO</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
-			<candidat id="232">
-				<prenom>Carolina</prenom>			
-				<nom>CARUSO</nom>
-				<parti id="-1">Indépendant</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>242</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="233">
 				<prenom>Yasmina</prenom>			
 				<nom>EL BABARTI JIMENEZ</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>171</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
-			<candidat id="230">
-				<prenom>Lise</prenom>			
-				<nom>ZARAC</nom>
-				<parti id="3">Équipe Barbe Team</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+			<candidat id="232">
+				<prenom>Carolina</prenom>			
+				<nom>CARUSO</nom>
+				<parti id="-1">Indépendant</parti>
+				<nb_voix_obtenues>36</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -934,30 +934,30 @@
 			<arrondissement id="5">LaSalle</arrondissement>
 			<district id="52">Cecil-P.-Newman</district>
 			<nb_electeurs_inscrits>26682</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>653</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>37</nb_bulletins_rejetes>
+			<taux_participation>2.45</taux_participation>
+			<nb_bureaux_depouilles>11</nb_bureaux_depouilles>
 			<nb_bureaux_total>110</nb_bureaux_total>
 			<candidat id="234">
 				<prenom>Serge</prenom>			
 				<nom>DECLOS</nom>
 				<parti id="3">Équipe Barbe Team</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
+				<nb_voix_obtenues>307</nb_voix_obtenues>
+				<nb_voix_majorite>141</nb_voix_majorite>
 			</candidat>
 			<candidat id="236">
 				<prenom>Anila</prenom>			
 				<nom>ERINDI</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>166</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="235">
 				<prenom>Devinderpal</prenom>			
 				<nom>SINGH</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>143</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -967,37 +967,37 @@
 			<arrondissement id="5">LaSalle</arrondissement>
 			<district id="52">Cecil-P.-Newman</district>
 			<nb_electeurs_inscrits>26682</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>392</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>19</nb_bulletins_rejetes>
+			<taux_participation>1.47</taux_participation>
+			<nb_bureaux_depouilles>7</nb_bureaux_depouilles>
 			<nb_bureaux_total>110</nb_bureaux_total>
-			<candidat id="239">
-				<prenom>Mody Maka</prenom>			
-				<nom>BARRY</nom>
-				<parti id="-1">Indépendant</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
+			<candidat id="237">
+				<prenom>Josée</prenom>			
+				<nom>TROILO</nom>
+				<parti id="3">Équipe Barbe Team</parti>
+				<nb_voix_obtenues>182</nb_voix_obtenues>
+				<nb_voix_majorite>92</nb_voix_majorite>
 			</candidat>
 			<candidat id="238">
 				<prenom>Steven</prenom>			
 				<nom>LAPERRIÈRE</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>90</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="240">
 				<prenom>Romarick</prenom>			
 				<nom>OKOU</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>85</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
-			<candidat id="237">
-				<prenom>Josée</prenom>			
-				<nom>TROILO</nom>
-				<parti id="3">Équipe Barbe Team</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+			<candidat id="239">
+				<prenom>Mody Maka</prenom>			
+				<nom>BARRY</nom>
+				<parti id="-1">Indépendant</parti>
+				<nb_voix_obtenues>16</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -1007,30 +1007,30 @@
 			<arrondissement id="6">L'Île-Bizard–Sainte-Geneviève</arrondissement>
 			<district id="0"></district>
 			<nb_electeurs_inscrits>13890</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>629</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>12</nb_bulletins_rejetes>
+			<taux_participation>4.53</taux_participation>
+			<nb_bureaux_depouilles>4</nb_bureaux_depouilles>
 			<nb_bureaux_total>50</nb_bureaux_total>
-			<candidat id="243">
-				<prenom>Stéphane</prenom>			
-				<nom>CÔTÉ</nom>
-				<parti id="9">Vrai changement pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
+			<candidat id="242">
+				<prenom>Normand</prenom>			
+				<nom>MARINACCI</nom>
+				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
+				<nb_voix_obtenues>269</nb_voix_obtenues>
+				<nb_voix_majorite>43</nb_voix_majorite>
 			</candidat>
 			<candidat id="241">
 				<prenom>Eric</prenom>			
 				<nom>DUGAS</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>226</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
-			<candidat id="242">
-				<prenom>Normand</prenom>			
-				<nom>MARINACCI</nom>
-				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+			<candidat id="243">
+				<prenom>Stéphane</prenom>			
+				<nom>CÔTÉ</nom>
+				<parti id="9">Vrai changement pour Montréal</parti>
+				<nb_voix_obtenues>122</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -1040,37 +1040,37 @@
 			<arrondissement id="6">L'Île-Bizard–Sainte-Geneviève</arrondissement>
 			<district id="61">Pierre-Foretier</district>
 			<nb_electeurs_inscrits>4162</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>169</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>6</nb_bulletins_rejetes>
+			<taux_participation>4.06</taux_participation>
+			<nb_bureaux_depouilles>1</nb_bureaux_depouilles>
 			<nb_bureaux_total>15</nb_bureaux_total>
-			<candidat id="245">
-				<prenom>Ghassan</prenom>			
-				<nom>BAROUDI</nom>
-				<parti id="-1">Indépendant</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
+			<candidat id="246">
+				<prenom>Yves</prenom>			
+				<nom>SARAULT</nom>
+				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
+				<nb_voix_obtenues>58</nb_voix_obtenues>
+				<nb_voix_majorite>11</nb_voix_majorite>
 			</candidat>
 			<candidat id="244">
 				<prenom>Diane</prenom>			
 				<nom>GIBB</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>47</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="247">
 				<prenom>Frédérick</prenom>			
 				<nom>PAGEAU</nom>
 				<parti id="9">Vrai changement pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>39</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
-			<candidat id="246">
-				<prenom>Yves</prenom>			
-				<nom>SARAULT</nom>
-				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+			<candidat id="245">
+				<prenom>Ghassan</prenom>			
+				<nom>BAROUDI</nom>
+				<parti id="-1">Indépendant</parti>
+				<nb_voix_obtenues>19</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -1179,23 +1179,23 @@
 			<arrondissement id="7">Mercier–Hochelaga-Maisonneuve</arrondissement>
 			<district id="0"></district>
 			<nb_electeurs_inscrits>98948</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>2000</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>41</nb_bulletins_rejetes>
+			<taux_participation>2.02</taux_participation>
+			<nb_bureaux_depouilles>22</nb_bureaux_depouilles>
 			<nb_bureaux_total>325</nb_bureaux_total>
 			<candidat id="258">
 				<prenom>Pierre</prenom>			
 				<nom>LESSARD-BLAIS</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
+				<nb_voix_obtenues>1099</nb_voix_obtenues>
+				<nb_voix_majorite>239</nb_voix_majorite>
 			</candidat>
 			<candidat id="257">
 				<prenom>Réal</prenom>			
 				<nom>MÉNARD</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>860</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -1205,23 +1205,23 @@
 			<arrondissement id="7">Mercier–Hochelaga-Maisonneuve</arrondissement>
 			<district id="71">Tétreaultville</district>
 			<nb_electeurs_inscrits>26620</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>333</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>14</nb_bulletins_rejetes>
+			<taux_participation>1.25</taux_participation>
+			<nb_bureaux_depouilles>4</nb_bureaux_depouilles>
 			<nb_bureaux_total>86</nb_bureaux_total>
-			<candidat id="259">
-				<prenom>Richard</prenom>			
-				<nom>CELZI</nom>
-				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
 			<candidat id="260">
 				<prenom>Suzie</prenom>			
 				<nom>MIRON</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>172</nb_voix_obtenues>
+				<nb_voix_majorite>25</nb_voix_majorite>
+			</candidat>
+			<candidat id="259">
+				<prenom>Richard</prenom>			
+				<nom>CELZI</nom>
+				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
+				<nb_voix_obtenues>147</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -1231,23 +1231,23 @@
 			<arrondissement id="7">Mercier–Hochelaga-Maisonneuve</arrondissement>
 			<district id="72">Maisonneuve—Longue-Pointe</district>
 			<nb_electeurs_inscrits>25647</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>96</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>2</nb_bulletins_rejetes>
+			<taux_participation>0.37</taux_participation>
+			<nb_bureaux_depouilles>2</nb_bureaux_depouilles>
 			<nb_bureaux_total>86</nb_bureaux_total>
-			<candidat id="261">
-				<prenom>Simon-Robert</prenom>			
-				<nom>CHARTRAND</nom>
-				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
 			<candidat id="262">
 				<prenom>Laurence</prenom>			
 				<nom>LAVIGNE LALONDE</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>55</nb_voix_obtenues>
+				<nb_voix_majorite>16</nb_voix_majorite>
+			</candidat>
+			<candidat id="261">
+				<prenom>Simon-Robert</prenom>			
+				<nom>CHARTRAND</nom>
+				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
+				<nb_voix_obtenues>39</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -1257,23 +1257,23 @@
 			<arrondissement id="7">Mercier–Hochelaga-Maisonneuve</arrondissement>
 			<district id="73">Hochelaga</district>
 			<nb_electeurs_inscrits>24419</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>485</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>6</nb_bulletins_rejetes>
+			<taux_participation>1.99</taux_participation>
+			<nb_bureaux_depouilles>5</nb_bureaux_depouilles>
 			<nb_bureaux_total>77</nb_bureaux_total>
-			<candidat id="263">
-				<prenom>Jean-François</prenom>			
-				<nom>BEAUPRÉ</nom>
-				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
 			<candidat id="264">
 				<prenom>Éric Alan</prenom>			
 				<nom>CALDWELL</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>372</nb_voix_obtenues>
+				<nb_voix_majorite>265</nb_voix_majorite>
+			</candidat>
+			<candidat id="263">
+				<prenom>Jean-François</prenom>			
+				<nom>BEAUPRÉ</nom>
+				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
+				<nb_voix_obtenues>107</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -1283,30 +1283,30 @@
 			<arrondissement id="7">Mercier–Hochelaga-Maisonneuve</arrondissement>
 			<district id="74">Louis-Riel</district>
 			<nb_electeurs_inscrits>22262</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>787</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>23</nb_bulletins_rejetes>
+			<taux_participation>3.54</taux_participation>
+			<nb_bureaux_depouilles>8</nb_bureaux_depouilles>
 			<nb_bureaux_total>76</nb_bureaux_total>
 			<candidat id="266">
 				<prenom>Karine</prenom>			
 				<nom>BOIVIN ROY</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
+				<nb_voix_obtenues>391</nb_voix_obtenues>
+				<nb_voix_majorite>36</nb_voix_majorite>
 			</candidat>
 			<candidat id="267">
 				<prenom>Isi</prenom>			
 				<nom>MEZA</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>355</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="265">
 				<prenom>Joao</prenom>			
 				<nom>NEVES</nom>
 				<parti id="1">Coalition Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>18</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -1316,23 +1316,23 @@
 			<arrondissement id="8">Montréal-Nord</arrondissement>
 			<district id="0"></district>
 			<nb_electeurs_inscrits>53662</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>717</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>41</nb_bulletins_rejetes>
+			<taux_participation>1.34</taux_participation>
+			<nb_bureaux_depouilles>13</nb_bureaux_depouilles>
 			<nb_bureaux_total>198</nb_bureaux_total>
 			<candidat id="268">
 				<prenom>Christine</prenom>			
 				<nom>BLACK</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
+				<nb_voix_obtenues>445</nb_voix_obtenues>
+				<nb_voix_majorite>214</nb_voix_majorite>
 			</candidat>
 			<candidat id="269">
 				<prenom>Balarama</prenom>			
 				<nom>HOLNESS</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>231</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -1342,30 +1342,30 @@
 			<arrondissement id="8">Montréal-Nord</arrondissement>
 			<district id="81">Marie-Clarac</district>
 			<nb_electeurs_inscrits>28314</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>211</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>10</nb_bulletins_rejetes>
+			<taux_participation>0.75</taux_participation>
+			<nb_bureaux_depouilles>3</nb_bureaux_depouilles>
 			<nb_bureaux_total>102</nb_bureaux_total>
 			<candidat id="272">
 				<prenom>Mathieu</prenom>			
 				<nom>LÉONARD</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
-			<candidat id="271">
-				<prenom>Marie-Carmel</prenom>			
-				<nom>MICHEL</nom>
-				<parti id="-1">Indépendant</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite></nb_voix_majorite>
+				<nb_voix_obtenues>99</nb_voix_obtenues>
+				<nb_voix_majorite>13</nb_voix_majorite>
 			</candidat>
 			<candidat id="270">
 				<prenom>Abdelhaq</prenom>			
 				<nom>SARI</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>86</nb_voix_obtenues>
+				<nb_voix_majorite></nb_voix_majorite>
+			</candidat>
+			<candidat id="271">
+				<prenom>Marie-Carmel</prenom>			
+				<nom>MICHEL</nom>
+				<parti id="-1">Indépendant</parti>
+				<nb_voix_obtenues>16</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -1375,37 +1375,37 @@
 			<arrondissement id="8">Montréal-Nord</arrondissement>
 			<district id="81">Marie-Clarac</district>
 			<nb_electeurs_inscrits>28314</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>258</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>16</nb_bulletins_rejetes>
+			<taux_participation>0.91</taux_participation>
+			<nb_bureaux_depouilles>4</nb_bureaux_depouilles>
 			<nb_bureaux_total>102</nb_bureaux_total>
-			<candidat id="274">
-				<prenom>Henri-Paul</prenom>			
-				<nom>BERNIER</nom>
-				<parti id="-1">Indépendant</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
-			<candidat id="275">
-				<prenom>Elaine</prenom>			
-				<nom>BISSONNETTE</nom>
-				<parti id="-1">Indépendant</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite></nb_voix_majorite>
+			<candidat id="273">
+				<prenom>Jean Marc</prenom>			
+				<nom>POIRIER</nom>
+				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
+				<nb_voix_obtenues>120</nb_voix_obtenues>
+				<nb_voix_majorite>25</nb_voix_majorite>
 			</candidat>
 			<candidat id="276">
 				<prenom>Anastasia</prenom>			
 				<nom>MARCELIN</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>95</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
-			<candidat id="273">
-				<prenom>Jean Marc</prenom>			
-				<nom>POIRIER</nom>
-				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+			<candidat id="275">
+				<prenom>Elaine</prenom>			
+				<nom>BISSONNETTE</nom>
+				<parti id="-1">Indépendant</parti>
+				<nb_voix_obtenues>21</nb_voix_obtenues>
+				<nb_voix_majorite></nb_voix_majorite>
+			</candidat>
+			<candidat id="274">
+				<prenom>Henri-Paul</prenom>			
+				<nom>BERNIER</nom>
+				<parti id="-1">Indépendant</parti>
+				<nb_voix_obtenues>6</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -1415,23 +1415,23 @@
 			<arrondissement id="8">Montréal-Nord</arrondissement>
 			<district id="82">Ovide-Clermont</district>
 			<nb_electeurs_inscrits>25348</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>390</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>19</nb_bulletins_rejetes>
+			<taux_participation>1.54</taux_participation>
+			<nb_bureaux_depouilles>8</nb_bureaux_depouilles>
 			<nb_bureaux_total>96</nb_bureaux_total>
 			<candidat id="277">
 				<prenom>Denis</prenom>			
 				<nom>CODERRE</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
+				<nb_voix_obtenues>239</nb_voix_obtenues>
+				<nb_voix_majorite>107</nb_voix_majorite>
 			</candidat>
 			<candidat id="278">
 				<prenom>Sacha-Wilky</prenom>			
 				<nom>MERAZIL</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>132</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -1441,23 +1441,23 @@
 			<arrondissement id="8">Montréal-Nord</arrondissement>
 			<district id="82">Ovide-Clermont</district>
 			<nb_electeurs_inscrits>25348</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>390</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>27</nb_bulletins_rejetes>
+			<taux_participation>1.54</taux_participation>
+			<nb_bureaux_depouilles>8</nb_bureaux_depouilles>
 			<nb_bureaux_total>96</nb_bureaux_total>
 			<candidat id="279">
 				<prenom>Renée-Chantal</prenom>			
 				<nom>BELINGA</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
+				<nb_voix_obtenues>226</nb_voix_obtenues>
+				<nb_voix_majorite>89</nb_voix_majorite>
 			</candidat>
 			<candidat id="280">
 				<prenom>Stéphanie</prenom>			
 				<nom>CASIMIR</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>137</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -1467,37 +1467,37 @@
 			<arrondissement id="9">Outremont</arrondissement>
 			<district id="0"></district>
 			<nb_electeurs_inscrits>15371</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>444</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>3</nb_bulletins_rejetes>
+			<taux_participation>2.89</taux_participation>
+			<nb_bureaux_depouilles>4</nb_bureaux_depouilles>
 			<nb_bureaux_total>64</nb_bureaux_total>
-			<candidat id="283">
-				<prenom>Alexandre</prenom>			
-				<nom>LUSSIER</nom>
-				<parti id="-1">Indépendant</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
-			<candidat id="281">
-				<prenom>Ronald</prenom>			
-				<nom>MOROZ</nom>
-				<parti id="1">Coalition Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite></nb_voix_majorite>
+			<candidat id="284">
+				<prenom>Philipe</prenom>			
+				<nom>TOMLINSON</nom>
+				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
+				<nb_voix_obtenues>196</nb_voix_obtenues>
+				<nb_voix_majorite>64</nb_voix_majorite>
 			</candidat>
 			<candidat id="282">
 				<prenom>Marie</prenom>			
 				<nom>POTVIN</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>132</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
-			<candidat id="284">
-				<prenom>Philipe</prenom>			
-				<nom>TOMLINSON</nom>
-				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+			<candidat id="283">
+				<prenom>Alexandre</prenom>			
+				<nom>LUSSIER</nom>
+				<parti id="-1">Indépendant</parti>
+				<nb_voix_obtenues>109</nb_voix_obtenues>
+				<nb_voix_majorite></nb_voix_majorite>
+			</candidat>
+			<candidat id="281">
+				<prenom>Ronald</prenom>			
+				<nom>MOROZ</nom>
+				<parti id="1">Coalition Montréal</parti>
+				<nb_voix_obtenues>4</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -1507,30 +1507,30 @@
 			<arrondissement id="9">Outremont</arrondissement>
 			<district id="91">Claude-Ryan</district>
 			<nb_electeurs_inscrits>3965</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>66</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>3</nb_bulletins_rejetes>
+			<taux_participation>1.66</taux_participation>
+			<nb_bureaux_depouilles>1</nb_bureaux_depouilles>
 			<nb_bureaux_total>18</nb_bureaux_total>
-			<candidat id="285">
-				<prenom>Jeremy</prenom>			
-				<nom>MURRAY</nom>
-				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
 			<candidat id="287">
 				<prenom>Mindy</prenom>			
 				<nom>POLLAK</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite></nb_voix_majorite>
+				<nb_voix_obtenues>38</nb_voix_obtenues>
+				<nb_voix_majorite>20</nb_voix_majorite>
 			</candidat>
 			<candidat id="286">
 				<prenom>Chantal</prenom>			
 				<nom>RAYMOND</nom>
 				<parti id="-1">Indépendant</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>18</nb_voix_obtenues>
+				<nb_voix_majorite></nb_voix_majorite>
+			</candidat>
+			<candidat id="285">
+				<prenom>Jeremy</prenom>			
+				<nom>MURRAY</nom>
+				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
+				<nb_voix_obtenues>7</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -1646,30 +1646,30 @@
 			<arrondissement id="10">Pierrefonds-Roxboro</arrondissement>
 			<district id="0"></district>
 			<nb_electeurs_inscrits>48154</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>603</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>3</nb_bulletins_rejetes>
+			<taux_participation>1.25</taux_participation>
+			<nb_bureaux_depouilles>8</nb_bureaux_depouilles>
 			<nb_bureaux_total>162</nb_bureaux_total>
 			<candidat id="25">
 				<prenom>Dimitrios (Jim)</prenom>			
 				<nom>BEIS</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
+				<nb_voix_obtenues>264</nb_voix_obtenues>
+				<nb_voix_majorite>29</nb_voix_majorite>
 			</candidat>
 			<candidat id="26">
 				<prenom>Hélène</prenom>			
 				<nom>DUPONT</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>235</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="27">
 				<prenom>Justine</prenom>			
 				<nom>MCINTYRE</nom>
 				<parti id="9">Vrai changement pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>101</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -1679,30 +1679,30 @@
 			<arrondissement id="10">Pierrefonds-Roxboro</arrondissement>
 			<district id="101">Bois-de-Liesse</district>
 			<nb_electeurs_inscrits>25366</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
+			<nb_total_voix_recueillies>43</nb_total_voix_recueillies>
 			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<taux_participation>0.17</taux_participation>
+			<nb_bureaux_depouilles>1</nb_bureaux_depouilles>
 			<nb_bureaux_total>87</nb_bureaux_total>
-			<candidat id="28">
-				<prenom>Benoit</prenom>			
-				<nom>LANGEVIN</nom>
-				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
 			<candidat id="29">
 				<prenom>Andréanne</prenom>			
 				<nom>MARTIN</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>29</nb_voix_obtenues>
+				<nb_voix_majorite>16</nb_voix_majorite>
+			</candidat>
+			<candidat id="28">
+				<prenom>Benoit</prenom>			
+				<nom>LANGEVIN</nom>
+				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
+				<nb_voix_obtenues>13</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="30">
 				<prenom>Eric</prenom>			
 				<nom>MCCARTY</nom>
 				<parti id="9">Vrai changement pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>1</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -1712,23 +1712,23 @@
 			<arrondissement id="10">Pierrefonds-Roxboro</arrondissement>
 			<district id="101">Bois-de-Liesse</district>
 			<nb_electeurs_inscrits>25366</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
+			<nb_total_voix_recueillies>43</nb_total_voix_recueillies>
 			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<taux_participation>0.17</taux_participation>
+			<nb_bureaux_depouilles>1</nb_bureaux_depouilles>
 			<nb_bureaux_total>87</nb_bureaux_total>
 			<candidat id="32">
 				<prenom>Alexis</prenom>			
 				<nom>AUDOIN</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
+				<nb_voix_obtenues>25</nb_voix_obtenues>
+				<nb_voix_majorite>7</nb_voix_majorite>
 			</candidat>
 			<candidat id="31">
 				<prenom>Louise</prenom>			
 				<nom>LEROUX</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>18</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="33">
@@ -1745,37 +1745,37 @@
 			<arrondissement id="10">Pierrefonds-Roxboro</arrondissement>
 			<district id="102">Cap-Saint-Jacques</district>
 			<nb_electeurs_inscrits>22788</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>432</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>6</nb_bulletins_rejetes>
+			<taux_participation>1.90</taux_participation>
+			<nb_bureaux_depouilles>5</nb_bureaux_depouilles>
 			<nb_bureaux_total>75</nb_bureaux_total>
 			<candidat id="34">
 				<prenom>Catherine</prenom>			
 				<nom>CLÉMENT-TALBOT</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
+				<nb_voix_obtenues>187</nb_voix_obtenues>
+				<nb_voix_majorite>51</nb_voix_majorite>
 			</candidat>
-			<candidat id="37">
-				<prenom>Manuela</prenom>			
-				<nom>DE PAOLI</nom>
-				<parti id="9">Vrai changement pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+			<candidat id="36">
+				<prenom>Ross</prenom>			
+				<nom>STITT</nom>
+				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
+				<nb_voix_obtenues>136</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="35">
 				<prenom>Michael</prenom>			
 				<nom>LABELLE</nom>
 				<parti id="-1">Indépendant</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>58</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
-			<candidat id="36">
-				<prenom>Ross</prenom>			
-				<nom>STITT</nom>
-				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+			<candidat id="37">
+				<prenom>Manuela</prenom>			
+				<nom>DE PAOLI</nom>
+				<parti id="9">Vrai changement pour Montréal</parti>
+				<nb_voix_obtenues>45</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -1785,30 +1785,30 @@
 			<arrondissement id="10">Pierrefonds-Roxboro</arrondissement>
 			<district id="102">Cap-Saint-Jacques</district>
 			<nb_electeurs_inscrits>22788</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>359</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>6</nb_bulletins_rejetes>
+			<taux_participation>1.58</taux_participation>
+			<nb_bureaux_depouilles>4</nb_bureaux_depouilles>
 			<nb_bureaux_total>75</nb_bureaux_total>
 			<candidat id="38">
 				<prenom>Yves</prenom>			
 				<nom>GIGNAC</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
+				<nb_voix_obtenues>175</nb_voix_obtenues>
+				<nb_voix_majorite>34</nb_voix_majorite>
 			</candidat>
 			<candidat id="39">
 				<prenom>Peter</prenom>			
 				<nom>PAPADOGIANNIS</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>141</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="40">
 				<prenom>Naghmeh</prenom>			
 				<nom>SHAFIEI</nom>
 				<parti id="9">Vrai changement pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>37</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -1818,23 +1818,23 @@
 			<arrondissement id="11">Plateau-Mont-Royal</arrondissement>
 			<district id="0"></district>
 			<nb_electeurs_inscrits>65538</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>1917</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>71</nb_bulletins_rejetes>
+			<taux_participation>2.93</taux_participation>
+			<nb_bureaux_depouilles>21</nb_bureaux_depouilles>
 			<nb_bureaux_total>294</nb_bureaux_total>
 			<candidat id="42">
 				<prenom>Luc</prenom>			
 				<nom>FERRANDEZ</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
+				<nb_voix_obtenues>1265</nb_voix_obtenues>
+				<nb_voix_majorite>684</nb_voix_majorite>
 			</candidat>
 			<candidat id="41">
 				<prenom>Zach</prenom>			
 				<nom>MACKLOVITCH</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>581</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -1844,30 +1844,30 @@
 			<arrondissement id="11">Plateau-Mont-Royal</arrondissement>
 			<district id="111">Mile-End</district>
 			<nb_electeurs_inscrits>21380</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
+			<nb_total_voix_recueillies>158</nb_total_voix_recueillies>
 			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<taux_participation>0.74</taux_participation>
+			<nb_bureaux_depouilles>2</nb_bureaux_depouilles>
 			<nb_bureaux_total>95</nb_bureaux_total>
-			<candidat id="43">
-				<prenom>Iris</prenom>			
-				<nom>ALMEIDA-CÔTÉ</nom>
-				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
 			<candidat id="45">
 				<prenom>Richard</prenom>			
 				<nom>RYAN</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>130</nb_voix_obtenues>
+				<nb_voix_majorite>106</nb_voix_majorite>
+			</candidat>
+			<candidat id="43">
+				<prenom>Iris</prenom>			
+				<nom>ALMEIDA-CÔTÉ</nom>
+				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
+				<nb_voix_obtenues>24</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="44">
 				<prenom>Halil</prenom>			
 				<nom>SUSTAM</nom>
 				<parti id="7">Plateau sans frontières</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>4</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -1877,23 +1877,23 @@
 			<arrondissement id="11">Plateau-Mont-Royal</arrondissement>
 			<district id="111">Mile-End</district>
 			<nb_electeurs_inscrits>21380</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
+			<nb_total_voix_recueillies>56</nb_total_voix_recueillies>
 			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<taux_participation>0.26</taux_participation>
+			<nb_bureaux_depouilles>1</nb_bureaux_depouilles>
 			<nb_bureaux_total>95</nb_bureaux_total>
 			<candidat id="47">
 				<prenom>Marie</prenom>			
 				<nom>PLOURDE</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
+				<nb_voix_obtenues>48</nb_voix_obtenues>
+				<nb_voix_majorite>40</nb_voix_majorite>
 			</candidat>
 			<candidat id="46">
 				<prenom>Jean David</prenom>			
 				<nom>PROPHÈTE</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>8</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -1903,23 +1903,23 @@
 			<arrondissement id="11">Plateau-Mont-Royal</arrondissement>
 			<district id="112">DeLorimier</district>
 			<nb_electeurs_inscrits>23188</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>344</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>8</nb_bulletins_rejetes>
+			<taux_participation>1.48</taux_participation>
+			<nb_bureaux_depouilles>3</nb_bureaux_depouilles>
 			<nb_bureaux_total>113</nb_bureaux_total>
-			<candidat id="48">
-				<prenom>Linda</prenom>			
-				<nom>GAUTHIER</nom>
-				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
 			<candidat id="49">
 				<prenom>Marianne</prenom>			
 				<nom>GIGUÈRE</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>201</nb_voix_obtenues>
+				<nb_voix_majorite>66</nb_voix_majorite>
+			</candidat>
+			<candidat id="48">
+				<prenom>Linda</prenom>			
+				<nom>GAUTHIER</nom>
+				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
+				<nb_voix_obtenues>135</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -1929,23 +1929,23 @@
 			<arrondissement id="11">Plateau-Mont-Royal</arrondissement>
 			<district id="112">DeLorimier</district>
 			<nb_electeurs_inscrits>23188</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>207</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>8</nb_bulletins_rejetes>
+			<taux_participation>0.89</taux_participation>
+			<nb_bureaux_depouilles>2</nb_bureaux_depouilles>
 			<nb_bureaux_total>113</nb_bureaux_total>
 			<candidat id="51">
 				<prenom>Josefina</prenom>			
 				<nom>BLANCO</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
+				<nb_voix_obtenues>144</nb_voix_obtenues>
+				<nb_voix_majorite>89</nb_voix_majorite>
 			</candidat>
 			<candidat id="50">
 				<prenom>Jean-Pierre</prenom>			
 				<nom>SZARAZ</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>55</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -1955,37 +1955,37 @@
 			<arrondissement id="11">Plateau-Mont-Royal</arrondissement>
 			<district id="113">Jeanne-Mance</district>
 			<nb_electeurs_inscrits>20970</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>444</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>9</nb_bulletins_rejetes>
+			<taux_participation>2.12</taux_participation>
+			<nb_bureaux_depouilles>6</nb_bureaux_depouilles>
 			<nb_bureaux_total>86</nb_bureaux_total>
-			<candidat id="53">
-				<prenom>Marc-Antoine</prenom>			
-				<nom>DESJARDINS</nom>
-				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
 			<candidat id="55">
 				<prenom>Alex</prenom>			
 				<nom>NORRIS</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>305</nb_voix_obtenues>
+				<nb_voix_majorite>209</nb_voix_majorite>
+			</candidat>
+			<candidat id="53">
+				<prenom>Marc-Antoine</prenom>			
+				<nom>DESJARDINS</nom>
+				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
+				<nb_voix_obtenues>96</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="52">
 				<prenom>Deborah</prenom>			
 				<nom>RANKIN</nom>
 				<parti id="1">Coalition Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>24</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="54">
 				<prenom>Joash</prenom>			
 				<nom>WHYTE</nom>
 				<parti id="7">Plateau sans frontières</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>10</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -1995,37 +1995,37 @@
 			<arrondissement id="11">Plateau-Mont-Royal</arrondissement>
 			<district id="113">Jeanne-Mance</district>
 			<nb_electeurs_inscrits>20970</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>97</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>2</nb_bulletins_rejetes>
+			<taux_participation>0.46</taux_participation>
+			<nb_bureaux_depouilles>2</nb_bureaux_depouilles>
 			<nb_bureaux_total>86</nb_bureaux_total>
-			<candidat id="58">
-				<prenom>Yvan</prenom>			
-				<nom>DIAS</nom>
-				<parti id="7">Plateau sans frontières</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
+			<candidat id="59">
+				<prenom>Maeva</prenom>			
+				<nom>VILAIN</nom>
+				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
+				<nb_voix_obtenues>66</nb_voix_obtenues>
+				<nb_voix_majorite>53</nb_voix_majorite>
 			</candidat>
 			<candidat id="57">
 				<prenom>Daniel</prenom>			
 				<nom>LOUREIRO</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>13</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="56">
 				<prenom>Terrence</prenom>			
 				<nom>REGAN</nom>
 				<parti id="1">Coalition Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>13</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
-			<candidat id="59">
-				<prenom>Maeva</prenom>			
-				<nom>VILAIN</nom>
-				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+			<candidat id="58">
+				<prenom>Yvan</prenom>			
+				<nom>DIAS</nom>
+				<parti id="7">Plateau sans frontières</parti>
+				<nb_voix_obtenues>3</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -2035,23 +2035,23 @@
 			<arrondissement id="12">Rivière-des-Prairies–Pointe-aux-Trembles</arrondissement>
 			<district id="0"></district>
 			<nb_electeurs_inscrits>80431</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>1288</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>26</nb_bulletins_rejetes>
+			<taux_participation>1.60</taux_participation>
+			<nb_bureaux_depouilles>18</nb_bureaux_depouilles>
 			<nb_bureaux_total>305</nb_bureaux_total>
-			<candidat id="61">
-				<prenom>Pietro</prenom>			
-				<nom>MERCURI</nom>
-				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
 			<candidat id="60">
 				<prenom>Chantal</prenom>			
 				<nom>ROULEAU</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>741</nb_voix_obtenues>
+				<nb_voix_majorite>220</nb_voix_majorite>
+			</candidat>
+			<candidat id="61">
+				<prenom>Pietro</prenom>			
+				<nom>MERCURI</nom>
+				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
+				<nb_voix_obtenues>521</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -2061,23 +2061,23 @@
 			<arrondissement id="12">Rivière-des-Prairies–Pointe-aux-Trembles</arrondissement>
 			<district id="121">La Pointe-aux-Prairies</district>
 			<nb_electeurs_inscrits>31018</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>65</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>1</nb_bulletins_rejetes>
+			<taux_participation>0.21</taux_participation>
+			<nb_bureaux_depouilles>1</nb_bureaux_depouilles>
 			<nb_bureaux_total>118</nb_bureaux_total>
 			<candidat id="63">
 				<prenom>Daphney</prenom>			
 				<nom>COLIN</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
+				<nb_voix_obtenues>37</nb_voix_obtenues>
+				<nb_voix_majorite>10</nb_voix_majorite>
 			</candidat>
 			<candidat id="62">
 				<prenom>Richard</prenom>			
 				<nom>GUAY</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>27</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -2087,30 +2087,30 @@
 			<arrondissement id="12">Rivière-des-Prairies–Pointe-aux-Trembles</arrondissement>
 			<district id="121">La Pointe-aux-Prairies</district>
 			<nb_electeurs_inscrits>31018</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>65</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>1</nb_bulletins_rejetes>
+			<taux_participation>0.21</taux_participation>
+			<nb_bureaux_depouilles>1</nb_bureaux_depouilles>
 			<nb_bureaux_total>118</nb_bureaux_total>
 			<candidat id="66">
 				<prenom>Lisa</prenom>			
 				<nom>CHRISTENSEN</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
+				<nb_voix_obtenues>38</nb_voix_obtenues>
+				<nb_voix_majorite>13</nb_voix_majorite>
 			</candidat>
 			<candidat id="64">
 				<prenom>Manuel</prenom>			
 				<nom>GUEDES</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>25</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="65">
 				<prenom>Alain</prenom>			
 				<nom>LANOUE</nom>
 				<parti id="-1">Indépendant</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>1</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -2120,23 +2120,23 @@
 			<arrondissement id="12">Rivière-des-Prairies–Pointe-aux-Trembles</arrondissement>
 			<district id="122">Pointe-aux-Trembles</district>
 			<nb_electeurs_inscrits>24317</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>947</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>17</nb_bulletins_rejetes>
+			<taux_participation>3.89</taux_participation>
+			<nb_bureaux_depouilles>12</nb_bureaux_depouilles>
 			<nb_bureaux_total>101</nb_bureaux_total>
 			<candidat id="67">
 				<prenom>Suzanne</prenom>			
 				<nom>DÉCARIE</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
+				<nb_voix_obtenues>524</nb_voix_obtenues>
+				<nb_voix_majorite>118</nb_voix_majorite>
 			</candidat>
 			<candidat id="68">
 				<prenom>Tomy-Richard</prenom>			
 				<nom>LEBOEUF-MCGREGOR</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>406</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -2146,23 +2146,23 @@
 			<arrondissement id="12">Rivière-des-Prairies–Pointe-aux-Trembles</arrondissement>
 			<district id="122">Pointe-aux-Trembles</district>
 			<nb_electeurs_inscrits>24317</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>947</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>23</nb_bulletins_rejetes>
+			<taux_participation>3.89</taux_participation>
+			<nb_bureaux_depouilles>12</nb_bureaux_depouilles>
 			<nb_bureaux_total>101</nb_bureaux_total>
 			<candidat id="69">
 				<prenom>Gilles</prenom>			
 				<nom>DÉZIEL</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
+				<nb_voix_obtenues>506</nb_voix_obtenues>
+				<nb_voix_majorite>88</nb_voix_majorite>
 			</candidat>
 			<candidat id="70">
 				<prenom>Vladimir</prenom>			
 				<nom>GELIN</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>418</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -2172,23 +2172,23 @@
 			<arrondissement id="12">Rivière-des-Prairies–Pointe-aux-Trembles</arrondissement>
 			<district id="123">Rivière-des-Prairies</district>
 			<nb_electeurs_inscrits>25096</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>342</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>8</nb_bulletins_rejetes>
+			<taux_participation>1.36</taux_participation>
+			<nb_bureaux_depouilles>6</nb_bureaux_depouilles>
 			<nb_bureaux_total>86</nb_bureaux_total>
-			<candidat id="72">
-				<prenom>Hector</prenom>			
-				<nom>PERLERA</nom>
-				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
 			<candidat id="71">
 				<prenom>Giovanni</prenom>			
 				<nom>RAPANÀ</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>186</nb_voix_obtenues>
+				<nb_voix_majorite>38</nb_voix_majorite>
+			</candidat>
+			<candidat id="72">
+				<prenom>Hector</prenom>			
+				<nom>PERLERA</nom>
+				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
+				<nb_voix_obtenues>148</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -2198,23 +2198,23 @@
 			<arrondissement id="12">Rivière-des-Prairies–Pointe-aux-Trembles</arrondissement>
 			<district id="123">Rivière-des-Prairies</district>
 			<nb_electeurs_inscrits>25096</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>342</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>10</nb_bulletins_rejetes>
+			<taux_participation>1.36</taux_participation>
+			<nb_bureaux_depouilles>6</nb_bureaux_depouilles>
 			<nb_bureaux_total>86</nb_bureaux_total>
-			<candidat id="74">
-				<prenom>Jean-Eddie Jr</prenom>			
-				<nom>DÉSIRÉ</nom>
-				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
 			<candidat id="73">
 				<prenom>Nathalie</prenom>			
 				<nom>PIERRE-ANTOINE</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>192</nb_voix_obtenues>
+				<nb_voix_majorite>52</nb_voix_majorite>
+			</candidat>
+			<candidat id="74">
+				<prenom>Jean-Eddie Jr</prenom>			
+				<nom>DÉSIRÉ</nom>
+				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
+				<nb_voix_obtenues>140</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -2224,23 +2224,23 @@
 			<arrondissement id="13">Rosemont–La Petite-Patrie</arrondissement>
 			<district id="0"></district>
 			<nb_electeurs_inscrits>99459</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>3184</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>82</nb_bulletins_rejetes>
+			<taux_participation>3.20</taux_participation>
+			<nb_bureaux_depouilles>28</nb_bureaux_depouilles>
 			<nb_bureaux_total>358</nb_bureaux_total>
 			<candidat id="76">
 				<prenom>François William</prenom>			
 				<nom>CROTEAU</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
+				<nb_voix_obtenues>2017</nb_voix_obtenues>
+				<nb_voix_majorite>932</nb_voix_majorite>
 			</candidat>
 			<candidat id="75">
 				<prenom>Marc-André</prenom>			
 				<nom>GADOURY</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>1085</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -2276,23 +2276,23 @@
 			<arrondissement id="13">Rosemont–La Petite-Patrie</arrondissement>
 			<district id="132">Étienne-Desmarteau</district>
 			<nb_electeurs_inscrits>23307</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>561</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>8</nb_bulletins_rejetes>
+			<taux_participation>2.41</taux_participation>
+			<nb_bureaux_depouilles>4</nb_bureaux_depouilles>
 			<nb_bureaux_total>86</nb_bureaux_total>
-			<candidat id="79">
-				<prenom>Scott</prenom>			
-				<nom>MCKAY</nom>
-				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
 			<candidat id="80">
 				<prenom>Stéphanie</prenom>			
 				<nom>WATT</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>400</nb_voix_obtenues>
+				<nb_voix_majorite>247</nb_voix_majorite>
+			</candidat>
+			<candidat id="79">
+				<prenom>Scott</prenom>			
+				<nom>MCKAY</nom>
+				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
+				<nb_voix_obtenues>153</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -2302,23 +2302,23 @@
 			<arrondissement id="13">Rosemont–La Petite-Patrie</arrondissement>
 			<district id="133">Vieux-Rosemont</district>
 			<nb_electeurs_inscrits>27210</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>1043</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>28</nb_bulletins_rejetes>
+			<taux_participation>3.83</taux_participation>
+			<nb_bureaux_depouilles>10</nb_bureaux_depouilles>
 			<nb_bureaux_total>99</nb_bureaux_total>
 			<candidat id="82">
 				<prenom>Christine</prenom>			
 				<nom>GOSSELIN</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
+				<nb_voix_obtenues>683</nb_voix_obtenues>
+				<nb_voix_majorite>351</nb_voix_majorite>
 			</candidat>
 			<candidat id="81">
 				<prenom>Mariam</prenom>			
 				<nom>LAAGAD</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>332</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -2328,23 +2328,23 @@
 			<arrondissement id="13">Rosemont–La Petite-Patrie</arrondissement>
 			<district id="134">Marie-Victorin</district>
 			<nb_electeurs_inscrits>23259</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>1058</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>35</nb_bulletins_rejetes>
+			<taux_participation>4.55</taux_participation>
+			<nb_bureaux_depouilles>11</nb_bureaux_depouilles>
 			<nb_bureaux_total>82</nb_bureaux_total>
-			<candidat id="83">
-				<prenom>Nathalie</prenom>			
-				<nom>FORTIN</nom>
-				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
 			<candidat id="84">
 				<prenom>Jocelyn</prenom>			
 				<nom>PAUZÉ</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>570</nb_voix_obtenues>
+				<nb_voix_majorite>117</nb_voix_majorite>
+			</candidat>
+			<candidat id="83">
+				<prenom>Nathalie</prenom>			
+				<nom>FORTIN</nom>
+				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
+				<nb_voix_obtenues>453</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -2354,23 +2354,23 @@
 			<arrondissement id="14">Saint-Laurent</arrondissement>
 			<district id="0"></district>
 			<nb_electeurs_inscrits>61623</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>956</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>17</nb_bulletins_rejetes>
+			<taux_participation>1.55</taux_participation>
+			<nb_bureaux_depouilles>14</nb_bureaux_depouilles>
 			<nb_bureaux_total>213</nb_bureaux_total>
-			<candidat id="86">
-				<prenom>Nora</prenom>			
-				<nom>CHÉNIER-JONES</nom>
-				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
 			<candidat id="85">
 				<prenom>Alan</prenom>			
 				<nom>DESOUSA</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>639</nb_voix_obtenues>
+				<nb_voix_majorite>339</nb_voix_majorite>
+			</candidat>
+			<candidat id="86">
+				<prenom>Nora</prenom>			
+				<nom>CHÉNIER-JONES</nom>
+				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
+				<nb_voix_obtenues>300</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -2380,23 +2380,23 @@
 			<arrondissement id="14">Saint-Laurent</arrondissement>
 			<district id="141">Côte-de-Liesse</district>
 			<nb_electeurs_inscrits>33071</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>318</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>9</nb_bulletins_rejetes>
+			<taux_participation>0.96</taux_participation>
+			<nb_bureaux_depouilles>5</nb_bureaux_depouilles>
 			<nb_bureaux_total>112</nb_bureaux_total>
-			<candidat id="88">
-				<prenom>Salman</prenom>			
-				<nom>FARAH</nom>
-				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
 			<candidat id="87">
 				<prenom>Francesco</prenom>			
 				<nom>MIELE</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>224</nb_voix_obtenues>
+				<nb_voix_majorite>139</nb_voix_majorite>
+			</candidat>
+			<candidat id="88">
+				<prenom>Salman</prenom>			
+				<nom>FARAH</nom>
+				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
+				<nb_voix_obtenues>85</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -2406,30 +2406,30 @@
 			<arrondissement id="14">Saint-Laurent</arrondissement>
 			<district id="141">Côte-de-Liesse</district>
 			<nb_electeurs_inscrits>33071</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>308</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>5</nb_bulletins_rejetes>
+			<taux_participation>0.93</taux_participation>
+			<nb_bureaux_depouilles>5</nb_bureaux_depouilles>
 			<nb_bureaux_total>112</nb_bureaux_total>
-			<candidat id="90">
-				<prenom>Mario</prenom>			
-				<nom>BONENFANT</nom>
-				<parti id="-1">Indépendant</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
 			<candidat id="89">
 				<prenom>Jacques</prenom>			
 				<nom>COHEN</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite></nb_voix_majorite>
+				<nb_voix_obtenues>210</nb_voix_obtenues>
+				<nb_voix_majorite>125</nb_voix_majorite>
 			</candidat>
 			<candidat id="91">
 				<prenom>Julio</prenom>			
 				<nom>RIVERA</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>85</nb_voix_obtenues>
+				<nb_voix_majorite></nb_voix_majorite>
+			</candidat>
+			<candidat id="90">
+				<prenom>Mario</prenom>			
+				<nom>BONENFANT</nom>
+				<parti id="-1">Indépendant</parti>
+				<nb_voix_obtenues>8</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -2439,23 +2439,23 @@
 			<arrondissement id="14">Saint-Laurent</arrondissement>
 			<district id="142">Norman-McLaren</district>
 			<nb_electeurs_inscrits>28552</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>432</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>8</nb_bulletins_rejetes>
+			<taux_participation>1.51</taux_participation>
+			<nb_bureaux_depouilles>7</nb_bureaux_depouilles>
 			<nb_bureaux_total>101</nb_bureaux_total>
-			<candidat id="93">
-				<prenom>Julie</prenom>			
-				<nom>LAMONTAGNE</nom>
-				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
 			<candidat id="92">
 				<prenom>Aref</prenom>			
 				<nom>SALEM</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>262</nb_voix_obtenues>
+				<nb_voix_majorite>100</nb_voix_majorite>
+			</candidat>
+			<candidat id="93">
+				<prenom>Julie</prenom>			
+				<nom>LAMONTAGNE</nom>
+				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
+				<nb_voix_obtenues>162</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -2465,37 +2465,37 @@
 			<arrondissement id="14">Saint-Laurent</arrondissement>
 			<district id="142">Norman-McLaren</district>
 			<nb_electeurs_inscrits>28552</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>421</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>7</nb_bulletins_rejetes>
+			<taux_participation>1.47</taux_participation>
+			<nb_bureaux_depouilles>7</nb_bureaux_depouilles>
 			<nb_bureaux_total>101</nb_bureaux_total>
 			<candidat id="94">
 				<prenom>Michèle D.</prenom>			
 				<nom>BIRON</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
+				<nb_voix_obtenues>244</nb_voix_obtenues>
+				<nb_voix_majorite>130</nb_voix_majorite>
+			</candidat>
+			<candidat id="96">
+				<prenom>Rafik</prenom>			
+				<nom>HAKIM</nom>
+				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
+				<nb_voix_obtenues>114</nb_voix_obtenues>
+				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="97">
 				<prenom>Elias</prenom>			
 				<nom>BITAR</nom>
 				<parti id="9">Vrai changement pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>52</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="95">
 				<prenom>Jamil Ahmad</prenom>			
 				<nom>GONDAL</nom>
 				<parti id="-1">Indépendant</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite></nb_voix_majorite>
-			</candidat>
-			<candidat id="96">
-				<prenom>Rafik</prenom>			
-				<nom>HAKIM</nom>
-				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>4</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -2505,30 +2505,30 @@
 			<arrondissement id="15">Saint-Léonard</arrondissement>
 			<district id="0"></district>
 			<nb_electeurs_inscrits>50593</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>1169</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>36</nb_bulletins_rejetes>
+			<taux_participation>2.31</taux_participation>
+			<nb_bureaux_depouilles>19</nb_bureaux_depouilles>
 			<nb_bureaux_total>178</nb_bureaux_total>
 			<candidat id="98">
 				<prenom>Michel</prenom>			
 				<nom>BISSONNET</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
+				<nb_voix_obtenues>720</nb_voix_obtenues>
+				<nb_voix_majorite>359</nb_voix_majorite>
 			</candidat>
 			<candidat id="100">
 				<prenom>Julie</prenom>			
 				<nom>CARON</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>361</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="99">
 				<prenom>Tommaso</prenom>			
 				<nom>DI PAOLA</nom>
 				<parti id="-1">Indépendant</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>52</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -2538,23 +2538,23 @@
 			<arrondissement id="15">Saint-Léonard</arrondissement>
 			<district id="151">Saint-Léonard-Est</district>
 			<nb_electeurs_inscrits>21692</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>271</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>10</nb_bulletins_rejetes>
+			<taux_participation>1.25</taux_participation>
+			<nb_bureaux_depouilles>4</nb_bureaux_depouilles>
 			<nb_bureaux_total>78</nb_bureaux_total>
-			<candidat id="102">
-				<prenom>Arij-Abrar</prenom>			
-				<nom>EL KORBI</nom>
-				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
 			<candidat id="101">
 				<prenom>Patricia R.</prenom>			
 				<nom>LATTANZIO</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>177</nb_voix_obtenues>
+				<nb_voix_majorite>93</nb_voix_majorite>
+			</candidat>
+			<candidat id="102">
+				<prenom>Arij-Abrar</prenom>			
+				<nom>EL KORBI</nom>
+				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
+				<nb_voix_obtenues>84</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -2564,23 +2564,23 @@
 			<arrondissement id="15">Saint-Léonard</arrondissement>
 			<district id="151">Saint-Léonard-Est</district>
 			<nb_electeurs_inscrits>21692</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>342</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>11</nb_bulletins_rejetes>
+			<taux_participation>1.58</taux_participation>
+			<nb_bureaux_depouilles>5</nb_bureaux_depouilles>
 			<nb_bureaux_total>78</nb_bureaux_total>
-			<candidat id="104">
-				<prenom>Giovanni</prenom>			
-				<nom>CAPUANO</nom>
-				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
 			<candidat id="103">
 				<prenom>Lili-Anne</prenom>			
 				<nom>TREMBLAY</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>203</nb_voix_obtenues>
+				<nb_voix_majorite>75</nb_voix_majorite>
+			</candidat>
+			<candidat id="104">
+				<prenom>Giovanni</prenom>			
+				<nom>CAPUANO</nom>
+				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
+				<nb_voix_obtenues>128</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -2590,23 +2590,23 @@
 			<arrondissement id="15">Saint-Léonard</arrondissement>
 			<district id="152">Saint-Léonard-Ouest</district>
 			<nb_electeurs_inscrits>28901</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>716</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>35</nb_bulletins_rejetes>
+			<taux_participation>2.48</taux_participation>
+			<nb_bureaux_depouilles>12</nb_bureaux_depouilles>
 			<nb_bureaux_total>100</nb_bureaux_total>
-			<candidat id="106">
-				<prenom>Oualid</prenom>			
-				<nom>FREJ</nom>
-				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
 			<candidat id="105">
 				<prenom>Dominic</prenom>			
 				<nom>PERRI</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>428</nb_voix_obtenues>
+				<nb_voix_majorite>175</nb_voix_majorite>
+			</candidat>
+			<candidat id="106">
+				<prenom>Oualid</prenom>			
+				<nom>FREJ</nom>
+				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
+				<nb_voix_obtenues>253</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -2616,30 +2616,30 @@
 			<arrondissement id="15">Saint-Léonard</arrondissement>
 			<district id="152">Saint-Léonard-Ouest</district>
 			<nb_electeurs_inscrits>28901</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>624</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>16</nb_bulletins_rejetes>
+			<taux_participation>2.16</taux_participation>
+			<nb_bureaux_depouilles>11</nb_bureaux_depouilles>
 			<nb_bureaux_total>100</nb_bureaux_total>
-			<candidat id="108">
-				<prenom>Nickenson</prenom>			
-				<nom>ALDONZAR</nom>
-				<parti id="-1">Indépendant</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
 			<candidat id="107">
 				<prenom>Mario</prenom>			
 				<nom>BATTISTA</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite></nb_voix_majorite>
+				<nb_voix_obtenues>366</nb_voix_obtenues>
+				<nb_voix_majorite>143</nb_voix_majorite>
 			</candidat>
 			<candidat id="109">
 				<prenom>Anick</prenom>			
 				<nom>DRUELLE</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>223</nb_voix_obtenues>
+				<nb_voix_majorite></nb_voix_majorite>
+			</candidat>
+			<candidat id="108">
+				<prenom>Nickenson</prenom>			
+				<nom>ALDONZAR</nom>
+				<parti id="-1">Indépendant</parti>
+				<nb_voix_obtenues>19</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -2649,23 +2649,23 @@
 			<arrondissement id="16">Sud-Ouest</arrondissement>
 			<district id="0"></district>
 			<nb_electeurs_inscrits>55657</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>1894</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>32</nb_bulletins_rejetes>
+			<taux_participation>3.40</taux_participation>
+			<nb_bureaux_depouilles>21</nb_bureaux_depouilles>
 			<nb_bureaux_total>203</nb_bureaux_total>
 			<candidat id="111">
 				<prenom>Benoit</prenom>			
 				<nom>DORAIS</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
+				<nb_voix_obtenues>1422</nb_voix_obtenues>
+				<nb_voix_majorite>982</nb_voix_majorite>
 			</candidat>
 			<candidat id="110">
 				<prenom>Denise</prenom>			
 				<nom>MÉRINEAU</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>440</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -2675,37 +2675,37 @@
 			<arrondissement id="16">Sud-Ouest</arrondissement>
 			<district id="161">Saint-Henri-Est–Petite-Bourgogne–Pointe-Saint-Charles–Griffintown</district>
 			<nb_electeurs_inscrits>30537</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>1311</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>18</nb_bulletins_rejetes>
+			<taux_participation>4.29</taux_participation>
+			<nb_bureaux_depouilles>15</nb_bureaux_depouilles>
 			<nb_bureaux_total>111</nb_bureaux_total>
-			<candidat id="113">
-				<prenom>Daniel</prenom>			
-				<nom>DOYLE</nom>
-				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
 			<candidat id="115">
 				<prenom>Craig</prenom>			
 				<nom>SAUVÉ</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>923</nb_voix_obtenues>
+				<nb_voix_majorite>572</nb_voix_majorite>
+			</candidat>
+			<candidat id="113">
+				<prenom>Daniel</prenom>			
+				<nom>DOYLE</nom>
+				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
+				<nb_voix_obtenues>351</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="112">
 				<prenom>Taimur</prenom>			
 				<nom>TANOLI</nom>
 				<parti id="1">Coalition Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>12</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="114">
 				<prenom>Thomas</prenom>			
 				<nom>TSUKALAS</nom>
 				<parti id="-1">Indépendant</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>7</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -2715,23 +2715,23 @@
 			<arrondissement id="16">Sud-Ouest</arrondissement>
 			<district id="161">Saint-Henri-Est–Petite-Bourgogne–Pointe-Saint-Charles–Griffintown</district>
 			<nb_electeurs_inscrits>30537</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>631</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>12</nb_bulletins_rejetes>
+			<taux_participation>2.07</taux_participation>
+			<nb_bureaux_depouilles>9</nb_bureaux_depouilles>
 			<nb_bureaux_total>111</nb_bureaux_total>
-			<candidat id="116">
-				<prenom>Nicole</prenom>			
-				<nom>PICHER</nom>
-				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
 			<candidat id="117">
 				<prenom>Sophie</prenom>			
 				<nom>THIÉBAUT</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>447</nb_voix_obtenues>
+				<nb_voix_majorite>275</nb_voix_majorite>
+			</candidat>
+			<candidat id="116">
+				<prenom>Nicole</prenom>			
+				<nom>PICHER</nom>
+				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
+				<nb_voix_obtenues>172</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -2741,23 +2741,23 @@
 			<arrondissement id="16">Sud-Ouest</arrondissement>
 			<district id="162">Saint-Paul–Émard–Saint-Henri-Ouest</district>
 			<nb_electeurs_inscrits>25120</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>136</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>5</nb_bulletins_rejetes>
+			<taux_participation>0.54</taux_participation>
+			<nb_bureaux_depouilles>2</nb_bureaux_depouilles>
 			<nb_bureaux_total>92</nb_bureaux_total>
-			<candidat id="118">
-				<prenom>Marc-Antoine</prenom>			
-				<nom>AUDETTE</nom>
-				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
 			<candidat id="119">
 				<prenom>Anne-Marie</prenom>			
 				<nom>SIGOUIN</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>89</nb_voix_obtenues>
+				<nb_voix_majorite>47</nb_voix_majorite>
+			</candidat>
+			<candidat id="118">
+				<prenom>Marc-Antoine</prenom>			
+				<nom>AUDETTE</nom>
+				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
+				<nb_voix_obtenues>42</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -2767,23 +2767,23 @@
 			<arrondissement id="16">Sud-Ouest</arrondissement>
 			<district id="162">Saint-Paul–Émard–Saint-Henri-Ouest</district>
 			<nb_electeurs_inscrits>25120</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>136</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>6</nb_bulletins_rejetes>
+			<taux_participation>0.54</taux_participation>
+			<nb_bureaux_depouilles>2</nb_bureaux_depouilles>
 			<nb_bureaux_total>92</nb_bureaux_total>
-			<candidat id="120">
-				<prenom>Claudia Olga</prenom>			
-				<nom>OUAMABIA</nom>
-				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
 			<candidat id="121">
 				<prenom>Alain</prenom>			
 				<nom>VAILLANCOURT</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>90</nb_voix_obtenues>
+				<nb_voix_majorite>50</nb_voix_majorite>
+			</candidat>
+			<candidat id="120">
+				<prenom>Claudia Olga</prenom>			
+				<nom>OUAMABIA</nom>
+				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
+				<nb_voix_obtenues>40</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -2793,23 +2793,23 @@
 			<arrondissement id="17">Verdun</arrondissement>
 			<district id="0"></district>
 			<nb_electeurs_inscrits>49529</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>1311</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>29</nb_bulletins_rejetes>
+			<taux_participation>2.65</taux_participation>
+			<nb_bureaux_depouilles>14</nb_bureaux_depouilles>
 			<nb_bureaux_total>229</nb_bureaux_total>
-			<candidat id="123">
-				<prenom>Michèle</prenom>			
-				<nom>CHAPPAZ</nom>
-				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
 			<candidat id="122">
 				<prenom>Jean-François</prenom>			
 				<nom>PARENTEAU</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>695</nb_voix_obtenues>
+				<nb_voix_majorite>108</nb_voix_majorite>
+			</candidat>
+			<candidat id="123">
+				<prenom>Michèle</prenom>			
+				<nom>CHAPPAZ</nom>
+				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
+				<nb_voix_obtenues>587</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -2819,23 +2819,23 @@
 			<arrondissement id="17">Verdun</arrondissement>
 			<district id="171">Champlain—L'Île-des-Soeurs</district>
 			<nb_electeurs_inscrits>27348</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>507</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>19</nb_bulletins_rejetes>
+			<taux_participation>1.85</taux_participation>
+			<nb_bureaux_depouilles>7</nb_bureaux_depouilles>
 			<nb_bureaux_total>129</nb_bureaux_total>
-			<candidat id="124">
-				<prenom>Marie-Josée</prenom>			
-				<nom>PARENT</nom>
-				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
 			<candidat id="125">
 				<prenom>Nathalie</prenom>			
 				<nom>PEDRO</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>254</nb_voix_obtenues>
+				<nb_voix_majorite>20</nb_voix_majorite>
+			</candidat>
+			<candidat id="124">
+				<prenom>Marie-Josée</prenom>			
+				<nom>PARENT</nom>
+				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
+				<nb_voix_obtenues>234</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -2845,23 +2845,23 @@
 			<arrondissement id="17">Verdun</arrondissement>
 			<district id="171">Champlain—L'Île-des-Soeurs</district>
 			<nb_electeurs_inscrits>27348</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>378</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>17</nb_bulletins_rejetes>
+			<taux_participation>1.38</taux_participation>
+			<nb_bureaux_depouilles>5</nb_bureaux_depouilles>
 			<nb_bureaux_total>129</nb_bureaux_total>
 			<candidat id="127">
 				<prenom>Jean-Pierre</prenom>			
 				<nom>BOIVIN</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
+				<nb_voix_obtenues>196</nb_voix_obtenues>
+				<nb_voix_majorite>31</nb_voix_majorite>
 			</candidat>
 			<candidat id="126">
 				<prenom>Pierre</prenom>			
 				<nom>L'HEUREUX</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>165</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -2871,23 +2871,23 @@
 			<arrondissement id="17">Verdun</arrondissement>
 			<district id="171">Champlain—L'Île-des-Soeurs</district>
 			<nb_electeurs_inscrits>27348</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>642</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>19</nb_bulletins_rejetes>
+			<taux_participation>2.35</taux_participation>
+			<nb_bureaux_depouilles>8</nb_bureaux_depouilles>
 			<nb_bureaux_total>129</nb_bureaux_total>
-			<candidat id="129">
-				<prenom>Gabriel</prenom>			
-				<nom>BÉGIN</nom>
-				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
 			<candidat id="128">
 				<prenom>Véronique</prenom>			
 				<nom>TREMBLAY</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>323</nb_voix_obtenues>
+				<nb_voix_majorite>23</nb_voix_majorite>
+			</candidat>
+			<candidat id="129">
+				<prenom>Gabriel</prenom>			
+				<nom>BÉGIN</nom>
+				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
+				<nb_voix_obtenues>300</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -3022,30 +3022,30 @@
 			<arrondissement id="18">Ville-Marie</arrondissement>
 			<district id="182">Saint-Jacques</district>
 			<nb_electeurs_inscrits>21320</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>485</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>7</nb_bulletins_rejetes>
+			<taux_participation>2.27</taux_participation>
+			<nb_bureaux_depouilles>6</nb_bureaux_depouilles>
 			<nb_bureaux_total>63</nb_bureaux_total>
 			<candidat id="142">
 				<prenom>Robert</prenom>			
 				<nom>BEAUDRY</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
+				<nb_voix_obtenues>253</nb_voix_obtenues>
+				<nb_voix_majorite>31</nb_voix_majorite>
 			</candidat>
 			<candidat id="141">
 				<prenom>Richard</prenom>			
 				<nom>BERGERON</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>222</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="143">
 				<prenom>Daniel</prenom>			
 				<nom>GAUDREAU</nom>
 				<parti id="9">Vrai changement pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>3</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -3055,30 +3055,30 @@
 			<arrondissement id="18">Ville-Marie</arrondissement>
 			<district id="183">Sainte-Marie</district>
 			<nb_electeurs_inscrits>18385</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>665</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>7</nb_bulletins_rejetes>
+			<taux_participation>3.62</taux_participation>
+			<nb_bureaux_depouilles>7</nb_bureaux_depouilles>
 			<nb_bureaux_total>54</nb_bureaux_total>
-			<candidat id="144">
-				<prenom>Pierre</prenom>			
-				<nom>MAINVILLE</nom>
-				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
 			<candidat id="145">
 				<prenom>Valérie</prenom>			
 				<nom>PLANTE</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>467</nb_voix_obtenues>
+				<nb_voix_majorite>285</nb_voix_majorite>
+			</candidat>
+			<candidat id="144">
+				<prenom>Pierre</prenom>			
+				<nom>MAINVILLE</nom>
+				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
+				<nb_voix_obtenues>182</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 			<candidat id="146">
 				<prenom>Artur Adam</prenom>			
 				<nom>URBANOWICZ</nom>
 				<parti id="9">Vrai changement pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>9</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -3088,23 +3088,23 @@
 			<arrondissement id="19">Villeray–Saint-Michel–Parc-Extension</arrondissement>
 			<district id="0"></district>
 			<nb_electeurs_inscrits>89591</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>1607</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>66</nb_bulletins_rejetes>
+			<taux_participation>1.79</taux_participation>
+			<nb_bureaux_depouilles>21</nb_bureaux_depouilles>
 			<nb_bureaux_total>281</nb_bureaux_total>
-			<candidat id="148">
-				<prenom>Giuliana</prenom>			
-				<nom>FUMAGALLI</nom>
-				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
 			<candidat id="147">
 				<prenom>Anie</prenom>			
 				<nom>SAMSON</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>838</nb_voix_obtenues>
+				<nb_voix_majorite>135</nb_voix_majorite>
+			</candidat>
+			<candidat id="148">
+				<prenom>Giuliana</prenom>			
+				<nom>FUMAGALLI</nom>
+				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
+				<nb_voix_obtenues>703</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -3114,23 +3114,23 @@
 			<arrondissement id="19">Villeray–Saint-Michel–Parc-Extension</arrondissement>
 			<district id="191">Saint-Michel</district>
 			<nb_electeurs_inscrits>21856</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>643</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>33</nb_bulletins_rejetes>
+			<taux_participation>2.94</taux_participation>
+			<nb_bureaux_depouilles>11</nb_bureaux_depouilles>
 			<nb_bureaux_total>65</nb_bureaux_total>
-			<candidat id="150">
-				<prenom>Rana</prenom>			
-				<nom>ALRABI</nom>
-				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
 			<candidat id="149">
 				<prenom>Frantz</prenom>			
 				<nom>BENJAMIN</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>420</nb_voix_obtenues>
+				<nb_voix_majorite>230</nb_voix_majorite>
+			</candidat>
+			<candidat id="150">
+				<prenom>Rana</prenom>			
+				<nom>ALRABI</nom>
+				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
+				<nb_voix_obtenues>190</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -3140,23 +3140,23 @@
 			<arrondissement id="19">Villeray–Saint-Michel–Parc-Extension</arrondissement>
 			<district id="192">François-Perrault</district>
 			<nb_electeurs_inscrits>22575</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>667</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>23</nb_bulletins_rejetes>
+			<taux_participation>2.95</taux_participation>
+			<nb_bureaux_depouilles>8</nb_bureaux_depouilles>
 			<nb_bureaux_total>67</nb_bureaux_total>
-			<candidat id="151">
-				<prenom>Érika</prenom>			
-				<nom>DUCHESNE</nom>
-				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
-			</candidat>
 			<candidat id="152">
 				<prenom>Sylvain</prenom>			
 				<nom>OUELLET</nom>
 				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>395</nb_voix_obtenues>
+				<nb_voix_majorite>146</nb_voix_majorite>
+			</candidat>
+			<candidat id="151">
+				<prenom>Érika</prenom>			
+				<nom>DUCHESNE</nom>
+				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
+				<nb_voix_obtenues>249</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</poste>
@@ -3231,1074 +3231,1074 @@
 	<resultats_maire>
 		<sommaire>
 			<nb_electeurs_inscrits>1142948</nb_electeurs_inscrits>
-			<nb_total_voix_recueillies>0</nb_total_voix_recueillies>
-			<nb_bulletins_rejetes>0</nb_bulletins_rejetes>
-			<taux_participation>0.00</taux_participation>
-			<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+			<nb_total_voix_recueillies>45406</nb_total_voix_recueillies>
+			<nb_bulletins_rejetes>980</nb_bulletins_rejetes>
+			<taux_participation>3.97</taux_participation>
+			<nb_bureaux_depouilles>457</nb_bureaux_depouilles>
 			<nb_bureaux_total>4138</nb_bureaux_total>
+ 			<candidat id="11">
+				<prenom>Valérie</prenom>			
+				<nom>PLANTE</nom>
+				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
+				<nb_voix_obtenues>23226</nb_voix_obtenues>
+				<nb_voix_majorite>3429</nb_voix_majorite>
+			</candidat>
  			<candidat id="5">
 				<prenom>Denis</prenom>			
 				<nom>CODERRE</nom>
 				<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite>0</nb_voix_majorite>
+				<nb_voix_obtenues>19797</nb_voix_obtenues>
+				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
  			<candidat id="4">
 				<prenom>Jean</prenom>			
 				<nom>FORTIER</nom>
 				<parti id="1">Coalition Montréal</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite></nb_voix_majorite>
-			</candidat>
- 			<candidat id="6">
-				<prenom>Bernard</prenom>			
-				<nom>GURBERG</nom>
-				<parti id="-1">Indépendant</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite></nb_voix_majorite>
-			</candidat>
- 			<candidat id="7">
-				<prenom>Fabrice Ntompa</prenom>			
-				<nom>ILUNGA</nom>
-				<parti id="-1">Indépendant</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite></nb_voix_majorite>
-			</candidat>
- 			<candidat id="8">
-				<prenom>Tyler</prenom>			
-				<nom>LEMCO</nom>
-				<parti id="-1">Indépendant</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite></nb_voix_majorite>
-			</candidat>
- 			<candidat id="11">
-				<prenom>Valérie</prenom>			
-				<nom>PLANTE</nom>
-				<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
-				<nb_voix_majorite></nb_voix_majorite>
-			</candidat>
- 			<candidat id="9">
-				<prenom>Philippe</prenom>			
-				<nom>TESSIER</nom>
-				<parti id="-1">Indépendant</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>625</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
  			<candidat id="10">
 				<prenom>Gilbert</prenom>			
 				<nom>THIBODEAU</nom>
 				<parti id="-1">Indépendant</parti>
-				<nb_voix_obtenues>0</nb_voix_obtenues>
+				<nb_voix_obtenues>176</nb_voix_obtenues>
+				<nb_voix_majorite></nb_voix_majorite>
+			</candidat>
+ 			<candidat id="6">
+				<prenom>Bernard</prenom>			
+				<nom>GURBERG</nom>
+				<parti id="-1">Indépendant</parti>
+				<nb_voix_obtenues>172</nb_voix_obtenues>
+				<nb_voix_majorite></nb_voix_majorite>
+			</candidat>
+ 			<candidat id="8">
+				<prenom>Tyler</prenom>			
+				<nom>LEMCO</nom>
+				<parti id="-1">Indépendant</parti>
+				<nb_voix_obtenues>159</nb_voix_obtenues>
+				<nb_voix_majorite></nb_voix_majorite>
+			</candidat>
+ 			<candidat id="9">
+				<prenom>Philippe</prenom>			
+				<nom>TESSIER</nom>
+				<parti id="-1">Indépendant</parti>
+				<nb_voix_obtenues>136</nb_voix_obtenues>
+				<nb_voix_majorite></nb_voix_majorite>
+			</candidat>
+ 			<candidat id="7">
+				<prenom>Fabrice Ntompa</prenom>			
+				<nom>ILUNGA</nom>
+				<parti id="-1">Indépendant</parti>
+				<nb_voix_obtenues>135</nb_voix_obtenues>
 				<nb_voix_majorite></nb_voix_majorite>
 			</candidat>
 		</sommaire>
 		<arrondissements>
 			<arrondissement id="1">
 				<nom>Ahuntsic-Cartierville</nom>
-				<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+				<nb_bureaux_depouilles>34</nb_bureaux_depouilles>
 				<nb_bureaux_total>309</nb_bureaux_total>
+				<candidat id="11"> 
+					<prenom>Valérie</prenom>
+					<nom>PLANTE</nom>
+					<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
+					<nb_voix_obtenues>1650</nb_voix_obtenues>
+				</candidat>
 				<candidat id="5"> 
 					<prenom>Denis</prenom>
 					<nom>CODERRE</nom>
 					<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>1763</nb_voix_obtenues>
 				</candidat>
 				<candidat id="4"> 
 					<prenom>Jean</prenom>
 					<nom>FORTIER</nom>
 					<parti id="1">Coalition Montréal</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="6"> 
-					<prenom>Bernard</prenom>
-					<nom>GURBERG</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="7"> 
-					<prenom>Fabrice Ntompa</prenom>
-					<nom>ILUNGA</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="8"> 
-					<prenom>Tyler</prenom>
-					<nom>LEMCO</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="11"> 
-					<prenom>Valérie</prenom>
-					<nom>PLANTE</nom>
-					<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="9"> 
-					<prenom>Philippe</prenom>
-					<nom>TESSIER</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>40</nb_voix_obtenues>
 				</candidat>
 				<candidat id="10"> 
 					<prenom>Gilbert</prenom>
 					<nom>THIBODEAU</nom>
 					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>15</nb_voix_obtenues>
+				</candidat>
+				<candidat id="6"> 
+					<prenom>Bernard</prenom>
+					<nom>GURBERG</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>11</nb_voix_obtenues>
+				</candidat>
+				<candidat id="8"> 
+					<prenom>Tyler</prenom>
+					<nom>LEMCO</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>1</nb_voix_obtenues>
+				</candidat>
+				<candidat id="9"> 
+					<prenom>Philippe</prenom>
+					<nom>TESSIER</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>12</nb_voix_obtenues>
+				</candidat>
+				<candidat id="7"> 
+					<prenom>Fabrice Ntompa</prenom>
+					<nom>ILUNGA</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>9</nb_voix_obtenues>
 				</candidat>
 			</arrondissement>
 			<arrondissement id="2">
 				<nom>Anjou</nom>
-				<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+				<nb_bureaux_depouilles>16</nb_bureaux_depouilles>
 				<nb_bureaux_total>128</nb_bureaux_total>
+				<candidat id="11"> 
+					<prenom>Valérie</prenom>
+					<nom>PLANTE</nom>
+					<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
+					<nb_voix_obtenues>900</nb_voix_obtenues>
+				</candidat>
 				<candidat id="5"> 
 					<prenom>Denis</prenom>
 					<nom>CODERRE</nom>
 					<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>953</nb_voix_obtenues>
 				</candidat>
 				<candidat id="4"> 
 					<prenom>Jean</prenom>
 					<nom>FORTIER</nom>
 					<parti id="1">Coalition Montréal</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="6"> 
-					<prenom>Bernard</prenom>
-					<nom>GURBERG</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="7"> 
-					<prenom>Fabrice Ntompa</prenom>
-					<nom>ILUNGA</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="8"> 
-					<prenom>Tyler</prenom>
-					<nom>LEMCO</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="11"> 
-					<prenom>Valérie</prenom>
-					<nom>PLANTE</nom>
-					<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="9"> 
-					<prenom>Philippe</prenom>
-					<nom>TESSIER</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>43</nb_voix_obtenues>
 				</candidat>
 				<candidat id="10"> 
 					<prenom>Gilbert</prenom>
 					<nom>THIBODEAU</nom>
 					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>11</nb_voix_obtenues>
+				</candidat>
+				<candidat id="6"> 
+					<prenom>Bernard</prenom>
+					<nom>GURBERG</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>2</nb_voix_obtenues>
+				</candidat>
+				<candidat id="8"> 
+					<prenom>Tyler</prenom>
+					<nom>LEMCO</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>3</nb_voix_obtenues>
+				</candidat>
+				<candidat id="9"> 
+					<prenom>Philippe</prenom>
+					<nom>TESSIER</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>7</nb_voix_obtenues>
+				</candidat>
+				<candidat id="7"> 
+					<prenom>Fabrice Ntompa</prenom>
+					<nom>ILUNGA</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>11</nb_voix_obtenues>
 				</candidat>
 			</arrondissement>
 			<arrondissement id="3">
 				<nom>Côte-des-Neiges–Notre-Dame-de-Grâce</nom>
-				<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+				<nb_bureaux_depouilles>30</nb_bureaux_depouilles>
 				<nb_bureaux_total>310</nb_bureaux_total>
+				<candidat id="11"> 
+					<prenom>Valérie</prenom>
+					<nom>PLANTE</nom>
+					<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
+					<nb_voix_obtenues>1418</nb_voix_obtenues>
+				</candidat>
 				<candidat id="5"> 
 					<prenom>Denis</prenom>
 					<nom>CODERRE</nom>
 					<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>1467</nb_voix_obtenues>
 				</candidat>
 				<candidat id="4"> 
 					<prenom>Jean</prenom>
 					<nom>FORTIER</nom>
 					<parti id="1">Coalition Montréal</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="6"> 
-					<prenom>Bernard</prenom>
-					<nom>GURBERG</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="7"> 
-					<prenom>Fabrice Ntompa</prenom>
-					<nom>ILUNGA</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="8"> 
-					<prenom>Tyler</prenom>
-					<nom>LEMCO</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="11"> 
-					<prenom>Valérie</prenom>
-					<nom>PLANTE</nom>
-					<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="9"> 
-					<prenom>Philippe</prenom>
-					<nom>TESSIER</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>166</nb_voix_obtenues>
 				</candidat>
 				<candidat id="10"> 
 					<prenom>Gilbert</prenom>
 					<nom>THIBODEAU</nom>
 					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>9</nb_voix_obtenues>
+				</candidat>
+				<candidat id="6"> 
+					<prenom>Bernard</prenom>
+					<nom>GURBERG</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>25</nb_voix_obtenues>
+				</candidat>
+				<candidat id="8"> 
+					<prenom>Tyler</prenom>
+					<nom>LEMCO</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>13</nb_voix_obtenues>
+				</candidat>
+				<candidat id="9"> 
+					<prenom>Philippe</prenom>
+					<nom>TESSIER</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>12</nb_voix_obtenues>
+				</candidat>
+				<candidat id="7"> 
+					<prenom>Fabrice Ntompa</prenom>
+					<nom>ILUNGA</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>5</nb_voix_obtenues>
 				</candidat>
 			</arrondissement>
 			<arrondissement id="4">
 				<nom>Lachine</nom>
-				<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+				<nb_bureaux_depouilles>12</nb_bureaux_depouilles>
 				<nb_bureaux_total>128</nb_bureaux_total>
+				<candidat id="11"> 
+					<prenom>Valérie</prenom>
+					<nom>PLANTE</nom>
+					<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
+					<nb_voix_obtenues>793</nb_voix_obtenues>
+				</candidat>
 				<candidat id="5"> 
 					<prenom>Denis</prenom>
 					<nom>CODERRE</nom>
 					<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>517</nb_voix_obtenues>
 				</candidat>
 				<candidat id="4"> 
 					<prenom>Jean</prenom>
 					<nom>FORTIER</nom>
 					<parti id="1">Coalition Montréal</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="6"> 
-					<prenom>Bernard</prenom>
-					<nom>GURBERG</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="7"> 
-					<prenom>Fabrice Ntompa</prenom>
-					<nom>ILUNGA</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="8"> 
-					<prenom>Tyler</prenom>
-					<nom>LEMCO</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="11"> 
-					<prenom>Valérie</prenom>
-					<nom>PLANTE</nom>
-					<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="9"> 
-					<prenom>Philippe</prenom>
-					<nom>TESSIER</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>12</nb_voix_obtenues>
 				</candidat>
 				<candidat id="10"> 
 					<prenom>Gilbert</prenom>
 					<nom>THIBODEAU</nom>
 					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>10</nb_voix_obtenues>
+				</candidat>
+				<candidat id="6"> 
+					<prenom>Bernard</prenom>
+					<nom>GURBERG</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>9</nb_voix_obtenues>
+				</candidat>
+				<candidat id="8"> 
+					<prenom>Tyler</prenom>
+					<nom>LEMCO</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>6</nb_voix_obtenues>
+				</candidat>
+				<candidat id="9"> 
+					<prenom>Philippe</prenom>
+					<nom>TESSIER</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>4</nb_voix_obtenues>
+				</candidat>
+				<candidat id="7"> 
+					<prenom>Fabrice Ntompa</prenom>
+					<nom>ILUNGA</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>1</nb_voix_obtenues>
 				</candidat>
 			</arrondissement>
 			<arrondissement id="5">
 				<nom>LaSalle</nom>
-				<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+				<nb_bureaux_depouilles>35</nb_bureaux_depouilles>
 				<nb_bureaux_total>233</nb_bureaux_total>
+				<candidat id="11"> 
+					<prenom>Valérie</prenom>
+					<nom>PLANTE</nom>
+					<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
+					<nb_voix_obtenues>1698</nb_voix_obtenues>
+				</candidat>
 				<candidat id="5"> 
 					<prenom>Denis</prenom>
 					<nom>CODERRE</nom>
 					<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>1509</nb_voix_obtenues>
 				</candidat>
 				<candidat id="4"> 
 					<prenom>Jean</prenom>
 					<nom>FORTIER</nom>
 					<parti id="1">Coalition Montréal</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="6"> 
-					<prenom>Bernard</prenom>
-					<nom>GURBERG</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="7"> 
-					<prenom>Fabrice Ntompa</prenom>
-					<nom>ILUNGA</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="8"> 
-					<prenom>Tyler</prenom>
-					<nom>LEMCO</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="11"> 
-					<prenom>Valérie</prenom>
-					<nom>PLANTE</nom>
-					<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="9"> 
-					<prenom>Philippe</prenom>
-					<nom>TESSIER</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>53</nb_voix_obtenues>
 				</candidat>
 				<candidat id="10"> 
 					<prenom>Gilbert</prenom>
 					<nom>THIBODEAU</nom>
 					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>21</nb_voix_obtenues>
+				</candidat>
+				<candidat id="6"> 
+					<prenom>Bernard</prenom>
+					<nom>GURBERG</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>26</nb_voix_obtenues>
+				</candidat>
+				<candidat id="8"> 
+					<prenom>Tyler</prenom>
+					<nom>LEMCO</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>7</nb_voix_obtenues>
+				</candidat>
+				<candidat id="9"> 
+					<prenom>Philippe</prenom>
+					<nom>TESSIER</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>22</nb_voix_obtenues>
+				</candidat>
+				<candidat id="7"> 
+					<prenom>Fabrice Ntompa</prenom>
+					<nom>ILUNGA</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>26</nb_voix_obtenues>
 				</candidat>
 			</arrondissement>
 			<arrondissement id="6">
 				<nom>L'Île-Bizard–Sainte-Geneviève</nom>
-				<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+				<nb_bureaux_depouilles>5</nb_bureaux_depouilles>
 				<nb_bureaux_total>50</nb_bureaux_total>
+				<candidat id="11"> 
+					<prenom>Valérie</prenom>
+					<nom>PLANTE</nom>
+					<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
+					<nb_voix_obtenues>389</nb_voix_obtenues>
+				</candidat>
 				<candidat id="5"> 
 					<prenom>Denis</prenom>
 					<nom>CODERRE</nom>
 					<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>346</nb_voix_obtenues>
 				</candidat>
 				<candidat id="4"> 
 					<prenom>Jean</prenom>
 					<nom>FORTIER</nom>
 					<parti id="1">Coalition Montréal</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="6"> 
-					<prenom>Bernard</prenom>
-					<nom>GURBERG</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="7"> 
-					<prenom>Fabrice Ntompa</prenom>
-					<nom>ILUNGA</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="8"> 
-					<prenom>Tyler</prenom>
-					<nom>LEMCO</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="11"> 
-					<prenom>Valérie</prenom>
-					<nom>PLANTE</nom>
-					<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="9"> 
-					<prenom>Philippe</prenom>
-					<nom>TESSIER</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>8</nb_voix_obtenues>
 				</candidat>
 				<candidat id="10"> 
 					<prenom>Gilbert</prenom>
 					<nom>THIBODEAU</nom>
 					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>5</nb_voix_obtenues>
+				</candidat>
+				<candidat id="6"> 
+					<prenom>Bernard</prenom>
+					<nom>GURBERG</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>5</nb_voix_obtenues>
+				</candidat>
+				<candidat id="8"> 
+					<prenom>Tyler</prenom>
+					<nom>LEMCO</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>1</nb_voix_obtenues>
+				</candidat>
+				<candidat id="9"> 
+					<prenom>Philippe</prenom>
+					<nom>TESSIER</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>3</nb_voix_obtenues>
+				</candidat>
+				<candidat id="7"> 
+					<prenom>Fabrice Ntompa</prenom>
+					<nom>ILUNGA</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>2</nb_voix_obtenues>
 				</candidat>
 			</arrondissement>
 			<arrondissement id="7">
 				<nom>Mercier–Hochelaga-Maisonneuve</nom>
-				<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+				<nb_bureaux_depouilles>33</nb_bureaux_depouilles>
 				<nb_bureaux_total>325</nb_bureaux_total>
+				<candidat id="11"> 
+					<prenom>Valérie</prenom>
+					<nom>PLANTE</nom>
+					<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
+					<nb_voix_obtenues>2087</nb_voix_obtenues>
+				</candidat>
 				<candidat id="5"> 
 					<prenom>Denis</prenom>
 					<nom>CODERRE</nom>
 					<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>1280</nb_voix_obtenues>
 				</candidat>
 				<candidat id="4"> 
 					<prenom>Jean</prenom>
 					<nom>FORTIER</nom>
 					<parti id="1">Coalition Montréal</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="6"> 
-					<prenom>Bernard</prenom>
-					<nom>GURBERG</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="7"> 
-					<prenom>Fabrice Ntompa</prenom>
-					<nom>ILUNGA</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="8"> 
-					<prenom>Tyler</prenom>
-					<nom>LEMCO</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="11"> 
-					<prenom>Valérie</prenom>
-					<nom>PLANTE</nom>
-					<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="9"> 
-					<prenom>Philippe</prenom>
-					<nom>TESSIER</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>17</nb_voix_obtenues>
 				</candidat>
 				<candidat id="10"> 
 					<prenom>Gilbert</prenom>
 					<nom>THIBODEAU</nom>
 					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>8</nb_voix_obtenues>
+				</candidat>
+				<candidat id="6"> 
+					<prenom>Bernard</prenom>
+					<nom>GURBERG</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>9</nb_voix_obtenues>
+				</candidat>
+				<candidat id="8"> 
+					<prenom>Tyler</prenom>
+					<nom>LEMCO</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>1</nb_voix_obtenues>
+				</candidat>
+				<candidat id="9"> 
+					<prenom>Philippe</prenom>
+					<nom>TESSIER</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>6</nb_voix_obtenues>
+				</candidat>
+				<candidat id="7"> 
+					<prenom>Fabrice Ntompa</prenom>
+					<nom>ILUNGA</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>5</nb_voix_obtenues>
 				</candidat>
 			</arrondissement>
 			<arrondissement id="8">
 				<nom>Montréal-Nord</nom>
-				<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+				<nb_bureaux_depouilles>25</nb_bureaux_depouilles>
 				<nb_bureaux_total>198</nb_bureaux_total>
+				<candidat id="11"> 
+					<prenom>Valérie</prenom>
+					<nom>PLANTE</nom>
+					<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
+					<nb_voix_obtenues>816</nb_voix_obtenues>
+				</candidat>
 				<candidat id="5"> 
 					<prenom>Denis</prenom>
 					<nom>CODERRE</nom>
 					<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>1201</nb_voix_obtenues>
 				</candidat>
 				<candidat id="4"> 
 					<prenom>Jean</prenom>
 					<nom>FORTIER</nom>
 					<parti id="1">Coalition Montréal</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="6"> 
-					<prenom>Bernard</prenom>
-					<nom>GURBERG</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="7"> 
-					<prenom>Fabrice Ntompa</prenom>
-					<nom>ILUNGA</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="8"> 
-					<prenom>Tyler</prenom>
-					<nom>LEMCO</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="11"> 
-					<prenom>Valérie</prenom>
-					<nom>PLANTE</nom>
-					<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="9"> 
-					<prenom>Philippe</prenom>
-					<nom>TESSIER</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>17</nb_voix_obtenues>
 				</candidat>
 				<candidat id="10"> 
 					<prenom>Gilbert</prenom>
 					<nom>THIBODEAU</nom>
 					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>8</nb_voix_obtenues>
+				</candidat>
+				<candidat id="6"> 
+					<prenom>Bernard</prenom>
+					<nom>GURBERG</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>6</nb_voix_obtenues>
+				</candidat>
+				<candidat id="8"> 
+					<prenom>Tyler</prenom>
+					<nom>LEMCO</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>2</nb_voix_obtenues>
+				</candidat>
+				<candidat id="9"> 
+					<prenom>Philippe</prenom>
+					<nom>TESSIER</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>9</nb_voix_obtenues>
+				</candidat>
+				<candidat id="7"> 
+					<prenom>Fabrice Ntompa</prenom>
+					<nom>ILUNGA</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>9</nb_voix_obtenues>
 				</candidat>
 			</arrondissement>
 			<arrondissement id="9">
 				<nom>Outremont</nom>
-				<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+				<nb_bureaux_depouilles>9</nb_bureaux_depouilles>
 				<nb_bureaux_total>64</nb_bureaux_total>
+				<candidat id="11"> 
+					<prenom>Valérie</prenom>
+					<nom>PLANTE</nom>
+					<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
+					<nb_voix_obtenues>644</nb_voix_obtenues>
+				</candidat>
 				<candidat id="5"> 
 					<prenom>Denis</prenom>
 					<nom>CODERRE</nom>
 					<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>559</nb_voix_obtenues>
 				</candidat>
 				<candidat id="4"> 
 					<prenom>Jean</prenom>
 					<nom>FORTIER</nom>
 					<parti id="1">Coalition Montréal</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="6"> 
-					<prenom>Bernard</prenom>
-					<nom>GURBERG</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="7"> 
-					<prenom>Fabrice Ntompa</prenom>
-					<nom>ILUNGA</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="8"> 
-					<prenom>Tyler</prenom>
-					<nom>LEMCO</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="11"> 
-					<prenom>Valérie</prenom>
-					<nom>PLANTE</nom>
-					<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="9"> 
-					<prenom>Philippe</prenom>
-					<nom>TESSIER</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>12</nb_voix_obtenues>
 				</candidat>
 				<candidat id="10"> 
 					<prenom>Gilbert</prenom>
 					<nom>THIBODEAU</nom>
 					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>7</nb_voix_obtenues>
+				</candidat>
+				<candidat id="6"> 
+					<prenom>Bernard</prenom>
+					<nom>GURBERG</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>1</nb_voix_obtenues>
+				</candidat>
+				<candidat id="8"> 
+					<prenom>Tyler</prenom>
+					<nom>LEMCO</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>2</nb_voix_obtenues>
+				</candidat>
+				<candidat id="9"> 
+					<prenom>Philippe</prenom>
+					<nom>TESSIER</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>3</nb_voix_obtenues>
+				</candidat>
+				<candidat id="7"> 
+					<prenom>Fabrice Ntompa</prenom>
+					<nom>ILUNGA</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>3</nb_voix_obtenues>
 				</candidat>
 			</arrondissement>
 			<arrondissement id="10">
 				<nom>Pierrefonds-Roxboro</nom>
-				<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+				<nb_bureaux_depouilles>22</nb_bureaux_depouilles>
 				<nb_bureaux_total>162</nb_bureaux_total>
+				<candidat id="11"> 
+					<prenom>Valérie</prenom>
+					<nom>PLANTE</nom>
+					<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
+					<nb_voix_obtenues>1105</nb_voix_obtenues>
+				</candidat>
 				<candidat id="5"> 
 					<prenom>Denis</prenom>
 					<nom>CODERRE</nom>
 					<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>1038</nb_voix_obtenues>
 				</candidat>
 				<candidat id="4"> 
 					<prenom>Jean</prenom>
 					<nom>FORTIER</nom>
 					<parti id="1">Coalition Montréal</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="6"> 
-					<prenom>Bernard</prenom>
-					<nom>GURBERG</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="7"> 
-					<prenom>Fabrice Ntompa</prenom>
-					<nom>ILUNGA</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="8"> 
-					<prenom>Tyler</prenom>
-					<nom>LEMCO</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="11"> 
-					<prenom>Valérie</prenom>
-					<nom>PLANTE</nom>
-					<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="9"> 
-					<prenom>Philippe</prenom>
-					<nom>TESSIER</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>20</nb_voix_obtenues>
 				</candidat>
 				<candidat id="10"> 
 					<prenom>Gilbert</prenom>
 					<nom>THIBODEAU</nom>
 					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>14</nb_voix_obtenues>
+				</candidat>
+				<candidat id="6"> 
+					<prenom>Bernard</prenom>
+					<nom>GURBERG</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>11</nb_voix_obtenues>
+				</candidat>
+				<candidat id="8"> 
+					<prenom>Tyler</prenom>
+					<nom>LEMCO</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>13</nb_voix_obtenues>
+				</candidat>
+				<candidat id="9"> 
+					<prenom>Philippe</prenom>
+					<nom>TESSIER</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>7</nb_voix_obtenues>
+				</candidat>
+				<candidat id="7"> 
+					<prenom>Fabrice Ntompa</prenom>
+					<nom>ILUNGA</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>12</nb_voix_obtenues>
 				</candidat>
 			</arrondissement>
 			<arrondissement id="11">
 				<nom>Plateau-Mont-Royal</nom>
-				<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+				<nb_bureaux_depouilles>28</nb_bureaux_depouilles>
 				<nb_bureaux_total>294</nb_bureaux_total>
+				<candidat id="11"> 
+					<prenom>Valérie</prenom>
+					<nom>PLANTE</nom>
+					<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
+					<nb_voix_obtenues>1850</nb_voix_obtenues>
+				</candidat>
 				<candidat id="5"> 
 					<prenom>Denis</prenom>
 					<nom>CODERRE</nom>
 					<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>898</nb_voix_obtenues>
 				</candidat>
 				<candidat id="4"> 
 					<prenom>Jean</prenom>
 					<nom>FORTIER</nom>
 					<parti id="1">Coalition Montréal</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="6"> 
-					<prenom>Bernard</prenom>
-					<nom>GURBERG</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="7"> 
-					<prenom>Fabrice Ntompa</prenom>
-					<nom>ILUNGA</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="8"> 
-					<prenom>Tyler</prenom>
-					<nom>LEMCO</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="11"> 
-					<prenom>Valérie</prenom>
-					<nom>PLANTE</nom>
-					<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="9"> 
-					<prenom>Philippe</prenom>
-					<nom>TESSIER</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>28</nb_voix_obtenues>
 				</candidat>
 				<candidat id="10"> 
 					<prenom>Gilbert</prenom>
 					<nom>THIBODEAU</nom>
 					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>7</nb_voix_obtenues>
+				</candidat>
+				<candidat id="6"> 
+					<prenom>Bernard</prenom>
+					<nom>GURBERG</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>15</nb_voix_obtenues>
+				</candidat>
+				<candidat id="8"> 
+					<prenom>Tyler</prenom>
+					<nom>LEMCO</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>7</nb_voix_obtenues>
+				</candidat>
+				<candidat id="9"> 
+					<prenom>Philippe</prenom>
+					<nom>TESSIER</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>6</nb_voix_obtenues>
+				</candidat>
+				<candidat id="7"> 
+					<prenom>Fabrice Ntompa</prenom>
+					<nom>ILUNGA</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>11</nb_voix_obtenues>
 				</candidat>
 			</arrondissement>
 			<arrondissement id="12">
 				<nom>Rivière-des-Prairies–Pointe-aux-Trembles</nom>
-				<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+				<nb_bureaux_depouilles>22</nb_bureaux_depouilles>
 				<nb_bureaux_total>305</nb_bureaux_total>
+				<candidat id="11"> 
+					<prenom>Valérie</prenom>
+					<nom>PLANTE</nom>
+					<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
+					<nb_voix_obtenues>772</nb_voix_obtenues>
+				</candidat>
 				<candidat id="5"> 
 					<prenom>Denis</prenom>
 					<nom>CODERRE</nom>
 					<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>752</nb_voix_obtenues>
 				</candidat>
 				<candidat id="4"> 
 					<prenom>Jean</prenom>
 					<nom>FORTIER</nom>
 					<parti id="1">Coalition Montréal</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="6"> 
-					<prenom>Bernard</prenom>
-					<nom>GURBERG</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="7"> 
-					<prenom>Fabrice Ntompa</prenom>
-					<nom>ILUNGA</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="8"> 
-					<prenom>Tyler</prenom>
-					<nom>LEMCO</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="11"> 
-					<prenom>Valérie</prenom>
-					<nom>PLANTE</nom>
-					<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="9"> 
-					<prenom>Philippe</prenom>
-					<nom>TESSIER</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>18</nb_voix_obtenues>
 				</candidat>
 				<candidat id="10"> 
 					<prenom>Gilbert</prenom>
 					<nom>THIBODEAU</nom>
 					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>6</nb_voix_obtenues>
+				</candidat>
+				<candidat id="6"> 
+					<prenom>Bernard</prenom>
+					<nom>GURBERG</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>3</nb_voix_obtenues>
+				</candidat>
+				<candidat id="8"> 
+					<prenom>Tyler</prenom>
+					<nom>LEMCO</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>3</nb_voix_obtenues>
+				</candidat>
+				<candidat id="9"> 
+					<prenom>Philippe</prenom>
+					<nom>TESSIER</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>5</nb_voix_obtenues>
+				</candidat>
+				<candidat id="7"> 
+					<prenom>Fabrice Ntompa</prenom>
+					<nom>ILUNGA</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>4</nb_voix_obtenues>
 				</candidat>
 			</arrondissement>
 			<arrondissement id="13">
 				<nom>Rosemont–La Petite-Patrie</nom>
-				<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+				<nb_bureaux_depouilles>40</nb_bureaux_depouilles>
 				<nb_bureaux_total>358</nb_bureaux_total>
+				<candidat id="11"> 
+					<prenom>Valérie</prenom>
+					<nom>PLANTE</nom>
+					<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
+					<nb_voix_obtenues>2880</nb_voix_obtenues>
+				</candidat>
 				<candidat id="5"> 
 					<prenom>Denis</prenom>
 					<nom>CODERRE</nom>
 					<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>1662</nb_voix_obtenues>
 				</candidat>
 				<candidat id="4"> 
 					<prenom>Jean</prenom>
 					<nom>FORTIER</nom>
 					<parti id="1">Coalition Montréal</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="6"> 
-					<prenom>Bernard</prenom>
-					<nom>GURBERG</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="7"> 
-					<prenom>Fabrice Ntompa</prenom>
-					<nom>ILUNGA</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="8"> 
-					<prenom>Tyler</prenom>
-					<nom>LEMCO</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="11"> 
-					<prenom>Valérie</prenom>
-					<nom>PLANTE</nom>
-					<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="9"> 
-					<prenom>Philippe</prenom>
-					<nom>TESSIER</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>25</nb_voix_obtenues>
 				</candidat>
 				<candidat id="10"> 
 					<prenom>Gilbert</prenom>
 					<nom>THIBODEAU</nom>
 					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>13</nb_voix_obtenues>
+				</candidat>
+				<candidat id="6"> 
+					<prenom>Bernard</prenom>
+					<nom>GURBERG</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>9</nb_voix_obtenues>
+				</candidat>
+				<candidat id="8"> 
+					<prenom>Tyler</prenom>
+					<nom>LEMCO</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>5</nb_voix_obtenues>
+				</candidat>
+				<candidat id="9"> 
+					<prenom>Philippe</prenom>
+					<nom>TESSIER</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>9</nb_voix_obtenues>
+				</candidat>
+				<candidat id="7"> 
+					<prenom>Fabrice Ntompa</prenom>
+					<nom>ILUNGA</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>2</nb_voix_obtenues>
 				</candidat>
 			</arrondissement>
 			<arrondissement id="14">
 				<nom>Saint-Laurent</nom>
-				<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+				<nb_bureaux_depouilles>24</nb_bureaux_depouilles>
 				<nb_bureaux_total>213</nb_bureaux_total>
+				<candidat id="11"> 
+					<prenom>Valérie</prenom>
+					<nom>PLANTE</nom>
+					<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
+					<nb_voix_obtenues>643</nb_voix_obtenues>
+				</candidat>
 				<candidat id="5"> 
 					<prenom>Denis</prenom>
 					<nom>CODERRE</nom>
 					<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>1128</nb_voix_obtenues>
 				</candidat>
 				<candidat id="4"> 
 					<prenom>Jean</prenom>
 					<nom>FORTIER</nom>
 					<parti id="1">Coalition Montréal</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="6"> 
-					<prenom>Bernard</prenom>
-					<nom>GURBERG</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="7"> 
-					<prenom>Fabrice Ntompa</prenom>
-					<nom>ILUNGA</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="8"> 
-					<prenom>Tyler</prenom>
-					<nom>LEMCO</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="11"> 
-					<prenom>Valérie</prenom>
-					<nom>PLANTE</nom>
-					<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="9"> 
-					<prenom>Philippe</prenom>
-					<nom>TESSIER</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>28</nb_voix_obtenues>
 				</candidat>
 				<candidat id="10"> 
 					<prenom>Gilbert</prenom>
 					<nom>THIBODEAU</nom>
 					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>11</nb_voix_obtenues>
+				</candidat>
+				<candidat id="6"> 
+					<prenom>Bernard</prenom>
+					<nom>GURBERG</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>13</nb_voix_obtenues>
+				</candidat>
+				<candidat id="8"> 
+					<prenom>Tyler</prenom>
+					<nom>LEMCO</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>8</nb_voix_obtenues>
+				</candidat>
+				<candidat id="9"> 
+					<prenom>Philippe</prenom>
+					<nom>TESSIER</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>7</nb_voix_obtenues>
+				</candidat>
+				<candidat id="7"> 
+					<prenom>Fabrice Ntompa</prenom>
+					<nom>ILUNGA</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>4</nb_voix_obtenues>
 				</candidat>
 			</arrondissement>
 			<arrondissement id="15">
 				<nom>Saint-Léonard</nom>
-				<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+				<nb_bureaux_depouilles>24</nb_bureaux_depouilles>
 				<nb_bureaux_total>178</nb_bureaux_total>
+				<candidat id="11"> 
+					<prenom>Valérie</prenom>
+					<nom>PLANTE</nom>
+					<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
+					<nb_voix_obtenues>618</nb_voix_obtenues>
+				</candidat>
 				<candidat id="5"> 
 					<prenom>Denis</prenom>
 					<nom>CODERRE</nom>
 					<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>895</nb_voix_obtenues>
 				</candidat>
 				<candidat id="4"> 
 					<prenom>Jean</prenom>
 					<nom>FORTIER</nom>
 					<parti id="1">Coalition Montréal</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="6"> 
-					<prenom>Bernard</prenom>
-					<nom>GURBERG</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="7"> 
-					<prenom>Fabrice Ntompa</prenom>
-					<nom>ILUNGA</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="8"> 
-					<prenom>Tyler</prenom>
-					<nom>LEMCO</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="11"> 
-					<prenom>Valérie</prenom>
-					<nom>PLANTE</nom>
-					<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="9"> 
-					<prenom>Philippe</prenom>
-					<nom>TESSIER</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>14</nb_voix_obtenues>
 				</candidat>
 				<candidat id="10"> 
 					<prenom>Gilbert</prenom>
 					<nom>THIBODEAU</nom>
 					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>4</nb_voix_obtenues>
+				</candidat>
+				<candidat id="6"> 
+					<prenom>Bernard</prenom>
+					<nom>GURBERG</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>2</nb_voix_obtenues>
+				</candidat>
+				<candidat id="8"> 
+					<prenom>Tyler</prenom>
+					<nom>LEMCO</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>2</nb_voix_obtenues>
+				</candidat>
+				<candidat id="9"> 
+					<prenom>Philippe</prenom>
+					<nom>TESSIER</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>1</nb_voix_obtenues>
+				</candidat>
+				<candidat id="7"> 
+					<prenom>Fabrice Ntompa</prenom>
+					<nom>ILUNGA</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>8</nb_voix_obtenues>
 				</candidat>
 			</arrondissement>
 			<arrondissement id="16">
 				<nom>Sud-Ouest</nom>
-				<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+				<nb_bureaux_depouilles>26</nb_bureaux_depouilles>
 				<nb_bureaux_total>203</nb_bureaux_total>
+				<candidat id="11"> 
+					<prenom>Valérie</prenom>
+					<nom>PLANTE</nom>
+					<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
+					<nb_voix_obtenues>1460</nb_voix_obtenues>
+				</candidat>
 				<candidat id="5"> 
 					<prenom>Denis</prenom>
 					<nom>CODERRE</nom>
 					<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>839</nb_voix_obtenues>
 				</candidat>
 				<candidat id="4"> 
 					<prenom>Jean</prenom>
 					<nom>FORTIER</nom>
 					<parti id="1">Coalition Montréal</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="6"> 
-					<prenom>Bernard</prenom>
-					<nom>GURBERG</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="7"> 
-					<prenom>Fabrice Ntompa</prenom>
-					<nom>ILUNGA</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="8"> 
-					<prenom>Tyler</prenom>
-					<nom>LEMCO</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="11"> 
-					<prenom>Valérie</prenom>
-					<nom>PLANTE</nom>
-					<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="9"> 
-					<prenom>Philippe</prenom>
-					<nom>TESSIER</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>39</nb_voix_obtenues>
 				</candidat>
 				<candidat id="10"> 
 					<prenom>Gilbert</prenom>
 					<nom>THIBODEAU</nom>
 					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>8</nb_voix_obtenues>
+				</candidat>
+				<candidat id="6"> 
+					<prenom>Bernard</prenom>
+					<nom>GURBERG</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>9</nb_voix_obtenues>
+				</candidat>
+				<candidat id="8"> 
+					<prenom>Tyler</prenom>
+					<nom>LEMCO</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>73</nb_voix_obtenues>
+				</candidat>
+				<candidat id="9"> 
+					<prenom>Philippe</prenom>
+					<nom>TESSIER</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>4</nb_voix_obtenues>
+				</candidat>
+				<candidat id="7"> 
+					<prenom>Fabrice Ntompa</prenom>
+					<nom>ILUNGA</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>7</nb_voix_obtenues>
 				</candidat>
 			</arrondissement>
 			<arrondissement id="17">
 				<nom>Verdun</nom>
-				<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+				<nb_bureaux_depouilles>29</nb_bureaux_depouilles>
 				<nb_bureaux_total>229</nb_bureaux_total>
+				<candidat id="11"> 
+					<prenom>Valérie</prenom>
+					<nom>PLANTE</nom>
+					<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
+					<nb_voix_obtenues>1417</nb_voix_obtenues>
+				</candidat>
 				<candidat id="5"> 
 					<prenom>Denis</prenom>
 					<nom>CODERRE</nom>
 					<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>1296</nb_voix_obtenues>
 				</candidat>
 				<candidat id="4"> 
 					<prenom>Jean</prenom>
 					<nom>FORTIER</nom>
 					<parti id="1">Coalition Montréal</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="6"> 
-					<prenom>Bernard</prenom>
-					<nom>GURBERG</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="7"> 
-					<prenom>Fabrice Ntompa</prenom>
-					<nom>ILUNGA</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="8"> 
-					<prenom>Tyler</prenom>
-					<nom>LEMCO</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="11"> 
-					<prenom>Valérie</prenom>
-					<nom>PLANTE</nom>
-					<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="9"> 
-					<prenom>Philippe</prenom>
-					<nom>TESSIER</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>20</nb_voix_obtenues>
 				</candidat>
 				<candidat id="10"> 
 					<prenom>Gilbert</prenom>
 					<nom>THIBODEAU</nom>
 					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>7</nb_voix_obtenues>
+				</candidat>
+				<candidat id="6"> 
+					<prenom>Bernard</prenom>
+					<nom>GURBERG</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>4</nb_voix_obtenues>
+				</candidat>
+				<candidat id="8"> 
+					<prenom>Tyler</prenom>
+					<nom>LEMCO</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>4</nb_voix_obtenues>
+				</candidat>
+				<candidat id="9"> 
+					<prenom>Philippe</prenom>
+					<nom>TESSIER</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>9</nb_voix_obtenues>
+				</candidat>
+				<candidat id="7"> 
+					<prenom>Fabrice Ntompa</prenom>
+					<nom>ILUNGA</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>4</nb_voix_obtenues>
 				</candidat>
 			</arrondissement>
 			<arrondissement id="18">
 				<nom>Ville-Marie</nom>
-				<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+				<nb_bureaux_depouilles>19</nb_bureaux_depouilles>
 				<nb_bureaux_total>170</nb_bureaux_total>
+				<candidat id="11"> 
+					<prenom>Valérie</prenom>
+					<nom>PLANTE</nom>
+					<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
+					<nb_voix_obtenues>1088</nb_voix_obtenues>
+				</candidat>
 				<candidat id="5"> 
 					<prenom>Denis</prenom>
 					<nom>CODERRE</nom>
 					<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>675</nb_voix_obtenues>
 				</candidat>
 				<candidat id="4"> 
 					<prenom>Jean</prenom>
 					<nom>FORTIER</nom>
 					<parti id="1">Coalition Montréal</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="6"> 
-					<prenom>Bernard</prenom>
-					<nom>GURBERG</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="7"> 
-					<prenom>Fabrice Ntompa</prenom>
-					<nom>ILUNGA</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="8"> 
-					<prenom>Tyler</prenom>
-					<nom>LEMCO</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="11"> 
-					<prenom>Valérie</prenom>
-					<nom>PLANTE</nom>
-					<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="9"> 
-					<prenom>Philippe</prenom>
-					<nom>TESSIER</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>12</nb_voix_obtenues>
 				</candidat>
 				<candidat id="10"> 
 					<prenom>Gilbert</prenom>
 					<nom>THIBODEAU</nom>
 					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>5</nb_voix_obtenues>
+				</candidat>
+				<candidat id="6"> 
+					<prenom>Bernard</prenom>
+					<nom>GURBERG</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>6</nb_voix_obtenues>
+				</candidat>
+				<candidat id="8"> 
+					<prenom>Tyler</prenom>
+					<nom>LEMCO</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>1</nb_voix_obtenues>
+				</candidat>
+				<candidat id="9"> 
+					<prenom>Philippe</prenom>
+					<nom>TESSIER</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>1</nb_voix_obtenues>
+				</candidat>
+				<candidat id="7"> 
+					<prenom>Fabrice Ntompa</prenom>
+					<nom>ILUNGA</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>3</nb_voix_obtenues>
 				</candidat>
 			</arrondissement>
 			<arrondissement id="19">
 				<nom>Villeray–Saint-Michel–Parc-Extension</nom>
-				<nb_bureaux_depouilles>0</nb_bureaux_depouilles>
+				<nb_bureaux_depouilles>24</nb_bureaux_depouilles>
 				<nb_bureaux_total>281</nb_bureaux_total>
+				<candidat id="11"> 
+					<prenom>Valérie</prenom>
+					<nom>PLANTE</nom>
+					<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
+					<nb_voix_obtenues>998</nb_voix_obtenues>
+				</candidat>
 				<candidat id="5"> 
 					<prenom>Denis</prenom>
 					<nom>CODERRE</nom>
 					<parti id="5">Équipe Denis Coderre pour Montréal</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>1019</nb_voix_obtenues>
 				</candidat>
 				<candidat id="4"> 
 					<prenom>Jean</prenom>
 					<nom>FORTIER</nom>
 					<parti id="1">Coalition Montréal</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="6"> 
-					<prenom>Bernard</prenom>
-					<nom>GURBERG</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="7"> 
-					<prenom>Fabrice Ntompa</prenom>
-					<nom>ILUNGA</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="8"> 
-					<prenom>Tyler</prenom>
-					<nom>LEMCO</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="11"> 
-					<prenom>Valérie</prenom>
-					<nom>PLANTE</nom>
-					<parti id="8">Projet Montréal - Équipe Valérie Plante</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
-				</candidat>
-				<candidat id="9"> 
-					<prenom>Philippe</prenom>
-					<nom>TESSIER</nom>
-					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>53</nb_voix_obtenues>
 				</candidat>
 				<candidat id="10"> 
 					<prenom>Gilbert</prenom>
 					<nom>THIBODEAU</nom>
 					<parti id="-1">Indépendant</parti>
-					<nb_voix_obtenues>0</nb_voix_obtenues>
+					<nb_voix_obtenues>7</nb_voix_obtenues>
+				</candidat>
+				<candidat id="6"> 
+					<prenom>Bernard</prenom>
+					<nom>GURBERG</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>6</nb_voix_obtenues>
+				</candidat>
+				<candidat id="8"> 
+					<prenom>Tyler</prenom>
+					<nom>LEMCO</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>7</nb_voix_obtenues>
+				</candidat>
+				<candidat id="9"> 
+					<prenom>Philippe</prenom>
+					<nom>TESSIER</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>9</nb_voix_obtenues>
+				</candidat>
+				<candidat id="7"> 
+					<prenom>Fabrice Ntompa</prenom>
+					<nom>ILUNGA</nom>
+					<parti id="-1">Indépendant</parti>
+					<nb_voix_obtenues>9</nb_voix_obtenues>
 				</candidat>
 			</arrondissement>
 		</arrondissements>
